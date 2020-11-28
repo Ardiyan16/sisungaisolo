@@ -1,0 +1,5612 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86103352484,
+                        -7.9514757868073
+                    ],
+                    [
+                        110.86102900642,
+                        -7.951421511999
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86102900642,
+                        -7.951421511999
+                    ],
+                    [
+                        110.86107898913,
+                        -7.9511863444269
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86107898913,
+                        -7.9511863444269
+                    ],
+                    [
+                        110.86121692477,
+                        -7.9507883863366
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86121692477,
+                        -7.9507883863366
+                    ],
+                    [
+                        110.86114013033,
+                        -7.9506526774311
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86114013033,
+                        -7.9506526774311
+                    ],
+                    [
+                        110.860840813,
+                        -7.9503450285976
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.860840813,
+                        -7.9503450285976
+                    ],
+                    [
+                        110.86059417695,
+                        -7.9502092626767
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86059417695,
+                        -7.9502092626767
+                    ],
+                    [
+                        110.86025910345,
+                        -7.9499920569311
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86025910345,
+                        -7.9499920569311
+                    ],
+                    [
+                        110.86008225591,
+                        -7.949747767576
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86008225591,
+                        -7.949747767576
+                    ],
+                    [
+                        110.85964045687,
+                        -7.9490330201451
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85964045687,
+                        -7.9490330201451
+                    ],
+                    [
+                        110.85950168771,
+                        -7.9485445135504
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85950168771,
+                        -7.9485445135504
+                    ],
+                    [
+                        110.85939736921,
+                        -7.9484721138707
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85939736921,
+                        -7.9484721138707
+                    ],
+                    [
+                        110.85901945529,
+                        -7.9483363025981
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85901945529,
+                        -7.9483363025981
+                    ],
+                    [
+                        110.85878610726,
+                        -7.948318132279
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85878610726,
+                        -7.948318132279
+                    ],
+                    [
+                        110.85852552384,
+                        -7.9483451803089
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85852552384,
+                        -7.9483451803089
+                    ],
+                    [
+                        110.85818977718,
+                        -7.9484445669332
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85818977718,
+                        -7.9484445669332
+                    ],
+                    [
+                        110.85794501595,
+                        -7.9486344398876
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85794501595,
+                        -7.9486344398876
+                    ],
+                    [
+                        110.85769993979,
+                        -7.9489147680778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85769993979,
+                        -7.9489147680778
+                    ],
+                    [
+                        110.85754984659,
+                        -7.9492041742324
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85754984659,
+                        -7.9492041742324
+                    ],
+                    [
+                        110.8573951353,
+                        -7.9497287630118
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8573951353,
+                        -7.9497287630118
+                    ],
+                    [
+                        110.85731221293,
+                        -7.9500996020451
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85731221293,
+                        -7.9500996020451
+                    ],
+                    [
+                        110.85713728185,
+                        -7.9508774591035
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85713728185,
+                        -7.9508774591035
+                    ],
+                    [
+                        110.85704646051,
+                        -7.9511307032138
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85704646051,
+                        -7.9511307032138
+                    ],
+                    [
+                        110.85689353687,
+                        -7.9514020170088
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85689353687,
+                        -7.9514020170088
+                    ],
+                    [
+                        110.85667625812,
+                        -7.9516461719004
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85667625812,
+                        -7.9516461719004
+                    ],
+                    [
+                        110.85644710804,
+                        -7.9517817759981
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85644710804,
+                        -7.9517817759981
+                    ],
+                    [
+                        110.85620607734,
+                        -7.9518359659266
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85620607734,
+                        -7.9518359659266
+                    ],
+                    [
+                        110.8557277429,
+                        -7.9518267545401
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8557277429,
+                        -7.9518267545401
+                    ],
+                    [
+                        110.855480802,
+                        -7.951754304332
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.855480802,
+                        -7.951754304332
+                    ],
+                    [
+                        110.85492060633,
+                        -7.951509879309
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85492060633,
+                        -7.951509879309
+                    ],
+                    [
+                        110.85418240068,
+                        -7.9511116168022
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85418240068,
+                        -7.9511116168022
+                    ],
+                    [
+                        110.85297162449,
+                        -7.9504508651885
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85297162449,
+                        -7.9504508651885
+                    ],
+                    [
+                        110.85271106199,
+                        -7.9504145907195
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85271106199,
+                        -7.9504145907195
+                    ],
+                    [
+                        110.85244395867,
+                        -7.950432587045
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85244395867,
+                        -7.950432587045
+                    ],
+                    [
+                        110.85219611678,
+                        -7.9505048633295
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85219611678,
+                        -7.9505048633295
+                    ],
+                    [
+                        110.85190145463,
+                        -7.9506766237885
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85190145463,
+                        -7.9506766237885
+                    ],
+                    [
+                        110.85185891352,
+                        -7.9507037452618
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85185891352,
+                        -7.9507037452618
+                    ],
+                    [
+                        110.85106114536,
+                        -7.951155737353
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85106114536,
+                        -7.951155737353
+                    ],
+                    [
+                        110.85076424663,
+                        -7.9512370407253
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85076424663,
+                        -7.9512370407253
+                    ],
+                    [
+                        110.85048581738,
+                        -7.9512098039841
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85048581738,
+                        -7.9512098039841
+                    ],
+                    [
+                        110.84995108848,
+                        -7.9511191557553
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84995108848,
+                        -7.9511191557553
+                    ],
+                    [
+                        110.84896329501,
+                        -7.950928841394
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84896329501,
+                        -7.950928841394
+                    ],
+                    [
+                        110.84852780674,
+                        -7.9508382274086
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84852780674,
+                        -7.9508382274086
+                    ],
+                    [
+                        110.84821419871,
+                        -7.9508652495945
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84821419871,
+                        -7.9508652495945
+                    ],
+                    [
+                        110.84738900964,
+                        -7.9510820403823
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84738900964,
+                        -7.9510820403823
+                    ],
+                    [
+                        110.84713432802,
+                        -7.9512447665511
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84713432802,
+                        -7.9512447665511
+                    ],
+                    [
+                        110.84630901645,
+                        -7.9517871946916
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84630901645,
+                        -7.9517871946916
+                    ],
+                    [
+                        110.84596982459,
+                        -7.9519860710251
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84596982459,
+                        -7.9519860710251
+                    ],
+                    [
+                        110.84570579507,
+                        -7.9521216561945
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84570579507,
+                        -7.9521216561945
+                    ],
+                    [
+                        110.8448839606,
+                        -7.9524560352235
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8448839606,
+                        -7.9524560352235
+                    ],
+                    [
+                        110.8429755092,
+                        -7.952989005175
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8429755092,
+                        -7.952989005175
+                    ],
+                    [
+                        110.84230036343,
+                        -7.9530611137342
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84230036343,
+                        -7.9530611137342
+                    ],
+                    [
+                        110.84204008389,
+                        -7.9530248326712
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84204008389,
+                        -7.9530248326712
+                    ],
+                    [
+                        110.84171320279,
+                        -7.9529071162011
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84171320279,
+                        -7.9529071162011
+                    ],
+                    [
+                        110.84130951976,
+                        -7.9526898691915
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84130951976,
+                        -7.9526898691915
+                    ],
+                    [
+                        110.84086330214,
+                        -7.9524816510441
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84086330214,
+                        -7.9524816510441
+                    ],
+                    [
+                        110.84030081818,
+                        -7.9523095699074
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84030081818,
+                        -7.9523095699074
+                    ],
+                    [
+                        110.83983213491,
+                        -7.9522732073028
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83983213491,
+                        -7.9522732073028
+                    ],
+                    [
+                        110.83978336544,
+                        -7.9522731884962
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83978336544,
+                        -7.9522731884962
+                    ],
+                    [
+                        110.83952192787,
+                        -7.952300224205
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83952192787,
+                        -7.952300224205
+                    ],
+                    [
+                        110.83930243357,
+                        -7.9523815492181
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83930243357,
+                        -7.9523815492181
+                    ],
+                    [
+                        110.83861350845,
+                        -7.9528878323815
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83861350845,
+                        -7.9528878323815
+                    ],
+                    [
+                        110.83838825072,
+                        -7.9532043386922
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83838825072,
+                        -7.9532043386922
+                    ],
+                    [
+                        110.83810709185,
+                        -7.9536293695563
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83810709185,
+                        -7.9536293695563
+                    ],
+                    [
+                        110.8378804902,
+                        -7.9537559187192
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8378804902,
+                        -7.9537559187192
+                    ],
+                    [
+                        110.83753169143,
+                        -7.9538552833553
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83753169143,
+                        -7.9538552833553
+                    ],
+                    [
+                        110.83692285713,
+                        -7.9540178644455
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83692285713,
+                        -7.9540178644455
+                    ],
+                    [
+                        110.83685503278,
+                        -7.9541625664261
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83685503278,
+                        -7.9541625664261
+                    ],
+                    [
+                        110.83686434328,
+                        -7.9542801620843
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83686434328,
+                        -7.9542801620843
+                    ],
+                    [
+                        110.83695921643,
+                        -7.9545696565714
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83695921643,
+                        -7.9545696565714
+                    ],
+                    [
+                        110.837029407,
+                        -7.954895323503
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.837029407,
+                        -7.954895323503
+                    ],
+                    [
+                        110.83703350303,
+                        -7.9552933287924
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83703350303,
+                        -7.9552933287924
+                    ],
+                    [
+                        110.8369665327,
+                        -7.9554289855761
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8369665327,
+                        -7.9554289855761
+                    ],
+                    [
+                        110.83681478219,
+                        -7.9555646090391
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83681478219,
+                        -7.9555646090391
+                    ],
+                    [
+                        110.83644410201,
+                        -7.9557815561081
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83644410201,
+                        -7.9557815561081
+                    ],
+                    [
+                        110.83609981996,
+                        -7.9559261489577
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83609981996,
+                        -7.9559261489577
+                    ],
+                    [
+                        110.83554259465,
+                        -7.95607065723
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83554259465,
+                        -7.95607065723
+                    ],
+                    [
+                        110.8349919267,
+                        -7.956124711983
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8349919267,
+                        -7.956124711983
+                    ],
+                    [
+                        110.83467182139,
+                        -7.9560793569662
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83467182139,
+                        -7.9560793569662
+                    ],
+                    [
+                        110.83463239401,
+                        -7.9561155234126
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83463239401,
+                        -7.9561155234126
+                    ],
+                    [
+                        110.83412091542,
+                        -7.9557892343767
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83412091542,
+                        -7.9557892343767
+                    ],
+                    [
+                        110.83349683686,
+                        -7.9555376877891
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83349683686,
+                        -7.9555376877891
+                    ],
+                    [
+                        110.83322079613,
+                        -7.9554418448949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83322079613,
+                        -7.9554418448949
+                    ],
+                    [
+                        110.8330046953,
+                        -7.9555374901629
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8330046953,
+                        -7.9555374901629
+                    ],
+                    [
+                        110.83257247391,
+                        -7.9557766464032
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83257247391,
+                        -7.9557766464032
+                    ],
+                    [
+                        110.83205620828,
+                        -7.9560636342513
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83205620828,
+                        -7.9560636342513
+                    ],
+                    [
+                        110.83188802811,
+                        -7.95638666206
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83188802811,
+                        -7.95638666206
+                    ],
+                    [
+                        110.83174386441,
+                        -7.9566857664973
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83174386441,
+                        -7.9566857664973
+                    ],
+                    [
+                        110.83149166905,
+                        -7.9569848270429
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83149166905,
+                        -7.9569848270429
+                    ],
+                    [
+                        110.83133551112,
+                        -7.9572599934257
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83133551112,
+                        -7.9572599934257
+                    ],
+                    [
+                        110.83103531577,
+                        -7.9575231346317
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83103531577,
+                        -7.9575231346317
+                    ],
+                    [
+                        110.83068709124,
+                        -7.9578221555593
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83068709124,
+                        -7.9578221555593
+                    ],
+                    [
+                        110.83025484152,
+                        -7.95812114183
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83025484152,
+                        -7.95812114183
+                    ],
+                    [
+                        110.83013474221,
+                        -7.958276657351
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83013474221,
+                        -7.958276657351
+                    ],
+                    [
+                        110.82978660032,
+                        -7.9583722468324
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82978660032,
+                        -7.9583722468324
+                    ],
+                    [
+                        110.82951048939,
+                        -7.9584439325871
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82951048939,
+                        -7.9584439325871
+                    ],
+                    [
+                        110.82919836775,
+                        -7.95851560334
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82919836775,
+                        -7.95851560334
+                    ],
+                    [
+                        110.82899428778,
+                        -7.9585633853584
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82899428778,
+                        -7.9585633853584
+                    ],
+                    [
+                        110.82857422362,
+                        -7.9584196139702
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82857422362,
+                        -7.9584196139702
+                    ],
+                    [
+                        110.82850228201,
+                        -7.958228120089
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82850228201,
+                        -7.958228120089
+                    ],
+                    [
+                        110.82833436705,
+                        -7.9579049549036
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82833436705,
+                        -7.9579049549036
+                    ],
+                    [
+                        110.82820244295,
+                        -7.9576296705884
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82820244295,
+                        -7.9576296705884
+                    ],
+                    [
+                        110.82799845312,
+                        -7.9574620549753
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82799845312,
+                        -7.9574620549753
+                    ],
+                    [
+                        110.82765037145,
+                        -7.9574140445745
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82765037145,
+                        -7.9574140445745
+                    ],
+                    [
+                        110.82725428087,
+                        -7.9573540473996
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82725428087,
+                        -7.9573540473996
+                    ],
+                    [
+                        110.82703823791,
+                        -7.9573060914086
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82703823791,
+                        -7.9573060914086
+                    ],
+                    [
+                        110.82688220746,
+                        -7.9572701268449
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82688220746,
+                        -7.9572701268449
+                    ],
+                    [
+                        110.82678620459,
+                        -7.9572102542521
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82678620459,
+                        -7.9572102542521
+                    ],
+                    [
+                        110.82660622253,
+                        -7.9570426479836
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82660622253,
+                        -7.9570426479836
+                    ],
+                    [
+                        110.82654630064,
+                        -7.9568152592647
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82654630064,
+                        -7.9568152592647
+                    ],
+                    [
+                        110.8263784331,
+                        -7.9563843947392
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8263784331,
+                        -7.9563843947392
+                    ],
+                    [
+                        110.82624653094,
+                        -7.9560612437883
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82624653094,
+                        -7.9560612437883
+                    ],
+                    [
+                        110.8260425679,
+                        -7.9558337946947
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8260425679,
+                        -7.9558337946947
+                    ],
+                    [
+                        110.8258865482,
+                        -7.955773896752
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8258865482,
+                        -7.955773896752
+                    ],
+                    [
+                        110.82576655407,
+                        -7.9556781143387
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82576655407,
+                        -7.9556781143387
+                    ],
+                    [
+                        110.82569452324,
+                        -7.955702017129
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82569452324,
+                        -7.955702017129
+                    ],
+                    [
+                        110.82565849266,
+                        -7.9557498680432
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82565849266,
+                        -7.9557498680432
+                    ],
+                    [
+                        110.8255503857,
+                        -7.9559293202887
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8255503857,
+                        -7.9559293202887
+                    ],
+                    [
+                        110.82539424959,
+                        -7.9561446518375
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82539424959,
+                        -7.9561446518375
+                    ],
+                    [
+                        110.82519005381,
+                        -7.9564676616752
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82519005381,
+                        -7.9564676616752
+                    ],
+                    [
+                        110.82508192615,
+                        -7.9566949798122
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82508192615,
+                        -7.9566949798122
+                    ],
+                    [
+                        110.82488981459,
+                        -7.9568265304312
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82488981459,
+                        -7.9568265304312
+                    ],
+                    [
+                        110.82468575535,
+                        -7.956826444316
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82468575535,
+                        -7.956826444316
+                    ],
+                    [
+                        110.8241696106,
+                        -7.9568142595411
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8241696106,
+                        -7.9568142595411
+                    ],
+                    [
+                        110.82402559941,
+                        -7.9567423994767
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82402559941,
+                        -7.9567423994767
+                    ],
+                    [
+                        110.82367751377,
+                        -7.9567063522726
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82367751377,
+                        -7.9567063522726
+                    ],
+                    [
+                        110.82334146242,
+                        -7.9565985108497
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82334146242,
+                        -7.9565985108497
+                    ],
+                    [
+                        110.82313741869,
+                        -7.9565625244585
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82313741869,
+                        -7.9565625244585
+                    ],
+                    [
+                        110.82293341094,
+                        -7.9564427724273
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82293341094,
+                        -7.9564427724273
+                    ],
+                    [
+                        110.82259738573,
+                        -7.9562750978816
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82259738573,
+                        -7.9562750978816
+                    ],
+                    [
+                        110.82246539907,
+                        -7.9561553763901
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82246539907,
+                        -7.9561553763901
+                    ],
+                    [
+                        110.82224946042,
+                        -7.9558680878181
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82224946042,
+                        -7.9558680878181
+                    ],
+                    [
+                        110.82209348257,
+                        -7.955712456417
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82209348257,
+                        -7.955712456417
+                    ],
+                    [
+                        110.82187754957,
+                        -7.9554132011506
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82187754957,
+                        -7.9554132011506
+                    ],
+                    [
+                        110.82167364617,
+                        -7.9550541184005
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82167364617,
+                        -7.9550541184005
+                    ],
+                    [
+                        110.82155367395,
+                        -7.9549104687695
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82155367395,
+                        -7.9549104687695
+                    ],
+                    [
+                        110.82136167608,
+                        -7.9547787546367
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82136167608,
+                        -7.9547787546367
+                    ],
+                    [
+                        110.82103764073,
+                        -7.9546469835392
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82103764073,
+                        -7.9546469835392
+                    ],
+                    [
+                        110.82078561569,
+                        -7.9545391762888
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82078561569,
+                        -7.9545391762888
+                    ],
+                    [
+                        110.82048559275,
+                        -7.9543954486208
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82048559275,
+                        -7.9543954486208
+                    ],
+                    [
+                        110.82022156461,
+                        -7.9542876358449
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82022156461,
+                        -7.9542876358449
+                    ],
+                    [
+                        110.81984950596,
+                        -7.9541797760579
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81984950596,
+                        -7.9541797760579
+                    ],
+                    [
+                        110.8196575456,
+                        -7.9539642956171
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8196575456,
+                        -7.9539642956171
+                    ],
+                    [
+                        110.81927353639,
+                        -7.9537367650609
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81927353639,
+                        -7.9537367650609
+                    ],
+                    [
+                        110.81910555184,
+                        -7.9535930938464
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81910555184,
+                        -7.9535930938464
+                    ],
+                    [
+                        110.81875756394,
+                        -7.9533416454954
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81875756394,
+                        -7.9533416454954
+                    ],
+                    [
+                        110.81848155988,
+                        -7.9531739938717
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81848155988,
+                        -7.9531739938717
+                    ],
+                    [
+                        110.81824156615,
+                        -7.953006357827
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81824156615,
+                        -7.953006357827
+                    ],
+                    [
+                        110.81798958507,
+                        -7.9528028168735
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81798958507,
+                        -7.9528028168735
+                    ],
+                    [
+                        110.81790560903,
+                        -7.9526950815071
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81790560903,
+                        -7.9526950815071
+                    ],
+                    [
+                        110.81776156871,
+                        -7.9526950183399
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81776156871,
+                        -7.9526950183399
+                    ],
+                    [
+                        110.81760547744,
+                        -7.9528026483919
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81760547744,
+                        -7.9528026483919
+                    ],
+                    [
+                        110.81740142556,
+                        -7.9527905922373
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81740142556,
+                        -7.9527905922373
+                    ],
+                    [
+                        110.81707736128,
+                        -7.9527306171255
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81707736128,
+                        -7.9527306171255
+                    ],
+                    [
+                        110.81669331218,
+                        -7.9525988162597
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81669331218,
+                        -7.9525988162597
+                    ],
+                    [
+                        110.81630928463,
+                        -7.9524191490288
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81630928463,
+                        -7.9524191490288
+                    ],
+                    [
+                        110.81608130625,
+                        -7.95222758406
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81608130625,
+                        -7.95222758406
+                    ],
+                    [
+                        110.81596136881,
+                        -7.9520121338343
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81596136881,
+                        -7.9520121338343
+                    ],
+                    [
+                        110.81596145415,
+                        -7.9518206697739
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81596145415,
+                        -7.9518206697739
+                    ],
+                    [
+                        110.8159015762,
+                        -7.9515095140816
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8159015762,
+                        -7.9515095140816
+                    ],
+                    [
+                        110.81582962564,
+                        -7.95135391761
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81582962564,
+                        -7.95135391761
+                    ],
+                    [
+                        110.81569767992,
+                        -7.9511504284909
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81569767992,
+                        -7.9511504284909
+                    ],
+                    [
+                        110.81552971906,
+                        -7.9509588898485
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81552971906,
+                        -7.9509588898485
+                    ],
+                    [
+                        110.81538578101,
+                        -7.9507314622953
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81538578101,
+                        -7.9507314622953
+                    ],
+                    [
+                        110.81533779456,
+                        -7.9506716084389
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81533779456,
+                        -7.9506716084389
+                    ],
+                    [
+                        110.81539804107,
+                        -7.9501570754252
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81539804107,
+                        -7.9501570754252
+                    ],
+                    [
+                        110.81536210077,
+                        -7.9500014948683
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81536210077,
+                        -7.9500014948683
+                    ],
+                    [
+                        110.81509810897,
+                        -7.949821879881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81509810897,
+                        -7.949821879881
+                    ],
+                    [
+                        110.81490615846,
+                        -7.9495944307974
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81490615846,
+                        -7.9495944307974
+                    ],
+                    [
+                        110.81479820417,
+                        -7.9494268516041
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81479820417,
+                        -7.9494268516041
+                    ],
+                    [
+                        110.81473827374,
+                        -7.9492353607816
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81473827374,
+                        -7.9492353607816
+                    ],
+                    [
+                        110.8145462646,
+                        -7.9491395430851
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8145462646,
+                        -7.9491395430851
+                    ],
+                    [
+                        110.81403015159,
+                        -7.9490794799125
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81403015159,
+                        -7.9490794799125
+                    ],
+                    [
+                        110.81375407139,
+                        -7.9490913227821
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81375407139,
+                        -7.9490913227821
+                    ],
+                    [
+                        110.81348997822,
+                        -7.9491390703663
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81348997822,
+                        -7.9491390703663
+                    ],
+                    [
+                        110.81329785583,
+                        -7.9492945486746
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81329785583,
+                        -7.9492945486746
+                    ],
+                    [
+                        110.81302169422,
+                        -7.9494858886021
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81302169422,
+                        -7.9494858886021
+                    ],
+                    [
+                        110.8127215258,
+                        -7.9496772175198
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8127215258,
+                        -7.9496772175198
+                    ],
+                    [
+                        110.8124573289,
+                        -7.9499523279839
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8124573289,
+                        -7.9499523279839
+                    ],
+                    [
+                        110.81225323512,
+                        -7.9500360013538
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81225323512,
+                        -7.9500360013538
+                    ],
+                    [
+                        110.81207316959,
+                        -7.9500718194705
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81207316959,
+                        -7.9500718194705
+                    ],
+                    [
+                        110.81191712695,
+                        -7.9500717488692
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81191712695,
+                        -7.9500717488692
+                    ],
+                    [
+                        110.81156901546,
+                        -7.9501074906684
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81156901546,
+                        -7.9501074906684
+                    ],
+                    [
+                        110.81131690829,
+                        -7.950191141796
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81131690829,
+                        -7.950191141796
+                    ],
+                    [
+                        110.81119685905,
+                        -7.9502269867777
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81119685905,
+                        -7.9502269867777
+                    ],
+                    [
+                        110.81077674411,
+                        -7.9502267956742
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81077674411,
+                        -7.9502267956742
+                    ],
+                    [
+                        110.81053668942,
+                        -7.9502027532794
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81053668942,
+                        -7.9502027532794
+                    ],
+                    [
+                        110.81039266101,
+                        -7.9501787545755
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81039266101,
+                        -7.9501787545755
+                    ],
+                    [
+                        110.81017649743,
+                        -7.9504060194432
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81017649743,
+                        -7.9504060194432
+                    ],
+                    [
+                        110.81005643152,
+                        -7.950477763593
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81005643152,
+                        -7.950477763593
+                    ],
+                    [
+                        110.80988831935,
+                        -7.9506212847435
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80988831935,
+                        -7.9506212847435
+                    ],
+                    [
+                        110.80981627753,
+                        -7.9506691177858
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80981627753,
+                        -7.9506691177858
+                    ],
+                    [
+                        110.8096001851,
+                        -7.9507408178343
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8096001851,
+                        -7.9507408178343
+                    ],
+                    [
+                        110.80932409268,
+                        -7.9507765907305
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80932409268,
+                        -7.9507765907305
+                    ],
+                    [
+                        110.8089879505,
+                        -7.9508841348527
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8089879505,
+                        -7.9508841348527
+                    ],
+                    [
+                        110.80878383896,
+                        -7.9510037059854
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80878383896,
+                        -7.9510037059854
+                    ],
+                    [
+                        110.80872375038,
+                        -7.9511592428502
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80872375038,
+                        -7.9511592428502
+                    ],
+                    [
+                        110.80854361197,
+                        -7.9513506239041
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80854361197,
+                        -7.9513506239041
+                    ],
+                    [
+                        110.80827948348,
+                        -7.9514701671158
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80827948348,
+                        -7.9514701671158
+                    ],
+                    [
+                        110.8081354103,
+                        -7.9515418996125
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8081354103,
+                        -7.9515418996125
+                    ],
+                    [
+                        110.80790729155,
+                        -7.9516614592096
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80790729155,
+                        -7.9516614592096
+                    ],
+                    [
+                        110.80775125392,
+                        -7.9516494205314
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80775125392,
+                        -7.9516494205314
+                    ],
+                    [
+                        110.807547203,
+                        -7.9516373595557
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.807547203,
+                        -7.9516373595557
+                    ],
+                    [
+                        110.80743913962,
+                        -7.9517091084858
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80743913962,
+                        -7.9517091084858
+                    ],
+                    [
+                        110.80727099253,
+                        -7.9519244275221
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80727099253,
+                        -7.9519244275221
+                    ],
+                    [
+                        110.80707883301,
+                        -7.9521517018333
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80707883301,
+                        -7.9521517018333
+                    ],
+                    [
+                        110.80711478711,
+                        -7.9522713835296
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80711478711,
+                        -7.9522713835296
+                    ],
+                    [
+                        110.80709071893,
+                        -7.9524030038535
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80709071893,
+                        -7.9524030038535
+                    ],
+                    [
+                        110.80698264967,
+                        -7.9524867191528
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80698264967,
+                        -7.9524867191528
+                    ],
+                    [
+                        110.80681456362,
+                        -7.9525704065156
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80681456362,
+                        -7.9525704065156
+                    ],
+                    [
+                        110.80670649986,
+                        -7.9526421552431
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80670649986,
+                        -7.9526421552431
+                    ],
+                    [
+                        110.80663440129,
+                        -7.9528096526801
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80663440129,
+                        -7.9528096526801
+                    ],
+                    [
+                        110.80675435643,
+                        -7.9529772394948
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80675435643,
+                        -7.9529772394948
+                    ],
+                    [
+                        110.80692231953,
+                        -7.9531568150936
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80692231953,
+                        -7.9531568150936
+                    ],
+                    [
+                        110.80694618636,
+                        -7.9534559886704
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80694618636,
+                        -7.9534559886704
+                    ],
+                    [
+                        110.80682604621,
+                        -7.9536832962958
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80682604621,
+                        -7.9536832962958
+                    ],
+                    [
+                        110.80663393606,
+                        -7.9538028718908
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80663393606,
+                        -7.9538028718908
+                    ],
+                    [
+                        110.80645384601,
+                        -7.9538865534992
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80645384601,
+                        -7.9538865534992
+                    ],
+                    [
+                        110.80632179752,
+                        -7.9539104249405
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80632179752,
+                        -7.9539104249405
+                    ],
+                    [
+                        110.80617772878,
+                        -7.9539701902255
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80617772878,
+                        -7.9539701902255
+                    ],
+                    [
+                        110.80610567471,
+                        -7.9540419555838
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80610567471,
+                        -7.9540419555838
+                    ],
+                    [
+                        110.80608154987,
+                        -7.9542932407838
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80608154987,
+                        -7.9542932407838
+                    ],
+                    [
+                        110.80605741938,
+                        -7.9545564924739
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80605741938,
+                        -7.9545564924739
+                    ],
+                    [
+                        110.80602136417,
+                        -7.9546522076185
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80602136417,
+                        -7.9546522076185
+                    ],
+                    [
+                        110.80592517934,
+                        -7.9549872246182
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80592517934,
+                        -7.9549872246182
+                    ],
+                    [
+                        110.80586504967,
+                        -7.9552265264643
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80586504967,
+                        -7.9552265264643
+                    ],
+                    [
+                        110.80568478982,
+                        -7.9556692025524
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80568478982,
+                        -7.9556692025524
+                    ],
+                    [
+                        110.80566065897,
+                        -7.9559324541941
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80566065897,
+                        -7.9559324541941
+                    ],
+                    [
+                        110.80554054557,
+                        -7.9560999289156
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80554054557,
+                        -7.9560999289156
+                    ],
+                    [
+                        110.80543247502,
+                        -7.9561836437658
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80543247502,
+                        -7.9561836437658
+                    ],
+                    [
+                        110.80521641851,
+                        -7.9561715759705
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80521641851,
+                        -7.9561715759705
+                    ],
+                    [
+                        110.80512047,
+                        -7.956003999998
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80512047,
+                        -7.956003999998
+                    ],
+                    [
+                        110.80498846601,
+                        -7.9559321390442
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80498846601,
+                        -7.9559321390442
+                    ],
+                    [
+                        110.804880435,
+                        -7.9559320882936
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.804880435,
+                        -7.9559320882936
+                    ],
+                    [
+                        110.80471236977,
+                        -7.9559679087733
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80471236977,
+                        -7.9559679087733
+                    ],
+                    [
+                        110.80458030353,
+                        -7.9560276791205
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80458030353,
+                        -7.9560276791205
+                    ],
+                    [
+                        110.80430413343,
+                        -7.9562190129874
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80430413343,
+                        -7.9562190129874
+                    ],
+                    [
+                        110.80411201569,
+                        -7.956350553848
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80411201569,
+                        -7.956350553848
+                    ],
+                    [
+                        110.80394396729,
+                        -7.9563504745317
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80394396729,
+                        -7.9563504745317
+                    ],
+                    [
+                        110.80367989124,
+                        -7.9563503497543
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80367989124,
+                        -7.9563503497543
+                    ],
+                    [
+                        110.80337983334,
+                        -7.9562903752957
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80337983334,
+                        -7.9562903752957
+                    ],
+                    [
+                        110.80324778963,
+                        -7.9563022792414
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80324778963,
+                        -7.9563022792414
+                    ],
+                    [
+                        110.80313972428,
+                        -7.9563740269892
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80313972428,
+                        -7.9563740269892
+                    ],
+                    [
+                        110.80303160749,
+                        -7.9565534731366
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80303160749,
+                        -7.9565534731366
+                    ],
+                    [
+                        110.80293537977,
+                        -7.9569722547861
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80293537977,
+                        -7.9569722547861
+                    ],
+                    [
+                        110.80292326198,
+                        -7.957211578922
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80292326198,
+                        -7.957211578922
+                    ],
+                    [
+                        110.80301911273,
+                        -7.9575825857337
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80301911273,
+                        -7.9575825857337
+                    ],
+                    [
+                        110.80293496826,
+                        -7.9578338421748
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80293496826,
+                        -7.9578338421748
+                    ],
+                    [
+                        110.8028868685,
+                        -7.9580133167472
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8028868685,
+                        -7.9580133167472
+                    ],
+                    [
+                        110.80283875727,
+                        -7.9582167242934
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80283875727,
+                        -7.9582167242934
+                    ],
+                    [
+                        110.8028265593,
+                        -7.9586235792809
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8028265593,
+                        -7.9586235792809
+                    ],
+                    [
+                        110.80293447096,
+                        -7.9588749268885
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80293447096,
+                        -7.9588749268885
+                    ],
+                    [
+                        110.80297036152,
+                        -7.9591262402864
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80297036152,
+                        -7.9591262402864
+                    ],
+                    [
+                        110.80298225075,
+                        -7.959365575794
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80298225075,
+                        -7.959365575794
+                    ],
+                    [
+                        110.8028741102,
+                        -7.9595928878146
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8028741102,
+                        -7.9595928878146
+                    ],
+                    [
+                        110.80274196241,
+                        -7.9598201883921
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80274196241,
+                        -7.9598201883921
+                    ],
+                    [
+                        110.80254977375,
+                        -7.9600953263306
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80254977375,
+                        -7.9600953263306
+                    ],
+                    [
+                        110.80240562778,
+                        -7.9603106545866
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80240562778,
+                        -7.9603106545866
+                    ],
+                    [
+                        110.80226146445,
+                        -7.9605618822543
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80226146445,
+                        -7.9605618822543
+                    ],
+                    [
+                        110.80217733608,
+                        -7.9607772390126
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80217733608,
+                        -7.9607772390126
+                    ],
+                    [
+                        110.80216526936,
+                        -7.960908864669
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80216526936,
+                        -7.960908864669
+                    ],
+                    [
+                        110.80222516679,
+                        -7.9611601895445
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80222516679,
+                        -7.9611601895445
+                    ],
+                    [
+                        110.80226113167,
+                        -7.9612559386166
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80226113167,
+                        -7.9612559386166
+                    ],
+                    [
+                        110.80220100463,
+                        -7.9614832732973
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80220100463,
+                        -7.9614832732973
+                    ],
+                    [
+                        110.80205688095,
+                        -7.9616507354478
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80205688095,
+                        -7.9616507354478
+                    ],
+                    [
+                        110.80192474353,
+                        -7.961854102739
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80192474353,
+                        -7.961854102739
+                    ],
+                    [
+                        110.80182867435,
+                        -7.9619378223033
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "130",
+                "NAMA_SUNGAI": "Kali Parangjoho",
+                "FOTO": "sungai-130_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.80182867435,
+                        -7.9619378223033
+                    ],
+                    [
+                        110.8016965137,
+                        -7.9621890554655
+                    ]
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,4352 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.929775044,
+                        -7.77427027086
+                    ],
+                    [
+                        110.92972844,
+                        -7.77435124851
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92972844,
+                        -7.77435124851
+                    ],
+                    [
+                        110.929597138,
+                        -7.77463780219
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.929597138,
+                        -7.77463780219
+                    ],
+                    [
+                        110.929443733,
+                        -7.77491878817
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.929443733,
+                        -7.77491878817
+                    ],
+                    [
+                        110.929241228,
+                        -7.77508764578
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.929241228,
+                        -7.77508764578
+                    ],
+                    [
+                        110.929003718,
+                        -7.77517293388
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.929003718,
+                        -7.77517293388
+                    ],
+                    [
+                        110.928757874,
+                        -7.77524615309
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.928757874,
+                        -7.77524615309
+                    ],
+                    [
+                        110.928009379,
+                        -7.77546909232
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.928009379,
+                        -7.77546909232
+                    ],
+                    [
+                        110.927885723,
+                        -7.77563668728
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.927885723,
+                        -7.77563668728
+                    ],
+                    [
+                        110.927873661,
+                        -7.77584561239
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.927873661,
+                        -7.77584561239
+                    ],
+                    [
+                        110.927861586,
+                        -7.77591820206
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.927861586,
+                        -7.77591820206
+                    ],
+                    [
+                        110.927826696,
+                        -7.77612800041
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.927826696,
+                        -7.77612800041
+                    ],
+                    [
+                        110.927793217,
+                        -7.77646415799
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.927793217,
+                        -7.77646415799
+                    ],
+                    [
+                        110.927728503,
+                        -7.77668657023
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.927728503,
+                        -7.77668657023
+                    ],
+                    [
+                        110.927609562,
+                        -7.77680605236
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.927609562,
+                        -7.77680605236
+                    ],
+                    [
+                        110.927438835,
+                        -7.77686235891
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.927438835,
+                        -7.77686235891
+                    ],
+                    [
+                        110.927082177,
+                        -7.776897133
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.927082177,
+                        -7.776897133
+                    ],
+                    [
+                        110.926531465,
+                        -7.77676586705
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.926531465,
+                        -7.77676586705
+                    ],
+                    [
+                        110.926384837,
+                        -7.77681969058
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.926384837,
+                        -7.77681969058
+                    ],
+                    [
+                        110.926271208,
+                        -7.77694999155
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.926271208,
+                        -7.77694999155
+                    ],
+                    [
+                        110.926227979,
+                        -7.77712264699
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.926227979,
+                        -7.77712264699
+                    ],
+                    [
+                        110.926307316,
+                        -7.7772489199
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.926307316,
+                        -7.7772489199
+                    ],
+                    [
+                        110.926679441,
+                        -7.77767623727
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.926679441,
+                        -7.77767623727
+                    ],
+                    [
+                        110.926929783,
+                        -7.77782062162
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.926929783,
+                        -7.77782062162
+                    ],
+                    [
+                        110.926983503,
+                        -7.77807849503
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.926983503,
+                        -7.77807849503
+                    ],
+                    [
+                        110.927110749,
+                        -7.77829572986
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.927110749,
+                        -7.77829572986
+                    ],
+                    [
+                        110.927307816,
+                        -7.77849601608
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.927307816,
+                        -7.77849601608
+                    ],
+                    [
+                        110.927395604,
+                        -7.77858524861
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.927395604,
+                        -7.77858524861
+                    ],
+                    [
+                        110.928241779,
+                        -7.77914854707
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.928241779,
+                        -7.77914854707
+                    ],
+                    [
+                        110.928601638,
+                        -7.77940015759
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.928601638,
+                        -7.77940015759
+                    ],
+                    [
+                        110.928883941,
+                        -7.77965977028
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.928883941,
+                        -7.77965977028
+                    ],
+                    [
+                        110.928979135,
+                        -7.77988549292
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.928979135,
+                        -7.77988549292
+                    ],
+                    [
+                        110.928962296,
+                        -7.78003287921
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.928962296,
+                        -7.78003287921
+                    ],
+                    [
+                        110.928821911,
+                        -7.78016551033
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.928821911,
+                        -7.78016551033
+                    ],
+                    [
+                        110.928604838,
+                        -7.78026921835
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.928604838,
+                        -7.78026921835
+                    ],
+                    [
+                        110.928516947,
+                        -7.7803561684
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.928516947,
+                        -7.7803561684
+                    ],
+                    [
+                        110.928504463,
+                        -7.78049004148
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.928504463,
+                        -7.78049004148
+                    ],
+                    [
+                        110.928443328,
+                        -7.78094240407
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.928443328,
+                        -7.78094240407
+                    ],
+                    [
+                        110.928310152,
+                        -7.78129681699
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.928310152,
+                        -7.78129681699
+                    ],
+                    [
+                        110.928244751,
+                        -7.78140044228
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.928244751,
+                        -7.78140044228
+                    ],
+                    [
+                        110.928072295,
+                        -7.78142636434
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.928072295,
+                        -7.78142636434
+                    ],
+                    [
+                        110.927801246,
+                        -7.78138262851
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.927801246,
+                        -7.78138262851
+                    ],
+                    [
+                        110.927611452,
+                        -7.78139235647
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.927611452,
+                        -7.78139235647
+                    ],
+                    [
+                        110.927592024,
+                        -7.78150079223
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.927592024,
+                        -7.78150079223
+                    ],
+                    [
+                        110.927490135,
+                        -7.7819751909
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.927490135,
+                        -7.7819751909
+                    ],
+                    [
+                        110.927357897,
+                        -7.78208599547
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.927357897,
+                        -7.78208599547
+                    ],
+                    [
+                        110.927021522,
+                        -7.78207236984
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.927021522,
+                        -7.78207236984
+                    ],
+                    [
+                        110.926799764,
+                        -7.78198707634
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.926799764,
+                        -7.78198707634
+                    ],
+                    [
+                        110.926525438,
+                        -7.78180138523
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.926525438,
+                        -7.78180138523
+                    ],
+                    [
+                        110.92615582,
+                        -7.78158853998
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92615582,
+                        -7.78158853998
+                    ],
+                    [
+                        110.926122896,
+                        -7.78159702868
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.926122896,
+                        -7.78159702868
+                    ],
+                    [
+                        110.92599557,
+                        -7.78162984224
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92599557,
+                        -7.78162984224
+                    ],
+                    [
+                        110.925922941,
+                        -7.78172415684
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.925922941,
+                        -7.78172415684
+                    ],
+                    [
+                        110.92580192,
+                        -7.782058237
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92580192,
+                        -7.782058237
+                    ],
+                    [
+                        110.92568459,
+                        -7.78238940425
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92568459,
+                        -7.78238940425
+                    ],
+                    [
+                        110.925482316,
+                        -7.78264968424
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.925482316,
+                        -7.78264968424
+                    ],
+                    [
+                        110.925313278,
+                        -7.78278252579
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.925313278,
+                        -7.78278252579
+                    ],
+                    [
+                        110.92518609,
+                        -7.78275009264
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92518609,
+                        -7.78275009264
+                    ],
+                    [
+                        110.925033139,
+                        -7.78264505542
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.925033139,
+                        -7.78264505542
+                    ],
+                    [
+                        110.924806475,
+                        -7.7825509045
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.924806475,
+                        -7.7825509045
+                    ],
+                    [
+                        110.924617051,
+                        -7.78256899796
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.924617051,
+                        -7.78256899796
+                    ],
+                    [
+                        110.924476978,
+                        -7.78261766567
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.924476978,
+                        -7.78261766567
+                    ],
+                    [
+                        110.924288153,
+                        -7.78268328561
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.924288153,
+                        -7.78268328561
+                    ],
+                    [
+                        110.924122498,
+                        -7.78281686011
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.924122498,
+                        -7.78281686011
+                    ],
+                    [
+                        110.92361544,
+                        -7.78329319413
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92361544,
+                        -7.78329319413
+                    ],
+                    [
+                        110.923553489,
+                        -7.78342465163
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.923553489,
+                        -7.78342465163
+                    ],
+                    [
+                        110.923542016,
+                        -7.78356909983
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.923542016,
+                        -7.78356909983
+                    ],
+                    [
+                        110.92360774,
+                        -7.7836935795
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92360774,
+                        -7.7836935795
+                    ],
+                    [
+                        110.923867197,
+                        -7.78420980654
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.923867197,
+                        -7.78420980654
+                    ],
+                    [
+                        110.923843841,
+                        -7.78436254739
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.923843841,
+                        -7.78436254739
+                    ],
+                    [
+                        110.92374322,
+                        -7.78446545052
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92374322,
+                        -7.78446545052
+                    ],
+                    [
+                        110.923471839,
+                        -7.78459131694
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.923471839,
+                        -7.78459131694
+                    ],
+                    [
+                        110.92320425,
+                        -7.78465892977
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92320425,
+                        -7.78465892977
+                    ],
+                    [
+                        110.922908309,
+                        -7.78458544346
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.922908309,
+                        -7.78458544346
+                    ],
+                    [
+                        110.922715197,
+                        -7.78457047425
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.922715197,
+                        -7.78457047425
+                    ],
+                    [
+                        110.922530792,
+                        -7.78461366059
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.922530792,
+                        -7.78461366059
+                    ],
+                    [
+                        110.922087025,
+                        -7.78471758625
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.922087025,
+                        -7.78471758625
+                    ],
+                    [
+                        110.921652275,
+                        -7.78481048621
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.921652275,
+                        -7.78481048621
+                    ],
+                    [
+                        110.921108187,
+                        -7.78481911431
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.921108187,
+                        -7.78481911431
+                    ],
+                    [
+                        110.920959535,
+                        -7.78486328361
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.920959535,
+                        -7.78486328361
+                    ],
+                    [
+                        110.920873492,
+                        -7.784993036
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.920873492,
+                        -7.784993036
+                    ],
+                    [
+                        110.920796869,
+                        -7.7852420214
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.920796869,
+                        -7.7852420214
+                    ],
+                    [
+                        110.920748466,
+                        -7.7853733458
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.920748466,
+                        -7.7853733458
+                    ],
+                    [
+                        110.920619851,
+                        -7.78569547307
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.920619851,
+                        -7.78569547307
+                    ],
+                    [
+                        110.920606821,
+                        -7.78625179548
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.920606821,
+                        -7.78625179548
+                    ],
+                    [
+                        110.920647916,
+                        -7.78664034038
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.920647916,
+                        -7.78664034038
+                    ],
+                    [
+                        110.920648405,
+                        -7.78664498088
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.920648405,
+                        -7.78664498088
+                    ],
+                    [
+                        110.920622019,
+                        -7.78699212908
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.920622019,
+                        -7.78699212908
+                    ],
+                    [
+                        110.920688014,
+                        -7.78707402315
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.920688014,
+                        -7.78707402315
+                    ],
+                    [
+                        110.920791005,
+                        -7.78714975416
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.920791005,
+                        -7.78714975416
+                    ],
+                    [
+                        110.920838345,
+                        -7.78727392355
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.920838345,
+                        -7.78727392355
+                    ],
+                    [
+                        110.920877117,
+                        -7.78756897223
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.920877117,
+                        -7.78756897223
+                    ],
+                    [
+                        110.920932012,
+                        -7.78779267229
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.920932012,
+                        -7.78779267229
+                    ],
+                    [
+                        110.921505609,
+                        -7.78855874539
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.921505609,
+                        -7.78855874539
+                    ],
+                    [
+                        110.921726745,
+                        -7.78912440996
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.921726745,
+                        -7.78912440996
+                    ],
+                    [
+                        110.921712859,
+                        -7.78931973822
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.921712859,
+                        -7.78931973822
+                    ],
+                    [
+                        110.921289268,
+                        -7.78941922572
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.921289268,
+                        -7.78941922572
+                    ],
+                    [
+                        110.921088845,
+                        -7.78944824234
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.921088845,
+                        -7.78944824234
+                    ],
+                    [
+                        110.920507271,
+                        -7.78952433398
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.920507271,
+                        -7.78952433398
+                    ],
+                    [
+                        110.920330603,
+                        -7.7896459466
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.920330603,
+                        -7.7896459466
+                    ],
+                    [
+                        110.920283128,
+                        -7.78980491526
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.920283128,
+                        -7.78980491526
+                    ],
+                    [
+                        110.920280886,
+                        -7.78981240482
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.920280886,
+                        -7.78981240482
+                    ],
+                    [
+                        110.920184597,
+                        -7.7900269309
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.920184597,
+                        -7.7900269309
+                    ],
+                    [
+                        110.919941768,
+                        -7.79026483036
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.919941768,
+                        -7.79026483036
+                    ],
+                    [
+                        110.919431617,
+                        -7.79072713765
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.919431617,
+                        -7.79072713765
+                    ],
+                    [
+                        110.91929287,
+                        -7.7907474911
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91929287,
+                        -7.7907474911
+                    ],
+                    [
+                        110.91861917,
+                        -7.79082565208
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91861917,
+                        -7.79082565208
+                    ],
+                    [
+                        110.918456866,
+                        -7.79095698188
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.918456866,
+                        -7.79095698188
+                    ],
+                    [
+                        110.918398776,
+                        -7.79103330644
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.918398776,
+                        -7.79103330644
+                    ],
+                    [
+                        110.918048919,
+                        -7.79156474282
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.918048919,
+                        -7.79156474282
+                    ],
+                    [
+                        110.917946933,
+                        -7.79177450879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.917946933,
+                        -7.79177450879
+                    ],
+                    [
+                        110.91775234,
+                        -7.79208859881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91775234,
+                        -7.79208859881
+                    ],
+                    [
+                        110.917616495,
+                        -7.7922528321
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.917616495,
+                        -7.7922528321
+                    ],
+                    [
+                        110.917368533,
+                        -7.79238699386
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.917368533,
+                        -7.79238699386
+                    ],
+                    [
+                        110.91732845,
+                        -7.79248985382
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91732845,
+                        -7.79248985382
+                    ],
+                    [
+                        110.917319085,
+                        -7.79251538738
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.917319085,
+                        -7.79251538738
+                    ],
+                    [
+                        110.917211431,
+                        -7.79280898814
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.917211431,
+                        -7.79280898814
+                    ],
+                    [
+                        110.917207721,
+                        -7.79294758446
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.917207721,
+                        -7.79294758446
+                    ],
+                    [
+                        110.917214345,
+                        -7.79325545388
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.917214345,
+                        -7.79325545388
+                    ],
+                    [
+                        110.917132211,
+                        -7.79332974777
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.917132211,
+                        -7.79332974777
+                    ],
+                    [
+                        110.916900741,
+                        -7.79344257312
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.916900741,
+                        -7.79344257312
+                    ],
+                    [
+                        110.916737041,
+                        -7.79342583403
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.916737041,
+                        -7.79342583403
+                    ],
+                    [
+                        110.916388363,
+                        -7.79338791862
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.916388363,
+                        -7.79338791862
+                    ],
+                    [
+                        110.916342409,
+                        -7.79346162256
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.916342409,
+                        -7.79346162256
+                    ],
+                    [
+                        110.916101722,
+                        -7.79394790397
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.916101722,
+                        -7.79394790397
+                    ],
+                    [
+                        110.915795428,
+                        -7.79432077638
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.915795428,
+                        -7.79432077638
+                    ],
+                    [
+                        110.915588211,
+                        -7.79447585907
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.915588211,
+                        -7.79447585907
+                    ],
+                    [
+                        110.915417933,
+                        -7.79460328671
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.915417933,
+                        -7.79460328671
+                    ],
+                    [
+                        110.915334943,
+                        -7.79455128521
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.915334943,
+                        -7.79455128521
+                    ],
+                    [
+                        110.91521771,
+                        -7.79439215827
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91521771,
+                        -7.79439215827
+                    ],
+                    [
+                        110.915092755,
+                        -7.79428993593
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.915092755,
+                        -7.79428993593
+                    ],
+                    [
+                        110.914977154,
+                        -7.7943092066
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.914977154,
+                        -7.7943092066
+                    ],
+                    [
+                        110.914956862,
+                        -7.79432559315
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.914956862,
+                        -7.79432559315
+                    ],
+                    [
+                        110.914819202,
+                        -7.79443674576
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.914819202,
+                        -7.79443674576
+                    ],
+                    [
+                        110.914739858,
+                        -7.79461262168
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.914739858,
+                        -7.79461262168
+                    ],
+                    [
+                        110.914690809,
+                        -7.79487482711
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.914690809,
+                        -7.79487482711
+                    ],
+                    [
+                        110.914613227,
+                        -7.79504346708
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.914613227,
+                        -7.79504346708
+                    ],
+                    [
+                        110.914458657,
+                        -7.79517651548
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.914458657,
+                        -7.79517651548
+                    ],
+                    [
+                        110.914190718,
+                        -7.79536142599
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.914190718,
+                        -7.79536142599
+                    ],
+                    [
+                        110.914012929,
+                        -7.79548828256
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.914012929,
+                        -7.79548828256
+                    ],
+                    [
+                        110.913592983,
+                        -7.7959140378
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913592983,
+                        -7.7959140378
+                    ],
+                    [
+                        110.913523556,
+                        -7.79615963096
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913523556,
+                        -7.79615963096
+                    ],
+                    [
+                        110.91346347,
+                        -7.79622846507
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91346347,
+                        -7.79622846507
+                    ],
+                    [
+                        110.91330811,
+                        -7.79640645979
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91330811,
+                        -7.79640645979
+                    ],
+                    [
+                        110.913306245,
+                        -7.7965666938
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913306245,
+                        -7.7965666938
+                    ],
+                    [
+                        110.913335688,
+                        -7.79690658087
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913335688,
+                        -7.79690658087
+                    ],
+                    [
+                        110.913411928,
+                        -7.79723545036
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913411928,
+                        -7.79723545036
+                    ],
+                    [
+                        110.913470034,
+                        -7.79765735021
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913470034,
+                        -7.79765735021
+                    ],
+                    [
+                        110.913439846,
+                        -7.79789160831
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913439846,
+                        -7.79789160831
+                    ],
+                    [
+                        110.913420986,
+                        -7.79803790822
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913420986,
+                        -7.79803790822
+                    ],
+                    [
+                        110.913317871,
+                        -7.79820438083
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913317871,
+                        -7.79820438083
+                    ],
+                    [
+                        110.913297404,
+                        -7.79831619893
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913297404,
+                        -7.79831619893
+                    ],
+                    [
+                        110.913351515,
+                        -7.79845714968
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913351515,
+                        -7.79845714968
+                    ],
+                    [
+                        110.913580875,
+                        -7.79878073205
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913580875,
+                        -7.79878073205
+                    ],
+                    [
+                        110.913586413,
+                        -7.79888748967
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913586413,
+                        -7.79888748967
+                    ],
+                    [
+                        110.913595742,
+                        -7.7993088823
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913595742,
+                        -7.7993088823
+                    ],
+                    [
+                        110.913638933,
+                        -7.79948409541
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913638933,
+                        -7.79948409541
+                    ],
+                    [
+                        110.91362887,
+                        -7.79977224269
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91362887,
+                        -7.79977224269
+                    ],
+                    [
+                        110.913611617,
+                        -7.80026620252
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913611617,
+                        -7.80026620252
+                    ],
+                    [
+                        110.913651448,
+                        -7.80126755266
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913651448,
+                        -7.80126755266
+                    ],
+                    [
+                        110.913574565,
+                        -7.80137643717
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913574565,
+                        -7.80137643717
+                    ],
+                    [
+                        110.913373643,
+                        -7.80159800494
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913373643,
+                        -7.80159800494
+                    ],
+                    [
+                        110.913339296,
+                        -7.80167410827
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913339296,
+                        -7.80167410827
+                    ],
+                    [
+                        110.913269624,
+                        -7.801828485
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913269624,
+                        -7.801828485
+                    ],
+                    [
+                        110.913109089,
+                        -7.80245980098
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913109089,
+                        -7.80245980098
+                    ],
+                    [
+                        110.9131029,
+                        -7.80247578283
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9131029,
+                        -7.80247578283
+                    ],
+                    [
+                        110.913070187,
+                        -7.80250476708
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913070187,
+                        -7.80250476708
+                    ],
+                    [
+                        110.912805236,
+                        -7.80282544374
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.912805236,
+                        -7.80282544374
+                    ],
+                    [
+                        110.912530821,
+                        -7.8031556613
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.912530821,
+                        -7.8031556613
+                    ],
+                    [
+                        110.912218793,
+                        -7.80392077572
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.912218793,
+                        -7.80392077572
+                    ],
+                    [
+                        110.912117183,
+                        -7.8041699248
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.912117183,
+                        -7.8041699248
+                    ],
+                    [
+                        110.911809176,
+                        -7.80469289766
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.911809176,
+                        -7.80469289766
+                    ],
+                    [
+                        110.911722252,
+                        -7.8048404854
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.911722252,
+                        -7.8048404854
+                    ],
+                    [
+                        110.911495361,
+                        -7.8055329265
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.911495361,
+                        -7.8055329265
+                    ],
+                    [
+                        110.911419068,
+                        -7.80576577177
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.911419068,
+                        -7.80576577177
+                    ],
+                    [
+                        110.91133489,
+                        -7.80579301763
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91133489,
+                        -7.80579301763
+                    ],
+                    [
+                        110.911005277,
+                        -7.80588449038
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.911005277,
+                        -7.80588449038
+                    ],
+                    [
+                        110.91080631,
+                        -7.80606783966
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91080631,
+                        -7.80606783966
+                    ],
+                    [
+                        110.910631775,
+                        -7.80630581106
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.910631775,
+                        -7.80630581106
+                    ],
+                    [
+                        110.910516025,
+                        -7.80645763551
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.910516025,
+                        -7.80645763551
+                    ],
+                    [
+                        110.91040004,
+                        -7.80677002042
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91040004,
+                        -7.80677002042
+                    ],
+                    [
+                        110.910240623,
+                        -7.80685037484
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.910240623,
+                        -7.80685037484
+                    ],
+                    [
+                        110.909913022,
+                        -7.80706845864
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.909913022,
+                        -7.80706845864
+                    ],
+                    [
+                        110.909839105,
+                        -7.80725246713
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.909839105,
+                        -7.80725246713
+                    ],
+                    [
+                        110.90972501,
+                        -7.80742723148
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90972501,
+                        -7.80742723148
+                    ],
+                    [
+                        110.909429285,
+                        -7.80779574128
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.909429285,
+                        -7.80779574128
+                    ],
+                    [
+                        110.909405424,
+                        -7.80782547826
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.909405424,
+                        -7.80782547826
+                    ],
+                    [
+                        110.909297154,
+                        -7.80819608168
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.909297154,
+                        -7.80819608168
+                    ],
+                    [
+                        110.909287505,
+                        -7.80822910479
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.909287505,
+                        -7.80822910479
+                    ],
+                    [
+                        110.908963277,
+                        -7.80827837864
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.908963277,
+                        -7.80827837864
+                    ],
+                    [
+                        110.908720271,
+                        -7.80834488441
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.908720271,
+                        -7.80834488441
+                    ],
+                    [
+                        110.90869695,
+                        -7.80843073999
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90869695,
+                        -7.80843073999
+                    ],
+                    [
+                        110.908645368,
+                        -7.80872135591
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.908645368,
+                        -7.80872135591
+                    ],
+                    [
+                        110.908484973,
+                        -7.80903650713
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.908484973,
+                        -7.80903650713
+                    ],
+                    [
+                        110.908236979,
+                        -7.80925500461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.908236979,
+                        -7.80925500461
+                    ],
+                    [
+                        110.908252276,
+                        -7.80952719073
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.908252276,
+                        -7.80952719073
+                    ],
+                    [
+                        110.908337235,
+                        -7.80970681951
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.908337235,
+                        -7.80970681951
+                    ],
+                    [
+                        110.908496509,
+                        -7.80987233434
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.908496509,
+                        -7.80987233434
+                    ],
+                    [
+                        110.908584332,
+                        -7.81002259217
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.908584332,
+                        -7.81002259217
+                    ],
+                    [
+                        110.908581526,
+                        -7.81016503309
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.908581526,
+                        -7.81016503309
+                    ],
+                    [
+                        110.908533096,
+                        -7.81117616065
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.908533096,
+                        -7.81117616065
+                    ],
+                    [
+                        110.908530555,
+                        -7.81122930339
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.908530555,
+                        -7.81122930339
+                    ],
+                    [
+                        110.908632266,
+                        -7.8113273259
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.908632266,
+                        -7.8113273259
+                    ],
+                    [
+                        110.908795839,
+                        -7.81138083826
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.908795839,
+                        -7.81138083826
+                    ],
+                    [
+                        110.908872313,
+                        -7.81145296658
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.908872313,
+                        -7.81145296658
+                    ],
+                    [
+                        110.90901565,
+                        -7.81166803945
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90901565,
+                        -7.81166803945
+                    ],
+                    [
+                        110.909031153,
+                        -7.8119161642
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "65",
+                "NAMA_SUNGAI": "Kali Krawang",
+                "FOTO": "sungai-65_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.909031153,
+                        -7.8119161642
+                    ],
+                    [
+                        110.909030497,
+                        -7.81192867377
+                    ]
+                ]
+            }
+        }
+    ]
+}

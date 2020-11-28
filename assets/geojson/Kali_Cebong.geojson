@@ -1,0 +1,2399 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9380083,
+                        -7.795700442
+                    ],
+                    [
+                        110.939019015,
+                        -7.79558932769
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.939019015,
+                        -7.79558932769
+                    ],
+                    [
+                        110.939758805,
+                        -7.79524796932
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.939758805,
+                        -7.79524796932
+                    ],
+                    [
+                        110.939909879,
+                        -7.7952229259
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.939909879,
+                        -7.7952229259
+                    ],
+                    [
+                        110.940041549,
+                        -7.79527426909
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940041549,
+                        -7.79527426909
+                    ],
+                    [
+                        110.940180869,
+                        -7.79543627836
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940180869,
+                        -7.79543627836
+                    ],
+                    [
+                        110.940264728,
+                        -7.79564527181
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940264728,
+                        -7.79564527181
+                    ],
+                    [
+                        110.940365951,
+                        -7.7958898982
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940365951,
+                        -7.7958898982
+                    ],
+                    [
+                        110.940509874,
+                        -7.79621015128
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940509874,
+                        -7.79621015128
+                    ],
+                    [
+                        110.940559812,
+                        -7.79648117547
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940559812,
+                        -7.79648117547
+                    ],
+                    [
+                        110.94053343,
+                        -7.7969730003
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94053343,
+                        -7.7969730003
+                    ],
+                    [
+                        110.940470036,
+                        -7.79706097918
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940470036,
+                        -7.79706097918
+                    ],
+                    [
+                        110.940287742,
+                        -7.79721703584
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940287742,
+                        -7.79721703584
+                    ],
+                    [
+                        110.939975014,
+                        -7.79723396108
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.939975014,
+                        -7.79723396108
+                    ],
+                    [
+                        110.939914773,
+                        -7.79734408306
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.939914773,
+                        -7.79734408306
+                    ],
+                    [
+                        110.939853909,
+                        -7.7976852121
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.939853909,
+                        -7.7976852121
+                    ],
+                    [
+                        110.939918796,
+                        -7.79776087027
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.939918796,
+                        -7.79776087027
+                    ],
+                    [
+                        110.940107722,
+                        -7.79796433379
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940107722,
+                        -7.79796433379
+                    ],
+                    [
+                        110.940295206,
+                        -7.79812380697
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940295206,
+                        -7.79812380697
+                    ],
+                    [
+                        110.940499496,
+                        -7.79834471284
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940499496,
+                        -7.79834471284
+                    ],
+                    [
+                        110.94055093,
+                        -7.79855365593
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94055093,
+                        -7.79855365593
+                    ],
+                    [
+                        110.940506301,
+                        -7.79864358993
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940506301,
+                        -7.79864358993
+                    ],
+                    [
+                        110.940366457,
+                        -7.79890905091
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940366457,
+                        -7.79890905091
+                    ],
+                    [
+                        110.940309279,
+                        -7.79903843188
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940309279,
+                        -7.79903843188
+                    ],
+                    [
+                        110.940279381,
+                        -7.79918758084
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940279381,
+                        -7.79918758084
+                    ],
+                    [
+                        110.940322417,
+                        -7.79939617949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940322417,
+                        -7.79939617949
+                    ],
+                    [
+                        110.940512974,
+                        -7.79943678478
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940512974,
+                        -7.79943678478
+                    ],
+                    [
+                        110.940541888,
+                        -7.79944225266
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940541888,
+                        -7.79944225266
+                    ],
+                    [
+                        110.940986103,
+                        -7.79952631229
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940986103,
+                        -7.79952631229
+                    ],
+                    [
+                        110.941080944,
+                        -7.79975120036
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.941080944,
+                        -7.79975120036
+                    ],
+                    [
+                        110.941071593,
+                        -7.79994416969
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.941071593,
+                        -7.79994416969
+                    ],
+                    [
+                        110.941026589,
+                        -7.80019821917
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.941026589,
+                        -7.80019821917
+                    ],
+                    [
+                        110.941095163,
+                        -7.80029745936
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.941095163,
+                        -7.80029745936
+                    ],
+                    [
+                        110.941223432,
+                        -7.80049304392
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.941223432,
+                        -7.80049304392
+                    ],
+                    [
+                        110.941321944,
+                        -7.80054727664
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.941321944,
+                        -7.80054727664
+                    ],
+                    [
+                        110.941475976,
+                        -7.80065419973
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.941475976,
+                        -7.80065419973
+                    ],
+                    [
+                        110.941681749,
+                        -7.80098705321
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.941681749,
+                        -7.80098705321
+                    ],
+                    [
+                        110.941759734,
+                        -7.80118544365
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.941759734,
+                        -7.80118544365
+                    ],
+                    [
+                        110.941860218,
+                        -7.80134392758
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.941860218,
+                        -7.80134392758
+                    ],
+                    [
+                        110.942026529,
+                        -7.80146631092
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.942026529,
+                        -7.80146631092
+                    ],
+                    [
+                        110.943278618,
+                        -7.80226947116
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943278618,
+                        -7.80226947116
+                    ],
+                    [
+                        110.943823443,
+                        -7.80227236608
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943823443,
+                        -7.80227236608
+                    ],
+                    [
+                        110.944068251,
+                        -7.80216881634
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944068251,
+                        -7.80216881634
+                    ],
+                    [
+                        110.944317354,
+                        -7.80210410112
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944317354,
+                        -7.80210410112
+                    ],
+                    [
+                        110.944778331,
+                        -7.80206431512
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944778331,
+                        -7.80206431512
+                    ],
+                    [
+                        110.94480771,
+                        -7.80206177723
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94480771,
+                        -7.80206177723
+                    ],
+                    [
+                        110.94501922,
+                        -7.8019636594
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94501922,
+                        -7.8019636594
+                    ],
+                    [
+                        110.945402148,
+                        -7.80179181514
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945402148,
+                        -7.80179181514
+                    ],
+                    [
+                        110.945600956,
+                        -7.80179932088
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945600956,
+                        -7.80179932088
+                    ],
+                    [
+                        110.9458329,
+                        -7.80192097847
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9458329,
+                        -7.80192097847
+                    ],
+                    [
+                        110.946184376,
+                        -7.80221687881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946184376,
+                        -7.80221687881
+                    ],
+                    [
+                        110.946334011,
+                        -7.80238833096
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946334011,
+                        -7.80238833096
+                    ],
+                    [
+                        110.946542479,
+                        -7.802396236
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946542479,
+                        -7.802396236
+                    ],
+                    [
+                        110.946977666,
+                        -7.80245927577
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946977666,
+                        -7.80245927577
+                    ],
+                    [
+                        110.94711698,
+                        -7.80256573302
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94711698,
+                        -7.80256573302
+                    ],
+                    [
+                        110.947493956,
+                        -7.80284093906
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947493956,
+                        -7.80284093906
+                    ],
+                    [
+                        110.947829376,
+                        -7.80309181573
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947829376,
+                        -7.80309181573
+                    ],
+                    [
+                        110.947891966,
+                        -7.80325890527
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947891966,
+                        -7.80325890527
+                    ],
+                    [
+                        110.947944975,
+                        -7.80331148504
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947944975,
+                        -7.80331148504
+                    ],
+                    [
+                        110.9480415,
+                        -7.80330681126
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9480415,
+                        -7.80330681126
+                    ],
+                    [
+                        110.948155004,
+                        -7.80324041251
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948155004,
+                        -7.80324041251
+                    ],
+                    [
+                        110.948600849,
+                        -7.80293953713
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948600849,
+                        -7.80293953713
+                    ],
+                    [
+                        110.948984197,
+                        -7.80281273632
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948984197,
+                        -7.80281273632
+                    ],
+                    [
+                        110.949356069,
+                        -7.80277669779
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949356069,
+                        -7.80277669779
+                    ],
+                    [
+                        110.949464423,
+                        -7.8027662
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949464423,
+                        -7.8027662
+                    ],
+                    [
+                        110.949761328,
+                        -7.80289881673
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949761328,
+                        -7.80289881673
+                    ],
+                    [
+                        110.949935602,
+                        -7.80297665755
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949935602,
+                        -7.80297665755
+                    ],
+                    [
+                        110.950386618,
+                        -7.80311224114
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.950386618,
+                        -7.80311224114
+                    ],
+                    [
+                        110.950737216,
+                        -7.8032743979
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.950737216,
+                        -7.8032743979
+                    ],
+                    [
+                        110.95074576,
+                        -7.80327577386
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95074576,
+                        -7.80327577386
+                    ],
+                    [
+                        110.951012708,
+                        -7.80331887117
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.951012708,
+                        -7.80331887117
+                    ],
+                    [
+                        110.951862972,
+                        -7.80334149272
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.951862972,
+                        -7.80334149272
+                    ],
+                    [
+                        110.952138583,
+                        -7.80330169592
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952138583,
+                        -7.80330169592
+                    ],
+                    [
+                        110.95227464,
+                        -7.80318224526
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95227464,
+                        -7.80318224526
+                    ],
+                    [
+                        110.952499723,
+                        -7.80304217226
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952499723,
+                        -7.80304217226
+                    ],
+                    [
+                        110.952809631,
+                        -7.80297691475
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952809631,
+                        -7.80297691475
+                    ],
+                    [
+                        110.953017718,
+                        -7.80290877042
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953017718,
+                        -7.80290877042
+                    ],
+                    [
+                        110.953276617,
+                        -7.80274189762
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953276617,
+                        -7.80274189762
+                    ],
+                    [
+                        110.953582808,
+                        -7.80257248873
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953582808,
+                        -7.80257248873
+                    ],
+                    [
+                        110.954082345,
+                        -7.80251322161
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954082345,
+                        -7.80251322161
+                    ],
+                    [
+                        110.954396567,
+                        -7.80230450965
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954396567,
+                        -7.80230450965
+                    ],
+                    [
+                        110.95448091,
+                        -7.80214051287
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95448091,
+                        -7.80214051287
+                    ],
+                    [
+                        110.954590648,
+                        -7.80190089661
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954590648,
+                        -7.80190089661
+                    ],
+                    [
+                        110.954874125,
+                        -7.80175330167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954874125,
+                        -7.80175330167
+                    ],
+                    [
+                        110.956054985,
+                        -7.80141191723
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956054985,
+                        -7.80141191723
+                    ],
+                    [
+                        110.956439565,
+                        -7.801432518
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956439565,
+                        -7.801432518
+                    ],
+                    [
+                        110.956960053,
+                        -7.80136821107
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956960053,
+                        -7.80136821107
+                    ],
+                    [
+                        110.957007663,
+                        -7.80136232771
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957007663,
+                        -7.80136232771
+                    ],
+                    [
+                        110.957774881,
+                        -7.80106770711
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957774881,
+                        -7.80106770711
+                    ],
+                    [
+                        110.958084228,
+                        -7.80105414174
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958084228,
+                        -7.80105414174
+                    ],
+                    [
+                        110.958558547,
+                        -7.80109108588
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958558547,
+                        -7.80109108588
+                    ],
+                    [
+                        110.958737748,
+                        -7.80097626854
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958737748,
+                        -7.80097626854
+                    ],
+                    [
+                        110.958885553,
+                        -7.80080658715
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958885553,
+                        -7.80080658715
+                    ],
+                    [
+                        110.95913378,
+                        -7.80057115274
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95913378,
+                        -7.80057115274
+                    ],
+                    [
+                        110.95933676,
+                        -7.80066913657
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95933676,
+                        -7.80066913657
+                    ],
+                    [
+                        110.95941304,
+                        -7.80084972224
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95941304,
+                        -7.80084972224
+                    ],
+                    [
+                        110.959391089,
+                        -7.80105278556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959391089,
+                        -7.80105278556
+                    ],
+                    [
+                        110.959398688,
+                        -7.80134733061
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959398688,
+                        -7.80134733061
+                    ],
+                    [
+                        110.959509655,
+                        -7.8016102618
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959509655,
+                        -7.8016102618
+                    ],
+                    [
+                        110.959641795,
+                        -7.80173620736
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959641795,
+                        -7.80173620736
+                    ],
+                    [
+                        110.960032448,
+                        -7.8019042313
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.960032448,
+                        -7.8019042313
+                    ],
+                    [
+                        110.960337864,
+                        -7.80193979139
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.960337864,
+                        -7.80193979139
+                    ],
+                    [
+                        110.960808859,
+                        -7.80193760064
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.960808859,
+                        -7.80193760064
+                    ],
+                    [
+                        110.961020317,
+                        -7.8018755762
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.961020317,
+                        -7.8018755762
+                    ],
+                    [
+                        110.962038933,
+                        -7.80154587394
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.962038933,
+                        -7.80154587394
+                    ],
+                    [
+                        110.963154544,
+                        -7.80121957922
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.963154544,
+                        -7.80121957922
+                    ],
+                    [
+                        110.963756282,
+                        -7.801248523
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.963756282,
+                        -7.801248523
+                    ],
+                    [
+                        110.964001478,
+                        -7.80121218949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.964001478,
+                        -7.80121218949
+                    ],
+                    [
+                        110.964263708,
+                        -7.80107090959
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.964263708,
+                        -7.80107090959
+                    ],
+                    [
+                        110.964435246,
+                        -7.8009118474
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.964435246,
+                        -7.8009118474
+                    ],
+                    [
+                        110.964543431,
+                        -7.80084890745
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.964543431,
+                        -7.80084890745
+                    ],
+                    [
+                        110.964683009,
+                        -7.80076761683
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.964683009,
+                        -7.80076761683
+                    ],
+                    [
+                        110.965124669,
+                        -7.8004426621
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965124669,
+                        -7.8004426621
+                    ],
+                    [
+                        110.965162693,
+                        -7.80041468689
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "49",
+                "NAMA_SUNGAI": "Kali Cebong",
+                "FOTO": "sungai-49_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965162693,
+                        -7.80041468689
+                    ],
+                    [
+                        110.966056832,
+                        -7.79966494908
+                    ]
+                ]
+            }
+        }
+    ]
+}

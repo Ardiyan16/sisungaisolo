@@ -1,0 +1,4772 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01890589379,
+                        -7.8084725665557
+                    ],
+                    [
+                        111.01890474626,
+                        -7.8085660717667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01890474626,
+                        -7.8085660717667
+                    ],
+                    [
+                        111.01890226143,
+                        -7.8087677438362
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01890226143,
+                        -7.8087677438362
+                    ],
+                    [
+                        111.0189485927,
+                        -7.808972879195
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0189485927,
+                        -7.808972879195
+                    ],
+                    [
+                        111.01905387903,
+                        -7.8091412772481
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01905387903,
+                        -7.8091412772481
+                    ],
+                    [
+                        111.01923723821,
+                        -7.8094043703154
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01923723821,
+                        -7.8094043703154
+                    ],
+                    [
+                        111.01920667025,
+                        -7.8095805618934
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01920667025,
+                        -7.8095805618934
+                    ],
+                    [
+                        111.01919527764,
+                        -7.8099652468986
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01919527764,
+                        -7.8099652468986
+                    ],
+                    [
+                        111.01932669287,
+                        -7.8100714910065
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01932669287,
+                        -7.8100714910065
+                    ],
+                    [
+                        111.01947421316,
+                        -7.8100785848587
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01947421316,
+                        -7.8100785848587
+                    ],
+                    [
+                        111.01990954259,
+                        -7.8100653846097
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01990954259,
+                        -7.8100653846097
+                    ],
+                    [
+                        111.01997469578,
+                        -7.8100706465431
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01997469578,
+                        -7.8100706465431
+                    ],
+                    [
+                        111.02032829212,
+                        -7.8100475627448
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02032829212,
+                        -7.8100475627448
+                    ],
+                    [
+                        111.02058677346,
+                        -7.8099502471061
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02058677346,
+                        -7.8099502471061
+                    ],
+                    [
+                        111.02068140822,
+                        -7.8098422286359
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02068140822,
+                        -7.8098422286359
+                    ],
+                    [
+                        111.02071016224,
+                        -7.809693434904
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02071016224,
+                        -7.809693434904
+                    ],
+                    [
+                        111.02066103678,
+                        -7.8094830088338
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02066103678,
+                        -7.8094830088338
+                    ],
+                    [
+                        111.02053502197,
+                        -7.8091072774788
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02053502197,
+                        -7.8091072774788
+                    ],
+                    [
+                        111.02060889409,
+                        -7.8089831944188
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02060889409,
+                        -7.8089831944188
+                    ],
+                    [
+                        111.02072634285,
+                        -7.8089290147622
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02072634285,
+                        -7.8089290147622
+                    ],
+                    [
+                        111.02090902933,
+                        -7.8089725428485
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02090902933,
+                        -7.8089725428485
+                    ],
+                    [
+                        111.02116647375,
+                        -7.8089975682831
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02116647375,
+                        -7.8089975682831
+                    ],
+                    [
+                        111.02142336869,
+                        -7.8089373838532
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02142336869,
+                        -7.8089373838532
+                    ],
+                    [
+                        111.02151881015,
+                        -7.8088280074066
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02151881015,
+                        -7.8088280074066
+                    ],
+                    [
+                        111.02183021749,
+                        -7.8084209292824
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02183021749,
+                        -7.8084209292824
+                    ],
+                    [
+                        111.02202139717,
+                        -7.8081710067865
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02202139717,
+                        -7.8081710067865
+                    ],
+                    [
+                        111.02241912774,
+                        -7.8079741164123
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02241912774,
+                        -7.8079741164123
+                    ],
+                    [
+                        111.02245994347,
+                        -7.8078013422581
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02245994347,
+                        -7.8078013422581
+                    ],
+                    [
+                        111.02247814215,
+                        -7.807523360015
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02247814215,
+                        -7.807523360015
+                    ],
+                    [
+                        111.02243197725,
+                        -7.8072342369704
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02243197725,
+                        -7.8072342369704
+                    ],
+                    [
+                        111.02246246067,
+                        -7.8070279495802
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02246246067,
+                        -7.8070279495802
+                    ],
+                    [
+                        111.02240541848,
+                        -7.8068730998137
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02240541848,
+                        -7.8068730998137
+                    ],
+                    [
+                        111.02231409322,
+                        -7.8065899042007
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02231409322,
+                        -7.8065899042007
+                    ],
+                    [
+                        111.02232021581,
+                        -7.8064193306875
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02232021581,
+                        -7.8064193306875
+                    ],
+                    [
+                        111.0223961024,
+                        -7.8063393180051
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0223961024,
+                        -7.8063393180051
+                    ],
+                    [
+                        111.02256512278,
+                        -7.8062711862662
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02256512278,
+                        -7.8062711862662
+                    ],
+                    [
+                        111.02295248507,
+                        -7.8060996055123
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02295248507,
+                        -7.8060996055123
+                    ],
+                    [
+                        111.02319854228,
+                        -7.8059274357025
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02319854228,
+                        -7.8059274357025
+                    ],
+                    [
+                        111.02355997441,
+                        -7.8056291539622
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02355997441,
+                        -7.8056291539622
+                    ],
+                    [
+                        111.02372873489,
+                        -7.8056178557794
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02372873489,
+                        -7.8056178557794
+                    ],
+                    [
+                        111.0240668575,
+                        -7.8056715767818
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0240668575,
+                        -7.8056715767818
+                    ],
+                    [
+                        111.02425103056,
+                        -7.8056991374052
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02425103056,
+                        -7.8056991374052
+                    ],
+                    [
+                        111.02440229833,
+                        -7.8055981696198
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02440229833,
+                        -7.8055981696198
+                    ],
+                    [
+                        111.02443572343,
+                        -7.8054720082266
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02443572343,
+                        -7.8054720082266
+                    ],
+                    [
+                        111.02443338339,
+                        -7.8051562346724
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02443338339,
+                        -7.8051562346724
+                    ],
+                    [
+                        111.02446765026,
+                        -7.8050018057887
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02446765026,
+                        -7.8050018057887
+                    ],
+                    [
+                        111.02460033354,
+                        -7.8047578008318
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02460033354,
+                        -7.8047578008318
+                    ],
+                    [
+                        111.02478209102,
+                        -7.8045911330743
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02478209102,
+                        -7.8045911330743
+                    ],
+                    [
+                        111.02491692638,
+                        -7.8045585245562
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02491692638,
+                        -7.8045585245562
+                    ],
+                    [
+                        111.02505444621,
+                        -7.8046614654542
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02505444621,
+                        -7.8046614654542
+                    ],
+                    [
+                        111.02517671353,
+                        -7.8048246231578
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02517671353,
+                        -7.8048246231578
+                    ],
+                    [
+                        111.02526471759,
+                        -7.8049059020857
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02526471759,
+                        -7.8049059020857
+                    ],
+                    [
+                        111.02536695162,
+                        -7.8049739007249
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02536695162,
+                        -7.8049739007249
+                    ],
+                    [
+                        111.0255341275,
+                        -7.8051638852051
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0255341275,
+                        -7.8051638852051
+                    ],
+                    [
+                        111.02563899744,
+                        -7.8053076418341
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02563899744,
+                        -7.8053076418341
+                    ],
+                    [
+                        111.02576159392,
+                        -7.8053681041546
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02576159392,
+                        -7.8053681041546
+                    ],
+                    [
+                        111.02589826299,
+                        -7.8053473271174
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02589826299,
+                        -7.8053473271174
+                    ],
+                    [
+                        111.02601771185,
+                        -7.8052477272008
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02601771185,
+                        -7.8052477272008
+                    ],
+                    [
+                        111.02606559445,
+                        -7.805121636854
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02606559445,
+                        -7.805121636854
+                    ],
+                    [
+                        111.02614239386,
+                        -7.8050074580277
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02614239386,
+                        -7.8050074580277
+                    ],
+                    [
+                        111.02625418139,
+                        -7.8049511784541
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02625418139,
+                        -7.8049511784541
+                    ],
+                    [
+                        111.02671070603,
+                        -7.8048446195835
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02671070603,
+                        -7.8048446195835
+                    ],
+                    [
+                        111.02684515828,
+                        -7.8047728878585
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02684515828,
+                        -7.8047728878585
+                    ],
+                    [
+                        111.02697932004,
+                        -7.8047013018236
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02697932004,
+                        -7.8047013018236
+                    ],
+                    [
+                        111.02731449197,
+                        -7.804572696073
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02731449197,
+                        -7.804572696073
+                    ],
+                    [
+                        111.02747132654,
+                        -7.8044524782992
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02747132654,
+                        -7.8044524782992
+                    ],
+                    [
+                        111.02751219713,
+                        -7.8043188174594
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02751219713,
+                        -7.8043188174594
+                    ],
+                    [
+                        111.02748917269,
+                        -7.8041155814689
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02748917269,
+                        -7.8041155814689
+                    ],
+                    [
+                        111.02743845992,
+                        -7.8036822269532
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02743845992,
+                        -7.8036822269532
+                    ],
+                    [
+                        111.02752094484,
+                        -7.8035449805164
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02752094484,
+                        -7.8035449805164
+                    ],
+                    [
+                        111.02779117312,
+                        -7.8031385427095
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02779117312,
+                        -7.8031385427095
+                    ],
+                    [
+                        111.02788023029,
+                        -7.8030937969411
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02788023029,
+                        -7.8030937969411
+                    ],
+                    [
+                        111.02830309421,
+                        -7.8030097076319
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02830309421,
+                        -7.8030097076319
+                    ],
+                    [
+                        111.02843015223,
+                        -7.8029217755195
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02843015223,
+                        -7.8029217755195
+                    ],
+                    [
+                        111.02858612795,
+                        -7.8028606620898
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02858612795,
+                        -7.8028606620898
+                    ],
+                    [
+                        111.02860910203,
+                        -7.8028516598762
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02860910203,
+                        -7.8028516598762
+                    ],
+                    [
+                        111.02908592348,
+                        -7.8027510940877
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02908592348,
+                        -7.8027510940877
+                    ],
+                    [
+                        111.02937315974,
+                        -7.8026555438182
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02937315974,
+                        -7.8026555438182
+                    ],
+                    [
+                        111.02962041935,
+                        -7.8025000591303
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02962041935,
+                        -7.8025000591303
+                    ],
+                    [
+                        111.0296492732,
+                        -7.8023908490584
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0296492732,
+                        -7.8023908490584
+                    ],
+                    [
+                        111.02976074057,
+                        -7.8021863459231
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02976074057,
+                        -7.8021863459231
+                    ],
+                    [
+                        111.02992234514,
+                        -7.8020874474777
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02992234514,
+                        -7.8020874474777
+                    ],
+                    [
+                        111.03014274739,
+                        -7.8020477765835
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03014274739,
+                        -7.8020477765835
+                    ],
+                    [
+                        111.03051643189,
+                        -7.8019698755093
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03051643189,
+                        -7.8019698755093
+                    ],
+                    [
+                        111.03074029743,
+                        -7.8017934420137
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03074029743,
+                        -7.8017934420137
+                    ],
+                    [
+                        111.03082137221,
+                        -7.8017435952906
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03082137221,
+                        -7.8017435952906
+                    ],
+                    [
+                        111.03099146548,
+                        -7.8016390149285
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03099146548,
+                        -7.8016390149285
+                    ],
+                    [
+                        111.03139554527,
+                        -7.8014581720569
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03139554527,
+                        -7.8014581720569
+                    ],
+                    [
+                        111.03148539474,
+                        -7.8012177499991
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03148539474,
+                        -7.8012177499991
+                    ],
+                    [
+                        111.03150457727,
+                        -7.8009694642693
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03150457727,
+                        -7.8009694642693
+                    ],
+                    [
+                        111.03158722227,
+                        -7.8007021407911
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03158722227,
+                        -7.8007021407911
+                    ],
+                    [
+                        111.03172176805,
+                        -7.8005664016181
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03172176805,
+                        -7.8005664016181
+                    ],
+                    [
+                        111.0319233241,
+                        -7.8003291730528
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0319233241,
+                        -7.8003291730528
+                    ],
+                    [
+                        111.03197869986,
+                        -7.8001230457419
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03197869986,
+                        -7.8001230457419
+                    ],
+                    [
+                        111.03192310017,
+                        -7.8000053937339
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03192310017,
+                        -7.8000053937339
+                    ],
+                    [
+                        111.03188559305,
+                        -7.7998572834868
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03188559305,
+                        -7.7998572834868
+                    ],
+                    [
+                        111.03188077628,
+                        -7.7994938386697
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03188077628,
+                        -7.7994938386697
+                    ],
+                    [
+                        111.03191666192,
+                        -7.799192344551
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03191666192,
+                        -7.799192344551
+                    ],
+                    [
+                        111.03194447166,
+                        -7.7989587393543
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03194447166,
+                        -7.7989587393543
+                    ],
+                    [
+                        111.03188309293,
+                        -7.7984697186026
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03188309293,
+                        -7.7984697186026
+                    ],
+                    [
+                        111.03194824611,
+                        -7.7982668828104
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03194824611,
+                        -7.7982668828104
+                    ],
+                    [
+                        111.0320238755,
+                        -7.7979415602547
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0320238755,
+                        -7.7979415602547
+                    ],
+                    [
+                        111.03205489941,
+                        -7.7975232424037
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03205489941,
+                        -7.7975232424037
+                    ],
+                    [
+                        111.03198608599,
+                        -7.7972975944084
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03198608599,
+                        -7.7972975944084
+                    ],
+                    [
+                        111.03196323242,
+                        -7.7971071404821
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03196323242,
+                        -7.7971071404821
+                    ],
+                    [
+                        111.03202595473,
+                        -7.7968967521833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03202595473,
+                        -7.7968967521833
+                    ],
+                    [
+                        111.03221272414,
+                        -7.7967703524698
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03221272414,
+                        -7.7967703524698
+                    ],
+                    [
+                        111.03233559581,
+                        -7.7967706231657
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03233559581,
+                        -7.7967706231657
+                    ],
+                    [
+                        111.03255868074,
+                        -7.796865332569
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03255868074,
+                        -7.796865332569
+                    ],
+                    [
+                        111.03347945521,
+                        -7.7972341148625
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03347945521,
+                        -7.7972341148625
+                    ],
+                    [
+                        111.033919221,
+                        -7.7971732388538
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.033919221,
+                        -7.7971732388538
+                    ],
+                    [
+                        111.03405968701,
+                        -7.7970359240686
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03405968701,
+                        -7.7970359240686
+                    ],
+                    [
+                        111.03411195201,
+                        -7.7967384804965
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03411195201,
+                        -7.7967384804965
+                    ],
+                    [
+                        111.03417214903,
+                        -7.7963959449169
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03417214903,
+                        -7.7963959449169
+                    ],
+                    [
+                        111.03429331738,
+                        -7.7963013353383
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03429331738,
+                        -7.7963013353383
+                    ],
+                    [
+                        111.03443891762,
+                        -7.7962904958097
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03443891762,
+                        -7.7962904958097
+                    ],
+                    [
+                        111.03468734814,
+                        -7.7963212220467
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03468734814,
+                        -7.7963212220467
+                    ],
+                    [
+                        111.03479056603,
+                        -7.7964443248457
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03479056603,
+                        -7.7964443248457
+                    ],
+                    [
+                        111.03481932185,
+                        -7.7965957374033
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03481932185,
+                        -7.7965957374033
+                    ],
+                    [
+                        111.03479433959,
+                        -7.7969952855039
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03479433959,
+                        -7.7969952855039
+                    ],
+                    [
+                        111.03488725844,
+                        -7.7970643768195
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03488725844,
+                        -7.7970643768195
+                    ],
+                    [
+                        111.03524346821,
+                        -7.7971913574951
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03524346821,
+                        -7.7971913574951
+                    ],
+                    [
+                        111.03551495735,
+                        -7.7972450479206
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03551495735,
+                        -7.7972450479206
+                    ],
+                    [
+                        111.03570506324,
+                        -7.7972161221263
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03570506324,
+                        -7.7972161221263
+                    ],
+                    [
+                        111.0359571522,
+                        -7.7970649838618
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0359571522,
+                        -7.7970649838618
+                    ],
+                    [
+                        111.03604259949,
+                        -7.7969404817178
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03604259949,
+                        -7.7969404817178
+                    ],
+                    [
+                        111.0364198408,
+                        -7.7963097601872
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0364198408,
+                        -7.7963097601872
+                    ],
+                    [
+                        111.03660730268,
+                        -7.7962379763015
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03660730268,
+                        -7.7962379763015
+                    ],
+                    [
+                        111.0367347564,
+                        -7.7961551343519
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0367347564,
+                        -7.7961551343519
+                    ],
+                    [
+                        111.03678976434,
+                        -7.7960210184552
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03678976434,
+                        -7.7960210184552
+                    ],
+                    [
+                        111.03676770397,
+                        -7.7958946619091
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03676770397,
+                        -7.7958946619091
+                    ],
+                    [
+                        111.03665252959,
+                        -7.7957620811551
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03665252959,
+                        -7.7957620811551
+                    ],
+                    [
+                        111.03636282558,
+                        -7.7955586239313
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03636282558,
+                        -7.7955586239313
+                    ],
+                    [
+                        111.03613168003,
+                        -7.7953949814931
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03613168003,
+                        -7.7953949814931
+                    ],
+                    [
+                        111.03601947522,
+                        -7.795191816549
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03601947522,
+                        -7.795191816549
+                    ],
+                    [
+                        111.03603483564,
+                        -7.7950358866968
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03603483564,
+                        -7.7950358866968
+                    ],
+                    [
+                        111.03617738898,
+                        -7.7947179295887
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03617738898,
+                        -7.7947179295887
+                    ],
+                    [
+                        111.03630133714,
+                        -7.794689225927
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03630133714,
+                        -7.794689225927
+                    ],
+                    [
+                        111.03649583801,
+                        -7.7947319590127
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03649583801,
+                        -7.7947319590127
+                    ],
+                    [
+                        111.03690412393,
+                        -7.7948390062151
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03690412393,
+                        -7.7948390062151
+                    ],
+                    [
+                        111.03720094787,
+                        -7.7948266774092
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03720094787,
+                        -7.7948266774092
+                    ],
+                    [
+                        111.03795539453,
+                        -7.794673576824
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03795539453,
+                        -7.794673576824
+                    ],
+                    [
+                        111.03807068761,
+                        -7.7945199897057
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03807068761,
+                        -7.7945199897057
+                    ],
+                    [
+                        111.03830187093,
+                        -7.7941053527797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03830187093,
+                        -7.7941053527797
+                    ],
+                    [
+                        111.03829965321,
+                        -7.7936576118093
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03829965321,
+                        -7.7936576118093
+                    ],
+                    [
+                        111.03843318544,
+                        -7.7934949046661
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03843318544,
+                        -7.7934949046661
+                    ],
+                    [
+                        111.03856179569,
+                        -7.7934795604333
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03856179569,
+                        -7.7934795604333
+                    ],
+                    [
+                        111.0387088996,
+                        -7.7935529433136
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0387088996,
+                        -7.7935529433136
+                    ],
+                    [
+                        111.03911183724,
+                        -7.7937955102545
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03911183724,
+                        -7.7937955102545
+                    ],
+                    [
+                        111.03939628741,
+                        -7.7938658867013
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03939628741,
+                        -7.7938658867013
+                    ],
+                    [
+                        111.0399640474,
+                        -7.7944117284185
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0399640474,
+                        -7.7944117284185
+                    ],
+                    [
+                        111.04013989454,
+                        -7.7943995641885
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04013989454,
+                        -7.7943995641885
+                    ],
+                    [
+                        111.04022173105,
+                        -7.7942792762676
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04022173105,
+                        -7.7942792762676
+                    ],
+                    [
+                        111.04029468675,
+                        -7.7940519708217
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04029468675,
+                        -7.7940519708217
+                    ],
+                    [
+                        111.04021272883,
+                        -7.7938470584949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04021272883,
+                        -7.7938470584949
+                    ],
+                    [
+                        111.04014431921,
+                        -7.7936148724283
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04014431921,
+                        -7.7936148724283
+                    ],
+                    [
+                        111.04015488804,
+                        -7.7934532615587
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04015488804,
+                        -7.7934532615587
+                    ],
+                    [
+                        111.04025072519,
+                        -7.7932133350274
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04025072519,
+                        -7.7932133350274
+                    ],
+                    [
+                        111.04094744617,
+                        -7.7924919600359
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04094744617,
+                        -7.7924919600359
+                    ],
+                    [
+                        111.04119856206,
+                        -7.7924512935923
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04119856206,
+                        -7.7924512935923
+                    ],
+                    [
+                        111.04128289059,
+                        -7.79250878815
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04128289059,
+                        -7.79250878815
+                    ],
+                    [
+                        111.04136677306,
+                        -7.7926335915669
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04136677306,
+                        -7.7926335915669
+                    ],
+                    [
+                        111.04155013673,
+                        -7.7928701627278
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04155013673,
+                        -7.7928701627278
+                    ],
+                    [
+                        111.04165916064,
+                        -7.7929013413238
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04165916064,
+                        -7.7929013413238
+                    ],
+                    [
+                        111.04172811256,
+                        -7.7928380245551
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04172811256,
+                        -7.7928380245551
+                    ],
+                    [
+                        111.04179634682,
+                        -7.7926620703982
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04179634682,
+                        -7.7926620703982
+                    ],
+                    [
+                        111.0418301991,
+                        -7.7924180879244
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0418301991,
+                        -7.7924180879244
+                    ],
+                    [
+                        111.04180894992,
+                        -7.7920720584787
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04180894992,
+                        -7.7920720584787
+                    ],
+                    [
+                        111.04181852411,
+                        -7.7916714986407
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04181852411,
+                        -7.7916714986407
+                    ],
+                    [
+                        111.04189884526,
+                        -7.7915594602009
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04189884526,
+                        -7.7915594602009
+                    ],
+                    [
+                        111.04200485194,
+                        -7.7915272833574
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04200485194,
+                        -7.7915272833574
+                    ],
+                    [
+                        111.04229486442,
+                        -7.7914532790455
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04229486442,
+                        -7.7914532790455
+                    ],
+                    [
+                        111.04248399544,
+                        -7.791325843313
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04248399544,
+                        -7.791325843313
+                    ],
+                    [
+                        111.042634747,
+                        -7.7911476201665
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.042634747,
+                        -7.7911476201665
+                    ],
+                    [
+                        111.04324245667,
+                        -7.7904209400743
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04324245667,
+                        -7.7904209400743
+                    ],
+                    [
+                        111.0433695003,
+                        -7.790437769987
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0433695003,
+                        -7.790437769987
+                    ],
+                    [
+                        111.04363576258,
+                        -7.7904965667631
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04363576258,
+                        -7.7904965667631
+                    ],
+                    [
+                        111.04384362828,
+                        -7.7905093812029
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04384362828,
+                        -7.7905093812029
+                    ],
+                    [
+                        111.04404620327,
+                        -7.7904076507924
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04404620327,
+                        -7.7904076507924
+                    ],
+                    [
+                        111.04426697334,
+                        -7.7902323774222
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04426697334,
+                        -7.7902323774222
+                    ],
+                    [
+                        111.04429719146,
+                        -7.7902083853087
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04429719146,
+                        -7.7902083853087
+                    ],
+                    [
+                        111.04454859064,
+                        -7.7902088565534
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04454859064,
+                        -7.7902088565534
+                    ],
+                    [
+                        111.04473166473,
+                        -7.7902712434231
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04473166473,
+                        -7.7902712434231
+                    ],
+                    [
+                        111.04481364783,
+                        -7.790365960021
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04481364783,
+                        -7.790365960021
+                    ],
+                    [
+                        111.04494181022,
+                        -7.790490677103
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04494181022,
+                        -7.790490677103
+                    ],
+                    [
+                        111.045066664,
+                        -7.7904694701899
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.045066664,
+                        -7.7904694701899
+                    ],
+                    [
+                        111.04538969148,
+                        -7.7904097075419
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04538969148,
+                        -7.7904097075419
+                    ],
+                    [
+                        111.04566445955,
+                        -7.7903629212118
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04566445955,
+                        -7.7903629212118
+                    ],
+                    [
+                        111.04590795459,
+                        -7.7903256533062
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04590795459,
+                        -7.7903256533062
+                    ],
+                    [
+                        111.04589694419,
+                        -7.7902428509268
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04589694419,
+                        -7.7902428509268
+                    ],
+                    [
+                        111.04590805082,
+                        -7.790043537779
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04590805082,
+                        -7.790043537779
+                    ],
+                    [
+                        111.04597162119,
+                        -7.7898746307096
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04597162119,
+                        -7.7898746307096
+                    ],
+                    [
+                        111.04645509223,
+                        -7.7892197282079
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04645509223,
+                        -7.7892197282079
+                    ],
+                    [
+                        111.04665323176,
+                        -7.7891275854697
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04665323176,
+                        -7.7891275854697
+                    ],
+                    [
+                        111.04665049512,
+                        -7.7890639494416
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04665049512,
+                        -7.7890639494416
+                    ],
+                    [
+                        111.04649998549,
+                        -7.7889489783126
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04649998549,
+                        -7.7889489783126
+                    ],
+                    [
+                        111.04629593021,
+                        -7.7887717417224
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04629593021,
+                        -7.7887717417224
+                    ],
+                    [
+                        111.04635289507,
+                        -7.7886621926061
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04635289507,
+                        -7.7886621926061
+                    ],
+                    [
+                        111.04649471726,
+                        -7.7885461854581
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04649471726,
+                        -7.7885461854581
+                    ],
+                    [
+                        111.04666593469,
+                        -7.7885138737162
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04666593469,
+                        -7.7885138737162
+                    ],
+                    [
+                        111.04701218896,
+                        -7.7885437581879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04701218896,
+                        -7.7885437581879
+                    ],
+                    [
+                        111.04725505538,
+                        -7.7886533918405
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04725505538,
+                        -7.7886533918405
+                    ],
+                    [
+                        111.04736514588,
+                        -7.7886581735359
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04736514588,
+                        -7.7886581735359
+                    ],
+                    [
+                        111.04757453773,
+                        -7.7885419586444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04757453773,
+                        -7.7885419586444
+                    ],
+                    [
+                        111.04794732831,
+                        -7.7882318679063
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04794732831,
+                        -7.7882318679063
+                    ],
+                    [
+                        111.04797906988,
+                        -7.7880477407106
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04797906988,
+                        -7.7880477407106
+                    ],
+                    [
+                        111.04793807338,
+                        -7.7878755250354
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04793807338,
+                        -7.7878755250354
+                    ],
+                    [
+                        111.04779249563,
+                        -7.7877365465044
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04779249563,
+                        -7.7877365465044
+                    ],
+                    [
+                        111.04741117589,
+                        -7.7875307105738
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04741117589,
+                        -7.7875307105738
+                    ],
+                    [
+                        111.04740779174,
+                        -7.7875217371384
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04740779174,
+                        -7.7875217371384
+                    ],
+                    [
+                        111.04734225184,
+                        -7.7873480052062
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04734225184,
+                        -7.7873480052062
+                    ],
+                    [
+                        111.04734500287,
+                        -7.7872099232993
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04734500287,
+                        -7.7872099232993
+                    ],
+                    [
+                        111.04741325422,
+                        -7.7870613049352
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04741325422,
+                        -7.7870613049352
+                    ],
+                    [
+                        111.04755409704,
+                        -7.7869536363012
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04755409704,
+                        -7.7869536363012
+                    ],
+                    [
+                        111.04767944815,
+                        -7.7869262051802
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04767944815,
+                        -7.7869262051802
+                    ],
+                    [
+                        111.04789131223,
+                        -7.7868697997014
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04789131223,
+                        -7.7868697997014
+                    ],
+                    [
+                        111.04790323275,
+                        -7.7867322411999
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04790323275,
+                        -7.7867322411999
+                    ],
+                    [
+                        111.04794249445,
+                        -7.786315504357
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04794249445,
+                        -7.786315504357
+                    ],
+                    [
+                        111.04815038173,
+                        -7.7862211438907
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04815038173,
+                        -7.7862211438907
+                    ],
+                    [
+                        111.04835415642,
+                        -7.786092970714
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04835415642,
+                        -7.786092970714
+                    ],
+                    [
+                        111.04862058777,
+                        -7.7859041031917
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04862058777,
+                        -7.7859041031917
+                    ],
+                    [
+                        111.04875049484,
+                        -7.7857481238768
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04875049484,
+                        -7.7857481238768
+                    ],
+                    [
+                        111.04886541561,
+                        -7.7854889527529
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04886541561,
+                        -7.7854889527529
+                    ],
+                    [
+                        111.04893200411,
+                        -7.7851626418424
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04893200411,
+                        -7.7851626418424
+                    ],
+                    [
+                        111.04910837105,
+                        -7.7849727526904
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04910837105,
+                        -7.7849727526904
+                    ],
+                    [
+                        111.04928746924,
+                        -7.7848694943316
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04928746924,
+                        -7.7848694943316
+                    ],
+                    [
+                        111.0496312324,
+                        -7.784717070936
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "45",
+                "NAMA_SUNGAI": "Kali Gando",
+                "FOTO": "sungai-45_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0496312324,
+                        -7.784717070936
+                    ],
+                    [
+                        111.04983247819,
+                        -7.7845321460417
+                    ]
+                ]
+            }
+        }
+    ]
+}

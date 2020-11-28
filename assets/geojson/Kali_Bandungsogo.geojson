@@ -1,0 +1,6389 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04585514957,
+                        -7.4124011553816
+                    ],
+                    [
+                        111.04552208357,
+                        -7.4120261417133
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04552208357,
+                        -7.4120261417133
+                    ],
+                    [
+                        111.04550162965,
+                        -7.4118391761841
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04550162965,
+                        -7.4118391761841
+                    ],
+                    [
+                        111.04556438293,
+                        -7.411390516213
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04556438293,
+                        -7.411390516213
+                    ],
+                    [
+                        111.04564002697,
+                        -7.4112525600211
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04564002697,
+                        -7.4112525600211
+                    ],
+                    [
+                        111.04574715437,
+                        -7.4110481772752
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04574715437,
+                        -7.4110481772752
+                    ],
+                    [
+                        111.0457734165,
+                        -7.4108785296517
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0457734165,
+                        -7.4108785296517
+                    ],
+                    [
+                        111.04575771476,
+                        -7.4106403644106
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04575771476,
+                        -7.4106403644106
+                    ],
+                    [
+                        111.04575341012,
+                        -7.4102868640484
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04575341012,
+                        -7.4102868640484
+                    ],
+                    [
+                        111.04583392793,
+                        -7.4101364241134
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04583392793,
+                        -7.4101364241134
+                    ],
+                    [
+                        111.04596451082,
+                        -7.4100540667306
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04596451082,
+                        -7.4100540667306
+                    ],
+                    [
+                        111.04627494099,
+                        -7.4100140430804
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04627494099,
+                        -7.4100140430804
+                    ],
+                    [
+                        111.04634579285,
+                        -7.4098955085933
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04634579285,
+                        -7.4098955085933
+                    ],
+                    [
+                        111.04655998816,
+                        -7.4093650314852
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04655998816,
+                        -7.4093650314852
+                    ],
+                    [
+                        111.0467004021,
+                        -7.4090172962204
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0467004021,
+                        -7.4090172962204
+                    ],
+                    [
+                        111.04686173758,
+                        -7.4089064591668
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04686173758,
+                        -7.4089064591668
+                    ],
+                    [
+                        111.04707088012,
+                        -7.408763323495
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04707088012,
+                        -7.408763323495
+                    ],
+                    [
+                        111.04715747605,
+                        -7.4085969258804
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04715747605,
+                        -7.4085969258804
+                    ],
+                    [
+                        111.04739817961,
+                        -7.4081870531957
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04739817961,
+                        -7.4081870531957
+                    ],
+                    [
+                        111.04756500654,
+                        -7.4079956534028
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04756500654,
+                        -7.4079956534028
+                    ],
+                    [
+                        111.04774630991,
+                        -7.4076801436112
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04774630991,
+                        -7.4076801436112
+                    ],
+                    [
+                        111.04773685375,
+                        -7.4074687261743
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04773685375,
+                        -7.4074687261743
+                    ],
+                    [
+                        111.04766778895,
+                        -7.4070916593719
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04766778895,
+                        -7.4070916593719
+                    ],
+                    [
+                        111.04761086766,
+                        -7.4070568934043
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04761086766,
+                        -7.4070568934043
+                    ],
+                    [
+                        111.04735976468,
+                        -7.4069837758398
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04735976468,
+                        -7.4069837758398
+                    ],
+                    [
+                        111.04722421507,
+                        -7.4069623245522
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04722421507,
+                        -7.4069623245522
+                    ],
+                    [
+                        111.04683046156,
+                        -7.4069000043905
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04683046156,
+                        -7.4069000043905
+                    ],
+                    [
+                        111.04662927296,
+                        -7.4068406398227
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04662927296,
+                        -7.4068406398227
+                    ],
+                    [
+                        111.04654292165,
+                        -7.4067460840537
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04654292165,
+                        -7.4067460840537
+                    ],
+                    [
+                        111.0463043859,
+                        -7.4064809041268
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0463043859,
+                        -7.4064809041268
+                    ],
+                    [
+                        111.04610434543,
+                        -7.4063927283227
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04610434543,
+                        -7.4063927283227
+                    ],
+                    [
+                        111.04583958915,
+                        -7.4063417282928
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04583958915,
+                        -7.4063417282928
+                    ],
+                    [
+                        111.04553364353,
+                        -7.4062584478535
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04553364353,
+                        -7.4062584478535
+                    ],
+                    [
+                        111.04557705673,
+                        -7.406149676696
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04557705673,
+                        -7.406149676696
+                    ],
+                    [
+                        111.04566460107,
+                        -7.4057766912396
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04566460107,
+                        -7.4057766912396
+                    ],
+                    [
+                        111.04560790224,
+                        -7.4056990659811
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04560790224,
+                        -7.4056990659811
+                    ],
+                    [
+                        111.04537760133,
+                        -7.4055770345071
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04537760133,
+                        -7.4055770345071
+                    ],
+                    [
+                        111.04516248059,
+                        -7.4055585667573
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04516248059,
+                        -7.4055585667573
+                    ],
+                    [
+                        111.04492911978,
+                        -7.4055537146757
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04492911978,
+                        -7.4055537146757
+                    ],
+                    [
+                        111.04478469161,
+                        -7.4054572286106
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04478469161,
+                        -7.4054572286106
+                    ],
+                    [
+                        111.04456415636,
+                        -7.4052117386261
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04456415636,
+                        -7.4052117386261
+                    ],
+                    [
+                        111.04433132658,
+                        -7.4051687400301
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04433132658,
+                        -7.4051687400301
+                    ],
+                    [
+                        111.04416451422,
+                        -7.4052369348136
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04416451422,
+                        -7.4052369348136
+                    ],
+                    [
+                        111.04406083943,
+                        -7.4053439478747
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04406083943,
+                        -7.4053439478747
+                    ],
+                    [
+                        111.04376502504,
+                        -7.4056189694227
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04376502504,
+                        -7.4056189694227
+                    ],
+                    [
+                        111.04288878373,
+                        -7.4060129269828
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04288878373,
+                        -7.4060129269828
+                    ],
+                    [
+                        111.04274978135,
+                        -7.4060780520308
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04274978135,
+                        -7.4060780520308
+                    ],
+                    [
+                        111.04265575155,
+                        -7.4060353377264
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04265575155,
+                        -7.4060353377264
+                    ],
+                    [
+                        111.04251446348,
+                        -7.4058898404698
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04251446348,
+                        -7.4058898404698
+                    ],
+                    [
+                        111.0423997094,
+                        -7.4056583783848
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0423997094,
+                        -7.4056583783848
+                    ],
+                    [
+                        111.04232309152,
+                        -7.4056576620093
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04232309152,
+                        -7.4056576620093
+                    ],
+                    [
+                        111.04203452483,
+                        -7.4057363516361
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04203452483,
+                        -7.4057363516361
+                    ],
+                    [
+                        111.04194290753,
+                        -7.4056179688179
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04194290753,
+                        -7.4056179688179
+                    ],
+                    [
+                        111.04172114354,
+                        -7.4052993512691
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04172114354,
+                        -7.4052993512691
+                    ],
+                    [
+                        111.04163856633,
+                        -7.4052371238785
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04163856633,
+                        -7.4052371238785
+                    ],
+                    [
+                        111.04151346071,
+                        -7.4052580404073
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04151346071,
+                        -7.4052580404073
+                    ],
+                    [
+                        111.04141899673,
+                        -7.4052206900397
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04141899673,
+                        -7.4052206900397
+                    ],
+                    [
+                        111.04138384024,
+                        -7.4051599326541
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04138384024,
+                        -7.4051599326541
+                    ],
+                    [
+                        111.04139663778,
+                        -7.405086787107
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04139663778,
+                        -7.405086787107
+                    ],
+                    [
+                        111.04171001333,
+                        -7.404407201004
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04171001333,
+                        -7.404407201004
+                    ],
+                    [
+                        111.04165599542,
+                        -7.4042092205773
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04165599542,
+                        -7.4042092205773
+                    ],
+                    [
+                        111.04151708127,
+                        -7.4039542052312
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04151708127,
+                        -7.4039542052312
+                    ],
+                    [
+                        111.04150271775,
+                        -7.4039482092025
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04150271775,
+                        -7.4039482092025
+                    ],
+                    [
+                        111.04135909169,
+                        -7.4038882669812
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04135909169,
+                        -7.4038882669812
+                    ],
+                    [
+                        111.04127728388,
+                        -7.4039109433519
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04127728388,
+                        -7.4039109433519
+                    ],
+                    [
+                        111.04103124705,
+                        -7.4040100357174
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04103124705,
+                        -7.4040100357174
+                    ],
+                    [
+                        111.04077004022,
+                        -7.4040057629472
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04077004022,
+                        -7.4040057629472
+                    ],
+                    [
+                        111.03943568082,
+                        -7.4036993750978
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03943568082,
+                        -7.4036993750978
+                    ],
+                    [
+                        111.03899660006,
+                        -7.4040029728162
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03899660006,
+                        -7.4040029728162
+                    ],
+                    [
+                        111.03836249214,
+                        -7.404221022691
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03836249214,
+                        -7.404221022691
+                    ],
+                    [
+                        111.03813166422,
+                        -7.4042614772524
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03813166422,
+                        -7.4042614772524
+                    ],
+                    [
+                        111.03777528,
+                        -7.4042442391832
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03777528,
+                        -7.4042442391832
+                    ],
+                    [
+                        111.03769147785,
+                        -7.4041544666871
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03769147785,
+                        -7.4041544666871
+                    ],
+                    [
+                        111.03740582023,
+                        -7.4034815644173
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03740582023,
+                        -7.4034815644173
+                    ],
+                    [
+                        111.03726352853,
+                        -7.4029007905268
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03726352853,
+                        -7.4029007905268
+                    ],
+                    [
+                        111.03713635507,
+                        -7.4030037785756
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03713635507,
+                        -7.4030037785756
+                    ],
+                    [
+                        111.03711138082,
+                        -7.4031123393462
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03711138082,
+                        -7.4031123393462
+                    ],
+                    [
+                        111.0370638522,
+                        -7.4032261304665
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0370638522,
+                        -7.4032261304665
+                    ],
+                    [
+                        111.03683235163,
+                        -7.4034551894138
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03683235163,
+                        -7.4034551894138
+                    ],
+                    [
+                        111.03661826106,
+                        -7.4036049874789
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03661826106,
+                        -7.4036049874789
+                    ],
+                    [
+                        111.0365333826,
+                        -7.403645890526
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0365333826,
+                        -7.403645890526
+                    ],
+                    [
+                        111.03642933013,
+                        -7.4036960308907
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03642933013,
+                        -7.4036960308907
+                    ],
+                    [
+                        111.03634742955,
+                        -7.4038058174518
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03634742955,
+                        -7.4038058174518
+                    ],
+                    [
+                        111.03630349015,
+                        -7.403821289359
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03630349015,
+                        -7.403821289359
+                    ],
+                    [
+                        111.03617956967,
+                        -7.4038164599371
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03617956967,
+                        -7.4038164599371
+                    ],
+                    [
+                        111.03601021797,
+                        -7.4037572146024
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03601021797,
+                        -7.4037572146024
+                    ],
+                    [
+                        111.03581801465,
+                        -7.4036125786562
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03581801465,
+                        -7.4036125786562
+                    ],
+                    [
+                        111.0357778929,
+                        -7.4035482119426
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0357778929,
+                        -7.4035482119426
+                    ],
+                    [
+                        111.03566224045,
+                        -7.4033626827395
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03566224045,
+                        -7.4033626827395
+                    ],
+                    [
+                        111.03556550369,
+                        -7.4032226342954
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03556550369,
+                        -7.4032226342954
+                    ],
+                    [
+                        111.03553730014,
+                        -7.4031817947425
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03553730014,
+                        -7.4031817947425
+                    ],
+                    [
+                        111.03539212758,
+                        -7.4031471789637
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03539212758,
+                        -7.4031471789637
+                    ],
+                    [
+                        111.03496473047,
+                        -7.4030571526934
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03496473047,
+                        -7.4030571526934
+                    ],
+                    [
+                        111.03488462315,
+                        -7.4029270169937
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03488462315,
+                        -7.4029270169937
+                    ],
+                    [
+                        111.0348521395,
+                        -7.4027322543321
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0348521395,
+                        -7.4027322543321
+                    ],
+                    [
+                        111.03477625078,
+                        -7.4025476444487
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03477625078,
+                        -7.4025476444487
+                    ],
+                    [
+                        111.03477036047,
+                        -7.402545582465
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03477036047,
+                        -7.402545582465
+                    ],
+                    [
+                        111.03458492437,
+                        -7.402480711347
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03458492437,
+                        -7.402480711347
+                    ],
+                    [
+                        111.03426953577,
+                        -7.4025629982624
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03426953577,
+                        -7.4025629982624
+                    ],
+                    [
+                        111.03407929321,
+                        -7.4025668844603
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03407929321,
+                        -7.4025668844603
+                    ],
+                    [
+                        111.03380155936,
+                        -7.4025725682934
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03380155936,
+                        -7.4025725682934
+                    ],
+                    [
+                        111.03362186935,
+                        -7.4025183070661
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03362186935,
+                        -7.4025183070661
+                    ],
+                    [
+                        111.03353596939,
+                        -7.4023529833774
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03353596939,
+                        -7.4023529833774
+                    ],
+                    [
+                        111.03358858724,
+                        -7.4021825293234
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03358858724,
+                        -7.4021825293234
+                    ],
+                    [
+                        111.03368836203,
+                        -7.4018868687203
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03368836203,
+                        -7.4018868687203
+                    ],
+                    [
+                        111.03368740902,
+                        -7.401866814244
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03368740902,
+                        -7.401866814244
+                    ],
+                    [
+                        111.03367903159,
+                        -7.401689842759
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03367903159,
+                        -7.401689842759
+                    ],
+                    [
+                        111.03360983128,
+                        -7.401507439336
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03360983128,
+                        -7.401507439336
+                    ],
+                    [
+                        111.03344038805,
+                        -7.4012994166705
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03344038805,
+                        -7.4012994166705
+                    ],
+                    [
+                        111.03326266799,
+                        -7.401164041414
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03326266799,
+                        -7.401164041414
+                    ],
+                    [
+                        111.0331425987,
+                        -7.4011483016152
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0331425987,
+                        -7.4011483016152
+                    ],
+                    [
+                        111.03302588768,
+                        -7.4012054074007
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03302588768,
+                        -7.4012054074007
+                    ],
+                    [
+                        111.03275218619,
+                        -7.4013210058509
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03275218619,
+                        -7.4013210058509
+                    ],
+                    [
+                        111.03250820018,
+                        -7.4013421547188
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03250820018,
+                        -7.4013421547188
+                    ],
+                    [
+                        111.03206018431,
+                        -7.4013000518219
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03206018431,
+                        -7.4013000518219
+                    ],
+                    [
+                        111.03183937523,
+                        -7.4012792984875
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03183937523,
+                        -7.4012792984875
+                    ],
+                    [
+                        111.0314865827,
+                        -7.4012708024097
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0314865827,
+                        -7.4012708024097
+                    ],
+                    [
+                        111.03110142137,
+                        -7.4012587714032
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03110142137,
+                        -7.4012587714032
+                    ],
+                    [
+                        111.03005065591,
+                        -7.4013695098877
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03005065591,
+                        -7.4013695098877
+                    ],
+                    [
+                        111.02972201443,
+                        -7.4013838695323
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02972201443,
+                        -7.4013838695323
+                    ],
+                    [
+                        111.02901258783,
+                        -7.4013781541137
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02901258783,
+                        -7.4013781541137
+                    ],
+                    [
+                        111.0284756783,
+                        -7.4013643034402
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0284756783,
+                        -7.4013643034402
+                    ],
+                    [
+                        111.02841842592,
+                        -7.4013603812161
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02841842592,
+                        -7.4013603812161
+                    ],
+                    [
+                        111.02778456635,
+                        -7.4013715294422
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02778456635,
+                        -7.4013715294422
+                    ],
+                    [
+                        111.02788903524,
+                        -7.4015960759803
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02788903524,
+                        -7.4015960759803
+                    ],
+                    [
+                        111.02746647387,
+                        -7.4015520129764
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02746647387,
+                        -7.4015520129764
+                    ],
+                    [
+                        111.02743139817,
+                        -7.4014431850562
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02743139817,
+                        -7.4014431850562
+                    ],
+                    [
+                        111.02745169482,
+                        -7.4012696400346
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02745169482,
+                        -7.4012696400346
+                    ],
+                    [
+                        111.0274576881,
+                        -7.4011792087507
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0274576881,
+                        -7.4011792087507
+                    ],
+                    [
+                        111.02746479493,
+                        -7.4010718526961
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02746479493,
+                        -7.4010718526961
+                    ],
+                    [
+                        111.0273894603,
+                        -7.4008542604867
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0273894603,
+                        -7.4008542604867
+                    ],
+                    [
+                        111.02724247579,
+                        -7.4006559040306
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02724247579,
+                        -7.4006559040306
+                    ],
+                    [
+                        111.02710006683,
+                        -7.4004450730796
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02710006683,
+                        -7.4004450730796
+                    ],
+                    [
+                        111.02710373825,
+                        -7.4003198879532
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02710373825,
+                        -7.4003198879532
+                    ],
+                    [
+                        111.02708116373,
+                        -7.4001424920315
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02708116373,
+                        -7.4001424920315
+                    ],
+                    [
+                        111.02667259604,
+                        -7.3999626498719
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02667259604,
+                        -7.3999626498719
+                    ],
+                    [
+                        111.02652881363,
+                        -7.3999612382628
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02652881363,
+                        -7.3999612382628
+                    ],
+                    [
+                        111.02605153167,
+                        -7.3999416189292
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02605153167,
+                        -7.3999416189292
+                    ],
+                    [
+                        111.02595574528,
+                        -7.3998729939896
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02595574528,
+                        -7.3998729939896
+                    ],
+                    [
+                        111.02580724926,
+                        -7.3996890471048
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02580724926,
+                        -7.3996890471048
+                    ],
+                    [
+                        111.02561923519,
+                        -7.3995040440829
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02561923519,
+                        -7.3995040440829
+                    ],
+                    [
+                        111.02551207947,
+                        -7.3994868451068
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02551207947,
+                        -7.3994868451068
+                    ],
+                    [
+                        111.02543352611,
+                        -7.3995324766422
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02543352611,
+                        -7.3995324766422
+                    ],
+                    [
+                        111.02505633093,
+                        -7.3998283230018
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02505633093,
+                        -7.3998283230018
+                    ],
+                    [
+                        111.02491663589,
+                        -7.3998354589291
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02491663589,
+                        -7.3998354589291
+                    ],
+                    [
+                        111.02473982705,
+                        -7.3997338843785
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02473982705,
+                        -7.3997338843785
+                    ],
+                    [
+                        111.02461441321,
+                        -7.3995759786871
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02461441321,
+                        -7.3995759786871
+                    ],
+                    [
+                        111.02434570962,
+                        -7.3991417133386
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02434570962,
+                        -7.3991417133386
+                    ],
+                    [
+                        111.02422840627,
+                        -7.3991490739712
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02422840627,
+                        -7.3991490739712
+                    ],
+                    [
+                        111.02383995843,
+                        -7.3991533193101
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02383995843,
+                        -7.3991533193101
+                    ],
+                    [
+                        111.0237705972,
+                        -7.3990981797797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0237705972,
+                        -7.3990981797797
+                    ],
+                    [
+                        111.02377621898,
+                        -7.3989948311425
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02377621898,
+                        -7.3989948311425
+                    ],
+                    [
+                        111.02378822463,
+                        -7.3988049952089
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02378822463,
+                        -7.3988049952089
+                    ],
+                    [
+                        111.02384969842,
+                        -7.3986220223965
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02384969842,
+                        -7.3986220223965
+                    ],
+                    [
+                        111.02395852568,
+                        -7.398218003701
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02395852568,
+                        -7.398218003701
+                    ],
+                    [
+                        111.02401150096,
+                        -7.3977273020175
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02401150096,
+                        -7.3977273020175
+                    ],
+                    [
+                        111.02401354787,
+                        -7.3977083599876
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02401354787,
+                        -7.3977083599876
+                    ],
+                    [
+                        111.02409966939,
+                        -7.3970285267616
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02409966939,
+                        -7.3970285267616
+                    ],
+                    [
+                        111.02414294318,
+                        -7.3967752508651
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02414294318,
+                        -7.3967752508651
+                    ],
+                    [
+                        111.02409719468,
+                        -7.3965111248133
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02409719468,
+                        -7.3965111248133
+                    ],
+                    [
+                        111.02400448735,
+                        -7.3963880977882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02400448735,
+                        -7.3963880977882
+                    ],
+                    [
+                        111.02387366898,
+                        -7.396305688461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02387366898,
+                        -7.396305688461
+                    ],
+                    [
+                        111.02372394341,
+                        -7.39630583214
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02372394341,
+                        -7.39630583214
+                    ],
+                    [
+                        111.02301337778,
+                        -7.3963704835855
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02301337778,
+                        -7.3963704835855
+                    ],
+                    [
+                        111.02288688282,
+                        -7.3963040124575
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02288688282,
+                        -7.3963040124575
+                    ],
+                    [
+                        111.02279257865,
+                        -7.3961348154585
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02279257865,
+                        -7.3961348154585
+                    ],
+                    [
+                        111.02258914101,
+                        -7.3957042363208
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02258914101,
+                        -7.3957042363208
+                    ],
+                    [
+                        111.02248822955,
+                        -7.3951453190443
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02248822955,
+                        -7.3951453190443
+                    ],
+                    [
+                        111.02254725839,
+                        -7.3948163742996
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02254725839,
+                        -7.3948163742996
+                    ],
+                    [
+                        111.02265026338,
+                        -7.3946698993543
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02265026338,
+                        -7.3946698993543
+                    ],
+                    [
+                        111.02308505046,
+                        -7.3948797759906
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02308505046,
+                        -7.3948797759906
+                    ],
+                    [
+                        111.02320133987,
+                        -7.3949120001695
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02320133987,
+                        -7.3949120001695
+                    ],
+                    [
+                        111.02331485299,
+                        -7.3948783167058
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02331485299,
+                        -7.3948783167058
+                    ],
+                    [
+                        111.02337537129,
+                        -7.394797751571
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02337537129,
+                        -7.394797751571
+                    ],
+                    [
+                        111.02344926664,
+                        -7.3944140064182
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02344926664,
+                        -7.3944140064182
+                    ],
+                    [
+                        111.02334125405,
+                        -7.3942753127065
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02334125405,
+                        -7.3942753127065
+                    ],
+                    [
+                        111.02327574454,
+                        -7.3942147453978
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02327574454,
+                        -7.3942147453978
+                    ],
+                    [
+                        111.0231343788,
+                        -7.3941239780665
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0231343788,
+                        -7.3941239780665
+                    ],
+                    [
+                        111.02297677033,
+                        -7.3939480361948
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02297677033,
+                        -7.3939480361948
+                    ],
+                    [
+                        111.0229006055,
+                        -7.3937314472736
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0229006055,
+                        -7.3937314472736
+                    ],
+                    [
+                        111.02289315123,
+                        -7.393446007166
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02289315123,
+                        -7.393446007166
+                    ],
+                    [
+                        111.02285066296,
+                        -7.3927703417029
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02285066296,
+                        -7.3927703417029
+                    ],
+                    [
+                        111.02284884009,
+                        -7.3927414132993
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02284884009,
+                        -7.3927414132993
+                    ],
+                    [
+                        111.02272753922,
+                        -7.3921579014906
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02272753922,
+                        -7.3921579014906
+                    ],
+                    [
+                        111.02260865531,
+                        -7.3918757777869
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02260865531,
+                        -7.3918757777869
+                    ],
+                    [
+                        111.02238598576,
+                        -7.3915169327115
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02238598576,
+                        -7.3915169327115
+                    ],
+                    [
+                        111.02193458375,
+                        -7.390946300234
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02193458375,
+                        -7.390946300234
+                    ],
+                    [
+                        111.02147300583,
+                        -7.3903554322948
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02147300583,
+                        -7.3903554322948
+                    ],
+                    [
+                        111.02046933549,
+                        -7.3890267765721
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02046933549,
+                        -7.3890267765721
+                    ],
+                    [
+                        111.02030052907,
+                        -7.3888331496603
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02030052907,
+                        -7.3888331496603
+                    ],
+                    [
+                        111.01983267892,
+                        -7.3883096896248
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01983267892,
+                        -7.3883096896248
+                    ],
+                    [
+                        111.01926825708,
+                        -7.3876781810486
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01926825708,
+                        -7.3876781810486
+                    ],
+                    [
+                        111.01915136724,
+                        -7.3873299947118
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01915136724,
+                        -7.3873299947118
+                    ],
+                    [
+                        111.01881341979,
+                        -7.3862544801783
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01881341979,
+                        -7.3862544801783
+                    ],
+                    [
+                        111.01867627537,
+                        -7.3860505390628
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01867627537,
+                        -7.3860505390628
+                    ],
+                    [
+                        111.01855379332,
+                        -7.3858667785005
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01855379332,
+                        -7.3858667785005
+                    ],
+                    [
+                        111.01852105579,
+                        -7.3856834393422
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01852105579,
+                        -7.3856834393422
+                    ],
+                    [
+                        111.01845713345,
+                        -7.3853922211144
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01845713345,
+                        -7.3853922211144
+                    ],
+                    [
+                        111.01833001114,
+                        -7.3851822006835
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01833001114,
+                        -7.3851822006835
+                    ],
+                    [
+                        111.01824477184,
+                        -7.3849970002137
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01824477184,
+                        -7.3849970002137
+                    ],
+                    [
+                        111.01811330105,
+                        -7.3843609764003
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01811330105,
+                        -7.3843609764003
+                    ],
+                    [
+                        111.01799403525,
+                        -7.3841463964546
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01799403525,
+                        -7.3841463964546
+                    ],
+                    [
+                        111.01780162159,
+                        -7.383821948954
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01780162159,
+                        -7.383821948954
+                    ],
+                    [
+                        111.01762799651,
+                        -7.3833706511886
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01762799651,
+                        -7.3833706511886
+                    ],
+                    [
+                        111.01731946121,
+                        -7.3825619404231
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01731946121,
+                        -7.3825619404231
+                    ],
+                    [
+                        111.01712140386,
+                        -7.3820111303846
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01712140386,
+                        -7.3820111303846
+                    ],
+                    [
+                        111.01694049624,
+                        -7.3815961696252
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01694049624,
+                        -7.3815961696252
+                    ],
+                    [
+                        111.01642423565,
+                        -7.3803837422664
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01642423565,
+                        -7.3803837422664
+                    ],
+                    [
+                        111.01634150551,
+                        -7.3801294945965
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01634150551,
+                        -7.3801294945965
+                    ],
+                    [
+                        111.01612295707,
+                        -7.3796692967242
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01612295707,
+                        -7.3796692967242
+                    ],
+                    [
+                        111.01583075238,
+                        -7.3790270814642
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01583075238,
+                        -7.3790270814642
+                    ],
+                    [
+                        111.01582880405,
+                        -7.3790227938171
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01582880405,
+                        -7.3790227938171
+                    ],
+                    [
+                        111.01526085402,
+                        -7.3775190101207
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01526085402,
+                        -7.3775190101207
+                    ],
+                    [
+                        111.01497598761,
+                        -7.3767581852478
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01497598761,
+                        -7.3767581852478
+                    ],
+                    [
+                        111.01489411005,
+                        -7.3764835660598
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01489411005,
+                        -7.3764835660598
+                    ],
+                    [
+                        111.01501026083,
+                        -7.3763264001686
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01501026083,
+                        -7.3763264001686
+                    ],
+                    [
+                        111.01517087739,
+                        -7.3762392292637
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01517087739,
+                        -7.3762392292637
+                    ],
+                    [
+                        111.01590999202,
+                        -7.3759440385931
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01590999202,
+                        -7.3759440385931
+                    ],
+                    [
+                        111.0165130703,
+                        -7.3756711768182
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0165130703,
+                        -7.3756711768182
+                    ],
+                    [
+                        111.01689990378,
+                        -7.3754500645234
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01689990378,
+                        -7.3754500645234
+                    ],
+                    [
+                        111.01722238676,
+                        -7.375297295518
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01722238676,
+                        -7.375297295518
+                    ],
+                    [
+                        111.01772063324,
+                        -7.3750004737682
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01772063324,
+                        -7.3750004737682
+                    ],
+                    [
+                        111.01775578991,
+                        -7.3749795313086
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01775578991,
+                        -7.3749795313086
+                    ],
+                    [
+                        111.01784034494,
+                        -7.3748747412055
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01784034494,
+                        -7.3748747412055
+                    ],
+                    [
+                        111.01790312341,
+                        -7.3747091278884
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01790312341,
+                        -7.3747091278884
+                    ],
+                    [
+                        111.01792108934,
+                        -7.3744228903953
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01792108934,
+                        -7.3744228903953
+                    ],
+                    [
+                        111.01781823433,
+                        -7.3732566806595
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01781823433,
+                        -7.3732566806595
+                    ],
+                    [
+                        111.01768116431,
+                        -7.3729881791091
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01768116431,
+                        -7.3729881791091
+                    ],
+                    [
+                        111.01748549482,
+                        -7.3724611774849
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01748549482,
+                        -7.3724611774849
+                    ],
+                    [
+                        111.01737337605,
+                        -7.3718671249238
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01737337605,
+                        -7.3718671249238
+                    ],
+                    [
+                        111.01729272875,
+                        -7.3715541698926
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01729272875,
+                        -7.3715541698926
+                    ],
+                    [
+                        111.01726085592,
+                        -7.3714304876565
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01726085592,
+                        -7.3714304876565
+                    ],
+                    [
+                        111.01711191993,
+                        -7.3710096909737
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01711191993,
+                        -7.3710096909737
+                    ],
+                    [
+                        111.0171362036,
+                        -7.3707695507115
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0171362036,
+                        -7.3707695507115
+                    ],
+                    [
+                        111.01722624463,
+                        -7.3700820198367
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01722624463,
+                        -7.3700820198367
+                    ],
+                    [
+                        111.01717256414,
+                        -7.3700181584223
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01717256414,
+                        -7.3700181584223
+                    ],
+                    [
+                        111.01686529304,
+                        -7.3697848965433
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01686529304,
+                        -7.3697848965433
+                    ],
+                    [
+                        111.01670384242,
+                        -7.3697895883339
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01670384242,
+                        -7.3697895883339
+                    ],
+                    [
+                        111.01570960238,
+                        -7.3700168462632
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01570960238,
+                        -7.3700168462632
+                    ],
+                    [
+                        111.01550283486,
+                        -7.3699589421453
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01550283486,
+                        -7.3699589421453
+                    ],
+                    [
+                        111.01503101589,
+                        -7.3697521527404
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01503101589,
+                        -7.3697521527404
+                    ],
+                    [
+                        111.01487426252,
+                        -7.3695931505785
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01487426252,
+                        -7.3695931505785
+                    ],
+                    [
+                        111.01460973642,
+                        -7.3694305787937
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01460973642,
+                        -7.3694305787937
+                    ],
+                    [
+                        111.01428161271,
+                        -7.369331447213
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01428161271,
+                        -7.369331447213
+                    ],
+                    [
+                        111.01428122108,
+                        -7.3692688320675
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01428122108,
+                        -7.3692688320675
+                    ],
+                    [
+                        111.01431877376,
+                        -7.3688132743798
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01431877376,
+                        -7.3688132743798
+                    ],
+                    [
+                        111.01430403263,
+                        -7.3685700056386
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01430403263,
+                        -7.3685700056386
+                    ],
+                    [
+                        111.01426370905,
+                        -7.3682314400047
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01426370905,
+                        -7.3682314400047
+                    ],
+                    [
+                        111.01435355637,
+                        -7.3681601470301
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01435355637,
+                        -7.3681601470301
+                    ],
+                    [
+                        111.01470058831,
+                        -7.3679423848023
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01470058831,
+                        -7.3679423848023
+                    ],
+                    [
+                        111.01486863937,
+                        -7.3678045390548
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01486863937,
+                        -7.3678045390548
+                    ],
+                    [
+                        111.01501161538,
+                        -7.3675782440624
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01501161538,
+                        -7.3675782440624
+                    ],
+                    [
+                        111.0151048709,
+                        -7.3672832115198
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0151048709,
+                        -7.3672832115198
+                    ],
+                    [
+                        111.01511836852,
+                        -7.3671842769347
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01511836852,
+                        -7.3671842769347
+                    ],
+                    [
+                        111.01510192586,
+                        -7.3670099193152
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01510192586,
+                        -7.3670099193152
+                    ],
+                    [
+                        111.0150204695,
+                        -7.3668142971578
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0150204695,
+                        -7.3668142971578
+                    ],
+                    [
+                        111.01498305843,
+                        -7.3666038926417
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01498305843,
+                        -7.3666038926417
+                    ],
+                    [
+                        111.01491792151,
+                        -7.3661488267509
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01491792151,
+                        -7.3661488267509
+                    ],
+                    [
+                        111.01486566516,
+                        -7.3661077333287
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01486566516,
+                        -7.3661077333287
+                    ],
+                    [
+                        111.01486089892,
+                        -7.3661036719138
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01486089892,
+                        -7.3661036719138
+                    ],
+                    [
+                        111.01419208604,
+                        -7.3655340149956
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01419208604,
+                        -7.3655340149956
+                    ],
+                    [
+                        111.01413699333,
+                        -7.3654800855577
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01413699333,
+                        -7.3654800855577
+                    ],
+                    [
+                        111.01408254531,
+                        -7.3654687528609
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01408254531,
+                        -7.3654687528609
+                    ],
+                    [
+                        111.0140500704,
+                        -7.3654619876076
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0140500704,
+                        -7.3654619876076
+                    ],
+                    [
+                        111.01372530526,
+                        -7.3654583522166
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01372530526,
+                        -7.3654583522166
+                    ],
+                    [
+                        111.01335300545,
+                        -7.3654359841162
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01335300545,
+                        -7.3654359841162
+                    ],
+                    [
+                        111.0132231408,
+                        -7.3653638385069
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0132231408,
+                        -7.3653638385069
+                    ],
+                    [
+                        111.01314215011,
+                        -7.3652512113809
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01314215011,
+                        -7.3652512113809
+                    ],
+                    [
+                        111.01312000138,
+                        -7.3651282793293
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01312000138,
+                        -7.3651282793293
+                    ],
+                    [
+                        111.01310290617,
+                        -7.3646107412921
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01310290617,
+                        -7.3646107412921
+                    ],
+                    [
+                        111.01285823405,
+                        -7.3637403956764
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01285823405,
+                        -7.3637403956764
+                    ],
+                    [
+                        111.01277879928,
+                        -7.3635243927865
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01277879928,
+                        -7.3635243927865
+                    ],
+                    [
+                        111.0126895657,
+                        -7.3634872984111
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0126895657,
+                        -7.3634872984111
+                    ],
+                    [
+                        111.01258721402,
+                        -7.3635274918835
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01258721402,
+                        -7.3635274918835
+                    ],
+                    [
+                        111.01232538222,
+                        -7.363648016643
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01232538222,
+                        -7.363648016643
+                    ],
+                    [
+                        111.01182327568,
+                        -7.3639417208569
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01182327568,
+                        -7.3639417208569
+                    ],
+                    [
+                        111.0116958331,
+                        -7.3639498202136
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0116958331,
+                        -7.3639498202136
+                    ],
+                    [
+                        111.01152749649,
+                        -7.363889090936
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01152749649,
+                        -7.363889090936
+                    ],
+                    [
+                        111.01137665488,
+                        -7.3637574057296
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01137665488,
+                        -7.3637574057296
+                    ],
+                    [
+                        111.01135921844,
+                        -7.3636354142276
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01135921844,
+                        -7.3636354142276
+                    ],
+                    [
+                        111.01138705727,
+                        -7.3634171559451
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01138705727,
+                        -7.3634171559451
+                    ],
+                    [
+                        111.01142275139,
+                        -7.3631775945489
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01142275139,
+                        -7.3631775945489
+                    ],
+                    [
+                        111.0113858549,
+                        -7.3631693547454
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0113858549,
+                        -7.3631693547454
+                    ],
+                    [
+                        111.01126278899,
+                        -7.3631780237543
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01126278899,
+                        -7.3631780237543
+                    ],
+                    [
+                        111.01111197851,
+                        -7.3631917590787
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01111197851,
+                        -7.3631917590787
+                    ],
+                    [
+                        111.01079376522,
+                        -7.3631509792529
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01079376522,
+                        -7.3631509792529
+                    ],
+                    [
+                        111.01063176258,
+                        -7.3630870834455
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01063176258,
+                        -7.3630870834455
+                    ],
+                    [
+                        111.01053565963,
+                        -7.3629900511897
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01053565963,
+                        -7.3629900511897
+                    ],
+                    [
+                        111.01048245014,
+                        -7.3628416738277
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01048245014,
+                        -7.3628416738277
+                    ],
+                    [
+                        111.01046763666,
+                        -7.3625066621699
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01046763666,
+                        -7.3625066621699
+                    ],
+                    [
+                        111.01052120834,
+                        -7.3622618719321
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01052120834,
+                        -7.3622618719321
+                    ],
+                    [
+                        111.01060611549,
+                        -7.3621332745265
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01060611549,
+                        -7.3621332745265
+                    ],
+                    [
+                        111.01067375318,
+                        -7.362036609267
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01067375318,
+                        -7.362036609267
+                    ],
+                    [
+                        111.01086054046,
+                        -7.3618644718315
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01086054046,
+                        -7.3618644718315
+                    ],
+                    [
+                        111.01125130148,
+                        -7.3614519455643
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01125130148,
+                        -7.3614519455643
+                    ],
+                    [
+                        111.01147669125,
+                        -7.3610586998643
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01147669125,
+                        -7.3610586998643
+                    ],
+                    [
+                        111.01147445797,
+                        -7.3608917049962
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01147445797,
+                        -7.3608917049962
+                    ],
+                    [
+                        111.01146554149,
+                        -7.3608712707118
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01146554149,
+                        -7.3608712707118
+                    ],
+                    [
+                        111.01137642485,
+                        -7.360775387267
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01137642485,
+                        -7.360775387267
+                    ],
+                    [
+                        111.01118402265,
+                        -7.3606741241302
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01118402265,
+                        -7.3606741241302
+                    ],
+                    [
+                        111.01101222824,
+                        -7.3607010849371
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01101222824,
+                        -7.3607010849371
+                    ],
+                    [
+                        111.01088738639,
+                        -7.3606820193949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01055354798,
+                        -7.360391457474
+                    ],
+                    [
+                        111.0108874,
+                        -7.3606820193949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01027853,
+                        -7.3595788324
+                    ],
+                    [
+                        111.01055354798,
+                        -7.360391457474
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "59",
+                "NAMA_SUNGAI": "Kali Bandungsogo",
+                "FOTO": "sungai-59_file1-.jpg"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01055354798,
+                        -7.360391457474
+                    ],
+                    [
+                        111.01055354798,
+                        -7.360391457474
+                    ]
+                ]
+            }
+        }
+    ]
+}

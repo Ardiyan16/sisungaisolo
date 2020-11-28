@@ -1,0 +1,353 @@
+#daftar_layer {
+    left: 433px;
+}
+.toolbar-map {
+    display: block;
+    position: absolute;
+    font-family: "Roboto", "Arial", sans-serif;
+    font-size: 13px;
+    z-index: 5;
+    box-shadow: 0 4px 6px -4px #333;
+}
+.ui-draggable-handle {
+    -ms-touch-action: none;
+    touch-action: none;
+}
+.card {
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+
+.card-header:first-child {
+    border-radius: calc(.25rem - 1px) calc(.25rem - 1px) 0 0;
+}
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: #f7f7f9;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+.collapse.show {
+    display: block;
+}
+.card-block {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 auto;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+.collapse {
+    display: none;
+}
+
+.form-check {
+    position: relative;
+    display: block;
+    margin-bottom: .5rem;
+}
+
+.custom-control {
+    position: relative;
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    min-height: 1.5rem;
+    /* padding-left: 1.5rem; */
+    margin-right: 1rem;
+    cursor: pointer;
+}
+
+.form-child {
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+
+.custom-control-input {
+    position: absolute;
+    z-index: -1;
+    opacity: 0;
+}
+[type=checkbox], [type=radio] {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+}
+button, input, select, textarea {
+    line-height: inherit;
+}
+[role=button], a, area, button, input, label, select, summary, textarea {
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+}
+button, input {
+    overflow: visible;
+}
+button, input, optgroup, select, textarea {
+    font-family: sans-serif;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0;
+}
+
+.custom-checkbox .custom-control-indicator {
+    border-radius: .25rem;
+}
+.custom-control-indicator {
+    position: absolute;
+    top: .25rem;
+    left: -15px;
+    display: block;
+    width: 1rem;
+    height: 1rem;
+    pointer-events: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: #ddd;
+    background-repeat: no-repeat;
+    background-position: center center;
+    -webkit-background-size: 50% 50%;
+    background-size: 50% 50%;
+}
+
+#search_layer {
+    left: 629px;
+}
+.toolbar-map {
+    display: block;
+    position: absolute;
+    font-family: "Roboto", "Arial", sans-serif;
+    font-size: 13px;
+    z-index: 5;
+    box-shadow: 0 4px 6px -4px #333;
+}
+
+.ui-draggable-handle {
+    -ms-touch-action: none;
+    touch-action: none;
+}
+
+.input-group-btn:not(:first-child)>.btn-group:active, .input-group-btn:not(:first-child)>.btn-group:focus, .input-group-btn:not(:first-child)>.btn-group:hover, .input-group-btn:not(:first-child)>.btn:active, .input-group-btn:not(:first-child)>.btn:focus, .input-group-btn:not(:first-child)>.btn:hover {
+    z-index: 3;
+}
+.input-group-btn:not(:first-child)>.btn, .input-group-btn:not(:first-child)>.btn-group {
+    z-index: 2;
+    margin-left: -1px;
+}
+.input-group-btn>.btn:active, .input-group-btn>.btn:focus, .input-group-btn>.btn:hover {
+    z-index: 3;
+}
+.input-group .form-control:not(:first-child), .input-group-addon:not(:first-child), .input-group-btn:not(:first-child)>.btn, .input-group-btn:not(:first-child)>.btn-group>.btn, .input-group-btn:not(:first-child)>.dropdown-toggle, .input-group-btn:not(:last-child)>.btn-group:not(:first-child)>.btn, .input-group-btn:not(:last-child)>.btn:not(:first-child) {
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+}
+.input-group-btn>.btn {
+    position: relative;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 0%;
+    -ms-flex: 1 1 0%;
+    flex: 1 1 0%;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #025aa5;
+    border-color: #01549b;
+}
+.btn:focus, .btn:hover {
+    text-decoration: none;
+}
+[type=reset], [type=submit], button, html [type=button] {
+    -webkit-appearance: button;
+}
+.btn-group-sm>.btn, .btn-sm {
+    padding: .25rem .5rem;
+    font-size: .875rem;
+    border-radius: .2rem;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #0275d8;
+    border-color: #0275d8;
+}
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.25;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+button, input, select, textarea {
+    line-height: inherit;
+}
+[role=button], a, area, button, input, label, select, summary, textarea {
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+}
+button, select {
+    text-transform: none;
+}
+button, input {
+    overflow: visible;
+}
+button, input, optgroup, select, textarea {
+    font-family: sans-serif;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0;
+}
+    #map {
+        height: 586px;
+    }
+
+    #mapid {
+        height: 486px;
+    }
+    
+    
+    
+    .loader {
+        margin: -10px 0 0 -250px;
+        height: 100px;
+        width: 20%;
+        position: fixed;
+        text-align: center;
+        padding: 1em;
+        top: 43%;
+        left: 42%;
+        margin: 0 auto 1em;
+        z-index: 9999;
+    }
+    /*
+  Set the color of the icon
+*/
+    
+    svg path,
+    svg rect {
+        fill: #FF6700;
+    }
+
+    
+
+
+.filter-group {
+background-color: #fff;  
+box-shadow: 0 1px 2px rgba(0,0,0,0.10);  
+margin-top: 5%;   
+
+font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+font-weight: 600;
+position: absolute;
+top: 30px;
+padding: 10px;
+right: 47px;
+z-index: 1;
+border-radius: 3px;
+width: 120px;
+color: #fff;
+}
+ 
+.filter-group input[type=checkbox]:first-child + label {
+border-radius: 3px 3px 0 0;
+}
+ 
+.filter-group label:last-child {
+border-radius: 0 0 3px 3px;
+border: none;
+}
+ 
+.filter-group input[type=checkbox] {
+display: none;
+}
+ 
+.filter-group input[type=checkbox] + label {
+background-color: #3386c0;
+display: block;
+cursor: pointer;
+padding: 10px;
+border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+}
+ 
+.filter-group input[type=checkbox] + label {
+background-color: #3386c0;
+text-transform: capitalize;
+}
+ 
+.filter-group input[type=checkbox] + label:hover,
+.filter-group input[type=checkbox]:checked + label {
+background-color: #4ea0da;
+}
+ 
+.filter-group input[type=checkbox]:checked + label:before {
+content: '✔';
+margin-right: 5px;
+}
+   
+.marker {
+            background-image: url('<?=base_url()?>assets/images/mapbox-icon.png');
+            background-size: cover;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            cursor: pointer;
+        }
+        .mapboxgl-popup {
+            max-width: auto;
+        }
+        .mapboxgl-popup-content {
+            text-align: center;
+            font-family: 'Open Sans', sans-serif;
+        }
+
+        .legend {
+          background-color: #fff;
+          border-radius: 3px;
+          bottom: 30px;
+          box-shadow: 0 1px 2px rgba(0,0,0,0.10);
+          font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+          padding: 10px;
+          position: absolute;
+          left: 270px;
+          z-index: 1;
+          height: auto;
+          border-radius: 25px;
+        }
+         
+        .legend h4 {
+         /*margin: 0 0 10px;*/
+        }
+         
+        .legend div span {
+          border-radius: 50%;
+          display: inline-block;
+          height: 10px;
+          margin-right: 5px;
+          width: 100px;
+        }

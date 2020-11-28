@@ -1,0 +1,4499 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12686392333,
+                        -7.335664736938
+                    ],
+                    [
+                        111.12677989608,
+                        -7.3355331535321
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12677989608,
+                        -7.3355331535321
+                    ],
+                    [
+                        111.12661416811,
+                        -7.3352927629506
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12661416811,
+                        -7.3352927629506
+                    ],
+                    [
+                        111.12654537357,
+                        -7.3351027290077
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12654537357,
+                        -7.3351027290077
+                    ],
+                    [
+                        111.12657138017,
+                        -7.3348262819073
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12657138017,
+                        -7.3348262819073
+                    ],
+                    [
+                        111.12665146839,
+                        -7.3346779621182
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12665146839,
+                        -7.3346779621182
+                    ],
+                    [
+                        111.12669634996,
+                        -7.334633119223
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12669634996,
+                        -7.334633119223
+                    ],
+                    [
+                        111.12678286024,
+                        -7.3345782857592
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12678286024,
+                        -7.3345782857592
+                    ],
+                    [
+                        111.12714484726,
+                        -7.334632638985
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12714484726,
+                        -7.334632638985
+                    ],
+                    [
+                        111.1274573176,
+                        -7.3346847088322
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1274573176,
+                        -7.3346847088322
+                    ],
+                    [
+                        111.12769189497,
+                        -7.3346687944293
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12769189497,
+                        -7.3346687944293
+                    ],
+                    [
+                        111.12780436238,
+                        -7.3346069885216
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12780436238,
+                        -7.3346069885216
+                    ],
+                    [
+                        111.12784326705,
+                        -7.3345119058997
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12784326705,
+                        -7.3345119058997
+                    ],
+                    [
+                        111.12766039081,
+                        -7.3343147142526
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12766039081,
+                        -7.3343147142526
+                    ],
+                    [
+                        111.12756085385,
+                        -7.3342182772516
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12756085385,
+                        -7.3342182772516
+                    ],
+                    [
+                        111.12754250948,
+                        -7.3341333335864
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12754250948,
+                        -7.3341333335864
+                    ],
+                    [
+                        111.12766427319,
+                        -7.3339809677474
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12766427319,
+                        -7.3339809677474
+                    ],
+                    [
+                        111.12806463607,
+                        -7.333801195069
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12806463607,
+                        -7.333801195069
+                    ],
+                    [
+                        111.12835300998,
+                        -7.3336775194019
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12835300998,
+                        -7.3336775194019
+                    ],
+                    [
+                        111.12850728328,
+                        -7.3335625302864
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12850728328,
+                        -7.3335625302864
+                    ],
+                    [
+                        111.12856199354,
+                        -7.3334502112582
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12856199354,
+                        -7.3334502112582
+                    ],
+                    [
+                        111.12853497791,
+                        -7.3333004831307
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12853497791,
+                        -7.3333004831307
+                    ],
+                    [
+                        111.12841714424,
+                        -7.3330975115409
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12841714424,
+                        -7.3330975115409
+                    ],
+                    [
+                        111.12837452267,
+                        -7.3330264956762
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12837452267,
+                        -7.3330264956762
+                    ],
+                    [
+                        111.12822879203,
+                        -7.3329161056937
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12822879203,
+                        -7.3329161056937
+                    ],
+                    [
+                        111.12803168402,
+                        -7.3328540713583
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12803168402,
+                        -7.3328540713583
+                    ],
+                    [
+                        111.12764141062,
+                        -7.3330124302794
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12764141062,
+                        -7.3330124302794
+                    ],
+                    [
+                        111.12749049089,
+                        -7.333070890709
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12749049089,
+                        -7.333070890709
+                    ],
+                    [
+                        111.12728905085,
+                        -7.3330040000345
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12728905085,
+                        -7.3330040000345
+                    ],
+                    [
+                        111.12706403328,
+                        -7.3328607236434
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12706403328,
+                        -7.3328607236434
+                    ],
+                    [
+                        111.12686822119,
+                        -7.332474965747
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12686822119,
+                        -7.332474965747
+                    ],
+                    [
+                        111.12679280584,
+                        -7.3323576536827
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12679280584,
+                        -7.3323576536827
+                    ],
+                    [
+                        111.12670291771,
+                        -7.3323549925888
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12670291771,
+                        -7.3323549925888
+                    ],
+                    [
+                        111.12641553305,
+                        -7.3325794004189
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12641553305,
+                        -7.3325794004189
+                    ],
+                    [
+                        111.12623289153,
+                        -7.3326642649438
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12623289153,
+                        -7.3326642649438
+                    ],
+                    [
+                        111.1261175283,
+                        -7.3326710728117
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1261175283,
+                        -7.3326710728117
+                    ],
+                    [
+                        111.12604986961,
+                        -7.3325882596404
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12604986961,
+                        -7.3325882596404
+                    ],
+                    [
+                        111.12610514104,
+                        -7.3321179070157
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12610514104,
+                        -7.3321179070157
+                    ],
+                    [
+                        111.12616597928,
+                        -7.3319187188737
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12616597928,
+                        -7.3319187188737
+                    ],
+                    [
+                        111.12636579515,
+                        -7.331594705731
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12636579515,
+                        -7.331594705731
+                    ],
+                    [
+                        111.12649592705,
+                        -7.3314633957191
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12649592705,
+                        -7.3314633957191
+                    ],
+                    [
+                        111.12662858334,
+                        -7.3314123852733
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12662858334,
+                        -7.3314123852733
+                    ],
+                    [
+                        111.12701032487,
+                        -7.3316184406385
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12701032487,
+                        -7.3316184406385
+                    ],
+                    [
+                        111.12716657398,
+                        -7.3316963354175
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12716657398,
+                        -7.3316963354175
+                    ],
+                    [
+                        111.12733482634,
+                        -7.3317036244227
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12733482634,
+                        -7.3317036244227
+                    ],
+                    [
+                        111.12746171169,
+                        -7.3316557813891
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12746171169,
+                        -7.3316557813891
+                    ],
+                    [
+                        111.12750835413,
+                        -7.3315610764824
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12750835413,
+                        -7.3315610764824
+                    ],
+                    [
+                        111.1274854394,
+                        -7.3314617328726
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1274854394,
+                        -7.3314617328726
+                    ],
+                    [
+                        111.12727965114,
+                        -7.3312955561449
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12727965114,
+                        -7.3312955561449
+                    ],
+                    [
+                        111.12702723752,
+                        -7.3311601029563
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12702723752,
+                        -7.3311601029563
+                    ],
+                    [
+                        111.12686889658,
+                        -7.3310213573497
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12686889658,
+                        -7.3310213573497
+                    ],
+                    [
+                        111.12679236068,
+                        -7.3308466865253
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12679236068,
+                        -7.3308466865253
+                    ],
+                    [
+                        111.12684205811,
+                        -7.3305347189021
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12684205811,
+                        -7.3305347189021
+                    ],
+                    [
+                        111.126944883,
+                        -7.3302433691362
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.126944883,
+                        -7.3302433691362
+                    ],
+                    [
+                        111.12730053159,
+                        -7.3301689664246
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12730053159,
+                        -7.3301689664246
+                    ],
+                    [
+                        111.12743991752,
+                        -7.3301433366456
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12743991752,
+                        -7.3301433366456
+                    ],
+                    [
+                        111.12751603973,
+                        -7.3300731463586
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12751603973,
+                        -7.3300731463586
+                    ],
+                    [
+                        111.12751348026,
+                        -7.3298974952731
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12751348026,
+                        -7.3298974952731
+                    ],
+                    [
+                        111.12729791816,
+                        -7.3295467326955
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12729791816,
+                        -7.3295467326955
+                    ],
+                    [
+                        111.12708121213,
+                        -7.3292180511721
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12708121213,
+                        -7.3292180511721
+                    ],
+                    [
+                        111.12692080635,
+                        -7.3289210320799
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12692080635,
+                        -7.3289210320799
+                    ],
+                    [
+                        111.12671321584,
+                        -7.3286905853022
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12671321584,
+                        -7.3286905853022
+                    ],
+                    [
+                        111.12648676295,
+                        -7.3285565719282
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12648676295,
+                        -7.3285565719282
+                    ],
+                    [
+                        111.12632522853,
+                        -7.3284942821853
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12632522853,
+                        -7.3284942821853
+                    ],
+                    [
+                        111.12608518239,
+                        -7.3283863698351
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12608518239,
+                        -7.3283863698351
+                    ],
+                    [
+                        111.12590360117,
+                        -7.3283047455675
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12590360117,
+                        -7.3283047455675
+                    ],
+                    [
+                        111.12574756969,
+                        -7.3281871673039
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12574756969,
+                        -7.3281871673039
+                    ],
+                    [
+                        111.12566646524,
+                        -7.3279066067045
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12566646524,
+                        -7.3279066067045
+                    ],
+                    [
+                        111.12561855295,
+                        -7.3277408733426
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12561855295,
+                        -7.3277408733426
+                    ],
+                    [
+                        111.12547981094,
+                        -7.3275373360791
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12547981094,
+                        -7.3275373360791
+                    ],
+                    [
+                        111.12533471792,
+                        -7.3273329318692
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12533471792,
+                        -7.3273329318692
+                    ],
+                    [
+                        111.12525711003,
+                        -7.3271141079297
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12525711003,
+                        -7.3271141079297
+                    ],
+                    [
+                        111.12518080525,
+                        -7.3268880840178
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12518080525,
+                        -7.3268880840178
+                    ],
+                    [
+                        111.1249999318,
+                        -7.3265459396434
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1249999318,
+                        -7.3265459396434
+                    ],
+                    [
+                        111.12499283345,
+                        -7.3265325172618
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12499283345,
+                        -7.3265325172618
+                    ],
+                    [
+                        111.12498685026,
+                        -7.3263247100173
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12498685026,
+                        -7.3263247100173
+                    ],
+                    [
+                        111.12499222551,
+                        -7.3263007098099
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12499222551,
+                        -7.3263007098099
+                    ],
+                    [
+                        111.1249999282,
+                        -7.3261760475865
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1249999282,
+                        -7.3261760475865
+                    ],
+                    [
+                        111.12501126596,
+                        -7.3259925858891
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12501126596,
+                        -7.3259925858891
+                    ],
+                    [
+                        111.1249999282,
+                        -7.3259490065414
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1249999282,
+                        -7.3259490065414
+                    ],
+                    [
+                        111.12498791956,
+                        -7.3259028488374
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12498791956,
+                        -7.3259028488374
+                    ],
+                    [
+                        111.12431925743,
+                        -7.3258321333462
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12431925743,
+                        -7.3258321333462
+                    ],
+                    [
+                        111.12410340305,
+                        -7.3257834899161
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12410340305,
+                        -7.3257834899161
+                    ],
+                    [
+                        111.12394331293,
+                        -7.3256969112834
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12394331293,
+                        -7.3256969112834
+                    ],
+                    [
+                        111.12379626748,
+                        -7.3255366143233
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12379626748,
+                        -7.3255366143233
+                    ],
+                    [
+                        111.12370313639,
+                        -7.3253350726554
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12370313639,
+                        -7.3253350726554
+                    ],
+                    [
+                        111.12368245828,
+                        -7.3251608649819
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12368245828,
+                        -7.3251608649819
+                    ],
+                    [
+                        111.12374893616,
+                        -7.3250082257489
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12374893616,
+                        -7.3250082257489
+                    ],
+                    [
+                        111.12383197776,
+                        -7.3249302095615
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12383197776,
+                        -7.3249302095615
+                    ],
+                    [
+                        111.12409972932,
+                        -7.3249493669197
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12409972932,
+                        -7.3249493669197
+                    ],
+                    [
+                        111.12439536975,
+                        -7.3250046644337
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12439536975,
+                        -7.3250046644337
+                    ],
+                    [
+                        111.12464292433,
+                        -7.3249842786015
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12464292433,
+                        -7.3249842786015
+                    ],
+                    [
+                        111.12489045013,
+                        -7.3248918157047
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12489045013,
+                        -7.3248918157047
+                    ],
+                    [
+                        111.12499439018,
+                        -7.3248008312933
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12499439018,
+                        -7.3248008312933
+                    ],
+                    [
+                        111.12499551793,
+                        -7.3247202061725
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12499551793,
+                        -7.3247202061725
+                    ],
+                    [
+                        111.1248270875,
+                        -7.3245825658327
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1248270875,
+                        -7.3245825658327
+                    ],
+                    [
+                        111.1244328499,
+                        -7.3243454218037
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1244328499,
+                        -7.3243454218037
+                    ],
+                    [
+                        111.12418953742,
+                        -7.3241092301568
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12418953742,
+                        -7.3241092301568
+                    ],
+                    [
+                        111.12389522888,
+                        -7.3236893861562
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12389522888,
+                        -7.3236893861562
+                    ],
+                    [
+                        111.12383254973,
+                        -7.3235559780259
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12383254973,
+                        -7.3235559780259
+                    ],
+                    [
+                        111.12390742819,
+                        -7.3233774742909
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12390742819,
+                        -7.3233774742909
+                    ],
+                    [
+                        111.12402726195,
+                        -7.3231945350997
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12402726195,
+                        -7.3231945350997
+                    ],
+                    [
+                        111.1240790638,
+                        -7.3230160286668
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1240790638,
+                        -7.3230160286668
+                    ],
+                    [
+                        111.1240366077,
+                        -7.3228192758888
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1240366077,
+                        -7.3228192758888
+                    ],
+                    [
+                        111.12386928794,
+                        -7.3224041911005
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12386928794,
+                        -7.3224041911005
+                    ],
+                    [
+                        111.12380315359,
+                        -7.3221234002747
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12380315359,
+                        -7.3221234002747
+                    ],
+                    [
+                        111.12387719208,
+                        -7.3216938930587
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12387719208,
+                        -7.3216938930587
+                    ],
+                    [
+                        111.12394518083,
+                        -7.321305121534
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12394518083,
+                        -7.321305121534
+                    ],
+                    [
+                        111.12402052783,
+                        -7.3209235122103
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12402052783,
+                        -7.3209235122103
+                    ],
+                    [
+                        111.12410298756,
+                        -7.3207075112426
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12410298756,
+                        -7.3207075112426
+                    ],
+                    [
+                        111.12422402912,
+                        -7.3205748207713
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12422402912,
+                        -7.3205748207713
+                    ],
+                    [
+                        111.1242711419,
+                        -7.3205410584231
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1242711419,
+                        -7.3205410584231
+                    ],
+                    [
+                        111.12434539083,
+                        -7.3206112334216
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12434539083,
+                        -7.3206112334216
+                    ],
+                    [
+                        111.12446492152,
+                        -7.3207801845578
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12446492152,
+                        -7.3207801845578
+                    ],
+                    [
+                        111.12457759938,
+                        -7.3209323588412
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12457759938,
+                        -7.3209323588412
+                    ],
+                    [
+                        111.12471935591,
+                        -7.3210057264331
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12471935591,
+                        -7.3210057264331
+                    ],
+                    [
+                        111.12484356128,
+                        -7.3210096447792
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12484356128,
+                        -7.3210096447792
+                    ],
+                    [
+                        111.12493470128,
+                        -7.3209254484506
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12493470128,
+                        -7.3209254484506
+                    ],
+                    [
+                        111.1249999273,
+                        -7.3207085751406
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1249999273,
+                        -7.3207085751406
+                    ],
+                    [
+                        111.12501173091,
+                        -7.3206693305252
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12501173091,
+                        -7.3206693305252
+                    ],
+                    [
+                        111.12503537588,
+                        -7.3203036742751
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12503537588,
+                        -7.3203036742751
+                    ],
+                    [
+                        111.12508699067,
+                        -7.3200112174437
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12508699067,
+                        -7.3200112174437
+                    ],
+                    [
+                        111.12514719579,
+                        -7.3196896675441
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12514719579,
+                        -7.3196896675441
+                    ],
+                    [
+                        111.12515275899,
+                        -7.3196553008514
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12515275899,
+                        -7.3196553008514
+                    ],
+                    [
+                        111.12517232195,
+                        -7.319534461646
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12517232195,
+                        -7.319534461646
+                    ],
+                    [
+                        111.12525049192,
+                        -7.3194028773409
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12525049192,
+                        -7.3194028773409
+                    ],
+                    [
+                        111.12547966076,
+                        -7.3191261199744
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12547966076,
+                        -7.3191261199744
+                    ],
+                    [
+                        111.12569036112,
+                        -7.3188952388241
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12569036112,
+                        -7.3188952388241
+                    ],
+                    [
+                        111.12575504846,
+                        -7.3187931747652
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12575504846,
+                        -7.3187931747652
+                    ],
+                    [
+                        111.12569244485,
+                        -7.3187351639966
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12569244485,
+                        -7.3187351639966
+                    ],
+                    [
+                        111.1256466163,
+                        -7.3186926971102
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1256466163,
+                        -7.3186926971102
+                    ],
+                    [
+                        111.12543229976,
+                        -7.3185599373912
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12543229976,
+                        -7.3185599373912
+                    ],
+                    [
+                        111.12534262206,
+                        -7.3184570927206
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12534262206,
+                        -7.3184570927206
+                    ],
+                    [
+                        111.12530885162,
+                        -7.3183149018112
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12530885162,
+                        -7.3183149018112
+                    ],
+                    [
+                        111.12556358819,
+                        -7.3177121536929
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12556358819,
+                        -7.3177121536929
+                    ],
+                    [
+                        111.12569186479,
+                        -7.3175037474999
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12569186479,
+                        -7.3175037474999
+                    ],
+                    [
+                        111.12603097665,
+                        -7.3172936541787
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12603097665,
+                        -7.3172936541787
+                    ],
+                    [
+                        111.12624799205,
+                        -7.317165938757
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12624799205,
+                        -7.317165938757
+                    ],
+                    [
+                        111.12631500323,
+                        -7.3170807621674
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12631500323,
+                        -7.3170807621674
+                    ],
+                    [
+                        111.1262817481,
+                        -7.3169682965496
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1262817481,
+                        -7.3169682965496
+                    ],
+                    [
+                        111.12607467201,
+                        -7.3168031684314
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12607467201,
+                        -7.3168031684314
+                    ],
+                    [
+                        111.12590802853,
+                        -7.3166971887242
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12590802853,
+                        -7.3166971887242
+                    ],
+                    [
+                        111.12575336672,
+                        -7.3163810536426
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12575336672,
+                        -7.3163810536426
+                    ],
+                    [
+                        111.12572707415,
+                        -7.3162163634943
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12572707415,
+                        -7.3162163634943
+                    ],
+                    [
+                        111.12580171967,
+                        -7.3160224822517
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12580171967,
+                        -7.3160224822517
+                    ],
+                    [
+                        111.12591078406,
+                        -7.3158618246634
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12591078406,
+                        -7.3158618246634
+                    ],
+                    [
+                        111.1249999282,
+                        -7.3147541377932
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1249999282,
+                        -7.3147541377932
+                    ],
+                    [
+                        111.12498076905,
+                        -7.3147308408556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12498076905,
+                        -7.3147308408556
+                    ],
+                    [
+                        111.12484388504,
+                        -7.3145456020978
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12484388504,
+                        -7.3145456020978
+                    ],
+                    [
+                        111.12480323028,
+                        -7.3142107737081
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12480323028,
+                        -7.3142107737081
+                    ],
+                    [
+                        111.12482082372,
+                        -7.3140422173744
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12482082372,
+                        -7.3140422173744
+                    ],
+                    [
+                        111.12499992641,
+                        -7.3139641661134
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12499992641,
+                        -7.3139641661134
+                    ],
+                    [
+                        111.12523567379,
+                        -7.3138614302608
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12523567379,
+                        -7.3138614302608
+                    ],
+                    [
+                        111.12538195841,
+                        -7.3137747580986
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12538195841,
+                        -7.3137747580986
+                    ],
+                    [
+                        111.12548560168,
+                        -7.3136352246858
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12548560168,
+                        -7.3136352246858
+                    ],
+                    [
+                        111.12549798714,
+                        -7.3135378065245
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12549798714,
+                        -7.3135378065245
+                    ],
+                    [
+                        111.12521575111,
+                        -7.3133105910109
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12521575111,
+                        -7.3133105910109
+                    ],
+                    [
+                        111.1249999282,
+                        -7.313125527621
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1249999282,
+                        -7.313125527621
+                    ],
+                    [
+                        111.12497391981,
+                        -7.3131032280314
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12497391981,
+                        -7.3131032280314
+                    ],
+                    [
+                        111.12487997663,
+                        -7.3129697740358
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12487997663,
+                        -7.3129697740358
+                    ],
+                    [
+                        111.12494968398,
+                        -7.3123172070734
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12494968398,
+                        -7.3123172070734
+                    ],
+                    [
+                        111.12499841824,
+                        -7.3120294096295
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12499841824,
+                        -7.3120294096295
+                    ],
+                    [
+                        111.12471414434,
+                        -7.3115667318192
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12471414434,
+                        -7.3115667318192
+                    ],
+                    [
+                        111.12453045422,
+                        -7.3112730195342
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12453045422,
+                        -7.3112730195342
+                    ],
+                    [
+                        111.12439126524,
+                        -7.3110363107771
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12439126524,
+                        -7.3110363107771
+                    ],
+                    [
+                        111.12434716339,
+                        -7.3109760049387
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12434716339,
+                        -7.3109760049387
+                    ],
+                    [
+                        111.12431968551,
+                        -7.3109141396757
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12431968551,
+                        -7.3109141396757
+                    ],
+                    [
+                        111.12433655589,
+                        -7.3108191622745
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12433655589,
+                        -7.3108191622745
+                    ],
+                    [
+                        111.12499992281,
+                        -7.310726295582
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12499992281,
+                        -7.310726295582
+                    ],
+                    [
+                        111.1251697256,
+                        -7.3107025300976
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1251697256,
+                        -7.3107025300976
+                    ],
+                    [
+                        111.12554321854,
+                        -7.3106682425453
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12554321854,
+                        -7.3106682425453
+                    ],
+                    [
+                        111.12565122712,
+                        -7.3106543453217
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12565122712,
+                        -7.3106543453217
+                    ],
+                    [
+                        111.12572681604,
+                        -7.3106307956746
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12572681604,
+                        -7.3106307956746
+                    ],
+                    [
+                        111.12611417833,
+                        -7.3102989323498
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12611417833,
+                        -7.3102989323498
+                    ],
+                    [
+                        111.12640279685,
+                        -7.3100020490553
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12640279685,
+                        -7.3100020490553
+                    ],
+                    [
+                        111.12660089142,
+                        -7.3098751888887
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12660089142,
+                        -7.3098751888887
+                    ],
+                    [
+                        111.1271036646,
+                        -7.3098267523027
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1271036646,
+                        -7.3098267523027
+                    ],
+                    [
+                        111.12758754123,
+                        -7.3098507947783
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12758754123,
+                        -7.3098507947783
+                    ],
+                    [
+                        111.12815563218,
+                        -7.3099184507759
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12815563218,
+                        -7.3099184507759
+                    ],
+                    [
+                        111.12837561175,
+                        -7.309905633638
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12837561175,
+                        -7.309905633638
+                    ],
+                    [
+                        111.12856861705,
+                        -7.3098217053074
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12856861705,
+                        -7.3098217053074
+                    ],
+                    [
+                        111.12866373474,
+                        -7.3097195603094
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12866373474,
+                        -7.3097195603094
+                    ],
+                    [
+                        111.12853280604,
+                        -7.3093561002038
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12853280604,
+                        -7.3093561002038
+                    ],
+                    [
+                        111.1282714082,
+                        -7.3089325491977
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1282714082,
+                        -7.3089325491977
+                    ],
+                    [
+                        111.12817334612,
+                        -7.3087796761411
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12817334612,
+                        -7.3087796761411
+                    ],
+                    [
+                        111.12816731527,
+                        -7.3086960490833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12816731527,
+                        -7.3086960490833
+                    ],
+                    [
+                        111.1282775092,
+                        -7.3085645277307
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1282775092,
+                        -7.3085645277307
+                    ],
+                    [
+                        111.12838618597,
+                        -7.3085163816256
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12838618597,
+                        -7.3085163816256
+                    ],
+                    [
+                        111.12866209618,
+                        -7.3086160337029
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12866209618,
+                        -7.3086160337029
+                    ],
+                    [
+                        111.12890056761,
+                        -7.3087030763858
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12890056761,
+                        -7.3087030763858
+                    ],
+                    [
+                        111.1290389382,
+                        -7.3087012642519
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1290389382,
+                        -7.3087012642519
+                    ],
+                    [
+                        111.12932677071,
+                        -7.3083914891758
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12932677071,
+                        -7.3083914891758
+                    ],
+                    [
+                        111.12972384388,
+                        -7.3081966276722
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12972384388,
+                        -7.3081966276722
+                    ],
+                    [
+                        111.13013277551,
+                        -7.3075320853374
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.13013277551,
+                        -7.3075320853374
+                    ],
+                    [
+                        111.13022734282,
+                        -7.3073145240459
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.13022734282,
+                        -7.3073145240459
+                    ],
+                    [
+                        111.13023592505,
+                        -7.3071377658951
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.13023592505,
+                        -7.3071377658951
+                    ],
+                    [
+                        111.12994423354,
+                        -7.3068797099306
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12994423354,
+                        -7.3068797099306
+                    ],
+                    [
+                        111.12976291133,
+                        -7.3067271138652
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12976291133,
+                        -7.3067271138652
+                    ],
+                    [
+                        111.12964052889,
+                        -7.3063397524775
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12964052889,
+                        -7.3063397524775
+                    ],
+                    [
+                        111.12964599497,
+                        -7.3062577594879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12964599497,
+                        -7.3062577594879
+                    ],
+                    [
+                        111.12978813641,
+                        -7.306169739242
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.12978813641,
+                        -7.306169739242
+                    ],
+                    [
+                        111.13041752515,
+                        -7.3061220940593
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.13041752515,
+                        -7.3061220940593
+                    ],
+                    [
+                        111.13053994266,
+                        -7.3060961513163
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.13053994266,
+                        -7.3060961513163
+                    ],
+                    [
+                        111.13060849259,
+                        -7.3060167546694
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.13060849259,
+                        -7.3060167546694
+                    ],
+                    [
+                        111.13051884022,
+                        -7.3058303586715
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.13051884022,
+                        -7.3058303586715
+                    ],
+                    [
+                        111.1304888039,
+                        -7.3055790626184
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1304888039,
+                        -7.3055790626184
+                    ],
+                    [
+                        111.13048877787,
+                        -7.3054893109326
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.13048877787,
+                        -7.3054893109326
+                    ],
+                    [
+                        111.13061460332,
+                        -7.3054174731774
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.13061460332,
+                        -7.3054174731774
+                    ],
+                    [
+                        111.13072245243,
+                        -7.3053516240413
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.13072245243,
+                        -7.3053516240413
+                    ],
+                    [
+                        111.13095017074,
+                        -7.3053395911289
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.13095017074,
+                        -7.3053395911289
+                    ],
+                    [
+                        111.13146554109,
+                        -7.3053394412888
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.13146554109,
+                        -7.3053394412888
+                    ],
+                    [
+                        111.13172921193,
+                        -7.3053154306169
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.13172921193,
+                        -7.3053154306169
+                    ],
+                    [
+                        111.13203482798,
+                        -7.3052794406294
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.13203482798,
+                        -7.3052794406294
+                    ],
+                    [
+                        111.13218463613,
+                        -7.3052494795452
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "151",
+                "NAMA_SUNGAI": "Kali Kandangsapi",
+                "FOTO": "sungai-151_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.13218463613,
+                        -7.3052494795452
+                    ],
+                    [
+                        111.13239468916,
+                        -7.305168875643
+                    ]
+                ]
+            }
+        }
+    ]
+}

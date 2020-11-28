@@ -1,0 +1,3731 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51546667924",
+                "LONGITUDE": "110.875000031"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.875000031,
+                        -7.51546667924
+                    ],
+                    [
+                        110.875265342,
+                        -7.51490875873
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51490875873",
+                "LONGITUDE": "110.875265342"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.875265342,
+                        -7.51490875873
+                    ],
+                    [
+                        110.875424205,
+                        -7.51476233561
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51476233561",
+                "LONGITUDE": "110.875424205"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.875424205,
+                        -7.51476233561
+                    ],
+                    [
+                        110.875802777,
+                        -7.51452804963
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51452804963",
+                "LONGITUDE": "110.875802777"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.875802777,
+                        -7.51452804963
+                    ],
+                    [
+                        110.876327197,
+                        -7.514269544
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.514269544",
+                "LONGITUDE": "110.876327197"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.876327197,
+                        -7.514269544
+                    ],
+                    [
+                        110.876626819,
+                        -7.51407348011
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51407348011",
+                "LONGITUDE": "110.876626819"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.876626819,
+                        -7.51407348011
+                    ],
+                    [
+                        110.876707114,
+                        -7.51392546968
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51392546968",
+                "LONGITUDE": "110.876707114"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.876707114,
+                        -7.51392546968
+                    ],
+                    [
+                        110.876891692,
+                        -7.51354487659
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51354487659",
+                "LONGITUDE": "110.876891692"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.876891692,
+                        -7.51354487659
+                    ],
+                    [
+                        110.877065836,
+                        -7.51349577991
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51349577991",
+                "LONGITUDE": "110.877065836"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.877065836,
+                        -7.51349577991
+                    ],
+                    [
+                        110.877301413,
+                        -7.51348330811
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51348330811",
+                "LONGITUDE": "110.877301413"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.877301413,
+                        -7.51348330811
+                    ],
+                    [
+                        110.877751133,
+                        -7.51345537337
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51345537337",
+                "LONGITUDE": "110.877751133"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.877751133,
+                        -7.51345537337
+                    ],
+                    [
+                        110.878080851,
+                        -7.51343890228
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51343890228",
+                "LONGITUDE": "110.878080851"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.878080851,
+                        -7.51343890228
+                    ],
+                    [
+                        110.878396615,
+                        -7.51353559829
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51353559829",
+                "LONGITUDE": "110.878396615"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.878396615,
+                        -7.51353559829
+                    ],
+                    [
+                        110.878442274,
+                        -7.51355660645
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51355660645",
+                "LONGITUDE": "110.878442274"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.878442274,
+                        -7.51355660645
+                    ],
+                    [
+                        110.87875653,
+                        -7.51370119945
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51370119945",
+                "LONGITUDE": "110.87875653"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87875653,
+                        -7.51370119945
+                    ],
+                    [
+                        110.878907499,
+                        -7.51370669521
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51370669521",
+                "LONGITUDE": "110.878907499"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.878907499,
+                        -7.51370669521
+                    ],
+                    [
+                        110.87906612,
+                        -7.51364062382
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51364062382",
+                "LONGITUDE": "110.87906612"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87906612,
+                        -7.51364062382
+                    ],
+                    [
+                        110.879142132,
+                        -7.51353642836
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51353642836",
+                "LONGITUDE": "110.879142132"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.879142132,
+                        -7.51353642836
+                    ],
+                    [
+                        110.87920317,
+                        -7.51333779241
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51333779241",
+                "LONGITUDE": "110.87920317"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87920317,
+                        -7.51333779241
+                    ],
+                    [
+                        110.879257815,
+                        -7.51278674002
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51278674002",
+                "LONGITUDE": "110.879257815"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.879257815,
+                        -7.51278674002
+                    ],
+                    [
+                        110.879418516,
+                        -7.51273944827
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51273944827",
+                "LONGITUDE": "110.879418516"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.879418516,
+                        -7.51273944827
+                    ],
+                    [
+                        110.879561069,
+                        -7.51275885474
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51275885474",
+                "LONGITUDE": "110.879561069"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.879561069,
+                        -7.51275885474
+                    ],
+                    [
+                        110.87966072,
+                        -7.51288618255
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51288618255",
+                "LONGITUDE": "110.87966072"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87966072,
+                        -7.51288618255
+                    ],
+                    [
+                        110.880269953,
+                        -7.51373199943
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51373199943",
+                "LONGITUDE": "110.880269953"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.880269953,
+                        -7.51373199943
+                    ],
+                    [
+                        110.880412209,
+                        -7.51368249445
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51368249445",
+                "LONGITUDE": "110.880412209"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.880412209,
+                        -7.51368249445
+                    ],
+                    [
+                        110.880614073,
+                        -7.51351719276
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51351719276",
+                "LONGITUDE": "110.880614073"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.880614073,
+                        -7.51351719276
+                    ],
+                    [
+                        110.880924739,
+                        -7.51306887083
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51306887083",
+                "LONGITUDE": "110.880924739"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.880924739,
+                        -7.51306887083
+                    ],
+                    [
+                        110.881179702,
+                        -7.51259857037
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51259857037",
+                "LONGITUDE": "110.881179702"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.881179702,
+                        -7.51259857037
+                    ],
+                    [
+                        110.881422173,
+                        -7.51256871288
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51256871288",
+                "LONGITUDE": "110.881422173"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.881422173,
+                        -7.51256871288
+                    ],
+                    [
+                        110.881659011,
+                        -7.51261638414
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51261638414",
+                "LONGITUDE": "110.881659011"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.881659011,
+                        -7.51261638414
+                    ],
+                    [
+                        110.882059806,
+                        -7.51267556133
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51267556133",
+                "LONGITUDE": "110.882059806"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.882059806,
+                        -7.51267556133
+                    ],
+                    [
+                        110.882293009,
+                        -7.51266220909
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51266220909",
+                "LONGITUDE": "110.882293009"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.882293009,
+                        -7.51266220909
+                    ],
+                    [
+                        110.882357601,
+                        -7.51265851738
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51265851738",
+                "LONGITUDE": "110.882357601"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.882357601,
+                        -7.51265851738
+                    ],
+                    [
+                        110.882442794,
+                        -7.51265363766
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51265363766",
+                "LONGITUDE": "110.882442794"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.882442794,
+                        -7.51265363766
+                    ],
+                    [
+                        110.882761638,
+                        -7.51265664409
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51265664409",
+                "LONGITUDE": "110.882761638"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.882761638,
+                        -7.51265664409
+                    ],
+                    [
+                        110.88306293,
+                        -7.51267903181
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50121120443",
+                "LONGITUDE": "110.862654637"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.862654637,
+                        -7.50121120443
+                    ],
+                    [
+                        110.862779004,
+                        -7.50113887736
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50113887736",
+                "LONGITUDE": "110.862779004"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.862779004,
+                        -7.50113887736
+                    ],
+                    [
+                        110.862828582,
+                        -7.50110271022
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50110271022",
+                "LONGITUDE": "110.862828582"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.862828582,
+                        -7.50110271022
+                    ],
+                    [
+                        110.863074729,
+                        -7.50107564962
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50107564962",
+                "LONGITUDE": "110.863074729"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.863074729,
+                        -7.50107564962
+                    ],
+                    [
+                        110.863141858,
+                        -7.50107567031
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50107567031",
+                "LONGITUDE": "110.863141858"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.863141858,
+                        -7.50107567031
+                    ],
+                    [
+                        110.863287994,
+                        -7.50112999026
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50112999026",
+                "LONGITUDE": "110.863287994"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.863287994,
+                        -7.50112999026
+                    ],
+                    [
+                        110.863474045,
+                        -7.50125668855
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50125668855",
+                "LONGITUDE": "110.863474045"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.863474045,
+                        -7.50125668855
+                    ],
+                    [
+                        110.863525017,
+                        -7.50129288716
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50129288716",
+                "LONGITUDE": "110.863525017"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.863525017,
+                        -7.50129288716
+                    ],
+                    [
+                        110.863673669,
+                        -7.50145575708
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50145575708",
+                "LONGITUDE": "110.863673669"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.863673669,
+                        -7.50145575708
+                    ],
+                    [
+                        110.864218161,
+                        -7.50205294379
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50205294379",
+                "LONGITUDE": "110.864218161"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.864218161,
+                        -7.50205294379
+                    ],
+                    [
+                        110.864421471,
+                        -7.50224296694
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50224296694",
+                "LONGITUDE": "110.864421471"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.864421471,
+                        -7.50224296694
+                    ],
+                    [
+                        110.864524847,
+                        -7.50227013636
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50227013636",
+                "LONGITUDE": "110.864524847"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.864524847,
+                        -7.50227013636
+                    ],
+                    [
+                        110.864853115,
+                        -7.5023064204
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.5023064204",
+                "LONGITUDE": "110.864853115"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.864853115,
+                        -7.5023064204
+                    ],
+                    [
+                        110.865083125,
+                        -7.50225221647
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50225221647",
+                "LONGITUDE": "110.865083125"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.865083125,
+                        -7.50225221647
+                    ],
+                    [
+                        110.865367527,
+                        -7.50217089167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50217089167",
+                "LONGITUDE": "110.865367527"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.865367527,
+                        -7.50217089167
+                    ],
+                    [
+                        110.865534638,
+                        -7.50217998922
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50217998922",
+                "LONGITUDE": "110.865534638"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.865534638,
+                        -7.50217998922
+                    ],
+                    [
+                        110.865746757,
+                        -7.50227955676
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50227955676",
+                "LONGITUDE": "110.865746757"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.865746757,
+                        -7.50227955676
+                    ],
+                    [
+                        110.865851802,
+                        -7.50240622896
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50240622896",
+                "LONGITUDE": "110.865851802"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.865851802,
+                        -7.50240622896
+                    ],
+                    [
+                        110.865902761,
+                        -7.50248765628
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50248765628",
+                "LONGITUDE": "110.865902761"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.865902761,
+                        -7.50248765628
+                    ],
+                    [
+                        110.866455976,
+                        -7.50328385037
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50328385037",
+                "LONGITUDE": "110.866455976"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.866455976,
+                        -7.50328385037
+                    ],
+                    [
+                        110.866597254,
+                        -7.50348289912
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50348289912",
+                "LONGITUDE": "110.866597254"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.866597254,
+                        -7.50348289912
+                    ],
+                    [
+                        110.866717523,
+                        -7.50384476562
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50384476562",
+                "LONGITUDE": "110.866717523"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.866717523,
+                        -7.50384476562
+                    ],
+                    [
+                        110.866802431,
+                        -7.50406188894
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50406188894",
+                "LONGITUDE": "110.866802431"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.866802431,
+                        -7.50406188894
+                    ],
+                    [
+                        110.866972601,
+                        -7.50426094669
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50426094669",
+                "LONGITUDE": "110.866972601"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.866972601,
+                        -7.50426094669
+                    ],
+                    [
+                        110.867333356,
+                        -7.50458670271
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50458670271",
+                "LONGITUDE": "110.867333356"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867333356,
+                        -7.50458670271
+                    ],
+                    [
+                        110.867432192,
+                        -7.50464100648
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50464100648",
+                "LONGITUDE": "110.867432192"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867432192,
+                        -7.50464100648
+                    ],
+                    [
+                        110.867909621,
+                        -7.50504820871
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50504820871",
+                "LONGITUDE": "110.867909621"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867909621,
+                        -7.50504820871
+                    ],
+                    [
+                        110.867921768,
+                        -7.50515676138
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50515676138",
+                "LONGITUDE": "110.867921768"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867921768,
+                        -7.50515676138
+                    ],
+                    [
+                        110.867920624,
+                        -7.5051929438
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.5051929438",
+                "LONGITUDE": "110.867920624"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867920624,
+                        -7.5051929438
+                    ],
+                    [
+                        110.867867033,
+                        -7.50538288871
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50538288871",
+                "LONGITUDE": "110.867867033"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867867033,
+                        -7.50538288871
+                    ],
+                    [
+                        110.867753402,
+                        -7.50554567769
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50554567769",
+                "LONGITUDE": "110.867753402"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867753402,
+                        -7.50554567769
+                    ],
+                    [
+                        110.867509451,
+                        -7.50579888451
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50579888451",
+                "LONGITUDE": "110.867509451"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867509451,
+                        -7.50579888451
+                    ],
+                    [
+                        110.86749244,
+                        -7.5058531541
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.5058531541",
+                "LONGITUDE": "110.86749244"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86749244,
+                        -7.5058531541
+                    ],
+                    [
+                        110.867113374,
+                        -7.50705612324
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50705612324",
+                "LONGITUDE": "110.867113374"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867113374,
+                        -7.50705612324
+                    ],
+                    [
+                        110.867124119,
+                        -7.50711944631
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50711944631",
+                "LONGITUDE": "110.867124119"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867124119,
+                        -7.50711944631
+                    ],
+                    [
+                        110.867152438,
+                        -7.50713754606
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50713754606",
+                "LONGITUDE": "110.867152438"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867152438,
+                        -7.50713754606
+                    ],
+                    [
+                        110.867295189,
+                        -7.50715568089
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50715568089",
+                "LONGITUDE": "110.867295189"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867295189,
+                        -7.50715568089
+                    ],
+                    [
+                        110.867788878,
+                        -7.5071920126
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.5071920126",
+                "LONGITUDE": "110.867788878"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867788878,
+                        -7.5071920126
+                    ],
+                    [
+                        110.868024223,
+                        -7.50730063272
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50730063272",
+                "LONGITUDE": "110.868024223"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.868024223,
+                        -7.50730063272
+                    ],
+                    [
+                        110.868446484,
+                        -7.5074997651
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.5074997651",
+                "LONGITUDE": "110.868446484"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.868446484,
+                        -7.5074997651
+                    ],
+                    [
+                        110.868708175,
+                        -7.50759934703
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50759934703",
+                "LONGITUDE": "110.868708175"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.868708175,
+                        -7.50759934703
+                    ],
+                    [
+                        110.868733664,
+                        -7.50760840051
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50760840051",
+                "LONGITUDE": "110.868733664"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.868733664,
+                        -7.50760840051
+                    ],
+                    [
+                        110.869076361,
+                        -7.5077170512
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.5077170512",
+                "LONGITUDE": "110.869076361"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.869076361,
+                        -7.5077170512
+                    ],
+                    [
+                        110.869269215,
+                        -7.50784374859
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50784374859",
+                "LONGITUDE": "110.869269215"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.869269215,
+                        -7.50784374859
+                    ],
+                    [
+                        110.869396069,
+                        -7.50797947247
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50797947247",
+                "LONGITUDE": "110.869396069"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.869396069,
+                        -7.50797947247
+                    ],
+                    [
+                        110.869870905,
+                        -7.50854949516
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50854949516",
+                "LONGITUDE": "110.869870905"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.869870905,
+                        -7.50854949516
+                    ],
+                    [
+                        110.870310976,
+                        -7.50887527188
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50887527188",
+                "LONGITUDE": "110.870310976"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.870310976,
+                        -7.50887527188
+                    ],
+                    [
+                        110.870512851,
+                        -7.50914670346
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50914670346",
+                "LONGITUDE": "110.870512851"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.870512851,
+                        -7.50914670346
+                    ],
+                    [
+                        110.870676446,
+                        -7.50956285574
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50956285574",
+                "LONGITUDE": "110.870676446"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.870676446,
+                        -7.50956285574
+                    ],
+                    [
+                        110.870713228,
+                        -7.50969855265
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50969855265",
+                "LONGITUDE": "110.870713228"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.870713228,
+                        -7.50969855265
+                    ],
+                    [
+                        110.870907881,
+                        -7.51044940651
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51044940651",
+                "LONGITUDE": "110.870907881"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.870907881,
+                        -7.51044940651
+                    ],
+                    [
+                        110.871026521,
+                        -7.51059417308
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51059417308",
+                "LONGITUDE": "110.871026521"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.871026521,
+                        -7.51059417308
+                    ],
+                    [
+                        110.871303471,
+                        -7.51082039754
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51082039754",
+                "LONGITUDE": "110.871303471"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.871303471,
+                        -7.51082039754
+                    ],
+                    [
+                        110.871569411,
+                        -7.51092902485
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51092902485",
+                "LONGITUDE": "110.871569411"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.871569411,
+                        -7.51092902485
+                    ],
+                    [
+                        110.87194155,
+                        -7.51110100221
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51110100221",
+                "LONGITUDE": "110.87194155"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87194155,
+                        -7.51110100221
+                    ],
+                    [
+                        110.872012889,
+                        -7.51123670901
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51123670901",
+                "LONGITUDE": "110.872012889"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.872012889,
+                        -7.51123670901
+                    ],
+                    [
+                        110.872383696,
+                        -7.51209616231
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51209616231",
+                "LONGITUDE": "110.872383696"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.872383696,
+                        -7.51209616231
+                    ],
+                    [
+                        110.872649294,
+                        -7.5124037943
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.5124037943",
+                "LONGITUDE": "110.872649294"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.872649294,
+                        -7.5124037943
+                    ],
+                    [
+                        110.872848094,
+                        -7.51254858425
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51254858425",
+                "LONGITUDE": "110.872848094"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.872848094,
+                        -7.51254858425
+                    ],
+                    [
+                        110.87286817,
+                        -7.5126661841
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.5126661841",
+                "LONGITUDE": "110.87286817"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87286817,
+                        -7.5126661841
+                    ],
+                    [
+                        110.872801234,
+                        -7.51297371986
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51297371986",
+                "LONGITUDE": "110.872801234"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.872801234,
+                        -7.51297371986
+                    ],
+                    [
+                        110.872657261,
+                        -7.5132540961
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.5132540961",
+                "LONGITUDE": "110.872657261"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.872657261,
+                        -7.5132540961
+                    ],
+                    [
+                        110.872280069,
+                        -7.51388718824
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51388718824",
+                "LONGITUDE": "110.872280069"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.872280069,
+                        -7.51388718824
+                    ],
+                    [
+                        110.872255095,
+                        -7.5140500042
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.5140500042",
+                "LONGITUDE": "110.872255095"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.872255095,
+                        -7.5140500042
+                    ],
+                    [
+                        110.872300535,
+                        -7.51461085381
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51461085381",
+                "LONGITUDE": "110.872300535"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.872300535,
+                        -7.51461085381
+                    ],
+                    [
+                        110.87246507,
+                        -7.51472849592
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51472849592",
+                "LONGITUDE": "110.87246507"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87246507,
+                        -7.51472849592
+                    ],
+                    [
+                        110.872886182,
+                        -7.51501808212
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51501808212",
+                "LONGITUDE": "110.872886182"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.872886182,
+                        -7.51501808212
+                    ],
+                    [
+                        110.873036533,
+                        -7.51520808548
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51520808548",
+                "LONGITUDE": "110.873036533"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.873036533,
+                        -7.51520808548
+                    ],
+                    [
+                        110.873102765,
+                        -7.51537997381
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51537997381",
+                "LONGITUDE": "110.873102765"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.873102765,
+                        -7.51537997381
+                    ],
+                    [
+                        110.873123426,
+                        -7.51543425419
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51543425419",
+                "LONGITUDE": "110.873123426"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.873123426,
+                        -7.51543425419
+                    ],
+                    [
+                        110.873260678,
+                        -7.51586848914
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51586848914",
+                "LONGITUDE": "110.873260678"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.873260678,
+                        -7.51586848914
+                    ],
+                    [
+                        110.873381868,
+                        -7.51601325661
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51601325661",
+                "LONGITUDE": "110.873381868"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.873381868,
+                        -7.51601325661
+                    ],
+                    [
+                        110.873742069,
+                        -7.51634805262
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51634805262",
+                "LONGITUDE": "110.873742069"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.873742069,
+                        -7.51634805262
+                    ],
+                    [
+                        110.873906635,
+                        -7.51635714567
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51635714567",
+                "LONGITUDE": "110.873906635"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.873906635,
+                        -7.51635714567
+                    ],
+                    [
+                        110.874085956,
+                        -7.51628483118
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.51628483118",
+                "LONGITUDE": "110.874085956"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.874085956,
+                        -7.51628483118
+                    ],
+                    [
+                        110.874235547,
+                        -7.516167279
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.516167279",
+                "LONGITUDE": "110.874235547"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.874235547,
+                        -7.516167279
+                    ],
+                    [
+                        110.87499883,
+                        -7.51547097531
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50121120443",
+                "LONGITUDE": "110.862654637"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.862654637,
+                        -7.50121120443
+                    ],
+                    [
+                        110.862245116,
+                        -7.50128517028
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50128517028",
+                "LONGITUDE": "110.862245116"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.862245116,
+                        -7.50128517028
+                    ],
+                    [
+                        110.86190994,
+                        -7.50140353632
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50140353632",
+                "LONGITUDE": "110.86190994"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86190994,
+                        -7.50140353632
+                    ],
+                    [
+                        110.861627556,
+                        -7.50141960272
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50141960272",
+                "LONGITUDE": "110.861627556"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.861627556,
+                        -7.50141960272
+                    ],
+                    [
+                        110.861303834,
+                        -7.50133872494
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50133872494",
+                "LONGITUDE": "110.861303834"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.861303834,
+                        -7.50133872494
+                    ],
+                    [
+                        110.860983208,
+                        -7.50094671154
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50094671154",
+                "LONGITUDE": "110.860983208"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.860983208,
+                        -7.50094671154
+                    ],
+                    [
+                        110.860671575,
+                        -7.50055769246
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50055769246",
+                "LONGITUDE": "110.860671575"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.860671575,
+                        -7.50055769246
+                    ],
+                    [
+                        110.860563696,
+                        -7.50044397382
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50044397382",
+                "LONGITUDE": "110.860563696"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.860563696,
+                        -7.50044397382
+                    ],
+                    [
+                        110.860099046,
+                        -7.50048571001
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50048571001",
+                "LONGITUDE": "110.860099046"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.860099046,
+                        -7.50048571001
+                    ],
+                    [
+                        110.859742298,
+                        -7.50056936386
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50056936386",
+                "LONGITUDE": "110.859742298"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.859742298,
+                        -7.50056936386
+                    ],
+                    [
+                        110.859433597,
+                        -7.50038976356
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50038976356",
+                "LONGITUDE": "110.859433597"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.859433597,
+                        -7.50038976356
+                    ],
+                    [
+                        110.859031991,
+                        -7.50014132427
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.50014132427",
+                "LONGITUDE": "110.859031991"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.859031991,
+                        -7.50014132427
+                    ],
+                    [
+                        110.858873176,
+                        -7.49995279651
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49995279651",
+                "LONGITUDE": "110.858873176"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.858873176,
+                        -7.49995279651
+                    ],
+                    [
+                        110.858843235,
+                        -7.49984209415
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49984209415",
+                "LONGITUDE": "110.858843235"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.858843235,
+                        -7.49984209415
+                    ],
+                    [
+                        110.85860054,
+                        -7.49948899609
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49948899609",
+                "LONGITUDE": "110.85860054"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85860054,
+                        -7.49948899609
+                    ],
+                    [
+                        110.858558645,
+                        -7.49926460544
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49926460544",
+                "LONGITUDE": "110.858558645"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.858558645,
+                        -7.49926460544
+                    ],
+                    [
+                        110.85841183,
+                        -7.4990491561
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.4990491561",
+                "LONGITUDE": "110.85841183"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85841183,
+                        -7.4990491561
+                    ],
+                    [
+                        110.85815703,
+                        -7.49904907402
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49904907402",
+                "LONGITUDE": "110.85815703"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85815703,
+                        -7.49904907402
+                    ],
+                    [
+                        110.85811221,
+                        -7.49860329688
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49860329688",
+                "LONGITUDE": "110.85811221"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85811221,
+                        -7.49860329688
+                    ],
+                    [
+                        110.858082353,
+                        -7.49823231696
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49823231696",
+                "LONGITUDE": "110.858082353"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.858082353,
+                        -7.49823231696
+                    ],
+                    [
+                        110.857472028,
+                        -7.49825006983
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49825006983",
+                "LONGITUDE": "110.857472028"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.857472028,
+                        -7.49825006983
+                    ],
+                    [
+                        110.856810189,
+                        -7.49812779372
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49812779372",
+                "LONGITUDE": "110.856810189"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.856810189,
+                        -7.49812779372
+                    ],
+                    [
+                        110.856392946,
+                        -7.49804149688
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49804149688",
+                "LONGITUDE": "110.856392946"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.856392946,
+                        -7.49804149688
+                    ],
+                    [
+                        110.855961269,
+                        -7.49809161625
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49809161625",
+                "LONGITUDE": "110.855961269"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.855961269,
+                        -7.49809161625
+                    ],
+                    [
+                        110.855788605,
+                        -7.49809155969
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49809155969",
+                "LONGITUDE": "110.855788605"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.855788605,
+                        -7.49809155969
+                    ],
+                    [
+                        110.855508232,
+                        -7.49746680164
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49746680164",
+                "LONGITUDE": "110.855508232"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.855508232,
+                        -7.49746680164
+                    ],
+                    [
+                        110.855019095,
+                        -7.4972368785
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.4972368785",
+                "LONGITUDE": "110.855019095"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.855019095,
+                        -7.4972368785
+                    ],
+                    [
+                        110.854299772,
+                        -7.4969063577
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.4969063577",
+                "LONGITUDE": "110.854299772"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.854299772,
+                        -7.4969063577
+                    ],
+                    [
+                        110.853825048,
+                        -7.49660463733
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49660463733",
+                "LONGITUDE": "110.853825048"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.853825048,
+                        -7.49660463733
+                    ],
+                    [
+                        110.853371862,
+                        -7.49643934496
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49643934496",
+                "LONGITUDE": "110.853371862"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.853371862,
+                        -7.49643934496
+                    ],
+                    [
+                        110.852796381,
+                        -7.49625247102
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49625247102",
+                "LONGITUDE": "110.852796381"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.852796381,
+                        -7.49625247102
+                    ],
+                    [
+                        110.852523038,
+                        -7.49613031832
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49613031832",
+                "LONGITUDE": "110.852523038"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.852523038,
+                        -7.49613031832
+                    ],
+                    [
+                        110.852465484,
+                        -7.49613029903
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49613029903",
+                "LONGITUDE": "110.852465484"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.852465484,
+                        -7.49613029903
+                    ],
+                    [
+                        110.852163287,
+                        -7.49623789865
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49623789865",
+                "LONGITUDE": "110.852163287"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.852163287,
+                        -7.49623789865
+                    ],
+                    [
+                        110.851659642,
+                        -7.4963669704
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.4963669704",
+                "LONGITUDE": "110.851659642"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.851659642,
+                        -7.4963669704
+                    ],
+                    [
+                        110.851048112,
+                        -7.49640984423
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49640984423",
+                "LONGITUDE": "110.851048112"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.851048112,
+                        -7.49640984423
+                    ],
+                    [
+                        110.850508551,
+                        -7.49637376092
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49637376092",
+                "LONGITUDE": "110.850508551"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.850508551,
+                        -7.49637376092
+                    ],
+                    [
+                        110.850112901,
+                        -7.4962659253
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.4962659253",
+                "LONGITUDE": "110.850112901"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.850112901,
+                        -7.4962659253
+                    ],
+                    [
+                        110.849623763,
+                        -7.49605035638
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49605035638",
+                "LONGITUDE": "110.849623763"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.849623763,
+                        -7.49605035638
+                    ],
+                    [
+                        110.84923534,
+                        -7.49584918156
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49584918156",
+                "LONGITUDE": "110.84923534"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84923534,
+                        -7.49584918156
+                    ],
+                    [
+                        110.848746207,
+                        -7.49561925154
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49561925154",
+                "LONGITUDE": "110.848746207"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.848746207,
+                        -7.49561925154
+                    ],
+                    [
+                        110.848091678,
+                        -7.49518104195
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49518104195",
+                "LONGITUDE": "110.848091678"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.848091678,
+                        -7.49518104195
+                    ],
+                    [
+                        110.847430002,
+                        -7.49461358769
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49461358769",
+                "LONGITUDE": "110.847430002"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.847430002,
+                        -7.49461358769
+                    ],
+                    [
+                        110.847041614,
+                        -7.4943190701
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.4943190701",
+                "LONGITUDE": "110.847041614"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.847041614,
+                        -7.4943190701
+                    ],
+                    [
+                        110.846617252,
+                        -7.49403171971
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49403171971",
+                "LONGITUDE": "110.846617252"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.846617252,
+                        -7.49403171971
+                    ],
+                    [
+                        110.846336802,
+                        -7.4936726185
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.4936726185",
+                "LONGITUDE": "110.846336802"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.846336802,
+                        -7.4936726185
+                    ],
+                    [
+                        110.845991566,
+                        -7.49342119547
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49342119547",
+                "LONGITUDE": "110.845991566"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.845991566,
+                        -7.49342119547
+                    ],
+                    [
+                        110.845689549,
+                        -7.4930190059
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.4930190059",
+                "LONGITUDE": "110.845689549"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.845689549,
+                        -7.4930190059
+                    ],
+                    [
+                        110.845473833,
+                        -7.49270300724
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49270300724",
+                "LONGITUDE": "110.845473833"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.845473833,
+                        -7.49270300724
+                    ],
+                    [
+                        110.845214984,
+                        -7.49229365244
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49229365244",
+                "LONGITUDE": "110.845214984"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.845214984,
+                        -7.49229365244
+                    ],
+                    [
+                        110.845092776,
+                        -7.49202794694
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "92",
+                "NAMA_SUNGAI": "Kali Cekel",
+                "FOTO": "sungai-92_file1-.png",
+                "LATITUDE": "-7.49202794694",
+                "LONGITUDE": "110.845092776"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.845092776,
+                        -7.49202794694
+                    ],
+                    [
+                        110.844848302,
+                        -7.49166167738
+                    ]
+                ]
+            }
+        }
+    ]
+}

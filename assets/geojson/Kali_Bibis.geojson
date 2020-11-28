@@ -1,0 +1,2609 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22926306,
+                        -7.37499722489
+                    ],
+                    [
+                        111.229304253,
+                        -7.37477305676
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.229304253,
+                        -7.37477305676
+                    ],
+                    [
+                        111.229304253,
+                        -7.37477305676
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.229304253,
+                        -7.37477305676
+                    ],
+                    [
+                        111.229162506,
+                        -7.37452799208
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.229162506,
+                        -7.37452799208
+                    ],
+                    [
+                        111.228781911,
+                        -7.37384064681
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228781911,
+                        -7.37384064681
+                    ],
+                    [
+                        111.228554341,
+                        -7.37325792759
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228554341,
+                        -7.37325792759
+                    ],
+                    [
+                        111.22848628,
+                        -7.37308418451
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22848628,
+                        -7.37308418451
+                    ],
+                    [
+                        111.228321501,
+                        -7.37266355998
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228321501,
+                        -7.37266355998
+                    ],
+                    [
+                        111.228015321,
+                        -7.37201405055
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228015321,
+                        -7.37201405055
+                    ],
+                    [
+                        111.227686142,
+                        -7.3714842821
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227686142,
+                        -7.3714842821
+                    ],
+                    [
+                        111.22729747,
+                        -7.37069065196
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22729747,
+                        -7.37069065196
+                    ],
+                    [
+                        111.227218356,
+                        -7.37045508656
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227218356,
+                        -7.37045508656
+                    ],
+                    [
+                        111.227188211,
+                        -7.37017359815
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227188211,
+                        -7.37017359815
+                    ],
+                    [
+                        111.227223099,
+                        -7.36984077826
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227223099,
+                        -7.36984077826
+                    ],
+                    [
+                        111.22725688,
+                        -7.369131511
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22725688,
+                        -7.369131511
+                    ],
+                    [
+                        111.227276488,
+                        -7.3689723863
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227276488,
+                        -7.3689723863
+                    ],
+                    [
+                        111.227359863,
+                        -7.3688564317
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227359863,
+                        -7.3688564317
+                    ],
+                    [
+                        111.228102618,
+                        -7.36856663494
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228102618,
+                        -7.36856663494
+                    ],
+                    [
+                        111.22834175,
+                        -7.36842927992
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22834175,
+                        -7.36842927992
+                    ],
+                    [
+                        111.228539533,
+                        -7.36823799321
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228539533,
+                        -7.36823799321
+                    ],
+                    [
+                        111.228851204,
+                        -7.36799884887
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228851204,
+                        -7.36799884887
+                    ],
+                    [
+                        111.228878115,
+                        -7.36776093731
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228878115,
+                        -7.36776093731
+                    ],
+                    [
+                        111.228897502,
+                        -7.36762953789
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228897502,
+                        -7.36762953789
+                    ],
+                    [
+                        111.228832637,
+                        -7.36749410191
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228832637,
+                        -7.36749410191
+                    ],
+                    [
+                        111.228635089,
+                        -7.3673168519
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228635089,
+                        -7.3673168519
+                    ],
+                    [
+                        111.228258644,
+                        -7.36720934287
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228258644,
+                        -7.36720934287
+                    ],
+                    [
+                        111.227897474,
+                        -7.36705192281
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227897474,
+                        -7.36705192281
+                    ],
+                    [
+                        111.227746479,
+                        -7.36694038415
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227746479,
+                        -7.36694038415
+                    ],
+                    [
+                        111.227529797,
+                        -7.36641015103
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227529797,
+                        -7.36641015103
+                    ],
+                    [
+                        111.227452375,
+                        -7.36606319537
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227452375,
+                        -7.36606319537
+                    ],
+                    [
+                        111.227443973,
+                        -7.36580934873
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227443973,
+                        -7.36580934873
+                    ],
+                    [
+                        111.227663026,
+                        -7.36512263657
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227663026,
+                        -7.36512263657
+                    ],
+                    [
+                        111.227795958,
+                        -7.36426330349
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22926306,
+                        -7.37499722489
+                    ],
+                    [
+                        111.229101106,
+                        -7.3755180489
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.229101106,
+                        -7.3755180489
+                    ],
+                    [
+                        111.229057819,
+                        -7.37577349969
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.229057819,
+                        -7.37577349969
+                    ],
+                    [
+                        111.229032525,
+                        -7.37592334639
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.229032525,
+                        -7.37592334639
+                    ],
+                    [
+                        111.229048808,
+                        -7.37611788491
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.229048808,
+                        -7.37611788491
+                    ],
+                    [
+                        111.229148438,
+                        -7.37629894778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.229148438,
+                        -7.37629894778
+                    ],
+                    [
+                        111.229402506,
+                        -7.37656702383
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.229402506,
+                        -7.37656702383
+                    ],
+                    [
+                        111.229654185,
+                        -7.37678811735
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.229654185,
+                        -7.37678811735
+                    ],
+                    [
+                        111.229835848,
+                        -7.37693555104
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.229835848,
+                        -7.37693555104
+                    ],
+                    [
+                        111.229913035,
+                        -7.37717429717
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.229913035,
+                        -7.37717429717
+                    ],
+                    [
+                        111.229951723,
+                        -7.37777764655
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.229951723,
+                        -7.37777764655
+                    ],
+                    [
+                        111.229964239,
+                        -7.37811624947
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.229964239,
+                        -7.37811624947
+                    ],
+                    [
+                        111.229999426,
+                        -7.37834789288
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.229999426,
+                        -7.37834789288
+                    ],
+                    [
+                        111.230063188,
+                        -7.37845042976
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.230063188,
+                        -7.37845042976
+                    ],
+                    [
+                        111.230667365,
+                        -7.3783269876
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.230667365,
+                        -7.3783269876
+                    ],
+                    [
+                        111.230993152,
+                        -7.37831045558
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.230993152,
+                        -7.37831045558
+                    ],
+                    [
+                        111.231186582,
+                        -7.3783286551
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.231186582,
+                        -7.3783286551
+                    ],
+                    [
+                        111.231357796,
+                        -7.37842104114
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.231357796,
+                        -7.37842104114
+                    ],
+                    [
+                        111.231443931,
+                        -7.37852400043
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.231443931,
+                        -7.37852400043
+                    ],
+                    [
+                        111.231467166,
+                        -7.3786502127
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.231467166,
+                        -7.3786502127
+                    ],
+                    [
+                        111.231311173,
+                        -7.37902618029
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.231311173,
+                        -7.37902618029
+                    ],
+                    [
+                        111.230861702,
+                        -7.37986889709
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.230861702,
+                        -7.37986889709
+                    ],
+                    [
+                        111.230672555,
+                        -7.38040788232
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.230672555,
+                        -7.38040788232
+                    ],
+                    [
+                        111.230533129,
+                        -7.38063378127
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.230533129,
+                        -7.38063378127
+                    ],
+                    [
+                        111.23030466,
+                        -7.38100394236
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23030466,
+                        -7.38100394236
+                    ],
+                    [
+                        111.230168181,
+                        -7.3812179988
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.230168181,
+                        -7.3812179988
+                    ],
+                    [
+                        111.230119675,
+                        -7.38142747797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.230119675,
+                        -7.38142747797
+                    ],
+                    [
+                        111.230180439,
+                        -7.381653147
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.230180439,
+                        -7.381653147
+                    ],
+                    [
+                        111.230221113,
+                        -7.38249332802
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.230221113,
+                        -7.38249332802
+                    ],
+                    [
+                        111.230296384,
+                        -7.38316941271
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.230296384,
+                        -7.38316941271
+                    ],
+                    [
+                        111.230279879,
+                        -7.38338924181
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.230279879,
+                        -7.38338924181
+                    ],
+                    [
+                        111.230271406,
+                        -7.38344812939
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.230271406,
+                        -7.38344812939
+                    ],
+                    [
+                        111.230218713,
+                        -7.38364812424
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.230218713,
+                        -7.38364812424
+                    ],
+                    [
+                        111.230068944,
+                        -7.38378881117
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.230068944,
+                        -7.38378881117
+                    ],
+                    [
+                        111.22988912,
+                        -7.3837649702
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22988912,
+                        -7.3837649702
+                    ],
+                    [
+                        111.229727234,
+                        -7.38365436072
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.229727234,
+                        -7.38365436072
+                    ],
+                    [
+                        111.229464606,
+                        -7.3835005609
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.229464606,
+                        -7.3835005609
+                    ],
+                    [
+                        111.229022159,
+                        -7.38325510914
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.229022159,
+                        -7.38325510914
+                    ],
+                    [
+                        111.228821143,
+                        -7.38313112267
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228821143,
+                        -7.38313112267
+                    ],
+                    [
+                        111.228654459,
+                        -7.38309318878
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228654459,
+                        -7.38309318878
+                    ],
+                    [
+                        111.228504252,
+                        -7.38313443283
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228504252,
+                        -7.38313443283
+                    ],
+                    [
+                        111.228336471,
+                        -7.38321529446
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228336471,
+                        -7.38321529446
+                    ],
+                    [
+                        111.228349764,
+                        -7.38339349786
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228349764,
+                        -7.38339349786
+                    ],
+                    [
+                        111.228363162,
+                        -7.38347467655
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228363162,
+                        -7.38347467655
+                    ],
+                    [
+                        111.228270731,
+                        -7.38358608595
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228270731,
+                        -7.38358608595
+                    ],
+                    [
+                        111.228047174,
+                        -7.38366441871
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228047174,
+                        -7.38366441871
+                    ],
+                    [
+                        111.227609814,
+                        -7.38368823312
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227609814,
+                        -7.38368823312
+                    ],
+                    [
+                        111.227308825,
+                        -7.38374834079
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227308825,
+                        -7.38374834079
+                    ],
+                    [
+                        111.227053053,
+                        -7.38384127119
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227053053,
+                        -7.38384127119
+                    ],
+                    [
+                        111.226720081,
+                        -7.38404598272
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.226720081,
+                        -7.38404598272
+                    ],
+                    [
+                        111.22656362,
+                        -7.38419031461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22656362,
+                        -7.38419031461
+                    ],
+                    [
+                        111.226365209,
+                        -7.38451768633
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.226365209,
+                        -7.38451768633
+                    ],
+                    [
+                        111.226368282,
+                        -7.38466726964
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.226368282,
+                        -7.38466726964
+                    ],
+                    [
+                        111.226493493,
+                        -7.38479318186
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.226493493,
+                        -7.38479318186
+                    ],
+                    [
+                        111.22662674,
+                        -7.38493483392
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22662674,
+                        -7.38493483392
+                    ],
+                    [
+                        111.227125245,
+                        -7.38519213105
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227125245,
+                        -7.38519213105
+                    ],
+                    [
+                        111.227504859,
+                        -7.38536434061
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227504859,
+                        -7.38536434061
+                    ],
+                    [
+                        111.227738287,
+                        -7.3855311735
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227738287,
+                        -7.3855311735
+                    ],
+                    [
+                        111.228050115,
+                        -7.38583317573
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228050115,
+                        -7.38583317573
+                    ],
+                    [
+                        111.228258725,
+                        -7.38608584875
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228258725,
+                        -7.38608584875
+                    ],
+                    [
+                        111.228310517,
+                        -7.38627588236
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228310517,
+                        -7.38627588236
+                    ],
+                    [
+                        111.228271337,
+                        -7.38641851757
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228271337,
+                        -7.38641851757
+                    ],
+                    [
+                        111.228147305,
+                        -7.38656071672
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.228147305,
+                        -7.38656071672
+                    ],
+                    [
+                        111.227967413,
+                        -7.38665611456
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227967413,
+                        -7.38665611456
+                    ],
+                    [
+                        111.227322338,
+                        -7.38673404767
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227322338,
+                        -7.38673404767
+                    ],
+                    [
+                        111.227087325,
+                        -7.38677550632
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227087325,
+                        -7.38677550632
+                    ],
+                    [
+                        111.226859895,
+                        -7.38692132174
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.226859895,
+                        -7.38692132174
+                    ],
+                    [
+                        111.226679888,
+                        -7.38711147329
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.226679888,
+                        -7.38711147329
+                    ],
+                    [
+                        111.226590753,
+                        -7.38727644957
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.226590753,
+                        -7.38727644957
+                    ],
+                    [
+                        111.226564488,
+                        -7.38743748174
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.226564488,
+                        -7.38743748174
+                    ],
+                    [
+                        111.22662233,
+                        -7.38768063693
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22662233,
+                        -7.38768063693
+                    ],
+                    [
+                        111.226862947,
+                        -7.3878244777
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.226862947,
+                        -7.3878244777
+                    ],
+                    [
+                        111.227235079,
+                        -7.38796273349
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227235079,
+                        -7.38796273349
+                    ],
+                    [
+                        111.227461332,
+                        -7.38804817288
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227461332,
+                        -7.38804817288
+                    ],
+                    [
+                        111.227591779,
+                        -7.38816977161
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227591779,
+                        -7.38816977161
+                    ],
+                    [
+                        111.227688781,
+                        -7.38834638548
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227688781,
+                        -7.38834638548
+                    ],
+                    [
+                        111.227772788,
+                        -7.38853182781
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227772788,
+                        -7.38853182781
+                    ],
+                    [
+                        111.227753199,
+                        -7.38867591838
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227753199,
+                        -7.38867591838
+                    ],
+                    [
+                        111.227611871,
+                        -7.38885879587
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227611871,
+                        -7.38885879587
+                    ],
+                    [
+                        111.22745831,
+                        -7.38898776694
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22745831,
+                        -7.38898776694
+                    ],
+                    [
+                        111.227112329,
+                        -7.38922329525
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.227112329,
+                        -7.38922329525
+                    ],
+                    [
+                        111.226637503,
+                        -7.38957650792
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.226637503,
+                        -7.38957650792
+                    ],
+                    [
+                        111.226291723,
+                        -7.38985267804
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.226291723,
+                        -7.38985267804
+                    ],
+                    [
+                        111.226148916,
+                        -7.39001684924
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.226148916,
+                        -7.39001684924
+                    ],
+                    [
+                        111.225962749,
+                        -7.39023086631
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.225962749,
+                        -7.39023086631
+                    ],
+                    [
+                        111.225349651,
+                        -7.39117472624
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.225349651,
+                        -7.39117472624
+                    ],
+                    [
+                        111.225086411,
+                        -7.39213818548
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.225086411,
+                        -7.39213818548
+                    ],
+                    [
+                        111.224992981,
+                        -7.39239524927
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.224992981,
+                        -7.39239524927
+                    ],
+                    [
+                        111.224880173,
+                        -7.39255283775
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.224880173,
+                        -7.39255283775
+                    ],
+                    [
+                        111.224721137,
+                        -7.39266592635
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.224721137,
+                        -7.39266592635
+                    ],
+                    [
+                        111.224473752,
+                        -7.39272521911
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.224473752,
+                        -7.39272521911
+                    ],
+                    [
+                        111.223153628,
+                        -7.39257893596
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "95",
+                "NAMA_SUNGAI": "Kali Bibis",
+                "FOTO": "sungai-95_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.223153628,
+                        -7.39257893596
+                    ],
+                    [
+                        111.222903643,
+                        -7.39255179708
+                    ]
+                ]
+            }
+        }
+    ]
+}

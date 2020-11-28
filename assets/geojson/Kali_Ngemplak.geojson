@@ -1,0 +1,6242 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9467122274,
+                        -7.8396310003757
+                    ],
+                    [
+                        110.94680907901,
+                        -7.8398380125771
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94680907901,
+                        -7.8398380125771
+                    ],
+                    [
+                        110.94691011219,
+                        -7.8399037327041
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94691011219,
+                        -7.8399037327041
+                    ],
+                    [
+                        110.94705453061,
+                        -7.8399075862243
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94705453061,
+                        -7.8399075862243
+                    ],
+                    [
+                        110.94734442153,
+                        -7.8398286000294
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94734442153,
+                        -7.8398286000294
+                    ],
+                    [
+                        110.94744670286,
+                        -7.8398517605437
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94744670286,
+                        -7.8398517605437
+                    ],
+                    [
+                        110.94762483443,
+                        -7.8400296919785
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94762483443,
+                        -7.8400296919785
+                    ],
+                    [
+                        110.94783573429,
+                        -7.8403230947309
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94783573429,
+                        -7.8403230947309
+                    ],
+                    [
+                        110.94793028225,
+                        -7.8404598038323
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94793028225,
+                        -7.8404598038323
+                    ],
+                    [
+                        110.94803289381,
+                        -7.8404548414145
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94803289381,
+                        -7.8404548414145
+                    ],
+                    [
+                        110.94857187039,
+                        -7.8404055998972
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94857187039,
+                        -7.8404055998972
+                    ],
+                    [
+                        110.94890346568,
+                        -7.8405084799048
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94890346568,
+                        -7.8405084799048
+                    ],
+                    [
+                        110.9496543881,
+                        -7.8408167817328
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9496543881,
+                        -7.8408167817328
+                    ],
+                    [
+                        110.94973934459,
+                        -7.8410635835179
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94973934459,
+                        -7.8410635835179
+                    ],
+                    [
+                        110.94981232126,
+                        -7.841286331554
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94981232126,
+                        -7.841286331554
+                    ],
+                    [
+                        110.9499418059,
+                        -7.8413947858503
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9499418059,
+                        -7.8413947858503
+                    ],
+                    [
+                        110.95015272407,
+                        -7.8414775240117
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95015272407,
+                        -7.8414775240117
+                    ],
+                    [
+                        110.95097489817,
+                        -7.841663119043
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95097489817,
+                        -7.841663119043
+                    ],
+                    [
+                        110.95119277902,
+                        -7.841626211087
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95119277902,
+                        -7.841626211087
+                    ],
+                    [
+                        110.95130965982,
+                        -7.8415408158777
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95130965982,
+                        -7.8415408158777
+                    ],
+                    [
+                        110.95156216336,
+                        -7.8411225122254
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95156216336,
+                        -7.8411225122254
+                    ],
+                    [
+                        110.95160010522,
+                        -7.8411408339675
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95160010522,
+                        -7.8411408339675
+                    ],
+                    [
+                        110.95173485337,
+                        -7.8412326624714
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95173485337,
+                        -7.8412326624714
+                    ],
+                    [
+                        110.95194771493,
+                        -7.841377733324
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95194771493,
+                        -7.841377733324
+                    ],
+                    [
+                        110.95205055431,
+                        -7.8415237684832
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95205055431,
+                        -7.8415237684832
+                    ],
+                    [
+                        110.95203777118,
+                        -7.8416211702592
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95203777118,
+                        -7.8416211702592
+                    ],
+                    [
+                        110.95204392642,
+                        -7.8417350462644
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95204392642,
+                        -7.8417350462644
+                    ],
+                    [
+                        110.95219380073,
+                        -7.8417080892676
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95219380073,
+                        -7.8417080892676
+                    ],
+                    [
+                        110.95244945165,
+                        -7.8416846629201
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95244945165,
+                        -7.8416846629201
+                    ],
+                    [
+                        110.95258160659,
+                        -7.8418500860208
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95258160659,
+                        -7.8418500860208
+                    ],
+                    [
+                        110.95259006644,
+                        -7.8419602897557
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95259006644,
+                        -7.8419602897557
+                    ],
+                    [
+                        110.95261837982,
+                        -7.842176555612
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95261837982,
+                        -7.842176555612
+                    ],
+                    [
+                        110.95266737086,
+                        -7.8421902019155
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95266737086,
+                        -7.8421902019155
+                    ],
+                    [
+                        110.95286434568,
+                        -7.8421307400168
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95286434568,
+                        -7.8421307400168
+                    ],
+                    [
+                        110.95303374206,
+                        -7.8420126502902
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95303374206,
+                        -7.8420126502902
+                    ],
+                    [
+                        110.95318031053,
+                        -7.8419404825676
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95318031053,
+                        -7.8419404825676
+                    ],
+                    [
+                        110.95331142829,
+                        -7.8419742463318
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95331142829,
+                        -7.8419742463318
+                    ],
+                    [
+                        110.95354737044,
+                        -7.842010572496
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95354737044,
+                        -7.842010572496
+                    ],
+                    [
+                        110.95419600749,
+                        -7.8419652616744
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95419600749,
+                        -7.8419652616744
+                    ],
+                    [
+                        110.95444055597,
+                        -7.8418544974524
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95444055597,
+                        -7.8418544974524
+                    ],
+                    [
+                        110.95470305315,
+                        -7.8418525447788
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95470305315,
+                        -7.8418525447788
+                    ],
+                    [
+                        110.95481918265,
+                        -7.8419145107041
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95481918265,
+                        -7.8419145107041
+                    ],
+                    [
+                        110.95489532245,
+                        -7.8420200179295
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95489532245,
+                        -7.8420200179295
+                    ],
+                    [
+                        110.95499875895,
+                        -7.8421072016333
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95499875895,
+                        -7.8421072016333
+                    ],
+                    [
+                        110.95518400351,
+                        -7.8421424993056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95518400351,
+                        -7.8421424993056
+                    ],
+                    [
+                        110.95544618411,
+                        -7.842133816195
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95544618411,
+                        -7.842133816195
+                    ],
+                    [
+                        110.95586660449,
+                        -7.8420782027683
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95586660449,
+                        -7.8420782027683
+                    ],
+                    [
+                        110.95623869609,
+                        -7.8420063108314
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95623869609,
+                        -7.8420063108314
+                    ],
+                    [
+                        110.95658339868,
+                        -7.8421430620111
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95658339868,
+                        -7.8421430620111
+                    ],
+                    [
+                        110.95678810682,
+                        -7.84211941068
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95678810682,
+                        -7.84211941068
+                    ],
+                    [
+                        110.95683969432,
+                        -7.842113454907
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95683969432,
+                        -7.842113454907
+                    ],
+                    [
+                        110.95707306836,
+                        -7.8420750801051
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95707306836,
+                        -7.8420750801051
+                    ],
+                    [
+                        110.95724359705,
+                        -7.8420493717107
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95724359705,
+                        -7.8420493717107
+                    ],
+                    [
+                        110.95768588415,
+                        -7.842025336945
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95768588415,
+                        -7.842025336945
+                    ],
+                    [
+                        110.95822644691,
+                        -7.8419072641622
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95822644691,
+                        -7.8419072641622
+                    ],
+                    [
+                        110.95838698933,
+                        -7.841779664447
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95838698933,
+                        -7.841779664447
+                    ],
+                    [
+                        110.95852628783,
+                        -7.8416472774445
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95852628783,
+                        -7.8416472774445
+                    ],
+                    [
+                        110.95874444264,
+                        -7.8414931253188
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95874444264,
+                        -7.8414931253188
+                    ],
+                    [
+                        110.95889165963,
+                        -7.8411788586764
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95889165963,
+                        -7.8411788586764
+                    ],
+                    [
+                        110.95903590513,
+                        -7.8411016774054
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95903590513,
+                        -7.8411016774054
+                    ],
+                    [
+                        110.95917815632,
+                        -7.8411035998435
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95917815632,
+                        -7.8411035998435
+                    ],
+                    [
+                        110.95922346405,
+                        -7.8411230975451
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95922346405,
+                        -7.8411230975451
+                    ],
+                    [
+                        110.96000499855,
+                        -7.8411704539485
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96000499855,
+                        -7.8411704539485
+                    ],
+                    [
+                        110.96014491339,
+                        -7.8410356693722
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96014491339,
+                        -7.8410356693722
+                    ],
+                    [
+                        110.96010605198,
+                        -7.8409536852318
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96010605198,
+                        -7.8409536852318
+                    ],
+                    [
+                        110.96001968123,
+                        -7.840729589877
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96001968123,
+                        -7.840729589877
+                    ],
+                    [
+                        110.96004286337,
+                        -7.8406691311469
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96004286337,
+                        -7.8406691311469
+                    ],
+                    [
+                        110.96006263889,
+                        -7.8406611547847
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96006263889,
+                        -7.8406611547847
+                    ],
+                    [
+                        110.96018015804,
+                        -7.8406137306758
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96018015804,
+                        -7.8406137306758
+                    ],
+                    [
+                        110.96045390032,
+                        -7.8406345433043
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96045390032,
+                        -7.8406345433043
+                    ],
+                    [
+                        110.9608396519,
+                        -7.8407446193266
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9608396519,
+                        -7.8407446193266
+                    ],
+                    [
+                        110.96217302096,
+                        -7.8411787953153
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96217302096,
+                        -7.8411787953153
+                    ],
+                    [
+                        110.96241030171,
+                        -7.8411614399228
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96241030171,
+                        -7.8411614399228
+                    ],
+                    [
+                        110.96267629971,
+                        -7.8410593475651
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96267629971,
+                        -7.8410593475651
+                    ],
+                    [
+                        110.96335716815,
+                        -7.8406511332433
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96335716815,
+                        -7.8406511332433
+                    ],
+                    [
+                        110.96361478224,
+                        -7.8403605288091
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96361478224,
+                        -7.8403605288091
+                    ],
+                    [
+                        110.9638051791,
+                        -7.839975889205
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9638051791,
+                        -7.839975889205
+                    ],
+                    [
+                        110.96391013093,
+                        -7.8398628641228
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96391013093,
+                        -7.8398628641228
+                    ],
+                    [
+                        110.9639908807,
+                        -7.8398629614899
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9639908807,
+                        -7.8398629614899
+                    ],
+                    [
+                        110.96423575206,
+                        -7.8398571750631
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96423575206,
+                        -7.8398571750631
+                    ],
+                    [
+                        110.96440192731,
+                        -7.8398084784668
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96440192731,
+                        -7.8398084784668
+                    ],
+                    [
+                        110.96504220622,
+                        -7.8394283174676
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96504220622,
+                        -7.8394283174676
+                    ],
+                    [
+                        110.96543582115,
+                        -7.8392243711723
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96543582115,
+                        -7.8392243711723
+                    ],
+                    [
+                        110.9656669959,
+                        -7.8390964759347
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9656669959,
+                        -7.8390964759347
+                    ],
+                    [
+                        110.96588065402,
+                        -7.8389745673524
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96588065402,
+                        -7.8389745673524
+                    ],
+                    [
+                        110.96607088258,
+                        -7.8390664138733
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96607088258,
+                        -7.8390664138733
+                    ],
+                    [
+                        110.96631308711,
+                        -7.8391668668543
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96631308711,
+                        -7.8391668668543
+                    ],
+                    [
+                        110.96668134963,
+                        -7.8391687685862
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96668134963,
+                        -7.8391687685862
+                    ],
+                    [
+                        110.96705164857,
+                        -7.8391132123632
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96705164857,
+                        -7.8391132123632
+                    ],
+                    [
+                        110.9673327789,
+                        -7.8390710273842
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9673327789,
+                        -7.8390710273842
+                    ],
+                    [
+                        110.96768388387,
+                        -7.839011072943
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96768388387,
+                        -7.839011072943
+                    ],
+                    [
+                        110.96791528682,
+                        -7.8389726919639
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96791528682,
+                        -7.8389726919639
+                    ],
+                    [
+                        110.968116125,
+                        -7.8388766336566
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.968116125,
+                        -7.8388766336566
+                    ],
+                    [
+                        110.96842888236,
+                        -7.838755328277
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96842888236,
+                        -7.838755328277
+                    ],
+                    [
+                        110.96869326554,
+                        -7.8387371663059
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96869326554,
+                        -7.8387371663059
+                    ],
+                    [
+                        110.9696057816,
+                        -7.8386543571354
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9696057816,
+                        -7.8386543571354
+                    ],
+                    [
+                        110.9697850565,
+                        -7.8385738730348
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9697850565,
+                        -7.8385738730348
+                    ],
+                    [
+                        110.97001649843,
+                        -7.8383649085474
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97001649843,
+                        -7.8383649085474
+                    ],
+                    [
+                        110.97038014701,
+                        -7.8379276236298
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97038014701,
+                        -7.8379276236298
+                    ],
+                    [
+                        110.97055684774,
+                        -7.8378124580966
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97055684774,
+                        -7.8378124580966
+                    ],
+                    [
+                        110.9708040156,
+                        -7.8376357961851
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9708040156,
+                        -7.8376357961851
+                    ],
+                    [
+                        110.97096112894,
+                        -7.8374334835874
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97096112894,
+                        -7.8374334835874
+                    ],
+                    [
+                        110.97128241073,
+                        -7.8370521963985
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97128241073,
+                        -7.8370521963985
+                    ],
+                    [
+                        110.97144505357,
+                        -7.83689847708
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97144505357,
+                        -7.83689847708
+                    ],
+                    [
+                        110.97160146809,
+                        -7.8366928444431
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97160146809,
+                        -7.8366928444431
+                    ],
+                    [
+                        110.97171930537,
+                        -7.8366000985427
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97171930537,
+                        -7.8366000985427
+                    ],
+                    [
+                        110.97194081031,
+                        -7.8364257770436
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97194081031,
+                        -7.8364257770436
+                    ],
+                    [
+                        110.97246413272,
+                        -7.8359474337421
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97246413272,
+                        -7.8359474337421
+                    ],
+                    [
+                        110.9727392068,
+                        -7.8358166971294
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9727392068,
+                        -7.8358166971294
+                    ],
+                    [
+                        110.97290648464,
+                        -7.8357909097967
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97290648464,
+                        -7.8357909097967
+                    ],
+                    [
+                        110.97292951584,
+                        -7.8357873563464
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97292951584,
+                        -7.8357873563464
+                    ],
+                    [
+                        110.97381477903,
+                        -7.8356518636017
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97381477903,
+                        -7.8356518636017
+                    ],
+                    [
+                        110.97412450491,
+                        -7.8354941903631
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97412450491,
+                        -7.8354941903631
+                    ],
+                    [
+                        110.97502614127,
+                        -7.8348812860996
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97502614127,
+                        -7.8348812860996
+                    ],
+                    [
+                        110.97533959749,
+                        -7.834668433869
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97533959749,
+                        -7.834668433869
+                    ],
+                    [
+                        110.9756315752,
+                        -7.8344283709211
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9756315752,
+                        -7.8344283709211
+                    ],
+                    [
+                        110.97565879815,
+                        -7.8344057584319
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97565879815,
+                        -7.8344057584319
+                    ],
+                    [
+                        110.97578641563,
+                        -7.8342548485752
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97578641563,
+                        -7.8342548485752
+                    ],
+                    [
+                        110.97603320273,
+                        -7.8336820756044
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97603320273,
+                        -7.8336820756044
+                    ],
+                    [
+                        110.97627583935,
+                        -7.8333478263362
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97627583935,
+                        -7.8333478263362
+                    ],
+                    [
+                        110.97675521457,
+                        -7.8326941618624
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97675521457,
+                        -7.8326941618624
+                    ],
+                    [
+                        110.97676563773,
+                        -7.8326799427132
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97676563773,
+                        -7.8326799427132
+                    ],
+                    [
+                        110.97693620055,
+                        -7.8324376921284
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97693620055,
+                        -7.8324376921284
+                    ],
+                    [
+                        110.9771244819,
+                        -7.8322985082949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9771244819,
+                        -7.8322985082949
+                    ],
+                    [
+                        110.97771789393,
+                        -7.831961644778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97771789393,
+                        -7.831961644778
+                    ],
+                    [
+                        110.97785221838,
+                        -7.831885397227
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97785221838,
+                        -7.831885397227
+                    ],
+                    [
+                        110.97807355753,
+                        -7.8318361010873
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97807355753,
+                        -7.8318361010873
+                    ],
+                    [
+                        110.9787306042,
+                        -7.831769061425
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9787306042,
+                        -7.831769061425
+                    ],
+                    [
+                        110.97909428024,
+                        -7.8317573926643
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97909428024,
+                        -7.8317573926643
+                    ],
+                    [
+                        110.97923319152,
+                        -7.8317351111057
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97923319152,
+                        -7.8317351111057
+                    ],
+                    [
+                        110.97935222213,
+                        -7.8316616212375
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97935222213,
+                        -7.8316616212375
+                    ],
+                    [
+                        110.97934567101,
+                        -7.831518075872
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97934567101,
+                        -7.831518075872
+                    ],
+                    [
+                        110.97937124217,
+                        -7.8311371929301
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97937124217,
+                        -7.8311371929301
+                    ],
+                    [
+                        110.979458533,
+                        -7.8308972890825
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.979458533,
+                        -7.8308972890825
+                    ],
+                    [
+                        110.97963421324,
+                        -7.8307637751082
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97963421324,
+                        -7.8307637751082
+                    ],
+                    [
+                        110.97993289381,
+                        -7.8306141295321
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97993289381,
+                        -7.8306141295321
+                    ],
+                    [
+                        110.98013844795,
+                        -7.8305851118471
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98013844795,
+                        -7.8305851118471
+                    ],
+                    [
+                        110.98052336862,
+                        -7.830531344503
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98052336862,
+                        -7.830531344503
+                    ],
+                    [
+                        110.98076928211,
+                        -7.8304242284294
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98076928211,
+                        -7.8304242284294
+                    ],
+                    [
+                        110.9808656201,
+                        -7.8302832928978
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9808656201,
+                        -7.8302832928978
+                    ],
+                    [
+                        110.9809185694,
+                        -7.8302118348435
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9809185694,
+                        -7.8302118348435
+                    ],
+                    [
+                        110.98107885203,
+                        -7.8301621544359
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98107885203,
+                        -7.8301621544359
+                    ],
+                    [
+                        110.9817766836,
+                        -7.8299605129102
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9817766836,
+                        -7.8299605129102
+                    ],
+                    [
+                        110.98191209894,
+                        -7.8297967838415
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98191209894,
+                        -7.8297967838415
+                    ],
+                    [
+                        110.98201007738,
+                        -7.8296748439308
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98201007738,
+                        -7.8296748439308
+                    ],
+                    [
+                        110.98220666395,
+                        -7.8295515241871
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98220666395,
+                        -7.8295515241871
+                    ],
+                    [
+                        110.98237734051,
+                        -7.8295194284214
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98237734051,
+                        -7.8295194284214
+                    ],
+                    [
+                        110.98328648378,
+                        -7.8295117856911
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98328648378,
+                        -7.8295117856911
+                    ],
+                    [
+                        110.98331584614,
+                        -7.82950308496
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98331584614,
+                        -7.82950308496
+                    ],
+                    [
+                        110.98352908738,
+                        -7.8293478703739
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98352908738,
+                        -7.8293478703739
+                    ],
+                    [
+                        110.98356664209,
+                        -7.8293012778113
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98356664209,
+                        -7.8293012778113
+                    ],
+                    [
+                        110.98377107662,
+                        -7.8292626273224
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98377107662,
+                        -7.8292626273224
+                    ],
+                    [
+                        110.9840590751,
+                        -7.8292147717639
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9840590751,
+                        -7.8292147717639
+                    ],
+                    [
+                        110.98435907516,
+                        -7.8291190499116
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98435907516,
+                        -7.8291190499116
+                    ],
+                    [
+                        110.98457507698,
+                        -7.8289993915106
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98457507698,
+                        -7.8289993915106
+                    ],
+                    [
+                        110.98469508337,
+                        -7.8287839964402
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98469508337,
+                        -7.8287839964402
+                    ],
+                    [
+                        110.98475508826,
+                        -7.8286284323481
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98475508826,
+                        -7.8286284323481
+                    ],
+                    [
+                        110.98492229201,
+                        -7.8284632987829
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98492229201,
+                        -7.8284632987829
+                    ],
+                    [
+                        110.98501829516,
+                        -7.8283388491896
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98501829516,
+                        -7.8283388491896
+                    ],
+                    [
+                        110.98514309819,
+                        -7.8282048272801
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98514309819,
+                        -7.8282048272801
+                    ],
+                    [
+                        110.98535430189,
+                        -7.8280133684875
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98535430189,
+                        -7.8280133684875
+                    ],
+                    [
+                        110.98546950485,
+                        -7.8278793461455
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98546950485,
+                        -7.8278793461455
+                    ],
+                    [
+                        110.98568070531,
+                        -7.8277740469678
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98568070531,
+                        -7.8277740469678
+                    ],
+                    [
+                        110.98612230211,
+                        -7.8276687553257
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98612230211,
+                        -7.8276687553257
+                    ],
+                    [
+                        110.9864871005,
+                        -7.8275443141492
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9864871005,
+                        -7.8275443141492
+                    ],
+                    [
+                        110.98666950008,
+                        -7.8274677334783
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98666950008,
+                        -7.8274677334783
+                    ],
+                    [
+                        110.98698629654,
+                        -7.8274198768233
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98698629654,
+                        -7.8274198768233
+                    ],
+                    [
+                        110.98724549502,
+                        -7.8273337249554
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98724549502,
+                        -7.8273337249554
+                    ],
+                    [
+                        110.98745669475,
+                        -7.8272284248846
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98745669475,
+                        -7.8272284248846
+                    ],
+                    [
+                        110.98758149497,
+                        -7.8271518421014
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98758149497,
+                        -7.8271518421014
+                    ],
+                    [
+                        110.98769669502,
+                        -7.8270848323105
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98769669502,
+                        -7.8270848323105
+                    ],
+                    [
+                        110.9878310961,
+                        -7.8269699564945
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9878310961,
+                        -7.8269699564945
+                    ],
+                    [
+                        110.98794629661,
+                        -7.8268838000156
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98794629661,
+                        -7.8268838000156
+                    ],
+                    [
+                        110.98803269676,
+                        -7.8268263626177
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98803269676,
+                        -7.8268263626177
+                    ],
+                    [
+                        110.98811909797,
+                        -7.8267306319634
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98811909797,
+                        -7.8267306319634
+                    ],
+                    [
+                        110.98828229777,
+                        -7.8266349034308
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98828229777,
+                        -7.8266349034308
+                    ],
+                    [
+                        110.98848389838,
+                        -7.8264817360259
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98848389838,
+                        -7.8264817360259
+                    ],
+                    [
+                        110.98865669963,
+                        -7.8263189944403
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98865669963,
+                        -7.8263189944403
+                    ],
+                    [
+                        110.98880070232,
+                        -7.8261179587793
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98880070232,
+                        -7.8261179587793
+                    ],
+                    [
+                        110.98886790612,
+                        -7.8259264943579
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98886790612,
+                        -7.8259264943579
+                    ],
+                    [
+                        110.98902150637,
+                        -7.8258020453514
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98902150637,
+                        -7.8258020453514
+                    ],
+                    [
+                        110.98919430541,
+                        -7.8257063167107
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98919430541,
+                        -7.8257063167107
+                    ],
+                    [
+                        110.98933830423,
+                        -7.8256393072026
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98933830423,
+                        -7.8256393072026
+                    ],
+                    [
+                        110.98965509783,
+                        -7.825639315088
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98965509783,
+                        -7.825639315088
+                    ],
+                    [
+                        110.99009668981,
+                        -7.8256010324422
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99009668981,
+                        -7.8256010324422
+                    ],
+                    [
+                        110.99031748643,
+                        -7.8255531710152
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99031748643,
+                        -7.8255531710152
+                    ],
+                    [
+                        110.99043268517,
+                        -7.8255053070915
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99043268517,
+                        -7.8255053070915
+                    ],
+                    [
+                        110.99064388212,
+                        -7.8254478719654
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99064388212,
+                        -7.8254478719654
+                    ],
+                    [
+                        110.99083588108,
+                        -7.825313849834
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99083588108,
+                        -7.825313849834
+                    ],
+                    [
+                        110.99094148011,
+                        -7.8252564122518
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99094148011,
+                        -7.8252564122518
+                    ],
+                    [
+                        110.99104707971,
+                        -7.8251702547117
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99104707971,
+                        -7.8251702547117
+                    ],
+                    [
+                        110.99118147846,
+                        -7.825093671058
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99118147846,
+                        -7.825093671058
+                    ],
+                    [
+                        110.99129667817,
+                        -7.8249883670342
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99129667817,
+                        -7.8249883670342
+                    ],
+                    [
+                        110.99135427987,
+                        -7.8248447685598
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99135427987,
+                        -7.8248447685598
+                    ],
+                    [
+                        110.99142148015,
+                        -7.8247586101357
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99142148015,
+                        -7.8247586101357
+                    ],
+                    [
+                        110.99154627794,
+                        -7.8247298927221
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99154627794,
+                        -7.8247298927221
+                    ],
+                    [
+                        110.99165187558,
+                        -7.8247298948242
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99165187558,
+                        -7.8247298948242
+                    ],
+                    [
+                        110.99178627276,
+                        -7.8247203241508
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99178627276,
+                        -7.8247203241508
+                    ],
+                    [
+                        110.99191107015,
+                        -7.8247107532507
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99191107015,
+                        -7.8247107532507
+                    ],
+                    [
+                        110.99205506819,
+                        -7.8246437428114
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99205506819,
+                        -7.8246437428114
+                    ],
+                    [
+                        110.99214146804,
+                        -7.8245480113219
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99214146804,
+                        -7.8245480113219
+                    ],
+                    [
+                        110.99229506541,
+                        -7.8245001476003
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99229506541,
+                        -7.8245001476003
+                    ],
+                    [
+                        110.99242946285,
+                        -7.8244714301002
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99242946285,
+                        -7.8244714301002
+                    ],
+                    [
+                        110.99256386027,
+                        -7.8244427125573
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99256386027,
+                        -7.8244427125573
+                    ],
+                    [
+                        110.99267905812,
+                        -7.824413994639
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99267905812,
+                        -7.824413994639
+                    ],
+                    [
+                        110.99281345583,
+                        -7.8243661303948
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99281345583,
+                        -7.8243661303948
+                    ],
+                    [
+                        110.99291905451,
+                        -7.8242991190038
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99291905451,
+                        -7.8242991190038
+                    ],
+                    [
+                        110.99299585447,
+                        -7.8241938138655
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99299585447,
+                        -7.8241938138655
+                    ],
+                    [
+                        110.99305241378,
+                        -7.8241545004033
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99305241378,
+                        -7.8241545004033
+                    ],
+                    [
+                        110.99314961294,
+                        -7.8240647522019
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99314961294,
+                        -7.8240647522019
+                    ],
+                    [
+                        110.9932036131,
+                        -7.8239750032843
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9932036131,
+                        -7.8239750032843
+                    ],
+                    [
+                        110.99327921288,
+                        -7.8238744847289
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99327921288,
+                        -7.8238744847289
+                    ],
+                    [
+                        110.99335121232,
+                        -7.8237990960444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99335121232,
+                        -7.8237990960444
+                    ],
+                    [
+                        110.99343041144,
+                        -7.8237308874429
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99343041144,
+                        -7.8237308874429
+                    ],
+                    [
+                        110.99351321089,
+                        -7.823633958948
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99351321089,
+                        -7.823633958948
+                    ],
+                    [
+                        110.99356001088,
+                        -7.823558569839
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99356001088,
+                        -7.823558569839
+                    ],
+                    [
+                        110.99366080932,
+                        -7.823493951514
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99366080932,
+                        -7.823493951514
+                    ],
+                    [
+                        110.99373640826,
+                        -7.8234365127751
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99373640826,
+                        -7.8234365127751
+                    ],
+                    [
+                        110.99383000694,
+                        -7.823364714319
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99383000694,
+                        -7.823364714319
+                    ],
+                    [
+                        110.99389120631,
+                        -7.8233000953577
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99389120631,
+                        -7.8233000953577
+                    ],
+                    [
+                        110.99394880571,
+                        -7.8232390663275
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99394880571,
+                        -7.8232390663275
+                    ],
+                    [
+                        110.99401000494,
+                        -7.8231816273321
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99401000494,
+                        -7.8231816273321
+                    ],
+                    [
+                        110.99406760435,
+                        -7.8231170082935
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99406760435,
+                        -7.8231170082935
+                    ],
+                    [
+                        110.99412880355,
+                        -7.8230595692805
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99412880355,
+                        -7.8230595692805
+                    ],
+                    [
+                        110.99417560302,
+                        -7.8230093100436
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99417560302,
+                        -7.8230093100436
+                    ],
+                    [
+                        110.99423320238,
+                        -7.8229446909819
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99423320238,
+                        -7.8229446909819
+                    ],
+                    [
+                        110.99430520173,
+                        -7.822851352172
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99430520173,
+                        -7.822851352172
+                    ],
+                    [
+                        110.99439880022,
+                        -7.8227759635957
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99439880022,
+                        -7.8227759635957
+                    ],
+                    [
+                        110.99449959877,
+                        -7.8226790351412
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99449959877,
+                        -7.8226790351412
+                    ],
+                    [
+                        110.99460039709,
+                        -7.8225964666296
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99460039709,
+                        -7.8225964666296
+                    ],
+                    [
+                        110.99467599588,
+                        -7.822528257744
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99467599588,
+                        -7.822528257744
+                    ],
+                    [
+                        110.99474079467,
+                        -7.8224815886617
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99474079467,
+                        -7.8224815886617
+                    ],
+                    [
+                        110.99479479375,
+                        -7.8224349194362
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99479479375,
+                        -7.8224349194362
+                    ],
+                    [
+                        110.99486679219,
+                        -7.8223990203988
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99486679219,
+                        -7.8223990203988
+                    ],
+                    [
+                        110.99495319021,
+                        -7.8223631215214
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99495319021,
+                        -7.8223631215214
+                    ],
+                    [
+                        110.99503598827,
+                        -7.8223308125759
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99503598827,
+                        -7.8223308125759
+                    ],
+                    [
+                        110.99505038791,
+                        -7.822327222753
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99505038791,
+                        -7.822327222753
+                    ],
+                    [
+                        110.99509718681,
+                        -7.8223092733395
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99509718681,
+                        -7.8223092733395
+                    ],
+                    [
+                        110.99514758564,
+                        -7.8222877339703
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99514758564,
+                        -7.8222877339703
+                    ],
+                    [
+                        110.99519798442,
+                        -7.8222697845869
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99519798442,
+                        -7.8222697845869
+                    ],
+                    [
+                        110.9952591829,
+                        -7.8222518353189
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9952591829,
+                        -7.8222518353189
+                    ],
+                    [
+                        110.99536358027,
+                        -7.8222231165429
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99536358027,
+                        -7.8222231165429
+                    ],
+                    [
+                        110.99546437776,
+                        -7.8221908077104
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99546437776,
+                        -7.8221908077104
+                    ],
+                    [
+                        110.99560117444,
+                        -7.8221369592787
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99560117444,
+                        -7.8221369592787
+                    ],
+                    [
+                        110.99572357157,
+                        -7.8220759306728
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99572357157,
+                        -7.8220759306728
+                    ],
+                    [
+                        110.99578837028,
+                        -7.8220184914527
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99578837028,
+                        -7.8220184914527
+                    ],
+                    [
+                        110.99587836847,
+                        -7.8219395125172
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99587836847,
+                        -7.8219395125172
+                    ],
+                    [
+                        110.99591796777,
+                        -7.8218928430059
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99591796777,
+                        -7.8218928430059
+                    ],
+                    [
+                        110.99596836734,
+                        -7.8217851437299
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99596836734,
+                        -7.8217851437299
+                    ],
+                    [
+                        110.99605836547,
+                        -7.8217025747631
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99605836547,
+                        -7.8217025747631
+                    ],
+                    [
+                        110.99611236477,
+                        -7.8216056454786
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99611236477,
+                        -7.8216056454786
+                    ],
+                    [
+                        110.99613756471,
+                        -7.8215302558766
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99613756471,
+                        -7.8215302558766
+                    ],
+                    [
+                        110.99618796402,
+                        -7.8214405065329
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99618796402,
+                        -7.8214405065329
+                    ],
+                    [
+                        110.99623476341,
+                        -7.8213507571506
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99623476341,
+                        -7.8213507571506
+                    ],
+                    [
+                        110.99626356301,
+                        -7.821296907525
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99626356301,
+                        -7.821296907525
+                    ],
+                    [
+                        110.99630676229,
+                        -7.8212286980549
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99630676229,
+                        -7.8212286980549
+                    ],
+                    [
+                        110.99634276178,
+                        -7.821160488518
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99634276178,
+                        -7.821160488518
+                    ],
+                    [
+                        110.99639316078,
+                        -7.8210958690931
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99639316078,
+                        -7.8210958690931
+                    ],
+                    [
+                        110.99642196016,
+                        -7.8210635594088
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99642196016,
+                        -7.8210635594088
+                    ],
+                    [
+                        110.9964975582,
+                        -7.8210168901448
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9964975582,
+                        -7.8210168901448
+                    ],
+                    [
+                        110.9965515569,
+                        -7.8209702206912
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9965515569,
+                        -7.8209702206912
+                    ],
+                    [
+                        110.99664515431,
+                        -7.8209271415393
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99664515431,
+                        -7.8209271415393
+                    ],
+                    [
+                        110.99675315117,
+                        -7.8208948324541
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99675315117,
+                        -7.8208948324541
+                    ],
+                    [
+                        110.99684314858,
+                        -7.8208625232069
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99684314858,
+                        -7.8208625232069
+                    ],
+                    [
+                        110.99693674589,
+                        -7.8208266239745
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99693674589,
+                        -7.8208266239745
+                    ],
+                    [
+                        110.99700514398,
+                        -7.8207907245433
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99700514398,
+                        -7.8207907245433
+                    ],
+                    [
+                        110.99708794162,
+                        -7.8207512352083
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99708794162,
+                        -7.8207512352083
+                    ],
+                    [
+                        110.99717073923,
+                        -7.8207153358492
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99717073923,
+                        -7.8207153358492
+                    ],
+                    [
+                        110.99730033546,
+                        -7.8206578968223
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99730033546,
+                        -7.8206578968223
+                    ],
+                    [
+                        110.99738817292,
+                        -7.8206140994697
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99738817292,
+                        -7.8206140994697
+                    ],
+                    [
+                        110.99744937106,
+                        -7.8205961498827
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99744937106,
+                        -7.8205961498827
+                    ],
+                    [
+                        110.99752856872,
+                        -7.8205602504313
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99752856872,
+                        -7.8205602504313
+                    ],
+                    [
+                        110.99758976676,
+                        -7.8205566607928
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99758976676,
+                        -7.8205566607928
+                    ],
+                    [
+                        110.99767616391,
+                        -7.8205674312539
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99767616391,
+                        -7.8205674312539
+                    ],
+                    [
+                        110.99774096188,
+                        -7.8205566616288
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99774096188,
+                        -7.8205566616288
+                    ],
+                    [
+                        110.99779496019,
+                        -7.8205458919376
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99779496019,
+                        -7.8205458919376
+                    ],
+                    [
+                        110.99788135751,
+                        -7.8205243524265
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99788135751,
+                        -7.8205243524265
+                    ],
+                    [
+                        110.99792095642,
+                        -7.8204848627087
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99792095642,
+                        -7.8204848627087
+                    ],
+                    [
+                        110.99797855471,
+                        -7.8204525530581
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99797855471,
+                        -7.8204525530581
+                    ],
+                    [
+                        110.99805415236,
+                        -7.8204274234674
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99805415236,
+                        -7.8204274234674
+                    ],
+                    [
+                        110.99809375115,
+                        -7.8204094736867
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99809375115,
+                        -7.8204094736867
+                    ],
+                    [
+                        110.99813694987,
+                        -7.8203807539414
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99813694987,
+                        -7.8203807539414
+                    ],
+                    [
+                        110.99822334718,
+                        -7.8203484443834
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99822334718,
+                        -7.8203484443834
+                    ],
+                    [
+                        110.99829174513,
+                        -7.820301774766
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99829174513,
+                        -7.820301774766
+                    ],
+                    [
+                        110.9983385437,
+                        -7.8202730550145
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9983385437,
+                        -7.8202730550145
+                    ],
+                    [
+                        110.99839974175,
+                        -7.8202551052894
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99839974175,
+                        -7.8202551052894
+                    ],
+                    [
+                        110.99843574067,
+                        -7.820226385486
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99843574067,
+                        -7.820226385486
+                    ],
+                    [
+                        110.99848973899,
+                        -7.8201976657442
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99848973899,
+                        -7.8201976657442
+                    ],
+                    [
+                        110.99854373733,
+                        -7.8201581760185
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99854373733,
+                        -7.8201581760185
+                    ],
+                    [
+                        110.99858693598,
+                        -7.8201330462192
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99858693598,
+                        -7.8201330462192
+                    ],
+                    [
+                        110.99867333325,
+                        -7.8200863765994
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99867333325,
+                        -7.8200863765994
+                    ],
+                    [
+                        110.99872733156,
+                        -7.8200504768424
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99872733156,
+                        -7.8200504768424
+                    ],
+                    [
+                        110.99877773,
+                        -7.820003807091
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99877773,
+                        -7.820003807091
+                    ],
+                    [
+                        110.99882092866,
+                        -7.8199643172981
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99882092866,
+                        -7.8199643172981
+                    ],
+                    [
+                        110.99886052747,
+                        -7.8199104675217
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99886052747,
+                        -7.8199104675217
+                    ],
+                    [
+                        110.99888572673,
+                        -7.8198709776731
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99888572673,
+                        -7.8198709776731
+                    ],
+                    [
+                        110.99892172561,
+                        -7.8198314878506
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "126",
+                "NAMA_SUNGAI": "Kali Ngemplak",
+                "FOTO": "sungai-126_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99892172561,
+                        -7.8198314878506
+                    ],
+                    [
+                        110.99894692482,
+                        -7.8198027679753
+                    ]
+                ]
+            }
+        }
+    ]
+}

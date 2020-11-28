@@ -1,0 +1,3197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84371408674,
+                        -7.4417110173495
+                    ],
+                    [
+                        110.84375599155,
+                        -7.4417381687814
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84375599155,
+                        -7.4417381687814
+                    ],
+                    [
+                        110.84436445755,
+                        -7.4421363966773
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84436445755,
+                        -7.4421363966773
+                    ],
+                    [
+                        110.8444756929,
+                        -7.4423173510648
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8444756929,
+                        -7.4423173510648
+                    ],
+                    [
+                        110.84449324227,
+                        -7.4423444944028
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84449324227,
+                        -7.4423444944028
+                    ],
+                    [
+                        110.84462843286,
+                        -7.4428601494762
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84462843286,
+                        -7.4428601494762
+                    ],
+                    [
+                        110.84480554174,
+                        -7.4441718466534
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84480554174,
+                        -7.4441718466534
+                    ],
+                    [
+                        110.84492517855,
+                        -7.4446241759649
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84492517855,
+                        -7.4446241759649
+                    ],
+                    [
+                        110.84518470761,
+                        -7.4451127380624
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84518470761,
+                        -7.4451127380624
+                    ],
+                    [
+                        110.84566314334,
+                        -7.4456375590261
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84566314334,
+                        -7.4456375590261
+                    ],
+                    [
+                        110.84606775732,
+                        -7.4458909807841
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84606775732,
+                        -7.4458909807841
+                    ],
+                    [
+                        110.84636477911,
+                        -7.4460719990235
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84636477911,
+                        -7.4460719990235
+                    ],
+                    [
+                        110.84638798612,
+                        -7.4461172358217
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84638798612,
+                        -7.4461172358217
+                    ],
+                    [
+                        110.84654282239,
+                        -7.4463434333028
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84654282239,
+                        -7.4463434333028
+                    ],
+                    [
+                        110.8469289697,
+                        -7.4467687173024
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8469289697,
+                        -7.4467687173024
+                    ],
+                    [
+                        110.84694284354,
+                        -7.4467777680795
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84694284354,
+                        -7.4467777680795
+                    ],
+                    [
+                        110.84722120889,
+                        -7.4468592763345
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84722120889,
+                        -7.4468592763345
+                    ],
+                    [
+                        110.84759730807,
+                        -7.4468594058369
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84759730807,
+                        -7.4468594058369
+                    ],
+                    [
+                        110.84803321216,
+                        -7.4467238690113
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84803321216,
+                        -7.4467238690113
+                    ],
+                    [
+                        110.84834757558,
+                        -7.4467149306495
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84834757558,
+                        -7.4467149306495
+                    ],
+                    [
+                        110.84872618117,
+                        -7.4468417008837
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84872618117,
+                        -7.4468417008837
+                    ],
+                    [
+                        110.84918326609,
+                        -7.4468780397897
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84918326609,
+                        -7.4468780397897
+                    ],
+                    [
+                        110.84930362596,
+                        -7.4468871265396
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84930362596,
+                        -7.4468871265396
+                    ],
+                    [
+                        110.84972398617,
+                        -7.447484289868
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84972398617,
+                        -7.447484289868
+                    ],
+                    [
+                        110.84991477375,
+                        -7.4477647731257
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84991477375,
+                        -7.4477647731257
+                    ],
+                    [
+                        110.8499937639,
+                        -7.4478371658525
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8499937639,
+                        -7.4478371658525
+                    ],
+                    [
+                        110.85014467104,
+                        -7.4479638569464
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85014467104,
+                        -7.4479638569464
+                    ],
+                    [
+                        110.85033496309,
+                        -7.4480362874447
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85033496309,
+                        -7.4480362874447
+                    ],
+                    [
+                        110.85074363571,
+                        -7.4480273796598
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85074363571,
+                        -7.4480273796598
+                    ],
+                    [
+                        110.85078753342,
+                        -7.4480273949482
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85078753342,
+                        -7.4480273949482
+                    ],
+                    [
+                        110.8508339825,
+                        -7.4480183648556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8508339825,
+                        -7.4480183648556
+                    ],
+                    [
+                        110.85101437122,
+                        -7.4480636538145
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85101437122,
+                        -7.4480636538145
+                    ],
+                    [
+                        110.85119757661,
+                        -7.4481541732764
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85119757661,
+                        -7.4481541732764
+                    ],
+                    [
+                        110.85123974672,
+                        -7.4482355987938
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85123974672,
+                        -7.4482355987938
+                    ],
+                    [
+                        110.85123769446,
+                        -7.4484436506539
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85123769446,
+                        -7.4484436506539
+                    ],
+                    [
+                        110.85122819942,
+                        -7.4488868896182
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85122819942,
+                        -7.4488868896182
+                    ],
+                    [
+                        110.85132044918,
+                        -7.4491130646162
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85132044918,
+                        -7.4491130646162
+                    ],
+                    [
+                        110.85140566174,
+                        -7.4492125970836
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85140566174,
+                        -7.4492125970836
+                    ],
+                    [
+                        110.85179701162,
+                        -7.4493484144977
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85179701162,
+                        -7.4493484144977
+                    ],
+                    [
+                        110.85228464022,
+                        -7.4495204467111
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85228464022,
+                        -7.4495204467111
+                    ],
+                    [
+                        110.8529095989,
+                        -7.4497739359184
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8529095989,
+                        -7.4497739359184
+                    ],
+                    [
+                        110.85324951116,
+                        -7.4504434344169
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85324951116,
+                        -7.4504434344169
+                    ],
+                    [
+                        110.85328061061,
+                        -7.4506062683645
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85328061061,
+                        -7.4506062683645
+                    ],
+                    [
+                        110.85329350599,
+                        -7.4507210209583
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85329350599,
+                        -7.4507210209583
+                    ],
+                    [
+                        110.85330094159,
+                        -7.4507871903765
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85330094159,
+                        -7.4507871903765
+                    ],
+                    [
+                        110.85329440351,
+                        -7.4508595543249
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85329440351,
+                        -7.4508595543249
+                    ],
+                    [
+                        110.85327763655,
+                        -7.4510314183652
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85327763655,
+                        -7.4510314183652
+                    ],
+                    [
+                        110.85311528464,
+                        -7.4520987634471
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85311528464,
+                        -7.4520987634471
+                    ],
+                    [
+                        110.85314385341,
+                        -7.4522073224099
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85314385341,
+                        -7.4522073224099
+                    ],
+                    [
+                        110.85326242272,
+                        -7.4524968258678
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85326242272,
+                        -7.4524968258678
+                    ],
+                    [
+                        110.85360289166,
+                        -7.4532025076895
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85360289166,
+                        -7.4532025076895
+                    ],
+                    [
+                        110.85400602356,
+                        -7.4536911111558
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85400602356,
+                        -7.4536911111558
+                    ],
+                    [
+                        110.8543001972,
+                        -7.4539444897463
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8543001972,
+                        -7.4539444897463
+                    ],
+                    [
+                        110.85461280424,
+                        -7.4541255079857
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85461280424,
+                        -7.4541255079857
+                    ],
+                    [
+                        110.85484783756,
+                        -7.4542250881172
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85484783756,
+                        -7.4542250881172
+                    ],
+                    [
+                        110.85504664709,
+                        -7.45424324453
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85504664709,
+                        -7.45424324453
+                    ],
+                    [
+                        110.8557640066,
+                        -7.4542977533386
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8557640066,
+                        -7.4542977533386
+                    ],
+                    [
+                        110.85613069078,
+                        -7.4545330627506
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85613069078,
+                        -7.4545330627506
+                    ],
+                    [
+                        110.85644948246,
+                        -7.4548588133835
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85644948246,
+                        -7.4548588133835
+                    ],
+                    [
+                        110.85664173413,
+                        -7.4550126541106
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85664173413,
+                        -7.4550126541106
+                    ],
+                    [
+                        110.85701865529,
+                        -7.4551213245894
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85701865529,
+                        -7.4551213245894
+                    ],
+                    [
+                        110.85747604778,
+                        -7.4551124266971
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85747604778,
+                        -7.4551124266971
+                    ],
+                    [
+                        110.85767290668,
+                        -7.4550310785214
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85767290668,
+                        -7.4550310785214
+                    ],
+                    [
+                        110.85786355936,
+                        -7.4548773619007
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85786355936,
+                        -7.4548773619007
+                    ],
+                    [
+                        110.85792078592,
+                        -7.4548231058017
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85792078592,
+                        -7.4548231058017
+                    ],
+                    [
+                        110.85838996043,
+                        -7.454280510637
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85838996043,
+                        -7.454280510637
+                    ],
+                    [
+                        110.85851210095,
+                        -7.4540453595057
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85851210095,
+                        -7.4540453595057
+                    ],
+                    [
+                        110.85861972192,
+                        -7.4540453945792
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85861972192,
+                        -7.4540453945792
+                    ],
+                    [
+                        110.85881341611,
+                        -7.4541178223796
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85881341611,
+                        -7.4541178223796
+                    ],
+                    [
+                        110.85978950878,
+                        -7.4545613743079
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85978950878,
+                        -7.4545613743079
+                    ],
+                    [
+                        110.86003644463,
+                        -7.4546428645765
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86003644463,
+                        -7.4546428645765
+                    ],
+                    [
+                        110.8605368391,
+                        -7.4547787089702
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8605368391,
+                        -7.4547787089702
+                    ],
+                    [
+                        110.86083076003,
+                        -7.4549506710366
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86083076003,
+                        -7.4549506710366
+                    ],
+                    [
+                        110.86113795495,
+                        -7.455240232051
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86113795495,
+                        -7.455240232051
+                    ],
+                    [
+                        110.86159814794,
+                        -7.4553308333512
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86159814794,
+                        -7.4553308333512
+                    ],
+                    [
+                        110.86350246417,
+                        -7.4553676084283
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86350246417,
+                        -7.4553676084283
+                    ],
+                    [
+                        110.86358290763,
+                        -7.4553314502862
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86358290763,
+                        -7.4553314502862
+                    ],
+                    [
+                        110.8640899409,
+                        -7.455069279024
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8640899409,
+                        -7.455069279024
+                    ],
+                    [
+                        110.86417379369,
+                        -7.4549969384579
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86417379369,
+                        -7.4549969384579
+                    ],
+                    [
+                        110.86420182376,
+                        -7.4550240844939
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86420182376,
+                        -7.4550240844939
+                    ],
+                    [
+                        110.86443172105,
+                        -7.4552593453425
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86443172105,
+                        -7.4552593453425
+                    ],
+                    [
+                        110.86465144701,
+                        -7.4554131896669
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86465144701,
+                        -7.4554131896669
+                    ],
+                    [
+                        110.86499437739,
+                        -7.4555489810006
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86499437739,
+                        -7.4555489810006
+                    ],
+                    [
+                        110.86532658066,
+                        -7.4555671742856
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86532658066,
+                        -7.4555671742856
+                    ],
+                    [
+                        110.86541411617,
+                        -7.4554948346189
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86541411617,
+                        -7.4554948346189
+                    ],
+                    [
+                        110.86546797657,
+                        -7.4553320276509
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86546797657,
+                        -7.4553320276509
+                    ],
+                    [
+                        110.86559986124,
+                        -7.4547079098421
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86559986124,
+                        -7.4547079098421
+                    ],
+                    [
+                        110.86567690616,
+                        -7.4546717499013
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86567690616,
+                        -7.4546717499013
+                    ],
+                    [
+                        110.86580320246,
+                        -7.454726063557
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86580320246,
+                        -7.454726063557
+                    ],
+                    [
+                        110.86608751503,
+                        -7.4548346980628
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86608751503,
+                        -7.4548346980628
+                    ],
+                    [
+                        110.86638770513,
+                        -7.4548890638791
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86638770513,
+                        -7.4548890638791
+                    ],
+                    [
+                        110.86661371735,
+                        -7.4548619942856
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86661371735,
+                        -7.4548619942856
+                    ],
+                    [
+                        110.8667527966,
+                        -7.4547896708066
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8667527966,
+                        -7.4547896708066
+                    ],
+                    [
+                        110.86686442136,
+                        -7.4546630633496
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86686442136,
+                        -7.4546630633496
+                    ],
+                    [
+                        110.86695592558,
+                        -7.45457263382
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86695592558,
+                        -7.45457263382
+                    ],
+                    [
+                        110.86696867077,
+                        -7.4545726374172
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86696867077,
+                        -7.4545726374172
+                    ],
+                    [
+                        110.86707457853,
+                        -7.4546178975979
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86707457853,
+                        -7.4546178975979
+                    ],
+                    [
+                        110.86734299918,
+                        -7.4548350766774
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86734299918,
+                        -7.4548350766774
+                    ],
+                    [
+                        110.86752393738,
+                        -7.4549527259875
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86752393738,
+                        -7.4549527259875
+                    ],
+                    [
+                        110.86763129125,
+                        -7.4548984833783
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86763129125,
+                        -7.4548984833783
+                    ],
+                    [
+                        110.86801113161,
+                        -7.4547267272566
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86801113161,
+                        -7.4547267272566
+                    ],
+                    [
+                        110.86830851043,
+                        -7.4547087246279
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86830851043,
+                        -7.4547087246279
+                    ],
+                    [
+                        110.86879769576,
+                        -7.4554053934441
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86879769576,
+                        -7.4554053934441
+                    ],
+                    [
+                        110.86902760294,
+                        -7.4556135136527
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86902760294,
+                        -7.4556135136527
+                    ],
+                    [
+                        110.86933462249,
+                        -7.4555593303987
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86933462249,
+                        -7.4555593303987
+                    ],
+                    [
+                        110.86950178038,
+                        -7.455351327102
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86950178038,
+                        -7.455351327102
+                    ],
+                    [
+                        110.86956098275,
+                        -7.4553151617652
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86956098275,
+                        -7.4553151617652
+                    ],
+                    [
+                        110.86985923302,
+                        -7.4552247915908
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86985923302,
+                        -7.4552247915908
+                    ],
+                    [
+                        110.87008665088,
+                        -7.4552339044211
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87008665088,
+                        -7.4552339044211
+                    ],
+                    [
+                        110.87030328587,
+                        -7.4553153794012
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87030328587,
+                        -7.4553153794012
+                    ],
+                    [
+                        110.87043182957,
+                        -7.4554330125235
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87043182957,
+                        -7.4554330125235
+                    ],
+                    [
+                        110.87052694456,
+                        -7.4555868181771
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87052694456,
+                        -7.4555868181771
+                    ],
+                    [
+                        110.87066085631,
+                        -7.455749680903
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87066085631,
+                        -7.455749680903
+                    ],
+                    [
+                        110.87076478826,
+                        -7.4557768485227
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87076478826,
+                        -7.4557768485227
+                    ],
+                    [
+                        110.87091858672,
+                        -7.4557316647845
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87091858672,
+                        -7.4557316647845
+                    ],
+                    [
+                        110.87132644636,
+                        -7.4556232344247
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87132644636,
+                        -7.4556232344247
+                    ],
+                    [
+                        110.87181974608,
+                        -7.4558223847951
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87181974608,
+                        -7.4558223847951
+                    ],
+                    [
+                        110.87201314439,
+                        -7.455949081285
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87201314439,
+                        -7.455949081285
+                    ],
+                    [
+                        110.87220682329,
+                        -7.456084823156
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87220682329,
+                        -7.456084823156
+                    ],
+                    [
+                        110.87238607975,
+                        -7.4561481956826
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87238607975,
+                        -7.4561481956826
+                    ],
+                    [
+                        110.87316457788,
+                        -7.4563474260928
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87316457788,
+                        -7.4563474260928
+                    ],
+                    [
+                        110.87317419164,
+                        -7.4564017037756
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87317419164,
+                        -7.4564017037756
+                    ],
+                    [
+                        110.87311722408,
+                        -7.4565464190819
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87311722408,
+                        -7.4565464190819
+                    ],
+                    [
+                        110.87310329448,
+                        -7.456727330302
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87310329448,
+                        -7.456727330302
+                    ],
+                    [
+                        110.87320201126,
+                        -7.4571615553614
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87320201126,
+                        -7.4571615553614
+                    ],
+                    [
+                        110.87329657857,
+                        -7.4572520406491
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87329657857,
+                        -7.4572520406491
+                    ],
+                    [
+                        110.87342233887,
+                        -7.4572068470183
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87342233887,
+                        -7.4572068470183
+                    ],
+                    [
+                        110.87347675325,
+                        -7.4570802224742
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87347675325,
+                        -7.4570802224742
+                    ],
+                    [
+                        110.87361022973,
+                        -7.4567907963581
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87361022973,
+                        -7.4567907963581
+                    ],
+                    [
+                        110.87367789742,
+                        -7.4568631818903
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87367789742,
+                        -7.4568631818903
+                    ],
+                    [
+                        110.87418640648,
+                        -7.4573698896087
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87418640648,
+                        -7.4573698896087
+                    ],
+                    [
+                        110.87427959962,
+                        -7.4573156407042
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87427959962,
+                        -7.4573156407042
+                    ],
+                    [
+                        110.87458130328,
+                        -7.4570353085326
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87458130328,
+                        -7.4570353085326
+                    ],
+                    [
+                        110.87499998356,
+                        -7.4567188245141
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87499998356,
+                        -7.4567188245141
+                    ],
+                    [
+                        110.87541862854,
+                        -7.4567468861926
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87541862854,
+                        -7.4567468861926
+                    ],
+                    [
+                        110.8755432619,
+                        -7.4569479637591
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8755432619,
+                        -7.4569479637591
+                    ],
+                    [
+                        110.87565814712,
+                        -7.4577042987237
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87565814712,
+                        -7.4577042987237
+                    ],
+                    [
+                        110.87573475007,
+                        -7.4581638459052
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87573475007,
+                        -7.4581638459052
+                    ],
+                    [
+                        110.87618544942,
+                        -7.4585373369079
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87618544942,
+                        -7.4585373369079
+                    ],
+                    [
+                        110.87673213515,
+                        -7.4586619444974
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87673213515,
+                        -7.4586619444974
+                    ],
+                    [
+                        110.8773939683,
+                        -7.4586142612322
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8773939683,
+                        -7.4586142612322
+                    ],
+                    [
+                        110.8777201249,
+                        -7.4584611763156
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8777201249,
+                        -7.4584611763156
+                    ],
+                    [
+                        110.87783815671,
+                        -7.458324381465
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87783815671,
+                        -7.458324381465
+                    ],
+                    [
+                        110.87839109079,
+                        -7.458083559019
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87839109079,
+                        -7.458083559019
+                    ],
+                    [
+                        110.87887074709,
+                        -7.457802470497
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87887074709,
+                        -7.457802470497
+                    ],
+                    [
+                        110.87918251753,
+                        -7.4576410037674
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87918251753,
+                        -7.4576410037674
+                    ],
+                    [
+                        110.87944032372,
+                        -7.4575214059616
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87944032372,
+                        -7.4575214059616
+                    ],
+                    [
+                        110.87959618506,
+                        -7.4575274318277
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87959618506,
+                        -7.4575274318277
+                    ],
+                    [
+                        110.87966207807,
+                        -7.4577069519969
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87966207807,
+                        -7.4577069519969
+                    ],
+                    [
+                        110.8797519321,
+                        -7.457952296157
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8797519321,
+                        -7.457952296157
+                    ],
+                    [
+                        110.88008157579,
+                        -7.4581977053841
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88008157579,
+                        -7.4581977053841
+                    ],
+                    [
+                        110.88024344838,
+                        -7.4581438985774
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "80",
+                "NAMA_SUNGAI": "Kali Menjing",
+                "FOTO": "sungai-80_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88024344838,
+                        -7.4581438985774
+                    ],
+                    [
+                        110.88030986241,
+                        -7.4580926900256
+                    ]
+                ]
+            }
+        }
+    ]
+}

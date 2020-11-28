@@ -1,0 +1,2357 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943152764,
+                        -7.90538681916
+                    ],
+                    [
+                        110.943210469,
+                        -7.90535204671
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943210469,
+                        -7.90535204671
+                    ],
+                    [
+                        110.943227781,
+                        -7.90534161949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943227781,
+                        -7.90534161949
+                    ],
+                    [
+                        110.943418081,
+                        -7.90529061913
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943418081,
+                        -7.90529061913
+                    ],
+                    [
+                        110.943686995,
+                        -7.90529704165
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943686995,
+                        -7.90529704165
+                    ],
+                    [
+                        110.944104134,
+                        -7.90536939002
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944104134,
+                        -7.90536939002
+                    ],
+                    [
+                        110.944317616,
+                        -7.90537337145
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944317616,
+                        -7.90537337145
+                    ],
+                    [
+                        110.944484359,
+                        -7.90529747399
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944484359,
+                        -7.90529747399
+                    ],
+                    [
+                        110.944789965,
+                        -7.90507070533
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944789965,
+                        -7.90507070533
+                    ],
+                    [
+                        110.944850854,
+                        -7.904904971
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944850854,
+                        -7.904904971
+                    ],
+                    [
+                        110.945015484,
+                        -7.90454031064
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945015484,
+                        -7.90454031064
+                    ],
+                    [
+                        110.945153054,
+                        -7.90449627669
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945153054,
+                        -7.90449627669
+                    ],
+                    [
+                        110.945386306,
+                        -7.90448491884
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945386306,
+                        -7.90448491884
+                    ],
+                    [
+                        110.945566995,
+                        -7.90446227416
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945566995,
+                        -7.90446227416
+                    ],
+                    [
+                        110.94565391,
+                        -7.90445137649
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94565391,
+                        -7.90445137649
+                    ],
+                    [
+                        110.94575789,
+                        -7.90436956358
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94575789,
+                        -7.90436956358
+                    ],
+                    [
+                        110.945878722,
+                        -7.90432172806
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945878722,
+                        -7.90432172806
+                    ],
+                    [
+                        110.946136486,
+                        -7.90425154044
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946136486,
+                        -7.90425154044
+                    ],
+                    [
+                        110.946279764,
+                        -7.9041223426
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946279764,
+                        -7.9041223426
+                    ],
+                    [
+                        110.946292595,
+                        -7.90403772274
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946292595,
+                        -7.90403772274
+                    ],
+                    [
+                        110.946242338,
+                        -7.90372398801
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946242338,
+                        -7.90372398801
+                    ],
+                    [
+                        110.946074466,
+                        -7.90349231782
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946074466,
+                        -7.90349231782
+                    ],
+                    [
+                        110.946018937,
+                        -7.9033335786
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946018937,
+                        -7.9033335786
+                    ],
+                    [
+                        110.946053172,
+                        -7.90322191518
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946053172,
+                        -7.90322191518
+                    ],
+                    [
+                        110.946068189,
+                        -7.90320653961
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946068189,
+                        -7.90320653961
+                    ],
+                    [
+                        110.946215879,
+                        -7.90305528016
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946215879,
+                        -7.90305528016
+                    ],
+                    [
+                        110.946350293,
+                        -7.90300063492
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946350293,
+                        -7.90300063492
+                    ],
+                    [
+                        110.946734579,
+                        -7.9028574833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946734579,
+                        -7.9028574833
+                    ],
+                    [
+                        110.946787137,
+                        -7.90277664049
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946787137,
+                        -7.90277664049
+                    ],
+                    [
+                        110.946764813,
+                        -7.90253486705
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946764813,
+                        -7.90253486705
+                    ],
+                    [
+                        110.94677949,
+                        -7.90219879801
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94677949,
+                        -7.90219879801
+                    ],
+                    [
+                        110.946922942,
+                        -7.90183781568
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946922942,
+                        -7.90183781568
+                    ],
+                    [
+                        110.947030166,
+                        -7.90178075159
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947030166,
+                        -7.90178075159
+                    ],
+                    [
+                        110.947282906,
+                        -7.90161129627
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947282906,
+                        -7.90161129627
+                    ],
+                    [
+                        110.947408694,
+                        -7.90146325384
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947408694,
+                        -7.90146325384
+                    ],
+                    [
+                        110.947425682,
+                        -7.90135652703
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947425682,
+                        -7.90135652703
+                    ],
+                    [
+                        110.947415027,
+                        -7.90103257585
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947415027,
+                        -7.90103257585
+                    ],
+                    [
+                        110.947548607,
+                        -7.90075184455
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947548607,
+                        -7.90075184455
+                    ],
+                    [
+                        110.947673947,
+                        -7.90062257159
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947673947,
+                        -7.90062257159
+                    ],
+                    [
+                        110.947944577,
+                        -7.90045110996
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947944577,
+                        -7.90045110996
+                    ],
+                    [
+                        110.948116324,
+                        -7.90031083415
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948116324,
+                        -7.90031083415
+                    ],
+                    [
+                        110.948175182,
+                        -7.90018753192
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948175182,
+                        -7.90018753192
+                    ],
+                    [
+                        110.948369416,
+                        -7.89977604474
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948369416,
+                        -7.89977604474
+                    ],
+                    [
+                        110.948510088,
+                        -7.89972760484
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948510088,
+                        -7.89972760484
+                    ],
+                    [
+                        110.948624385,
+                        -7.89976768184
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948624385,
+                        -7.89976768184
+                    ],
+                    [
+                        110.949079806,
+                        -7.89997143529
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949079806,
+                        -7.89997143529
+                    ],
+                    [
+                        110.949352517,
+                        -7.89998335432
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949352517,
+                        -7.89998335432
+                    ],
+                    [
+                        110.949610016,
+                        -7.8999053491
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949610016,
+                        -7.8999053491
+                    ],
+                    [
+                        110.950212475,
+                        -7.89970680716
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.950212475,
+                        -7.89970680716
+                    ],
+                    [
+                        110.950322834,
+                        -7.89982573367
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.950322834,
+                        -7.89982573367
+                    ],
+                    [
+                        110.950527812,
+                        -7.89998515943
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.950527812,
+                        -7.89998515943
+                    ],
+                    [
+                        110.950605135,
+                        -7.89998463489
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.950605135,
+                        -7.89998463489
+                    ],
+                    [
+                        110.950768673,
+                        -7.89989959845
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.950768673,
+                        -7.89989959845
+                    ],
+                    [
+                        110.95098894,
+                        -7.89966082064
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95098894,
+                        -7.89966082064
+                    ],
+                    [
+                        110.951195901,
+                        -7.89946355138
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.951195901,
+                        -7.89946355138
+                    ],
+                    [
+                        110.951372172,
+                        -7.8994178193
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.951372172,
+                        -7.8994178193
+                    ],
+                    [
+                        110.952267322,
+                        -7.89934300684
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952267322,
+                        -7.89934300684
+                    ],
+                    [
+                        110.95281214,
+                        -7.89949564072
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95281214,
+                        -7.89949564072
+                    ],
+                    [
+                        110.952864059,
+                        -7.8995101919
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952864059,
+                        -7.8995101919
+                    ],
+                    [
+                        110.953102897,
+                        -7.89949404523
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953102897,
+                        -7.89949404523
+                    ],
+                    [
+                        110.953361433,
+                        -7.89938034388
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953361433,
+                        -7.89938034388
+                    ],
+                    [
+                        110.953597928,
+                        -7.89930863863
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953597928,
+                        -7.89930863863
+                    ],
+                    [
+                        110.95383155,
+                        -7.89945436189
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95383155,
+                        -7.89945436189
+                    ],
+                    [
+                        110.954331244,
+                        -7.89975273144
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954331244,
+                        -7.89975273144
+                    ],
+                    [
+                        110.954502497,
+                        -7.89971066096
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954502497,
+                        -7.89971066096
+                    ],
+                    [
+                        110.9545318,
+                        -7.89963048399
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9545318,
+                        -7.89963048399
+                    ],
+                    [
+                        110.954603846,
+                        -7.89943542356
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954603846,
+                        -7.89943542356
+                    ],
+                    [
+                        110.954747256,
+                        -7.89931704131
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954747256,
+                        -7.89931704131
+                    ],
+                    [
+                        110.955103081,
+                        -7.89904498817
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955103081,
+                        -7.89904498817
+                    ],
+                    [
+                        110.955221661,
+                        -7.89898937952
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955221661,
+                        -7.89898937952
+                    ],
+                    [
+                        110.955383003,
+                        -7.8989796818
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955383003,
+                        -7.8989796818
+                    ],
+                    [
+                        110.955611313,
+                        -7.89892122632
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955611313,
+                        -7.89892122632
+                    ],
+                    [
+                        110.955666601,
+                        -7.89890707583
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955666601,
+                        -7.89890707583
+                    ],
+                    [
+                        110.955845263,
+                        -7.8987965847
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955845263,
+                        -7.8987965847
+                    ],
+                    [
+                        110.956125362,
+                        -7.89851966518
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956125362,
+                        -7.89851966518
+                    ],
+                    [
+                        110.956336653,
+                        -7.89836061145
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956336653,
+                        -7.89836061145
+                    ],
+                    [
+                        110.9564879,
+                        -7.89832329604
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9564879,
+                        -7.89832329604
+                    ],
+                    [
+                        110.957113552,
+                        -7.89821287777
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957113552,
+                        -7.89821287777
+                    ],
+                    [
+                        110.957303481,
+                        -7.8981077331
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957303481,
+                        -7.8981077331
+                    ],
+                    [
+                        110.95732868,
+                        -7.89805157157
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95732868,
+                        -7.89805157157
+                    ],
+                    [
+                        110.957639551,
+                        -7.89776258734
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957639551,
+                        -7.89776258734
+                    ],
+                    [
+                        110.957804828,
+                        -7.89768600594
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957804828,
+                        -7.89768600594
+                    ],
+                    [
+                        110.957978755,
+                        -7.89756777037
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957978755,
+                        -7.89756777037
+                    ],
+                    [
+                        110.958424978,
+                        -7.8972378497
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958424978,
+                        -7.8972378497
+                    ],
+                    [
+                        110.958564429,
+                        -7.8972141279
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958564429,
+                        -7.8972141279
+                    ],
+                    [
+                        110.958952138,
+                        -7.89723204023
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958952138,
+                        -7.89723204023
+                    ],
+                    [
+                        110.958972713,
+                        -7.89723299203
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958972713,
+                        -7.89723299203
+                    ],
+                    [
+                        110.959163989,
+                        -7.8972676373
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959163989,
+                        -7.8972676373
+                    ],
+                    [
+                        110.959399327,
+                        -7.89721858785
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959399327,
+                        -7.89721858785
+                    ],
+                    [
+                        110.959800161,
+                        -7.89706838825
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959800161,
+                        -7.89706838825
+                    ],
+                    [
+                        110.960187727,
+                        -7.89696509747
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.960187727,
+                        -7.89696509747
+                    ],
+                    [
+                        110.96084761,
+                        -7.89708766428
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96084761,
+                        -7.89708766428
+                    ],
+                    [
+                        110.961037969,
+                        -7.89712302321
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.961037969,
+                        -7.89712302321
+                    ],
+                    [
+                        110.961514359,
+                        -7.89712993292
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.961514359,
+                        -7.89712993292
+                    ],
+                    [
+                        110.961515493,
+                        -7.89712995112
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.961515493,
+                        -7.89712995112
+                    ],
+                    [
+                        110.961724335,
+                        -7.89713986616
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.961724335,
+                        -7.89713986616
+                    ],
+                    [
+                        110.96188048,
+                        -7.89720477354
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96188048,
+                        -7.89720477354
+                    ],
+                    [
+                        110.962083065,
+                        -7.89756813548
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.962083065,
+                        -7.89756813548
+                    ],
+                    [
+                        110.962450787,
+                        -7.897803915
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.962450787,
+                        -7.897803915
+                    ],
+                    [
+                        110.962507513,
+                        -7.89782880452
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.962507513,
+                        -7.89782880452
+                    ],
+                    [
+                        110.963409385,
+                        -7.8982245388
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.963409385,
+                        -7.8982245388
+                    ],
+                    [
+                        110.963828717,
+                        -7.89828783114
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.963828717,
+                        -7.89828783114
+                    ],
+                    [
+                        110.964186976,
+                        -7.89832303125
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.964186976,
+                        -7.89832303125
+                    ],
+                    [
+                        110.964569436,
+                        -7.89831188347
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.964569436,
+                        -7.89831188347
+                    ],
+                    [
+                        110.964622101,
+                        -7.89830545651
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.964622101,
+                        -7.89830545651
+                    ],
+                    [
+                        110.965051645,
+                        -7.89829399568
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965051645,
+                        -7.89829399568
+                    ],
+                    [
+                        110.965089612,
+                        -7.89830052977
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965089612,
+                        -7.89830052977
+                    ],
+                    [
+                        110.965349098,
+                        -7.89839031985
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965349098,
+                        -7.89839031985
+                    ],
+                    [
+                        110.96581799,
+                        -7.89857606454
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96581799,
+                        -7.89857606454
+                    ],
+                    [
+                        110.966036661,
+                        -7.89865474286
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.966036661,
+                        -7.89865474286
+                    ],
+                    [
+                        110.966275108,
+                        -7.89875568388
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.966275108,
+                        -7.89875568388
+                    ],
+                    [
+                        110.966573523,
+                        -7.8988550104
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "132",
+                "NAMA_SUNGAI": "Kali Planjen",
+                "FOTO": "sungai-132_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.966573523,
+                        -7.8988550104
+                    ],
+                    [
+                        110.966848213,
+                        -7.8989671253
+                    ]
+                ]
+            }
+        }
+    ]
+}

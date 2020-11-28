@@ -1,0 +1,1559 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99040809433,
+                        -7.5188037269411
+                    ],
+                    [
+                        110.99053125643,
+                        -7.5182093183067
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99053125643,
+                        -7.5182093183067
+                    ],
+                    [
+                        110.99032257933,
+                        -7.5178128733333
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99032257933,
+                        -7.5178128733333
+                    ],
+                    [
+                        110.98944004301,
+                        -7.5173533275289
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98944004301,
+                        -7.5173533275289
+                    ],
+                    [
+                        110.98924819167,
+                        -7.5170852663513
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98924819167,
+                        -7.5170852663513
+                    ],
+                    [
+                        110.98941029265,
+                        -7.5160467419635
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98941029265,
+                        -7.5160467419635
+                    ],
+                    [
+                        110.9890622514,
+                        -7.5150110446906
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9890622514,
+                        -7.5150110446906
+                    ],
+                    [
+                        110.98822289614,
+                        -7.5143169479807
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98822289614,
+                        -7.5143169479807
+                    ],
+                    [
+                        110.98771931155,
+                        -7.512928784132
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98771931155,
+                        -7.512928784132
+                    ],
+                    [
+                        110.98744485302,
+                        -7.5127388730487
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98744485302,
+                        -7.5127388730487
+                    ],
+                    [
+                        110.98644830047,
+                        -7.5118038664724
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98644830047,
+                        -7.5118038664724
+                    ],
+                    [
+                        110.98661993119,
+                        -7.5108241588101
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98661993119,
+                        -7.5108241588101
+                    ],
+                    [
+                        110.98666417366,
+                        -7.5106311255008
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98666417366,
+                        -7.5106311255008
+                    ],
+                    [
+                        110.98577690739,
+                        -7.5086924739848
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98577690739,
+                        -7.5086924739848
+                    ],
+                    [
+                        110.98496634605,
+                        -7.5080414523413
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98496634605,
+                        -7.5080414523413
+                    ],
+                    [
+                        110.98493436143,
+                        -7.5065139345703
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98493436143,
+                        -7.5065139345703
+                    ],
+                    [
+                        110.98483950544,
+                        -7.5063324459855
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98483950544,
+                        -7.5063324459855
+                    ],
+                    [
+                        110.98452918897,
+                        -7.5061992815715
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98452918897,
+                        -7.5061992815715
+                    ],
+                    [
+                        110.98390613146,
+                        -7.5060882782514
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98390613146,
+                        -7.5060882782514
+                    ],
+                    [
+                        110.98407183785,
+                        -7.5053373308531
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98407183785,
+                        -7.5053373308531
+                    ],
+                    [
+                        110.98389044099,
+                        -7.5051041339485
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98389044099,
+                        -7.5051041339485
+                    ],
+                    [
+                        110.98341711251,
+                        -7.5047193005552
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98341711251,
+                        -7.5047193005552
+                    ],
+                    [
+                        110.98332531961,
+                        -7.5045603543768
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98332531961,
+                        -7.5045603543768
+                    ],
+                    [
+                        110.98330107299,
+                        -7.5043465657413
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98330107299,
+                        -7.5043465657413
+                    ],
+                    [
+                        110.98322932507,
+                        -7.5036119833063
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98322932507,
+                        -7.5036119833063
+                    ],
+                    [
+                        110.98305078626,
+                        -7.5028872394544
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98305078626,
+                        -7.5028872394544
+                    ],
+                    [
+                        110.98292328039,
+                        -7.5023040443961
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98292328039,
+                        -7.5023040443961
+                    ],
+                    [
+                        110.98281627995,
+                        -7.5016718587692
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98281627995,
+                        -7.5016718587692
+                    ],
+                    [
+                        110.98272190779,
+                        -7.5011924211932
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98272190779,
+                        -7.5011924211932
+                    ],
+                    [
+                        110.98268672092,
+                        -7.5007612619226
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98268672092,
+                        -7.5007612619226
+                    ],
+                    [
+                        110.98269951737,
+                        -7.5005812338368
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98269951737,
+                        -7.5005812338368
+                    ],
+                    [
+                        110.98272323249,
+                        -7.5002476177333
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98272323249,
+                        -7.5002476177333
+                    ],
+                    [
+                        110.98274863204,
+                        -7.4999451190719
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98274863204,
+                        -7.4999451190719
+                    ],
+                    [
+                        110.98274504375,
+                        -7.4999143271844
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98274504375,
+                        -7.4999143271844
+                    ],
+                    [
+                        110.98270987936,
+                        -7.4996121252992
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98270987936,
+                        -7.4996121252992
+                    ],
+                    [
+                        110.98256081763,
+                        -7.4989068391793
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98256081763,
+                        -7.4989068391793
+                    ],
+                    [
+                        110.98222333174,
+                        -7.4979492860307
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98222333174,
+                        -7.4979492860307
+                    ],
+                    [
+                        110.9820313067,
+                        -7.4977318632348
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9820313067,
+                        -7.4977318632348
+                    ],
+                    [
+                        110.98192304991,
+                        -7.4977203069466
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98192304991,
+                        -7.4977203069466
+                    ],
+                    [
+                        110.98156309446,
+                        -7.4976964470334
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98156309446,
+                        -7.4976964470334
+                    ],
+                    [
+                        110.98123483202,
+                        -7.4975040568667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98123483202,
+                        -7.4975040568667
+                    ],
+                    [
+                        110.98105846328,
+                        -7.4974509420073
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98105846328,
+                        -7.4974509420073
+                    ],
+                    [
+                        110.98043658748,
+                        -7.4973594980423
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98043658748,
+                        -7.4973594980423
+                    ],
+                    [
+                        110.97984645055,
+                        -7.4971165210106
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97984645055,
+                        -7.4971165210106
+                    ],
+                    [
+                        110.9795952726,
+                        -7.497013098076
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9795952726,
+                        -7.497013098076
+                    ],
+                    [
+                        110.97957523211,
+                        -7.4968328055895
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97957523211,
+                        -7.4968328055895
+                    ],
+                    [
+                        110.97963643278,
+                        -7.4961991252893
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97963643278,
+                        -7.4961991252893
+                    ],
+                    [
+                        110.97970292865,
+                        -7.4955106376058
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97970292865,
+                        -7.4955106376058
+                    ],
+                    [
+                        110.97963943291,
+                        -7.4952340780902
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97963943291,
+                        -7.4952340780902
+                    ],
+                    [
+                        110.97945583362,
+                        -7.4949361560787
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97945583362,
+                        -7.4949361560787
+                    ],
+                    [
+                        110.97939368417,
+                        -7.4949475145161
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97939368417,
+                        -7.4949475145161
+                    ],
+                    [
+                        110.97933966819,
+                        -7.4950678213228
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97933966819,
+                        -7.4950678213228
+                    ],
+                    [
+                        110.97911113607,
+                        -7.4956566443386
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97911113607,
+                        -7.4956566443386
+                    ],
+                    [
+                        110.97893437882,
+                        -7.4959624641963
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97893437882,
+                        -7.4959624641963
+                    ],
+                    [
+                        110.97868649149,
+                        -7.4962485061636
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97868649149,
+                        -7.4962485061636
+                    ],
+                    [
+                        110.97834932486,
+                        -7.4965413559987
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97834932486,
+                        -7.4965413559987
+                    ],
+                    [
+                        110.97814977879,
+                        -7.4965335480848
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97814977879,
+                        -7.4965335480848
+                    ],
+                    [
+                        110.97810564006,
+                        -7.4964964861239
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97810564006,
+                        -7.4964964861239
+                    ],
+                    [
+                        110.97794398962,
+                        -7.4963067696416
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97794398962,
+                        -7.4963067696416
+                    ],
+                    [
+                        110.97778957153,
+                        -7.496125530169
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97778957153,
+                        -7.496125530169
+                    ],
+                    [
+                        110.97770648047,
+                        -7.4958619685549
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97770648047,
+                        -7.4958619685549
+                    ],
+                    [
+                        110.97768160612,
+                        -7.4953962096673
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97768160612,
+                        -7.4953962096673
+                    ],
+                    [
+                        110.97779285945,
+                        -7.4951018210921
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97779285945,
+                        -7.4951018210921
+                    ],
+                    [
+                        110.9780104837,
+                        -7.4948176766944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9780104837,
+                        -7.4948176766944
+                    ],
+                    [
+                        110.9783415835,
+                        -7.4945498298107
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9783415835,
+                        -7.4945498298107
+                    ],
+                    [
+                        110.97853336482,
+                        -7.4943150384083
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97853336482,
+                        -7.4943150384083
+                    ],
+                    [
+                        110.97873229036,
+                        -7.493990277929
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97873229036,
+                        -7.493990277929
+                    ],
+                    [
+                        110.9787915377,
+                        -7.4938428079992
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9787915377,
+                        -7.4938428079992
+                    ],
+                    [
+                        110.97876155071,
+                        -7.4937380387794
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97876155071,
+                        -7.4937380387794
+                    ],
+                    [
+                        110.97861943714,
+                        -7.4936481803192
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97861943714,
+                        -7.4936481803192
+                    ],
+                    [
+                        110.9783846925,
+                        -7.4935863681163
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9783846925,
+                        -7.4935863681163
+                    ],
+                    [
+                        110.97821812726,
+                        -7.4936349440973
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97821812726,
+                        -7.4936349440973
+                    ],
+                    [
+                        110.97747070971,
+                        -7.4936865310085
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97747070971,
+                        -7.4936865310085
+                    ],
+                    [
+                        110.97731314219,
+                        -7.4937828331112
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "120",
+                "NAMA_SUNGAI": "Kali Jambangan",
+                "FOTO": "sungai-120_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97731314219,
+                        -7.4937828331112
+                    ],
+                    [
+                        110.97726594667,
+                        -7.4938116770672
+                    ]
+                ]
+            }
+        }
+    ]
+}

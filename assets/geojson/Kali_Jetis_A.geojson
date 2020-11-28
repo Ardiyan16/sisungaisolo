@@ -1,0 +1,2857 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42747092919",
+                "LONGITUDE": "110.968001857"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.968001857,
+                        -7.42747092919
+                    ],
+                    [
+                        110.967964712,
+                        -7.42745291633
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42745291633",
+                "LONGITUDE": "110.967964712"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.967964712,
+                        -7.42745291633
+                    ],
+                    [
+                        110.967573202,
+                        -7.42733971598
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42733971598",
+                "LONGITUDE": "110.967573202"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.967573202,
+                        -7.42733971598
+                    ],
+                    [
+                        110.966744083,
+                        -7.42725129534
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42725129534",
+                "LONGITUDE": "110.966744083"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.966744083,
+                        -7.42725129534
+                    ],
+                    [
+                        110.966532281,
+                        -7.42722815838
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42722815838",
+                "LONGITUDE": "110.966532281"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.966532281,
+                        -7.42722815838
+                    ],
+                    [
+                        110.966139751,
+                        -7.4270851508
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.4270851508",
+                "LONGITUDE": "110.966139751"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.966139751,
+                        -7.4270851508
+                    ],
+                    [
+                        110.965757784,
+                        -7.42698170999
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42698170999",
+                "LONGITUDE": "110.965757784"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965757784,
+                        -7.42698170999
+                    ],
+                    [
+                        110.965367333,
+                        -7.42689768951
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42689768951",
+                "LONGITUDE": "110.965367333"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965367333,
+                        -7.42689768951
+                    ],
+                    [
+                        110.965092751,
+                        -7.42683859898
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42683859898",
+                "LONGITUDE": "110.965092751"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965092751,
+                        -7.42683859898
+                    ],
+                    [
+                        110.964217803,
+                        -7.42644657507
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42644657507",
+                "LONGITUDE": "110.964217803"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.964217803,
+                        -7.42644657507
+                    ],
+                    [
+                        110.962566873,
+                        -7.42584340111
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42584340111",
+                "LONGITUDE": "110.962566873"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.962566873,
+                        -7.42584340111
+                    ],
+                    [
+                        110.96219197,
+                        -7.42581254129
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42581254129",
+                "LONGITUDE": "110.96219197"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96219197,
+                        -7.42581254129
+                    ],
+                    [
+                        110.961961625,
+                        -7.42582744718
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42582744718",
+                "LONGITUDE": "110.961961625"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.961961625,
+                        -7.42582744718
+                    ],
+                    [
+                        110.961712664,
+                        -7.42575048226
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42575048226",
+                "LONGITUDE": "110.961712664"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.961712664,
+                        -7.42575048226
+                    ],
+                    [
+                        110.961352021,
+                        -7.42566553815
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42566553815",
+                "LONGITUDE": "110.961352021"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.961352021,
+                        -7.42566553815
+                    ],
+                    [
+                        110.961275492,
+                        -7.42564751227
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42564751227",
+                "LONGITUDE": "110.961275492"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.961275492,
+                        -7.42564751227
+                    ],
+                    [
+                        110.961160558,
+                        -7.42573108537
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42573108537",
+                "LONGITUDE": "110.961160558"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.961160558,
+                        -7.42573108537
+                    ],
+                    [
+                        110.960917111,
+                        -7.42601860267
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42601860267",
+                "LONGITUDE": "110.960917111"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.960917111,
+                        -7.42601860267
+                    ],
+                    [
+                        110.960775217,
+                        -7.42599401274
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42599401274",
+                "LONGITUDE": "110.960775217"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.960775217,
+                        -7.42599401274
+                    ],
+                    [
+                        110.960705311,
+                        -7.42598189424
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42598189424",
+                "LONGITUDE": "110.960705311"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.960705311,
+                        -7.42598189424
+                    ],
+                    [
+                        110.959193403,
+                        -7.42558042315
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42558042315",
+                "LONGITUDE": "110.959193403"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959193403,
+                        -7.42558042315
+                    ],
+                    [
+                        110.959249546,
+                        -7.42535697006
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42535697006",
+                "LONGITUDE": "110.959249546"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959249546,
+                        -7.42535697006
+                    ],
+                    [
+                        110.959308034,
+                        -7.42515682817
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42515682817",
+                "LONGITUDE": "110.959308034"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959308034,
+                        -7.42515682817
+                    ],
+                    [
+                        110.959346334,
+                        -7.42502579431
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42502579431",
+                "LONGITUDE": "110.959346334"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959346334,
+                        -7.42502579431
+                    ],
+                    [
+                        110.959331719,
+                        -7.42480208143
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42480208143",
+                "LONGITUDE": "110.959331719"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959331719,
+                        -7.42480208143
+                    ],
+                    [
+                        110.959331311,
+                        -7.42479586693
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42479586693",
+                "LONGITUDE": "110.959331311"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959331311,
+                        -7.42479586693
+                    ],
+                    [
+                        110.959249698,
+                        -7.42458652167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42458652167",
+                "LONGITUDE": "110.959249698"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959249698,
+                        -7.42458652167
+                    ],
+                    [
+                        110.959040635,
+                        -7.42426453548
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42426453548",
+                "LONGITUDE": "110.959040635"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959040635,
+                        -7.42426453548
+                    ],
+                    [
+                        110.958902791,
+                        -7.42405223604
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42405223604",
+                "LONGITUDE": "110.958902791"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958902791,
+                        -7.42405223604
+                    ],
+                    [
+                        110.95873714,
+                        -7.42398946096
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42398946096",
+                "LONGITUDE": "110.95873714"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95873714,
+                        -7.42398946096
+                    ],
+                    [
+                        110.95846361,
+                        -7.42394982393
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42394982393",
+                "LONGITUDE": "110.95846361"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95846361,
+                        -7.42394982393
+                    ],
+                    [
+                        110.958255365,
+                        -7.42399942964
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42399942964",
+                "LONGITUDE": "110.958255365"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958255365,
+                        -7.42399942964
+                    ],
+                    [
+                        110.957570434,
+                        -7.42418773438
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42418773438",
+                "LONGITUDE": "110.957570434"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957570434,
+                        -7.42418773438
+                    ],
+                    [
+                        110.95729688,
+                        -7.42411007716
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42411007716",
+                "LONGITUDE": "110.95729688"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95729688,
+                        -7.42411007716
+                    ],
+                    [
+                        110.957278684,
+                        -7.4241069727
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.4241069727",
+                "LONGITUDE": "110.957278684"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957278684,
+                        -7.4241069727
+                    ],
+                    [
+                        110.957043922,
+                        -7.42406687719
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42406687719",
+                "LONGITUDE": "110.957043922"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957043922,
+                        -7.42406687719
+                    ],
+                    [
+                        110.956864249,
+                        -7.42403400546
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42403400546",
+                "LONGITUDE": "110.956864249"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956864249,
+                        -7.42403400546
+                    ],
+                    [
+                        110.956582689,
+                        -7.42399803909
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42399803909",
+                "LONGITUDE": "110.956582689"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956582689,
+                        -7.42399803909
+                    ],
+                    [
+                        110.955780199,
+                        -7.42395105748
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42395105748",
+                "LONGITUDE": "110.955780199"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955780199,
+                        -7.42395105748
+                    ],
+                    [
+                        110.955369643,
+                        -7.4238761263
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.4238761263",
+                "LONGITUDE": "110.955369643"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955369643,
+                        -7.4238761263
+                    ],
+                    [
+                        110.955212038,
+                        -7.42383042013
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42383042013",
+                "LONGITUDE": "110.955212038"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955212038,
+                        -7.42383042013
+                    ],
+                    [
+                        110.955042858,
+                        -7.4237209037
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.4237209037",
+                "LONGITUDE": "110.955042858"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955042858,
+                        -7.4237209037
+                    ],
+                    [
+                        110.954720063,
+                        -7.42353000465
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42353000465",
+                "LONGITUDE": "110.954720063"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954720063,
+                        -7.42353000465
+                    ],
+                    [
+                        110.954464438,
+                        -7.42343261864
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42343261864",
+                "LONGITUDE": "110.954464438"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954464438,
+                        -7.42343261864
+                    ],
+                    [
+                        110.954344106,
+                        -7.42338677125
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42338677125",
+                "LONGITUDE": "110.954344106"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954344106,
+                        -7.42338677125
+                    ],
+                    [
+                        110.953904896,
+                        -7.42322093458
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42322093458",
+                "LONGITUDE": "110.953904896"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953904896,
+                        -7.42322093458
+                    ],
+                    [
+                        110.953631284,
+                        -7.42302340023
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42302340023",
+                "LONGITUDE": "110.953631284"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953631284,
+                        -7.42302340023
+                    ],
+                    [
+                        110.953272845,
+                        -7.42278908565
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42278908565",
+                "LONGITUDE": "110.953272845"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953272845,
+                        -7.42278908565
+                    ],
+                    [
+                        110.952933003,
+                        -7.42262700341
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42262700341",
+                "LONGITUDE": "110.952933003"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952933003,
+                        -7.42262700341
+                    ],
+                    [
+                        110.95267703,
+                        -7.42256772627
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42256772627",
+                "LONGITUDE": "110.95267703"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95267703,
+                        -7.42256772627
+                    ],
+                    [
+                        110.95239997,
+                        -7.42258254082
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42258254082",
+                "LONGITUDE": "110.95239997"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95239997,
+                        -7.42258254082
+                    ],
+                    [
+                        110.952348832,
+                        -7.42258527622
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42258527622",
+                "LONGITUDE": "110.952348832"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952348832,
+                        -7.42258527622
+                    ],
+                    [
+                        110.952053248,
+                        -7.42261016558
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42261016558",
+                "LONGITUDE": "110.952053248"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952053248,
+                        -7.42261016558
+                    ],
+                    [
+                        110.951777739,
+                        -7.42261566274
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42261566274",
+                "LONGITUDE": "110.951777739"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.951777739,
+                        -7.42261566274
+                    ],
+                    [
+                        110.951705959,
+                        -7.4226018782
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.4226018782",
+                "LONGITUDE": "110.951705959"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.951705959,
+                        -7.4226018782
+                    ],
+                    [
+                        110.951202403,
+                        -7.42241757844
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42241757844",
+                "LONGITUDE": "110.951202403"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.951202403,
+                        -7.42241757844
+                    ],
+                    [
+                        110.950557012,
+                        -7.42218135759
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42218135759",
+                "LONGITUDE": "110.950557012"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.950557012,
+                        -7.42218135759
+                    ],
+                    [
+                        110.95019657,
+                        -7.42196578319
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42196578319",
+                "LONGITUDE": "110.95019657"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95019657,
+                        -7.42196578319
+                    ],
+                    [
+                        110.949820642,
+                        -7.42167216868
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42167216868",
+                "LONGITUDE": "110.949820642"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949820642,
+                        -7.42167216868
+                    ],
+                    [
+                        110.949807894,
+                        -7.42156797778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42156797778",
+                "LONGITUDE": "110.949807894"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949807894,
+                        -7.42156797778
+                    ],
+                    [
+                        110.949730429,
+                        -7.42141732941
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42141732941",
+                "LONGITUDE": "110.949730429"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949730429,
+                        -7.42141732941
+                    ],
+                    [
+                        110.949574345,
+                        -7.42139702201
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42139702201",
+                "LONGITUDE": "110.949574345"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949574345,
+                        -7.42139702201
+                    ],
+                    [
+                        110.949356559,
+                        -7.42143409404
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42143409404",
+                "LONGITUDE": "110.949356559"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949356559,
+                        -7.42143409404
+                    ],
+                    [
+                        110.949144769,
+                        -7.42142353151
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42142353151",
+                "LONGITUDE": "110.949144769"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949144769,
+                        -7.42142353151
+                    ],
+                    [
+                        110.94905979,
+                        -7.42129132653
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42129132653",
+                "LONGITUDE": "110.94905979"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94905979,
+                        -7.42129132653
+                    ],
+                    [
+                        110.948928387,
+                        -7.42114821603
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42114821603",
+                "LONGITUDE": "110.948928387"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948928387,
+                        -7.42114821603
+                    ],
+                    [
+                        110.948768838,
+                        -7.42123506443
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42123506443",
+                "LONGITUDE": "110.948768838"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948768838,
+                        -7.42123506443
+                    ],
+                    [
+                        110.948506972,
+                        -7.42143993045
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42143993045",
+                "LONGITUDE": "110.948506972"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948506972,
+                        -7.42143993045
+                    ],
+                    [
+                        110.948420711,
+                        -7.42134920018
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42134920018",
+                "LONGITUDE": "110.948420711"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948420711,
+                        -7.42134920018
+                    ],
+                    [
+                        110.948388996,
+                        -7.42125253313
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42125253313",
+                "LONGITUDE": "110.948388996"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948388996,
+                        -7.42125253313
+                    ],
+                    [
+                        110.948399741,
+                        -7.42095847369
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42095847369",
+                "LONGITUDE": "110.948399741"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948399741,
+                        -7.42095847369
+                    ],
+                    [
+                        110.948288801,
+                        -7.42089505882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42089505882",
+                "LONGITUDE": "110.948288801"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948288801,
+                        -7.42089505882
+                    ],
+                    [
+                        110.948100637,
+                        -7.42094840708
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42094840708",
+                "LONGITUDE": "110.948100637"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948100637,
+                        -7.42094840708
+                    ],
+                    [
+                        110.948055111,
+                        -7.42093309627
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42093309627",
+                "LONGITUDE": "110.948055111"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948055111,
+                        -7.42093309627
+                    ],
+                    [
+                        110.948073666,
+                        -7.42081486086
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42081486086",
+                "LONGITUDE": "110.948073666"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948073666,
+                        -7.42081486086
+                    ],
+                    [
+                        110.94803147,
+                        -7.42052884599
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42052884599",
+                "LONGITUDE": "110.94803147"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94803147,
+                        -7.42052884599
+                    ],
+                    [
+                        110.947990259,
+                        -7.42050005745
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42050005745",
+                "LONGITUDE": "110.947990259"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947990259,
+                        -7.42050005745
+                    ],
+                    [
+                        110.947897996,
+                        -7.42066591938
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42066591938",
+                "LONGITUDE": "110.947897996"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947897996,
+                        -7.42066591938
+                    ],
+                    [
+                        110.947758127,
+                        -7.42085434496
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42085434496",
+                "LONGITUDE": "110.947758127"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947758127,
+                        -7.42085434496
+                    ],
+                    [
+                        110.947493419,
+                        -7.42109994326
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42109994326",
+                "LONGITUDE": "110.947493419"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947493419,
+                        -7.42109994326
+                    ],
+                    [
+                        110.947468511,
+                        -7.42106903989
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42106903989",
+                "LONGITUDE": "110.947468511"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947468511,
+                        -7.42106903989
+                    ],
+                    [
+                        110.947334014,
+                        -7.42066534634
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42066534634",
+                "LONGITUDE": "110.947334014"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947334014,
+                        -7.42066534634
+                    ],
+                    [
+                        110.94730071,
+                        -7.42028714676
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42028714676",
+                "LONGITUDE": "110.94730071"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94730071,
+                        -7.42028714676
+                    ],
+                    [
+                        110.947330138,
+                        -7.42003215834
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.42003215834",
+                "LONGITUDE": "110.947330138"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947330138,
+                        -7.42003215834
+                    ],
+                    [
+                        110.947434135,
+                        -7.41995390644
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41995390644",
+                "LONGITUDE": "110.947434135"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947434135,
+                        -7.41995390644
+                    ],
+                    [
+                        110.947622847,
+                        -7.41978394014
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41978394014",
+                "LONGITUDE": "110.947622847"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947622847,
+                        -7.41978394014
+                    ],
+                    [
+                        110.947591816,
+                        -7.41965120753
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41965120753",
+                "LONGITUDE": "110.947591816"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947591816,
+                        -7.41965120753
+                    ],
+                    [
+                        110.947524131,
+                        -7.41957229307
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41957229307",
+                "LONGITUDE": "110.947524131"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947524131,
+                        -7.41957229307
+                    ],
+                    [
+                        110.946914964,
+                        -7.41973810253
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41973810253",
+                "LONGITUDE": "110.946914964"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946914964,
+                        -7.41973810253
+                    ],
+                    [
+                        110.946914842,
+                        -7.41969852716
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41969852716",
+                "LONGITUDE": "110.946914842"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946914842,
+                        -7.41969852716
+                    ],
+                    [
+                        110.946982302,
+                        -7.41961348664
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41961348664",
+                "LONGITUDE": "110.946982302"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946982302,
+                        -7.41961348664
+                    ],
+                    [
+                        110.947404392,
+                        -7.41927739504
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41927739504",
+                "LONGITUDE": "110.947404392"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947404392,
+                        -7.41927739504
+                    ],
+                    [
+                        110.94737365,
+                        -7.4192278114
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.4192278114",
+                "LONGITUDE": "110.94737365"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94737365,
+                        -7.4192278114
+                    ],
+                    [
+                        110.947276773,
+                        -7.41918067133
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41918067133",
+                "LONGITUDE": "110.947276773"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947276773,
+                        -7.41918067133
+                    ],
+                    [
+                        110.946829578,
+                        -7.41908516683
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41908516683",
+                "LONGITUDE": "110.946829578"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946829578,
+                        -7.41908516683
+                    ],
+                    [
+                        110.946170176,
+                        -7.41913763449
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41913763449",
+                "LONGITUDE": "110.946170176"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946170176,
+                        -7.41913763449
+                    ],
+                    [
+                        110.946156193,
+                        -7.41906951796
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41906951796",
+                "LONGITUDE": "110.946156193"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946156193,
+                        -7.41906951796
+                    ],
+                    [
+                        110.946116814,
+                        -7.41879902583
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41879902583",
+                "LONGITUDE": "110.946116814"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946116814,
+                        -7.41879902583
+                    ],
+                    [
+                        110.946047677,
+                        -7.41874545729
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41874545729",
+                "LONGITUDE": "110.946047677"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946047677,
+                        -7.41874545729
+                    ],
+                    [
+                        110.945371126,
+                        -7.41861048376
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41861048376",
+                "LONGITUDE": "110.945371126"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945371126,
+                        -7.41861048376
+                    ],
+                    [
+                        110.945149803,
+                        -7.41838817419
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41838817419",
+                "LONGITUDE": "110.945149803"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945149803,
+                        -7.41838817419
+                    ],
+                    [
+                        110.944820556,
+                        -7.41812538928
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41812538928",
+                "LONGITUDE": "110.944820556"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944820556,
+                        -7.41812538928
+                    ],
+                    [
+                        110.944784137,
+                        -7.41825214348
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41825214348",
+                "LONGITUDE": "110.944784137"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944784137,
+                        -7.41825214348
+                    ],
+                    [
+                        110.944715881,
+                        -7.41854773349
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41854773349",
+                "LONGITUDE": "110.944715881"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944715881,
+                        -7.41854773349
+                    ],
+                    [
+                        110.9446376,
+                        -7.41856910801
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41856910801",
+                "LONGITUDE": "110.9446376"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9446376,
+                        -7.41856910801
+                    ],
+                    [
+                        110.944478508,
+                        -7.41854840044
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41854840044",
+                "LONGITUDE": "110.944478508"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944478508,
+                        -7.41854840044
+                    ],
+                    [
+                        110.944366512,
+                        -7.4183876517
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.4183876517",
+                "LONGITUDE": "110.944366512"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944366512,
+                        -7.4183876517
+                    ],
+                    [
+                        110.944111903,
+                        -7.4180342096
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.4180342096",
+                "LONGITUDE": "110.944111903"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944111903,
+                        -7.4180342096
+                    ],
+                    [
+                        110.943563853,
+                        -7.41776231422
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41776231422",
+                "LONGITUDE": "110.943563853"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943563853,
+                        -7.41776231422
+                    ],
+                    [
+                        110.943421724,
+                        -7.41754597501
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41754597501",
+                "LONGITUDE": "110.943421724"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943421724,
+                        -7.41754597501
+                    ],
+                    [
+                        110.94333273,
+                        -7.41729754804
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41729754804",
+                "LONGITUDE": "110.94333273"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94333273,
+                        -7.41729754804
+                    ],
+                    [
+                        110.94318705,
+                        -7.41700306167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41700306167",
+                "LONGITUDE": "110.94318705"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94318705,
+                        -7.41700306167
+                    ],
+                    [
+                        110.943169372,
+                        -7.41698098767
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41698098767",
+                "LONGITUDE": "110.943169372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943169372,
+                        -7.41698098767
+                    ],
+                    [
+                        110.943038066,
+                        -7.41681697964
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41681697964",
+                "LONGITUDE": "110.943038066"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943038066,
+                        -7.41681697964
+                    ],
+                    [
+                        110.942970535,
+                        -7.41675039393
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41675039393",
+                "LONGITUDE": "110.942970535"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.942970535,
+                        -7.41675039393
+                    ],
+                    [
+                        110.9428904,
+                        -7.41667137767
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41667137767",
+                "LONGITUDE": "110.9428904"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9428904,
+                        -7.41667137767
+                    ],
+                    [
+                        110.942818353,
+                        -7.41649307578
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41649307578",
+                "LONGITUDE": "110.942818353"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.942818353,
+                        -7.41649307578
+                    ],
+                    [
+                        110.942857649,
+                        -7.41639787383
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41639787383",
+                "LONGITUDE": "110.942857649"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.942857649,
+                        -7.41639787383
+                    ],
+                    [
+                        110.942976138,
+                        -7.41609774954
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41609774954",
+                "LONGITUDE": "110.942976138"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.942976138,
+                        -7.41609774954
+                    ],
+                    [
+                        110.943042093,
+                        -7.41580767741
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41580767741",
+                "LONGITUDE": "110.943042093"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943042093,
+                        -7.41580767741
+                    ],
+                    [
+                        110.943050006,
+                        -7.41557723677
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41557723677",
+                "LONGITUDE": "110.943050006"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943050006,
+                        -7.41557723677
+                    ],
+                    [
+                        110.942987557,
+                        -7.41552952124
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41552952124",
+                "LONGITUDE": "110.942987557"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.942987557,
+                        -7.41552952124
+                    ],
+                    [
+                        110.94277525,
+                        -7.41546991836
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.41546991836",
+                "LONGITUDE": "110.94277525"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94277525,
+                        -7.41546991836
+                    ],
+                    [
+                        110.94251528,
+                        -7.41545771824
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "81",
+                "NAMA_SUNGAI": "Kali Jetis A",
+                "FOTO": "sungai-81_file1-.png",
+                "LATITUDE": "-7.414448276",
+                "LONGITUDE": "110.9422761"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9422761,
+                        -7.414448276
+                    ],
+                    [
+                        110.9425153,
+                        -7.415457718
+                    ]
+                ]
+            }
+        }
+    ]
+}

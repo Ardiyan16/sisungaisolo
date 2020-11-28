@@ -1,0 +1,5297 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03252855795,
+                        -7.5665601944974
+                    ],
+                    [
+                        111.03246833844,
+                        -7.5665672541754
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03246833844,
+                        -7.5665672541754
+                    ],
+                    [
+                        111.03181172273,
+                        -7.5665763220396
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03181172273,
+                        -7.5665763220396
+                    ],
+                    [
+                        111.03142486946,
+                        -7.5664778507722
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03142486946,
+                        -7.5664778507722
+                    ],
+                    [
+                        111.03126596825,
+                        -7.5663828544851
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03126596825,
+                        -7.5663828544851
+                    ],
+                    [
+                        111.03123707753,
+                        -7.5662620602458
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03123707753,
+                        -7.5662620602458
+                    ],
+                    [
+                        111.03125247572,
+                        -7.5660878112035
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03125247572,
+                        -7.5660878112035
+                    ],
+                    [
+                        111.03135690949,
+                        -7.565871447809
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03135690949,
+                        -7.565871447809
+                    ],
+                    [
+                        111.03145953203,
+                        -7.5656989470487
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03145953203,
+                        -7.5656989470487
+                    ],
+                    [
+                        111.03135139845,
+                        -7.5656309852817
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03135139845,
+                        -7.5656309852817
+                    ],
+                    [
+                        111.03078270856,
+                        -7.5654118204991
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03078270856,
+                        -7.5654118204991
+                    ],
+                    [
+                        111.03062306001,
+                        -7.5652551226258
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03062306001,
+                        -7.5652551226258
+                    ],
+                    [
+                        111.03058224787,
+                        -7.5651099324774
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03058224787,
+                        -7.5651099324774
+                    ],
+                    [
+                        111.03056988309,
+                        -7.5645961992552
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03056988309,
+                        -7.5645961992552
+                    ],
+                    [
+                        111.03054592875,
+                        -7.5642805857803
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03054592875,
+                        -7.5642805857803
+                    ],
+                    [
+                        111.03050616613,
+                        -7.5641077603648
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03050616613,
+                        -7.5641077603648
+                    ],
+                    [
+                        111.03045795167,
+                        -7.5636208862948
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03045795167,
+                        -7.5636208862948
+                    ],
+                    [
+                        111.03040819218,
+                        -7.5633450669213
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03040819218,
+                        -7.5633450669213
+                    ],
+                    [
+                        111.03030093094,
+                        -7.5631716677382
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03030093094,
+                        -7.5631716677382
+                    ],
+                    [
+                        111.02997335559,
+                        -7.5630512467176
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02997335559,
+                        -7.5630512467176
+                    ],
+                    [
+                        111.02950956711,
+                        -7.5629171838809
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02950956711,
+                        -7.5629171838809
+                    ],
+                    [
+                        111.02936398666,
+                        -7.5628562799933
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02936398666,
+                        -7.5628562799933
+                    ],
+                    [
+                        111.0292502467,
+                        -7.5627133192642
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0292502467,
+                        -7.5627133192642
+                    ],
+                    [
+                        111.02927799798,
+                        -7.5626182654206
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02927799798,
+                        -7.5626182654206
+                    ],
+                    [
+                        111.02940424391,
+                        -7.5624416385707
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02940424391,
+                        -7.5624416385707
+                    ],
+                    [
+                        111.02954180241,
+                        -7.5622484758864
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02954180241,
+                        -7.5622484758864
+                    ],
+                    [
+                        111.02949545315,
+                        -7.5621203818501
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02949545315,
+                        -7.5621203818501
+                    ],
+                    [
+                        111.02935459684,
+                        -7.5620648595056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02935459684,
+                        -7.5620648595056
+                    ],
+                    [
+                        111.02919363798,
+                        -7.5620713741945
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02919363798,
+                        -7.5620713741945
+                    ],
+                    [
+                        111.02892757085,
+                        -7.5620953905897
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02892757085,
+                        -7.5620953905897
+                    ],
+                    [
+                        111.02868042186,
+                        -7.5621176955751
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02868042186,
+                        -7.5621176955751
+                    ],
+                    [
+                        111.02827941416,
+                        -7.5621654648643
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02827941416,
+                        -7.5621654648643
+                    ],
+                    [
+                        111.02789913404,
+                        -7.562300452204
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02789913404,
+                        -7.562300452204
+                    ],
+                    [
+                        111.02779727412,
+                        -7.5623729510508
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02779727412,
+                        -7.5623729510508
+                    ],
+                    [
+                        111.02774435981,
+                        -7.5624906570181
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02774435981,
+                        -7.5624906570181
+                    ],
+                    [
+                        111.0276978235,
+                        -7.5625493764525
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0276978235,
+                        -7.5625493764525
+                    ],
+                    [
+                        111.02758840568,
+                        -7.5625083152065
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02758840568,
+                        -7.5625083152065
+                    ],
+                    [
+                        111.02742247717,
+                        -7.5623429883382
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02742247717,
+                        -7.5623429883382
+                    ],
+                    [
+                        111.02708454791,
+                        -7.5620313291824
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02708454791,
+                        -7.5620313291824
+                    ],
+                    [
+                        111.02674389911,
+                        -7.5620004770403
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02674389911,
+                        -7.5620004770403
+                    ],
+                    [
+                        111.02644130332,
+                        -7.5619365424374
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02644130332,
+                        -7.5619365424374
+                    ],
+                    [
+                        111.0264674655,
+                        -7.5617990720694
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0264674655,
+                        -7.5617990720694
+                    ],
+                    [
+                        111.02661301988,
+                        -7.5614491836329
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02661301988,
+                        -7.5614491836329
+                    ],
+                    [
+                        111.0266915109,
+                        -7.5612406920043
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0266915109,
+                        -7.5612406920043
+                    ],
+                    [
+                        111.02678881215,
+                        -7.5607560248706
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02678881215,
+                        -7.5607560248706
+                    ],
+                    [
+                        111.02681695554,
+                        -7.5604013124706
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02681695554,
+                        -7.5604013124706
+                    ],
+                    [
+                        111.02678459973,
+                        -7.5600627500957
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02678459973,
+                        -7.5600627500957
+                    ],
+                    [
+                        111.02668960344,
+                        -7.5600000871343
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02668960344,
+                        -7.5600000871343
+                    ],
+                    [
+                        111.02653469252,
+                        -7.5600242402265
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02653469252,
+                        -7.5600242402265
+                    ],
+                    [
+                        111.02636887372,
+                        -7.5601500221058
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02636887372,
+                        -7.5601500221058
+                    ],
+                    [
+                        111.02556179874,
+                        -7.5606522988645
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02556179874,
+                        -7.5606522988645
+                    ],
+                    [
+                        111.02553654308,
+                        -7.5606446114596
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02553654308,
+                        -7.5606446114596
+                    ],
+                    [
+                        111.0254701875,
+                        -7.5606465234183
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0254701875,
+                        -7.5606465234183
+                    ],
+                    [
+                        111.02533339162,
+                        -7.5605795841804
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02533339162,
+                        -7.5605795841804
+                    ],
+                    [
+                        111.02521129606,
+                        -7.5604469809433
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02521129606,
+                        -7.5604469809433
+                    ],
+                    [
+                        111.02503536439,
+                        -7.5601724251173
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02503536439,
+                        -7.5601724251173
+                    ],
+                    [
+                        111.02489042515,
+                        -7.5598817219638
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02489042515,
+                        -7.5598817219638
+                    ],
+                    [
+                        111.02467781463,
+                        -7.5594023275553
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02467781463,
+                        -7.5594023275553
+                    ],
+                    [
+                        111.02427952648,
+                        -7.5586182194552
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02427952648,
+                        -7.5586182194552
+                    ],
+                    [
+                        111.02417985372,
+                        -7.5585631998318
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02417985372,
+                        -7.5585631998318
+                    ],
+                    [
+                        111.02393954497,
+                        -7.5586346743507
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02393954497,
+                        -7.5586346743507
+                    ],
+                    [
+                        111.02384184622,
+                        -7.5587091445113
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02384184622,
+                        -7.5587091445113
+                    ],
+                    [
+                        111.02381855468,
+                        -7.5588065689679
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02381855468,
+                        -7.5588065689679
+                    ],
+                    [
+                        111.0238441314,
+                        -7.559049418296
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0238441314,
+                        -7.559049418296
+                    ],
+                    [
+                        111.02382274193,
+                        -7.559282175432
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02382274193,
+                        -7.559282175432
+                    ],
+                    [
+                        111.02372568709,
+                        -7.5593604892951
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02372568709,
+                        -7.5593604892951
+                    ],
+                    [
+                        111.02360426153,
+                        -7.5593761725723
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02360426153,
+                        -7.5593761725723
+                    ],
+                    [
+                        111.02334265234,
+                        -7.5593358334819
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02334265234,
+                        -7.5593358334819
+                    ],
+                    [
+                        111.02294497843,
+                        -7.5593097486459
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02294497843,
+                        -7.5593097486459
+                    ],
+                    [
+                        111.02252084106,
+                        -7.5594126023097
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02252084106,
+                        -7.5594126023097
+                    ],
+                    [
+                        111.02231628667,
+                        -7.5595352284679
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02231628667,
+                        -7.5595352284679
+                    ],
+                    [
+                        111.02233054632,
+                        -7.5595570909869
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02233054632,
+                        -7.5595570909869
+                    ],
+                    [
+                        111.02228995452,
+                        -7.5595718101908
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02228995452,
+                        -7.5595718101908
+                    ],
+                    [
+                        111.02193033452,
+                        -7.5597184869186
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02193033452,
+                        -7.5597184869186
+                    ],
+                    [
+                        111.02168610833,
+                        -7.5597858812134
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02168610833,
+                        -7.5597858812134
+                    ],
+                    [
+                        111.02155090245,
+                        -7.5597616273972
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02155090245,
+                        -7.5597616273972
+                    ],
+                    [
+                        111.02149899268,
+                        -7.5596923571165
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02149899268,
+                        -7.5596923571165
+                    ],
+                    [
+                        111.02147003901,
+                        -7.5595142661704
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02147003901,
+                        -7.5595142661704
+                    ],
+                    [
+                        111.0214957893,
+                        -7.5592693151268
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0214957893,
+                        -7.5592693151268
+                    ],
+                    [
+                        111.02156926481,
+                        -7.5589653388792
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02156926481,
+                        -7.5589653388792
+                    ],
+                    [
+                        111.02194232878,
+                        -7.5583153475752
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02194232878,
+                        -7.5583153475752
+                    ],
+                    [
+                        111.02198703767,
+                        -7.5581341224917
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02198703767,
+                        -7.5581341224917
+                    ],
+                    [
+                        111.0219117806,
+                        -7.5579697929715
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0219117806,
+                        -7.5579697929715
+                    ],
+                    [
+                        111.02170891154,
+                        -7.5577074850124
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02170891154,
+                        -7.5577074850124
+                    ],
+                    [
+                        111.0214445783,
+                        -7.5573748680557
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0214445783,
+                        -7.5573748680557
+                    ],
+                    [
+                        111.02123864435,
+                        -7.5570810181744
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02123864435,
+                        -7.5570810181744
+                    ],
+                    [
+                        111.02109127424,
+                        -7.5570663538291
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02109127424,
+                        -7.5570663538291
+                    ],
+                    [
+                        111.02080841318,
+                        -7.5571010298886
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02080841318,
+                        -7.5571010298886
+                    ],
+                    [
+                        111.02026866347,
+                        -7.5572082569555
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02026866347,
+                        -7.5572082569555
+                    ],
+                    [
+                        111.0199935051,
+                        -7.5572033394625
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0199935051,
+                        -7.5572033394625
+                    ],
+                    [
+                        111.01991604199,
+                        -7.557138177285
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01991604199,
+                        -7.557138177285
+                    ],
+                    [
+                        111.01971607863,
+                        -7.5567473472122
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01971607863,
+                        -7.5567473472122
+                    ],
+                    [
+                        111.01970490816,
+                        -7.5564898515254
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01970490816,
+                        -7.5564898515254
+                    ],
+                    [
+                        111.0196854801,
+                        -7.5558511961757
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0196854801,
+                        -7.5558511961757
+                    ],
+                    [
+                        111.01959831961,
+                        -7.5556338399297
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01959831961,
+                        -7.5556338399297
+                    ],
+                    [
+                        111.01951868824,
+                        -7.5553224982346
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01951868824,
+                        -7.5553224982346
+                    ],
+                    [
+                        111.01940273235,
+                        -7.5543657436841
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01940273235,
+                        -7.5543657436841
+                    ],
+                    [
+                        111.01926740507,
+                        -7.554226608671
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01926740507,
+                        -7.554226608671
+                    ],
+                    [
+                        111.01915468404,
+                        -7.5540292713338
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01915468404,
+                        -7.5540292713338
+                    ],
+                    [
+                        111.01911904211,
+                        -7.5538473088062
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01911904211,
+                        -7.5538473088062
+                    ],
+                    [
+                        111.0191397481,
+                        -7.5536841582972
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0191397481,
+                        -7.5536841582972
+                    ],
+                    [
+                        111.01918665224,
+                        -7.5533301149928
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01918665224,
+                        -7.5533301149928
+                    ],
+                    [
+                        111.01914049634,
+                        -7.5531915006872
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01914049634,
+                        -7.5531915006872
+                    ],
+                    [
+                        111.01904076962,
+                        -7.5530854166586
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01904076962,
+                        -7.5530854166586
+                    ],
+                    [
+                        111.01884823556,
+                        -7.5529711676852
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01884823556,
+                        -7.5529711676852
+                    ],
+                    [
+                        111.01850705076,
+                        -7.5527387064261
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01850705076,
+                        -7.5527387064261
+                    ],
+                    [
+                        111.01827436647,
+                        -7.5525746718836
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01827436647,
+                        -7.5525746718836
+                    ],
+                    [
+                        111.0181337197,
+                        -7.5524374991912
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0181337197,
+                        -7.5524374991912
+                    ],
+                    [
+                        111.01806716807,
+                        -7.5522789846873
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01806716807,
+                        -7.5522789846873
+                    ],
+                    [
+                        111.01793322304,
+                        -7.5519932080201
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01793322304,
+                        -7.5519932080201
+                    ],
+                    [
+                        111.01771636052,
+                        -7.5519011309324
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01771636052,
+                        -7.5519011309324
+                    ],
+                    [
+                        111.01707020483,
+                        -7.5518154750041
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01707020483,
+                        -7.5518154750041
+                    ],
+                    [
+                        111.01674556216,
+                        -7.5517367987142
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01674556216,
+                        -7.5517367987142
+                    ],
+                    [
+                        111.01659209105,
+                        -7.5516344252884
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01659209105,
+                        -7.5516344252884
+                    ],
+                    [
+                        111.01643768285,
+                        -7.5514625252753
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01643768285,
+                        -7.5514625252753
+                    ],
+                    [
+                        111.01608255227,
+                        -7.5510564031305
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01608255227,
+                        -7.5510564031305
+                    ],
+                    [
+                        111.01572193762,
+                        -7.5503695459178
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01572193762,
+                        -7.5503695459178
+                    ],
+                    [
+                        111.01570857459,
+                        -7.5500784632504
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01570857459,
+                        -7.5500784632504
+                    ],
+                    [
+                        111.01577070695,
+                        -7.54990060343
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01577070695,
+                        -7.54990060343
+                    ],
+                    [
+                        111.01588033161,
+                        -7.5497479165331
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01588033161,
+                        -7.5497479165331
+                    ],
+                    [
+                        111.01594015541,
+                        -7.5496323725359
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01594015541,
+                        -7.5496323725359
+                    ],
+                    [
+                        111.01598760634,
+                        -7.5495560066043
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01598760634,
+                        -7.5495560066043
+                    ],
+                    [
+                        111.01606084533,
+                        -7.549184350977
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01606084533,
+                        -7.549184350977
+                    ],
+                    [
+                        111.01606623587,
+                        -7.5488494047762
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01606623587,
+                        -7.5488494047762
+                    ],
+                    [
+                        111.0159794351,
+                        -7.5484485184843
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0159794351,
+                        -7.5484485184843
+                    ],
+                    [
+                        111.01583430881,
+                        -7.5482454371771
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01583430881,
+                        -7.5482454371771
+                    ],
+                    [
+                        111.01519847733,
+                        -7.5474459245897
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01519847733,
+                        -7.5474459245897
+                    ],
+                    [
+                        111.01490007148,
+                        -7.5468294851925
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01490007148,
+                        -7.5468294851925
+                    ],
+                    [
+                        111.01471836616,
+                        -7.5459400961585
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01471836616,
+                        -7.5459400961585
+                    ],
+                    [
+                        111.01467906399,
+                        -7.5457391462446
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01467906399,
+                        -7.5457391462446
+                    ],
+                    [
+                        111.01463867633,
+                        -7.5453619759743
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01463867633,
+                        -7.5453619759743
+                    ],
+                    [
+                        111.01469621586,
+                        -7.5449913428761
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01469621586,
+                        -7.5449913428761
+                    ],
+                    [
+                        111.01470906357,
+                        -7.5447917113684
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01470906357,
+                        -7.5447917113684
+                    ],
+                    [
+                        111.01464612362,
+                        -7.5447025130105
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01464612362,
+                        -7.5447025130105
+                    ],
+                    [
+                        111.01457533708,
+                        -7.5446852837987
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01457533708,
+                        -7.5446852837987
+                    ],
+                    [
+                        111.01447352393,
+                        -7.544736739409
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01447352393,
+                        -7.544736739409
+                    ],
+                    [
+                        111.01414680293,
+                        -7.5449539023007
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01414680293,
+                        -7.5449539023007
+                    ],
+                    [
+                        111.01402924266,
+                        -7.5449565741865
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01402924266,
+                        -7.5449565741865
+                    ],
+                    [
+                        111.01376114216,
+                        -7.5448598206242
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01376114216,
+                        -7.5448598206242
+                    ],
+                    [
+                        111.01346908013,
+                        -7.544673315621
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01346908013,
+                        -7.544673315621
+                    ],
+                    [
+                        111.01335991683,
+                        -7.5444706219216
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01335991683,
+                        -7.5444706219216
+                    ],
+                    [
+                        111.01319177688,
+                        -7.5442018865078
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01319177688,
+                        -7.5442018865078
+                    ],
+                    [
+                        111.01305344226,
+                        -7.5439671355748
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01305344226,
+                        -7.5439671355748
+                    ],
+                    [
+                        111.01289448799,
+                        -7.5437898980853
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01289448799,
+                        -7.5437898980853
+                    ],
+                    [
+                        111.01275384751,
+                        -7.5437374730059
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01275384751,
+                        -7.5437374730059
+                    ],
+                    [
+                        111.01258747383,
+                        -7.5437303045099
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01258747383,
+                        -7.5437303045099
+                    ],
+                    [
+                        111.01144802651,
+                        -7.5437792734946
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01144802651,
+                        -7.5437792734946
+                    ],
+                    [
+                        111.01115654004,
+                        -7.543692658889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01115654004,
+                        -7.543692658889
+                    ],
+                    [
+                        111.01102681284,
+                        -7.543586609934
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01102681284,
+                        -7.543586609934
+                    ],
+                    [
+                        111.01086625328,
+                        -7.5433553321828
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01086625328,
+                        -7.5433553321828
+                    ],
+                    [
+                        111.01081497843,
+                        -7.5431320296194
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01081497843,
+                        -7.5431320296194
+                    ],
+                    [
+                        111.01077876273,
+                        -7.5426925336335
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01077876273,
+                        -7.5426925336335
+                    ],
+                    [
+                        111.01077355386,
+                        -7.5424564400126
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01077355386,
+                        -7.5424564400126
+                    ],
+                    [
+                        111.01069358164,
+                        -7.5422940710145
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01069358164,
+                        -7.5422940710145
+                    ],
+                    [
+                        111.01049547898,
+                        -7.5421231197861
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01049547898,
+                        -7.5421231197861
+                    ],
+                    [
+                        111.01037056765,
+                        -7.5421163119182
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01037056765,
+                        -7.5421163119182
+                    ],
+                    [
+                        111.00989977615,
+                        -7.5421045901547
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00989977615,
+                        -7.5421045901547
+                    ],
+                    [
+                        111.00975117757,
+                        -7.5419989845655
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00975117757,
+                        -7.5419989845655
+                    ],
+                    [
+                        111.00958753873,
+                        -7.5418190769888
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00958753873,
+                        -7.5418190769888
+                    ],
+                    [
+                        111.00952399174,
+                        -7.5416551971296
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00952399174,
+                        -7.5416551971296
+                    ],
+                    [
+                        111.00952843709,
+                        -7.5414317308896
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00952843709,
+                        -7.5414317308896
+                    ],
+                    [
+                        111.00963478372,
+                        -7.5409996219349
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00963478372,
+                        -7.5409996219349
+                    ],
+                    [
+                        111.00964237669,
+                        -7.5408730351624
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00964237669,
+                        -7.5408730351624
+                    ],
+                    [
+                        111.00955144354,
+                        -7.5401995274861
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00955144354,
+                        -7.5401995274861
+                    ],
+                    [
+                        111.00941028416,
+                        -7.5399282838631
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00941028416,
+                        -7.5399282838631
+                    ],
+                    [
+                        111.00922357591,
+                        -7.5397345195324
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00922357591,
+                        -7.5397345195324
+                    ],
+                    [
+                        111.00868722384,
+                        -7.5393088461263
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00868722384,
+                        -7.5393088461263
+                    ],
+                    [
+                        111.00757941915,
+                        -7.5386384860772
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00757941915,
+                        -7.5386384860772
+                    ],
+                    [
+                        111.0071435996,
+                        -7.538399713376
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0071435996,
+                        -7.538399713376
+                    ],
+                    [
+                        111.00692203093,
+                        -7.5381951382949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00692203093,
+                        -7.5381951382949
+                    ],
+                    [
+                        111.00654583822,
+                        -7.5378898409434
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00654583822,
+                        -7.5378898409434
+                    ],
+                    [
+                        111.00614787652,
+                        -7.5379283903829
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00614787652,
+                        -7.5379283903829
+                    ],
+                    [
+                        111.00536772814,
+                        -7.538063426286
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00536772814,
+                        -7.538063426286
+                    ],
+                    [
+                        111.00515617971,
+                        -7.538123610716
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00515617971,
+                        -7.538123610716
+                    ],
+                    [
+                        111.00432636537,
+                        -7.5382924764166
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00432636537,
+                        -7.5382924764166
+                    ],
+                    [
+                        111.00426271405,
+                        -7.5383163848932
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00426271405,
+                        -7.5383163848932
+                    ],
+                    [
+                        111.00395989523,
+                        -7.5384301473334
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00395989523,
+                        -7.5384301473334
+                    ],
+                    [
+                        111.00350129225,
+                        -7.5385860996687
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00350129225,
+                        -7.5385860996687
+                    ],
+                    [
+                        111.00330031266,
+                        -7.538591384085
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00330031266,
+                        -7.538591384085
+                    ],
+                    [
+                        111.00308641521,
+                        -7.5385098560449
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00308641521,
+                        -7.5385098560449
+                    ],
+                    [
+                        111.00296241129,
+                        -7.5384068980599
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00296241129,
+                        -7.5384068980599
+                    ],
+                    [
+                        111.00288471796,
+                        -7.5382571735297
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00288471796,
+                        -7.5382571735297
+                    ],
+                    [
+                        111.00270276082,
+                        -7.537651109611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00270276082,
+                        -7.537651109611
+                    ],
+                    [
+                        111.00266968196,
+                        -7.5373016636408
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00266968196,
+                        -7.5373016636408
+                    ],
+                    [
+                        111.00266659908,
+                        -7.5370523715696
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00266659908,
+                        -7.5370523715696
+                    ],
+                    [
+                        111.00250702608,
+                        -7.5370353393094
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00250702608,
+                        -7.5370353393094
+                    ],
+                    [
+                        111.00205629216,
+                        -7.5370435645088
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00205629216,
+                        -7.5370435645088
+                    ],
+                    [
+                        111.00117508246,
+                        -7.5371507870791
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00117508246,
+                        -7.5371507870791
+                    ],
+                    [
+                        111.00091929009,
+                        -7.5370881187216
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00091929009,
+                        -7.5370881187216
+                    ],
+                    [
+                        111.00077281571,
+                        -7.5369571819284
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00077281571,
+                        -7.5369571819284
+                    ],
+                    [
+                        111.00062978574,
+                        -7.536730720946
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00062978574,
+                        -7.536730720946
+                    ],
+                    [
+                        111.00026114913,
+                        -7.5360587223322
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00026114913,
+                        -7.5360587223322
+                    ],
+                    [
+                        110.9999999995,
+                        -7.5357048885697
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9999999995,
+                        -7.5357048885697
+                    ],
+                    [
+                        110.99994769763,
+                        -7.5356340237911
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99994769763,
+                        -7.5356340237911
+                    ],
+                    [
+                        110.9999761243,
+                        -7.535349643771
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9999761243,
+                        -7.535349643771
+                    ],
+                    [
+                        110.9999999995,
+                        -7.5351365260298
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9999999995,
+                        -7.5351365260298
+                    ],
+                    [
+                        111.0000197693,
+                        -7.5349600610579
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0000197693,
+                        -7.5349600610579
+                    ],
+                    [
+                        110.9999999995,
+                        -7.5348555373531
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9999999995,
+                        -7.5348555373531
+                    ],
+                    [
+                        110.9999449511,
+                        -7.5345644906587
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9999449511,
+                        -7.5345644906587
+                    ],
+                    [
+                        110.99972603453,
+                        -7.5339273713511
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99972603453,
+                        -7.5339273713511
+                    ],
+                    [
+                        110.99978492663,
+                        -7.5337397799668
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99978492663,
+                        -7.5337397799668
+                    ],
+                    [
+                        110.99988148145,
+                        -7.5334508223975
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99988148145,
+                        -7.5334508223975
+                    ],
+                    [
+                        110.99989408185,
+                        -7.5330720504347
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99989408185,
+                        -7.5330720504347
+                    ],
+                    [
+                        110.99990116131,
+                        -7.5322741332446
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99990116131,
+                        -7.5322741332446
+                    ],
+                    [
+                        110.99989009335,
+                        -7.5320482793046
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99989009335,
+                        -7.5320482793046
+                    ],
+                    [
+                        110.99988163613,
+                        -7.5317128807448
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99988163613,
+                        -7.5317128807448
+                    ],
+                    [
+                        110.99983942375,
+                        -7.5314973384314
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99983942375,
+                        -7.5314973384314
+                    ],
+                    [
+                        110.99959048781,
+                        -7.530503463464
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99959048781,
+                        -7.530503463464
+                    ],
+                    [
+                        110.99941661469,
+                        -7.5302561606932
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99941661469,
+                        -7.5302561606932
+                    ],
+                    [
+                        110.99921122482,
+                        -7.5300746127531
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99921122482,
+                        -7.5300746127531
+                    ],
+                    [
+                        110.99894367111,
+                        -7.5298187529331
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99894367111,
+                        -7.5298187529331
+                    ],
+                    [
+                        110.99880656407,
+                        -7.5297409678713
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99880656407,
+                        -7.5297409678713
+                    ],
+                    [
+                        110.99878732038,
+                        -7.5297300501017
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99878732038,
+                        -7.5297300501017
+                    ],
+                    [
+                        110.99827748482,
+                        -7.5295337820583
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99827748482,
+                        -7.5295337820583
+                    ],
+                    [
+                        110.99821646402,
+                        -7.5294166210801
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99821646402,
+                        -7.5294166210801
+                    ],
+                    [
+                        110.99806774493,
+                        -7.5292817488536
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99806774493,
+                        -7.5292817488536
+                    ],
+                    [
+                        110.99765869819,
+                        -7.5290164524472
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99765869819,
+                        -7.5290164524472
+                    ],
+                    [
+                        110.99739452594,
+                        -7.5289255687599
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99739452594,
+                        -7.5289255687599
+                    ],
+                    [
+                        110.99713904743,
+                        -7.5287997590016
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99713904743,
+                        -7.5287997590016
+                    ],
+                    [
+                        110.99686181612,
+                        -7.5285004052694
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99686181612,
+                        -7.5285004052694
+                    ],
+                    [
+                        110.9966738776,
+                        -7.5282122427008
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9966738776,
+                        -7.5282122427008
+                    ],
+                    [
+                        110.99648751828,
+                        -7.5277721927325
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99648751828,
+                        -7.5277721927325
+                    ],
+                    [
+                        110.99635542137,
+                        -7.5268821705757
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99635542137,
+                        -7.5268821705757
+                    ],
+                    [
+                        110.99618483976,
+                        -7.5258544810994
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99618483976,
+                        -7.5258544810994
+                    ],
+                    [
+                        110.99602526495,
+                        -7.5255355716093
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99602526495,
+                        -7.5255355716093
+                    ],
+                    [
+                        110.99591786432,
+                        -7.5253679163962
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99591786432,
+                        -7.5253679163962
+                    ],
+                    [
+                        110.99571872384,
+                        -7.5250661569775
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99571872384,
+                        -7.5250661569775
+                    ],
+                    [
+                        110.99565710589,
+                        -7.5249931572084
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99565710589,
+                        -7.5249931572084
+                    ],
+                    [
+                        110.99558234435,
+                        -7.5249483889569
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99558234435,
+                        -7.5249483889569
+                    ],
+                    [
+                        110.99477021697,
+                        -7.5244208403495
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99477021697,
+                        -7.5244208403495
+                    ],
+                    [
+                        110.99467741953,
+                        -7.5241879114429
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99467741953,
+                        -7.5241879114429
+                    ],
+                    [
+                        110.99438720021,
+                        -7.5233952004281
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99438720021,
+                        -7.5233952004281
+                    ],
+                    [
+                        110.99429344948,
+                        -7.5233615316093
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99429344948,
+                        -7.5233615316093
+                    ],
+                    [
+                        110.9941408795,
+                        -7.5234023077703
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9941408795,
+                        -7.5234023077703
+                    ],
+                    [
+                        110.99398365732,
+                        -7.5235275167814
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99398365732,
+                        -7.5235275167814
+                    ],
+                    [
+                        110.99365691563,
+                        -7.5237346423398
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99365691563,
+                        -7.5237346423398
+                    ],
+                    [
+                        110.99327606983,
+                        -7.5237846230619
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99327606983,
+                        -7.5237846230619
+                    ],
+                    [
+                        110.99309056128,
+                        -7.5237348500832
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99309056128,
+                        -7.5237348500832
+                    ],
+                    [
+                        110.99270918758,
+                        -7.5234366151076
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99270918758,
+                        -7.5234366151076
+                    ],
+                    [
+                        110.99249934607,
+                        -7.5231275720797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99249934607,
+                        -7.5231275720797
+                    ],
+                    [
+                        110.99243652483,
+                        -7.5229539552608
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99243652483,
+                        -7.5229539552608
+                    ],
+                    [
+                        110.99245242574,
+                        -7.5227986135651
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99245242574,
+                        -7.5227986135651
+                    ],
+                    [
+                        110.9925221178,
+                        -7.5224432788342
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9925221178,
+                        -7.5224432788342
+                    ],
+                    [
+                        110.99260441926,
+                        -7.5220236659593
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99260441926,
+                        -7.5220236659593
+                    ],
+                    [
+                        110.99272040842,
+                        -7.5213009024146
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99272040842,
+                        -7.5213009024146
+                    ],
+                    [
+                        110.99268912101,
+                        -7.5211520268445
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99268912101,
+                        -7.5211520268445
+                    ],
+                    [
+                        110.99252816304,
+                        -7.5208973775119
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99252816304,
+                        -7.5208973775119
+                    ],
+                    [
+                        110.99230182347,
+                        -7.5207232336902
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99230182347,
+                        -7.5207232336902
+                    ],
+                    [
+                        110.9910655938,
+                        -7.5198076438077
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9910655938,
+                        -7.5198076438077
+                    ],
+                    [
+                        110.99093581534,
+                        -7.5196595443525
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99093581534,
+                        -7.5196595443525
+                    ],
+                    [
+                        110.99087469741,
+                        -7.5195897911359
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99087469741,
+                        -7.5195897911359
+                    ],
+                    [
+                        110.99058795463,
+                        -7.5191340147366
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "121",
+                "NAMA_SUNGAI": "Kali Jamplang ",
+                "FOTO": "sungai-121_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99058795463,
+                        -7.5191340147366
+                    ],
+                    [
+                        110.99040809433,
+                        -7.5188037269411
+                    ]
+                ]
+            }
+        }
+    ]
+}

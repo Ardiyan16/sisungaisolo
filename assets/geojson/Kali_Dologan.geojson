@@ -1,0 +1,2063 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.962196338,
+                        -7.86711020666
+                    ],
+                    [
+                        110.96200194,
+                        -7.86705110319
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96200194,
+                        -7.86705110319
+                    ],
+                    [
+                        110.961808092,
+                        -7.86702949372
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.961808092,
+                        -7.86702949372
+                    ],
+                    [
+                        110.961534967,
+                        -7.8671079485
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.961534967,
+                        -7.8671079485
+                    ],
+                    [
+                        110.961300088,
+                        -7.86719170735
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.961300088,
+                        -7.86719170735
+                    ],
+                    [
+                        110.960849089,
+                        -7.867160621
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.960849089,
+                        -7.867160621
+                    ],
+                    [
+                        110.96055181,
+                        -7.86710273745
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96055181,
+                        -7.86710273745
+                    ],
+                    [
+                        110.960215789,
+                        -7.86711827323
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.960215789,
+                        -7.86711827323
+                    ],
+                    [
+                        110.959891065,
+                        -7.86719352894
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959891065,
+                        -7.86719352894
+                    ],
+                    [
+                        110.959369883,
+                        -7.86741043776
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959369883,
+                        -7.86741043776
+                    ],
+                    [
+                        110.959118245,
+                        -7.86751516148
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959118245,
+                        -7.86751516148
+                    ],
+                    [
+                        110.958891987,
+                        -7.86764796511
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958891987,
+                        -7.86764796511
+                    ],
+                    [
+                        110.958605071,
+                        -7.86792343904
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958605071,
+                        -7.86792343904
+                    ],
+                    [
+                        110.958496112,
+                        -7.86801809057
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958496112,
+                        -7.86801809057
+                    ],
+                    [
+                        110.958405312,
+                        -7.86804763359
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958405312,
+                        -7.86804763359
+                    ],
+                    [
+                        110.958023734,
+                        -7.86858579124
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958023734,
+                        -7.86858579124
+                    ],
+                    [
+                        110.957900093,
+                        -7.86872217759
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957900093,
+                        -7.86872217759
+                    ],
+                    [
+                        110.957473767,
+                        -7.86886531755
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957473767,
+                        -7.86886531755
+                    ],
+                    [
+                        110.956580433,
+                        -7.86947539759
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956580433,
+                        -7.86947539759
+                    ],
+                    [
+                        110.956388567,
+                        -7.86957117068
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956388567,
+                        -7.86957117068
+                    ],
+                    [
+                        110.956125191,
+                        -7.86965299694
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956125191,
+                        -7.86965299694
+                    ],
+                    [
+                        110.956074061,
+                        -7.86967517142
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956074061,
+                        -7.86967517142
+                    ],
+                    [
+                        110.95601418,
+                        -7.86967649485
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95601418,
+                        -7.86967649485
+                    ],
+                    [
+                        110.955893921,
+                        -7.86972207209
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955893921,
+                        -7.86972207209
+                    ],
+                    [
+                        110.95574913,
+                        -7.86997332575
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95574913,
+                        -7.86997332575
+                    ],
+                    [
+                        110.955661317,
+                        -7.87013630024
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955661317,
+                        -7.87013630024
+                    ],
+                    [
+                        110.955530754,
+                        -7.87026003938
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955530754,
+                        -7.87026003938
+                    ],
+                    [
+                        110.955342265,
+                        -7.87024929128
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955342265,
+                        -7.87024929128
+                    ],
+                    [
+                        110.955139297,
+                        -7.87015752003
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955139297,
+                        -7.87015752003
+                    ],
+                    [
+                        110.954992693,
+                        -7.87005306374
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954992693,
+                        -7.87005306374
+                    ],
+                    [
+                        110.954903912,
+                        -7.87002201873
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954903912,
+                        -7.87002201873
+                    ],
+                    [
+                        110.954663013,
+                        -7.87012635195
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954663013,
+                        -7.87012635195
+                    ],
+                    [
+                        110.954014926,
+                        -7.87062809555
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954014926,
+                        -7.87062809555
+                    ],
+                    [
+                        110.953791174,
+                        -7.87079009589
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953791174,
+                        -7.87079009589
+                    ],
+                    [
+                        110.953639263,
+                        -7.87085045856
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953639263,
+                        -7.87085045856
+                    ],
+                    [
+                        110.953594494,
+                        -7.87085612521
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953594494,
+                        -7.87085612521
+                    ],
+                    [
+                        110.953398281,
+                        -7.87087607616
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953398281,
+                        -7.87087607616
+                    ],
+                    [
+                        110.953150853,
+                        -7.87094929089
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953150853,
+                        -7.87094929089
+                    ],
+                    [
+                        110.953067047,
+                        -7.87105160543
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953067047,
+                        -7.87105160543
+                    ],
+                    [
+                        110.952929047,
+                        -7.87122780744
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952929047,
+                        -7.87122780744
+                    ],
+                    [
+                        110.952822624,
+                        -7.8712576279
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952822624,
+                        -7.8712576279
+                    ],
+                    [
+                        110.952645007,
+                        -7.87120795656
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952645007,
+                        -7.87120795656
+                    ],
+                    [
+                        110.952616187,
+                        -7.87119990272
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952616187,
+                        -7.87119990272
+                    ],
+                    [
+                        110.952584608,
+                        -7.87112585181
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952584608,
+                        -7.87112585181
+                    ],
+                    [
+                        110.95259258,
+                        -7.87090373783
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95259258,
+                        -7.87090373783
+                    ],
+                    [
+                        110.95255477,
+                        -7.87074402432
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95255477,
+                        -7.87074402432
+                    ],
+                    [
+                        110.952452812,
+                        -7.87060073941
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952452812,
+                        -7.87060073941
+                    ],
+                    [
+                        110.952258487,
+                        -7.8704503703
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952258487,
+                        -7.8704503703
+                    ],
+                    [
+                        110.952075365,
+                        -7.87039194194
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952075365,
+                        -7.87039194194
+                    ],
+                    [
+                        110.951684372,
+                        -7.8703586545
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.951684372,
+                        -7.8703586545
+                    ],
+                    [
+                        110.951439172,
+                        -7.87030449728
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.951439172,
+                        -7.87030449728
+                    ],
+                    [
+                        110.951378723,
+                        -7.87026932096
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.951378723,
+                        -7.87026932096
+                    ],
+                    [
+                        110.95132098,
+                        -7.87021161234
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95132098,
+                        -7.87021161234
+                    ],
+                    [
+                        110.951233011,
+                        -7.87006789457
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.951233011,
+                        -7.87006789457
+                    ],
+                    [
+                        110.950838757,
+                        -7.86915415176
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.950838757,
+                        -7.86915415176
+                    ],
+                    [
+                        110.950700935,
+                        -7.86882437797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.950700935,
+                        -7.86882437797
+                    ],
+                    [
+                        110.950566065,
+                        -7.86869311034
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.950566065,
+                        -7.86869311034
+                    ],
+                    [
+                        110.950534263,
+                        -7.8686680593
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.950534263,
+                        -7.8686680593
+                    ],
+                    [
+                        110.950226873,
+                        -7.86842594441
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.950226873,
+                        -7.86842594441
+                    ],
+                    [
+                        110.950041677,
+                        -7.86826903538
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.950041677,
+                        -7.86826903538
+                    ],
+                    [
+                        110.949784175,
+                        -7.86823844859
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949784175,
+                        -7.86823844859
+                    ],
+                    [
+                        110.949205757,
+                        -7.868128502
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949205757,
+                        -7.868128502
+                    ],
+                    [
+                        110.94884623,
+                        -7.86799835536
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94884623,
+                        -7.86799835536
+                    ],
+                    [
+                        110.94790908,
+                        -7.86764608555
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94790908,
+                        -7.86764608555
+                    ],
+                    [
+                        110.947609794,
+                        -7.8676224845
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947609794,
+                        -7.8676224845
+                    ],
+                    [
+                        110.947242987,
+                        -7.86767371811
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947242987,
+                        -7.86767371811
+                    ],
+                    [
+                        110.946962311,
+                        -7.86782636355
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946962311,
+                        -7.86782636355
+                    ],
+                    [
+                        110.946518216,
+                        -7.86808281349
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946518216,
+                        -7.86808281349
+                    ],
+                    [
+                        110.946393956,
+                        -7.86813393246
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946393956,
+                        -7.86813393246
+                    ],
+                    [
+                        110.946130865,
+                        -7.86811014501
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946130865,
+                        -7.86811014501
+                    ],
+                    [
+                        110.945717436,
+                        -7.8681118466
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945717436,
+                        -7.8681118466
+                    ],
+                    [
+                        110.944738942,
+                        -7.86836262597
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944738942,
+                        -7.86836262597
+                    ],
+                    [
+                        110.944610977,
+                        -7.86837250499
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944610977,
+                        -7.86837250499
+                    ],
+                    [
+                        110.943151335,
+                        -7.86848522615
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943151335,
+                        -7.86848522615
+                    ],
+                    [
+                        110.943086252,
+                        -7.86857617995
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943086252,
+                        -7.86857617995
+                    ],
+                    [
+                        110.942983472,
+                        -7.86883231949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.942983472,
+                        -7.86883231949
+                    ],
+                    [
+                        110.942895565,
+                        -7.86892182286
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.942895565,
+                        -7.86892182286
+                    ],
+                    [
+                        110.942722807,
+                        -7.86897261754
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.942722807,
+                        -7.86897261754
+                    ],
+                    [
+                        110.942171597,
+                        -7.86904953815
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.942171597,
+                        -7.86904953815
+                    ],
+                    [
+                        110.941921928,
+                        -7.86898822874
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.941921928,
+                        -7.86898822874
+                    ],
+                    [
+                        110.941509867,
+                        -7.86880931274
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.941509867,
+                        -7.86880931274
+                    ],
+                    [
+                        110.941354621,
+                        -7.86883673545
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.941354621,
+                        -7.86883673545
+                    ],
+                    [
+                        110.94079184,
+                        -7.86900457002
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94079184,
+                        -7.86900457002
+                    ],
+                    [
+                        110.940682058,
+                        -7.86898622812
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940682058,
+                        -7.86898622812
+                    ],
+                    [
+                        110.940632728,
+                        -7.8689779806
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940632728,
+                        -7.8689779806
+                    ],
+                    [
+                        110.940453296,
+                        -7.8688846588
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940453296,
+                        -7.8688846588
+                    ],
+                    [
+                        110.940322427,
+                        -7.86884037101
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940322427,
+                        -7.86884037101
+                    ],
+                    [
+                        110.940123548,
+                        -7.8688531965
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940123548,
+                        -7.8688531965
+                    ],
+                    [
+                        110.939893294,
+                        -7.86897413952
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.939893294,
+                        -7.86897413952
+                    ],
+                    [
+                        110.939667977,
+                        -7.86920229165
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.939667977,
+                        -7.86920229165
+                    ],
+                    [
+                        110.939512836,
+                        -7.86931249002
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.939512836,
+                        -7.86931249002
+                    ],
+                    [
+                        110.939324048,
+                        -7.86936983
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.939324048,
+                        -7.86936983
+                    ],
+                    [
+                        110.939151735,
+                        -7.86935450894
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.939151735,
+                        -7.86935450894
+                    ],
+                    [
+                        110.93897585,
+                        -7.86925831956
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93897585,
+                        -7.86925831956
+                    ],
+                    [
+                        110.938244594,
+                        -7.8687889718
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.938244594,
+                        -7.8687889718
+                    ],
+                    [
+                        110.9381214,
+                        -7.868803897
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9381214,
+                        -7.868803897
+                    ],
+                    [
+                        110.937919223,
+                        -7.86891079525
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.937919223,
+                        -7.86891079525
+                    ],
+                    [
+                        110.937902079,
+                        -7.86908749862
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "115",
+                "NAMA_SUNGAI": "Kali Dologan",
+                "FOTO": "sungai-115_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.937902079,
+                        -7.86908749862
+                    ],
+                    [
+                        110.937915228,
+                        -7.86930298498
+                    ]
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,5885 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97182424969,
+                        -7.7853885074736
+                    ],
+                    [
+                        110.97218736535,
+                        -7.7855675993651
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97218736535,
+                        -7.7855675993651
+                    ],
+                    [
+                        110.97249326076,
+                        -7.785598581909
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97249326076,
+                        -7.785598581909
+                    ],
+                    [
+                        110.97271869471,
+                        -7.7855385341759
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97271869471,
+                        -7.7855385341759
+                    ],
+                    [
+                        110.97292835996,
+                        -7.7854072403518
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97292835996,
+                        -7.7854072403518
+                    ],
+                    [
+                        110.97291107768,
+                        -7.7853417670089
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97291107768,
+                        -7.7853417670089
+                    ],
+                    [
+                        110.97281603643,
+                        -7.7851794456748
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97281603643,
+                        -7.7851794456748
+                    ],
+                    [
+                        110.97260307247,
+                        -7.7849768275185
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97260307247,
+                        -7.7849768275185
+                    ],
+                    [
+                        110.9724597754,
+                        -7.7847547660196
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9724597754,
+                        -7.7847547660196
+                    ],
+                    [
+                        110.97250641784,
+                        -7.7846643580736
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97250641784,
+                        -7.7846643580736
+                    ],
+                    [
+                        110.97266629931,
+                        -7.7845451196615
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97266629931,
+                        -7.7845451196615
+                    ],
+                    [
+                        110.97306357482,
+                        -7.7842427487038
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97306357482,
+                        -7.7842427487038
+                    ],
+                    [
+                        110.97307719146,
+                        -7.7840569973325
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97307719146,
+                        -7.7840569973325
+                    ],
+                    [
+                        110.97303750258,
+                        -7.7836127268458
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97303750258,
+                        -7.7836127268458
+                    ],
+                    [
+                        110.97310588163,
+                        -7.7834406739479
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97310588163,
+                        -7.7834406739479
+                    ],
+                    [
+                        110.97319852979,
+                        -7.7834381567455
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97319852979,
+                        -7.7834381567455
+                    ],
+                    [
+                        110.97338087363,
+                        -7.7834881176824
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97338087363,
+                        -7.7834881176824
+                    ],
+                    [
+                        110.9737136102,
+                        -7.7837231447073
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9737136102,
+                        -7.7837231447073
+                    ],
+                    [
+                        110.97377441426,
+                        -7.7837219719914
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97377441426,
+                        -7.7837219719914
+                    ],
+                    [
+                        110.97399839491,
+                        -7.7836634701929
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97399839491,
+                        -7.7836634701929
+                    ],
+                    [
+                        110.97433572072,
+                        -7.783473866126
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97433572072,
+                        -7.783473866126
+                    ],
+                    [
+                        110.97451418218,
+                        -7.7835330172349
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97451418218,
+                        -7.7835330172349
+                    ],
+                    [
+                        110.9747570432,
+                        -7.7836834612227
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9747570432,
+                        -7.7836834612227
+                    ],
+                    [
+                        110.97480036085,
+                        -7.7838351138993
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97480036085,
+                        -7.7838351138993
+                    ],
+                    [
+                        110.9748944749,
+                        -7.7840308855169
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9748944749,
+                        -7.7840308855169
+                    ],
+                    [
+                        110.97518719343,
+                        -7.7841747923327
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97518719343,
+                        -7.7841747923327
+                    ],
+                    [
+                        110.97537055621,
+                        -7.7841777421091
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97537055621,
+                        -7.7841777421091
+                    ],
+                    [
+                        110.97565870529,
+                        -7.7841331276417
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97565870529,
+                        -7.7841331276417
+                    ],
+                    [
+                        110.97618859303,
+                        -7.7840559891925
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97618859303,
+                        -7.7840559891925
+                    ],
+                    [
+                        110.97620506411,
+                        -7.7840535933986
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97620506411,
+                        -7.7840535933986
+                    ],
+                    [
+                        110.97636080511,
+                        -7.7841480384012
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97636080511,
+                        -7.7841480384012
+                    ],
+                    [
+                        110.9764544695,
+                        -7.7842866769885
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9764544695,
+                        -7.7842866769885
+                    ],
+                    [
+                        110.97643732662,
+                        -7.7844709813506
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97643732662,
+                        -7.7844709813506
+                    ],
+                    [
+                        110.97645079037,
+                        -7.7847183713557
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97645079037,
+                        -7.7847183713557
+                    ],
+                    [
+                        110.97652512294,
+                        -7.7847765574921
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97652512294,
+                        -7.7847765574921
+                    ],
+                    [
+                        110.97668479397,
+                        -7.7848211971405
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97668479397,
+                        -7.7848211971405
+                    ],
+                    [
+                        110.97676252057,
+                        -7.7848459959459
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97676252057,
+                        -7.7848459959459
+                    ],
+                    [
+                        110.97682511159,
+                        -7.7848379218326
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97682511159,
+                        -7.7848379218326
+                    ],
+                    [
+                        110.97741416753,
+                        -7.7848357095003
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97741416753,
+                        -7.7848357095003
+                    ],
+                    [
+                        110.97758896516,
+                        -7.7849106356173
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97758896516,
+                        -7.7849106356173
+                    ],
+                    [
+                        110.97763622093,
+                        -7.7850324550837
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97763622093,
+                        -7.7850324550837
+                    ],
+                    [
+                        110.9777861667,
+                        -7.7854832348634
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9777861667,
+                        -7.7854832348634
+                    ],
+                    [
+                        110.9779509252,
+                        -7.7855431261143
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9779509252,
+                        -7.7855431261143
+                    ],
+                    [
+                        110.97827653733,
+                        -7.7855921607496
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97827653733,
+                        -7.7855921607496
+                    ],
+                    [
+                        110.9783364115,
+                        -7.7855208660951
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9783364115,
+                        -7.7855208660951
+                    ],
+                    [
+                        110.97842722953,
+                        -7.7852965203181
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97842722953,
+                        -7.7852965203181
+                    ],
+                    [
+                        110.97852892937,
+                        -7.7851153051272
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97852892937,
+                        -7.7851153051272
+                    ],
+                    [
+                        110.97868972185,
+                        -7.7850525998975
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97868972185,
+                        -7.7850525998975
+                    ],
+                    [
+                        110.97890789468,
+                        -7.785065681436
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97890789468,
+                        -7.785065681436
+                    ],
+                    [
+                        110.97908494871,
+                        -7.7851890639241
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97908494871,
+                        -7.7851890639241
+                    ],
+                    [
+                        110.97918510711,
+                        -7.7853646178827
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97918510711,
+                        -7.7853646178827
+                    ],
+                    [
+                        110.9794896805,
+                        -7.7859087194118
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9794896805,
+                        -7.7859087194118
+                    ],
+                    [
+                        110.97965872157,
+                        -7.7859509884473
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97965872157,
+                        -7.7859509884473
+                    ],
+                    [
+                        110.9798749114,
+                        -7.7859110261729
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9798749114,
+                        -7.7859110261729
+                    ],
+                    [
+                        110.98007049865,
+                        -7.7857973950337
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98007049865,
+                        -7.7857973950337
+                    ],
+                    [
+                        110.98025182446,
+                        -7.7857391945082
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98025182446,
+                        -7.7857391945082
+                    ],
+                    [
+                        110.98039980701,
+                        -7.7857452082747
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98039980701,
+                        -7.7857452082747
+                    ],
+                    [
+                        110.98054888223,
+                        -7.7858581046677
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98054888223,
+                        -7.7858581046677
+                    ],
+                    [
+                        110.98064439832,
+                        -7.7860205779872
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98064439832,
+                        -7.7860205779872
+                    ],
+                    [
+                        110.98077040233,
+                        -7.7862884617431
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98077040233,
+                        -7.7862884617431
+                    ],
+                    [
+                        110.98087154549,
+                        -7.7863562814172
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98087154549,
+                        -7.7863562814172
+                    ],
+                    [
+                        110.98104197601,
+                        -7.7863682648835
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98104197601,
+                        -7.7863682648835
+                    ],
+                    [
+                        110.98120544577,
+                        -7.7862661927306
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98120544577,
+                        -7.7862661927306
+                    ],
+                    [
+                        110.98123610636,
+                        -7.7861595187467
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98123610636,
+                        -7.7861595187467
+                    ],
+                    [
+                        110.98129898156,
+                        -7.7858809330586
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98129898156,
+                        -7.7858809330586
+                    ],
+                    [
+                        110.98138882473,
+                        -7.7857260940839
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98138882473,
+                        -7.7857260940839
+                    ],
+                    [
+                        110.98156004126,
+                        -7.7855973093683
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98156004126,
+                        -7.7855973093683
+                    ],
+                    [
+                        110.98167271462,
+                        -7.7856084132976
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98167271462,
+                        -7.7856084132976
+                    ],
+                    [
+                        110.98187189287,
+                        -7.7857104386857
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98187189287,
+                        -7.7857104386857
+                    ],
+                    [
+                        110.98208437749,
+                        -7.7857608411898
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98208437749,
+                        -7.7857608411898
+                    ],
+                    [
+                        110.98225810223,
+                        -7.7857355927234
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98225810223,
+                        -7.7857355927234
+                    ],
+                    [
+                        110.98248568557,
+                        -7.7856330160507
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98248568557,
+                        -7.7856330160507
+                    ],
+                    [
+                        110.98257701352,
+                        -7.7855261720951
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98257701352,
+                        -7.7855261720951
+                    ],
+                    [
+                        110.98280080621,
+                        -7.7852083624759
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98280080621,
+                        -7.7852083624759
+                    ],
+                    [
+                        110.98295168547,
+                        -7.7851178672957
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98295168547,
+                        -7.7851178672957
+                    ],
+                    [
+                        110.98338464159,
+                        -7.7851093093471
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98338464159,
+                        -7.7851093093471
+                    ],
+                    [
+                        110.9835485853,
+                        -7.7851641500055
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9835485853,
+                        -7.7851641500055
+                    ],
+                    [
+                        110.98350342225,
+                        -7.7852817957183
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98350342225,
+                        -7.7852817957183
+                    ],
+                    [
+                        110.98342427471,
+                        -7.7856065858752
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98342427471,
+                        -7.7856065858752
+                    ],
+                    [
+                        110.98347663954,
+                        -7.7857231595961
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98347663954,
+                        -7.7857231595961
+                    ],
+                    [
+                        110.98358499345,
+                        -7.7857959714069
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98358499345,
+                        -7.7857959714069
+                    ],
+                    [
+                        110.98373534391,
+                        -7.7857834132738
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98373534391,
+                        -7.7857834132738
+                    ],
+                    [
+                        110.98385980469,
+                        -7.7856723371086
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98385980469,
+                        -7.7856723371086
+                    ],
+                    [
+                        110.98387549965,
+                        -7.7855504385019
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98387549965,
+                        -7.7855504385019
+                    ],
+                    [
+                        110.98397138267,
+                        -7.7851661294133
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98397138267,
+                        -7.7851661294133
+                    ],
+                    [
+                        110.98405917899,
+                        -7.7851412208906
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98405917899,
+                        -7.7851412208906
+                    ],
+                    [
+                        110.9841895645,
+                        -7.7851960516564
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9841895645,
+                        -7.7851960516564
+                    ],
+                    [
+                        110.98442604393,
+                        -7.7853532648412
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98442604393,
+                        -7.7853532648412
+                    ],
+                    [
+                        110.98488445445,
+                        -7.7857150252281
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98488445445,
+                        -7.7857150252281
+                    ],
+                    [
+                        110.98508166679,
+                        -7.7857707265377
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98508166679,
+                        -7.7857707265377
+                    ],
+                    [
+                        110.98522051761,
+                        -7.7857239114293
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98522051761,
+                        -7.7857239114293
+                    ],
+                    [
+                        110.9852700154,
+                        -7.7856362518115
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9852700154,
+                        -7.7856362518115
+                    ],
+                    [
+                        110.98525607861,
+                        -7.7855177166692
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98525607861,
+                        -7.7855177166692
+                    ],
+                    [
+                        110.98516802239,
+                        -7.7854512639646
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98516802239,
+                        -7.7854512639646
+                    ],
+                    [
+                        110.98508292404,
+                        -7.7853468202995
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98508292404,
+                        -7.7853468202995
+                    ],
+                    [
+                        110.98505547403,
+                        -7.7852249747527
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98505547403,
+                        -7.7852249747527
+                    ],
+                    [
+                        110.985098896,
+                        -7.7850849494108
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.985098896,
+                        -7.7850849494108
+                    ],
+                    [
+                        110.98520052478,
+                        -7.7850492229433
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98520052478,
+                        -7.7850492229433
+                    ],
+                    [
+                        110.98545503832,
+                        -7.7851168114916
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98545503832,
+                        -7.7851168114916
+                    ],
+                    [
+                        110.98556972256,
+                        -7.7852168421834
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98556972256,
+                        -7.7852168421834
+                    ],
+                    [
+                        110.98570410286,
+                        -7.7854213956808
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98570410286,
+                        -7.7854213956808
+                    ],
+                    [
+                        110.98581350629,
+                        -7.7855776178127
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98581350629,
+                        -7.7855776178127
+                    ],
+                    [
+                        110.98602456818,
+                        -7.7856331203721
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98602456818,
+                        -7.7856331203721
+                    ],
+                    [
+                        110.98611356329,
+                        -7.7855685004859
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98611356329,
+                        -7.7855685004859
+                    ],
+                    [
+                        110.98613354802,
+                        -7.7854361274752
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98613354802,
+                        -7.7854361274752
+                    ],
+                    [
+                        110.98618926013,
+                        -7.7849937788397
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98618926013,
+                        -7.7849937788397
+                    ],
+                    [
+                        110.98628238582,
+                        -7.7848270346399
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98628238582,
+                        -7.7848270346399
+                    ],
+                    [
+                        110.9864666713,
+                        -7.784652613827
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9864666713,
+                        -7.784652613827
+                    ],
+                    [
+                        110.98663668184,
+                        -7.7847116866949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98663668184,
+                        -7.7847116866949
+                    ],
+                    [
+                        110.98687745283,
+                        -7.7848667909696
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98687745283,
+                        -7.7848667909696
+                    ],
+                    [
+                        110.98703551947,
+                        -7.784919450772
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98703551947,
+                        -7.784919450772
+                    ],
+                    [
+                        110.98716008457,
+                        -7.7848970207808
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98716008457,
+                        -7.7848970207808
+                    ],
+                    [
+                        110.98721508711,
+                        -7.7847846037264
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98721508711,
+                        -7.7847846037264
+                    ],
+                    [
+                        110.98819986726,
+                        -7.7852173429059
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98819986726,
+                        -7.7852173429059
+                    ],
+                    [
+                        110.98857179321,
+                        -7.786354185809
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98857179321,
+                        -7.786354185809
+                    ],
+                    [
+                        110.9893757251,
+                        -7.7854327738813
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9893757251,
+                        -7.7854327738813
+                    ],
+                    [
+                        110.99056358677,
+                        -7.7854687019574
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99056358677,
+                        -7.7854687019574
+                    ],
+                    [
+                        110.99208742239,
+                        -7.7848345001114
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99208742239,
+                        -7.7848345001114
+                    ],
+                    [
+                        110.99284334679,
+                        -7.7840686472316
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99284334679,
+                        -7.7840686472316
+                    ],
+                    [
+                        110.99393521858,
+                        -7.7839489976352
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99393521858,
+                        -7.7839489976352
+                    ],
+                    [
+                        110.995123078,
+                        -7.7838532796645
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.995123078,
+                        -7.7838532796645
+                    ],
+                    [
+                        110.99608296584,
+                        -7.7835780563989
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99608296584,
+                        -7.7835780563989
+                    ],
+                    [
+                        110.99658690529,
+                        -7.7835780607531
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99658690529,
+                        -7.7835780607531
+                    ],
+                    [
+                        110.99699486036,
+                        -7.7830036640726
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99699486036,
+                        -7.7830036640726
+                    ],
+                    [
+                        110.99752279811,
+                        -7.7826805676083
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99752279811,
+                        -7.7826805676083
+                    ],
+                    [
+                        110.99818271602,
+                        -7.7830036708243
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99818271602,
+                        -7.7830036708243
+                    ],
+                    [
+                        110.99855467184,
+                        -7.782704505703
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99855467184,
+                        -7.782704505703
+                    ],
+                    [
+                        110.99937057285,
+                        -7.7822138745442
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99937057285,
+                        -7.7822138745442
+                    ],
+                    [
+                        110.99991050627,
+                        -7.7820104417395
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99991050627,
+                        -7.7820104417395
+                    ],
+                    [
+                        111.000090484,
+                        -7.7820942083769
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.000090484,
+                        -7.7820942083769
+                    ],
+                    [
+                        111.00015047671,
+                        -7.7824532082317
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00015047671,
+                        -7.7824532082317
+                    ],
+                    [
+                        111.00048643584,
+                        -7.7828002411832
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00048643584,
+                        -7.7828002411832
+                    ],
+                    [
+                        111.00088238784,
+                        -7.7829438404891
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00088238784,
+                        -7.7829438404891
+                    ],
+                    [
+                        111.00129033912,
+                        -7.7832430059926
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00129033912,
+                        -7.7832430059926
+                    ],
+                    [
+                        111.00195025897,
+                        -7.7831712035008
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00195025897,
+                        -7.7831712035008
+                    ],
+                    [
+                        111.0026101783,
+                        -7.7830515333345
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0026101783,
+                        -7.7830515333345
+                    ],
+                    [
+                        111.00298213188,
+                        -7.782872030953
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00298213188,
+                        -7.782872030953
+                    ],
+                    [
+                        111.00345007516,
+                        -7.7829079273915
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00345007516,
+                        -7.7829079273915
+                    ],
+                    [
+                        111.00415798603,
+                        -7.7826087544913
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00415798603,
+                        -7.7826087544913
+                    ],
+                    [
+                        111.00448194242,
+                        -7.782237784662
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00448194242,
+                        -7.782237784662
+                    ],
+                    [
+                        111.00448194013,
+                        -7.7820223847381
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00448194013,
+                        -7.7820223847381
+                    ],
+                    [
+                        111.00433795292,
+                        -7.7815317530665
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00433795292,
+                        -7.7815317530665
+                    ],
+                    [
+                        111.00450593077,
+                        -7.7814240513506
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00450593077,
+                        -7.7814240513506
+                    ],
+                    [
+                        111.0057405842,
+                        -7.7820187795762
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0057405842,
+                        -7.7820187795762
+                    ],
+                    [
+                        111.00641249429,
+                        -7.7815783967697
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00641249429,
+                        -7.7815783967697
+                    ],
+                    [
+                        111.00683484433,
+                        -7.7817507101186
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00683484433,
+                        -7.7817507101186
+                    ],
+                    [
+                        111.00716119915,
+                        -7.7814826514919
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00716119915,
+                        -7.7814826514919
+                    ],
+                    [
+                        111.00785231409,
+                        -7.7815592259059
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00785231409,
+                        -7.7815592259059
+                    ],
+                    [
+                        111.00827465456,
+                        -7.7812145779918
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00827465456,
+                        -7.7812145779918
+                    ],
+                    [
+                        111.00831304219,
+                        -7.7808316440262
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00831304219,
+                        -7.7808316440262
+                    ],
+                    [
+                        111.00879298658,
+                        -7.7810805409427
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00879298658,
+                        -7.7810805409427
+                    ],
+                    [
+                        111.00919614409,
+                        -7.7814634656066
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00919614409,
+                        -7.7814634656066
+                    ],
+                    [
+                        111.00984885792,
+                        -7.7812719843541
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00984885792,
+                        -7.7812719843541
+                    ],
+                    [
+                        111.01013681024,
+                        -7.7807933110562
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01013681024,
+                        -7.7807933110562
+                    ],
+                    [
+                        111.01055916101,
+                        -7.7809656207035
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01055916101,
+                        -7.7809656207035
+                    ],
+                    [
+                        111.01067435953,
+                        -7.7814825776535
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01067435953,
+                        -7.7814825776535
+                    ],
+                    [
+                        111.01148065082,
+                        -7.7811953566986
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01148065082,
+                        -7.7811953566986
+                    ],
+                    [
+                        111.01171102077,
+                        -7.7811570570821
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01171102077,
+                        -7.7811570570821
+                    ],
+                    [
+                        111.0117686258,
+                        -7.781597428674
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0117686258,
+                        -7.781597428674
+                    ],
+                    [
+                        111.0122677785,
+                        -7.7821143743495
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0122677785,
+                        -7.7821143743495
+                    ],
+                    [
+                        111.01355400777,
+                        -7.7817505486753
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01355400777,
+                        -7.7817505486753
+                    ],
+                    [
+                        111.01378438846,
+                        -7.7820377411477
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01378438846,
+                        -7.7820377411477
+                    ],
+                    [
+                        111.01330446782,
+                        -7.7826695962243
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01330446782,
+                        -7.7826695962243
+                    ],
+                    [
+                        111.01403398749,
+                        -7.7829376259418
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01403398749,
+                        -7.7829376259418
+                    ],
+                    [
+                        111.01436037123,
+                        -7.7836268947191
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01436037123,
+                        -7.7836268947191
+                    ],
+                    [
+                        111.01560821147,
+                        -7.7833587974267
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01560821147,
+                        -7.7833587974267
+                    ],
+                    [
+                        111.01662564037,
+                        -7.7821333726189
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01662564037,
+                        -7.7821333726189
+                    ],
+                    [
+                        111.01741274386,
+                        -7.7821524877037
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01741274386,
+                        -7.7821524877037
+                    ],
+                    [
+                        111.01795027906,
+                        -7.7821907586195
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01795027906,
+                        -7.7821907586195
+                    ],
+                    [
+                        111.01806541566,
+                        -7.7810419541625
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01806541566,
+                        -7.7810419541625
+                    ],
+                    [
+                        111.01902530054,
+                        -7.781175938829
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01902530054,
+                        -7.781175938829
+                    ],
+                    [
+                        111.01981236549,
+                        -7.7804100364068
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01981236549,
+                        -7.7804100364068
+                    ],
+                    [
+                        111.02025390267,
+                        -7.7802759889397
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02025390267,
+                        -7.7802759889397
+                    ],
+                    [
+                        111.02048428896,
+                        -7.7806014711064
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02048428896,
+                        -7.7806014711064
+                    ],
+                    [
+                        111.02033073802,
+                        -7.7812141716075
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02033073802,
+                        -7.7812141716075
+                    ],
+                    [
+                        111.0204267417,
+                        -7.7815396602075
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0204267417,
+                        -7.7815396602075
+                    ],
+                    [
+                        111.02065710352,
+                        -7.781348182461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02065710352,
+                        -7.781348182461
+                    ],
+                    [
+                        111.02136739014,
+                        -7.7808694807969
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02136739014,
+                        -7.7808694807969
+                    ],
+                    [
+                        111.02177054501,
+                        -7.7809843402626
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02177054501,
+                        -7.7809843402626
+                    ],
+                    [
+                        111.02205851662,
+                        -7.7811374986666
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02205851662,
+                        -7.7811374986666
+                    ],
+                    [
+                        111.0224616597,
+                        -7.7810225975604
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0224616597,
+                        -7.7810225975604
+                    ],
+                    [
+                        111.02261521979,
+                        -7.7806396562103
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02261521979,
+                        -7.7806396562103
+                    ],
+                    [
+                        111.02290316031,
+                        -7.7802184142467
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02290316031,
+                        -7.7802184142467
+                    ],
+                    [
+                        111.02340228676,
+                        -7.7800460670733
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02340228676,
+                        -7.7800460670733
+                    ],
+                    [
+                        111.02347909499,
+                        -7.780371556053
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02347909499,
+                        -7.780371556053
+                    ],
+                    [
+                        111.02388225429,
+                        -7.7805630001538
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02388225429,
+                        -7.7805630001538
+                    ],
+                    [
+                        111.02453497002,
+                        -7.7805438162574
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02453497002,
+                        -7.7805438162574
+                    ],
+                    [
+                        111.02478451349,
+                        -7.7801225752395
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02478451349,
+                        -7.7801225752395
+                    ],
+                    [
+                        111.02501488049,
+                        -7.7800651217428
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02501488049,
+                        -7.7800651217428
+                    ],
+                    [
+                        111.02509168997,
+                        -7.7803906104265
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02509168997,
+                        -7.7803906104265
+                    ],
+                    [
+                        111.02507250607,
+                        -7.7806203714761
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02507250607,
+                        -7.7806203714761
+                    ],
+                    [
+                        111.02543727465,
+                        -7.7808692563389
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02543727465,
+                        -7.7808692563389
+                    ],
+                    [
+                        111.02603242406,
+                        -7.7812713000833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02603242406,
+                        -7.7812713000833
+                    ],
+                    [
+                        111.0262691724,
+                        -7.7809196251897
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0262691724,
+                        -7.7809196251897
+                    ],
+                    [
+                        111.02617316452,
+                        -7.7805965312474
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02617316452,
+                        -7.7805965312474
+                    ],
+                    [
+                        111.02622114428,
+                        -7.7803691617038
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02622114428,
+                        -7.7803691617038
+                    ],
+                    [
+                        111.02672507075,
+                        -7.78022553032
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02672507075,
+                        -7.78022553032
+                    ],
+                    [
+                        111.02716900305,
+                        -7.7800579688585
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02716900305,
+                        -7.7800579688585
+                    ],
+                    [
+                        111.02737295121,
+                        -7.7796630558924
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02737295121,
+                        -7.7796630558924
+                    ],
+                    [
+                        111.02756492478,
+                        -7.7796391101419
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02756492478,
+                        -7.7796391101419
+                    ],
+                    [
+                        111.02767293589,
+                        -7.7800220363101
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02767293589,
+                        -7.7800220363101
+                    ],
+                    [
+                        111.02797290442,
+                        -7.7801297166038
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02797290442,
+                        -7.7801297166038
+                    ],
+                    [
+                        111.02832086294,
+                        -7.7801775601738
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02832086294,
+                        -7.7801775601738
+                    ],
+                    [
+                        111.02852483271,
+                        -7.7801177132018
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02852483271,
+                        -7.7801177132018
+                    ],
+                    [
+                        111.02881276795,
+                        -7.7797108272334
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02881276795,
+                        -7.7797108272334
+                    ],
+                    [
+                        111.02948465589,
+                        -7.779351781214
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02948465589,
+                        -7.779351781214
+                    ],
+                    [
+                        111.03026454226,
+                        -7.7791841930429
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03026454226,
+                        -7.7791841930429
+                    ],
+                    [
+                        111.03070845725,
+                        -7.7788131946165
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03070845725,
+                        -7.7788131946165
+                    ],
+                    [
+                        111.03070843375,
+                        -7.7784900947235
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03070843375,
+                        -7.7784900947235
+                    ],
+                    [
+                        111.03038447318,
+                        -7.778442251386
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03038447318,
+                        -7.778442251386
+                    ],
+                    [
+                        111.02992853357,
+                        -7.7784422837789
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02992853357,
+                        -7.7784422837789
+                    ],
+                    [
+                        111.02971255713,
+                        -7.7783704989742
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02971255713,
+                        -7.7783704989742
+                    ],
+                    [
+                        111.02995250578,
+                        -7.7780952488591
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02995250578,
+                        -7.7780952488591
+                    ],
+                    [
+                        111.03034844268,
+                        -7.7779516207781
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03034844268,
+                        -7.7779516207781
+                    ],
+                    [
+                        111.03036042387,
+                        -7.7777122866561
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03036042387,
+                        -7.7777122866561
+                    ],
+                    [
+                        111.03074436102,
+                        -7.7775566923998
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03074436102,
+                        -7.7775566923998
+                    ],
+                    [
+                        111.03102033971,
+                        -7.7777720722619
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03102033971,
+                        -7.7777720722619
+                    ],
+                    [
+                        111.03127231125,
+                        -7.7778438537532
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03127231125,
+                        -7.7778438537532
+                    ],
+                    [
+                        111.03200420236,
+                        -7.7777001992466
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03200420236,
+                        -7.7777001992466
+                    ],
+                    [
+                        111.0325441308,
+                        -7.7777121248598
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0325441308,
+                        -7.7777121248598
+                    ],
+                    [
+                        111.03265206357,
+                        -7.7770300167651
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03265206357,
+                        -7.7770300167651
+                    ],
+                    [
+                        111.03368389668,
+                        -7.7766948695744
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03368389668,
+                        -7.7766948695744
+                    ],
+                    [
+                        111.03404386389,
+                        -7.7768982741405
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03404386389,
+                        -7.7768982741405
+                    ],
+                    [
+                        111.03446382234,
+                        -7.7770897068688
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03446382234,
+                        -7.7770897068688
+                    ],
+                    [
+                        111.03463178089,
+                        -7.7768623265988
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03463178089,
+                        -7.7768623265988
+                    ],
+                    [
+                        111.03481173467,
+                        -7.7765990452869
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03481173467,
+                        -7.7765990452869
+                    ],
+                    [
+                        111.03515970597,
+                        -7.7768263832159
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03515970597,
+                        -7.7768263832159
+                    ],
+                    [
+                        111.0356636312,
+                        -7.7767545412039
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0356636312,
+                        -7.7767545412039
+                    ],
+                    [
+                        111.03598755944,
+                        -7.7764314139602
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03598755944,
+                        -7.7764314139602
+                    ],
+                    [
+                        111.03586753628,
+                        -7.7759647242387
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03586753628,
+                        -7.7759647242387
+                    ],
+                    [
+                        111.03562754223,
+                        -7.775641644522
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03562754223,
+                        -7.775641644522
+                    ],
+                    [
+                        111.0359394805,
+                        -7.7754262182835
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0359394805,
+                        -7.7754262182835
+                    ],
+                    [
+                        111.0361554698,
+                        -7.7756535665611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0361554698,
+                        -7.7756535665611
+                    ],
+                    [
+                        111.03634748737,
+                        -7.7761681167039
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03634748737,
+                        -7.7761681167039
+                    ],
+                    [
+                        111.03701940729,
+                        -7.7763116586112
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03701940729,
+                        -7.7763116586112
+                    ],
+                    [
+                        111.03699538962,
+                        -7.7760723274367
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03699538962,
+                        -7.7760723274367
+                    ],
+                    [
+                        111.03717531526,
+                        -7.775509878532
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03717531526,
+                        -7.775509878532
+                    ],
+                    [
+                        111.03743923813,
+                        -7.7750551221172
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03743923813,
+                        -7.7750551221172
+                    ],
+                    [
+                        111.03767916277,
+                        -7.7745884009971
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03767916277,
+                        -7.7745884009971
+                    ],
+                    [
+                        111.03808708124,
+                        -7.7743250979949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03808708124,
+                        -7.7743250979949
+                    ],
+                    [
+                        111.03824302547,
+                        -7.7739541173847
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03824302547,
+                        -7.7739541173847
+                    ],
+                    [
+                        111.0379442418,
+                        -7.7736597642347
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0379442418,
+                        -7.7736597642347
+                    ],
+                    [
+                        111.03791901611,
+                        -7.7733330765389
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03791901611,
+                        -7.7733330765389
+                    ],
+                    [
+                        111.0380449814,
+                        -7.7731499753012
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0380449814,
+                        -7.7731499753012
+                    ],
+                    [
+                        111.03842652604,
+                        -7.7731499409542
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03842652604,
+                        -7.7731499409542
+                    ],
+                    [
+                        111.03875407555,
+                        -7.7731176011993
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03875407555,
+                        -7.7731176011993
+                    ],
+                    [
+                        111.03907078741,
+                        -7.7726616422486
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03907078741,
+                        -7.7726616422486
+                    ],
+                    [
+                        111.0391187527,
+                        -7.7723624712045
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0391187527,
+                        -7.7723624712045
+                    ],
+                    [
+                        111.03925070551,
+                        -7.772063292399
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03925070551,
+                        -7.772063292399
+                    ],
+                    [
+                        111.03947864725,
+                        -7.7718000046365
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03947864725,
+                        -7.7718000046365
+                    ],
+                    [
+                        111.03975460746,
+                        -7.771811945567
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03975460746,
+                        -7.771811945567
+                    ],
+                    [
+                        111.03992258707,
+                        -7.7718597964759
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03992258707,
+                        -7.7718597964759
+                    ],
+                    [
+                        111.04021057174,
+                        -7.7721469692818
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04021057174,
+                        -7.7721469692818
+                    ],
+                    [
+                        111.04023458757,
+                        -7.7723504003158
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04023458757,
+                        -7.7723504003158
+                    ],
+                    [
+                        111.04045056957,
+                        -7.7724939797841
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04045056957,
+                        -7.7724939797841
+                    ],
+                    [
+                        111.04072652449,
+                        -7.7724460867561
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04072652449,
+                        -7.7724460867561
+                    ],
+                    [
+                        111.04088248886,
+                        -7.7723144384591
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04088248886,
+                        -7.7723144384591
+                    ],
+                    [
+                        111.04094246844,
+                        -7.7721947660316
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04094246844,
+                        -7.7721947660316
+                    ],
+                    [
+                        111.04105043043,
+                        -7.7719673889745
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04105043043,
+                        -7.7719673889745
+                    ],
+                    [
+                        111.04111040293,
+                        -7.7717759165308
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04111040293,
+                        -7.7717759165308
+                    ],
+                    [
+                        111.04125436639,
+                        -7.7716203359254
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04125436639,
+                        -7.7716203359254
+                    ],
+                    [
+                        111.04135035328,
+                        -7.7716322932587
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04135035328,
+                        -7.7716322932587
+                    ],
+                    [
+                        111.04145834779,
+                        -7.771739982721
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04145834779,
+                        -7.771739982721
+                    ],
+                    [
+                        111.04168632221,
+                        -7.7718237270683
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04168632221,
+                        -7.7718237270683
+                    ],
+                    [
+                        111.04184230619,
+                        -7.7718955117241
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04184230619,
+                        -7.7718955117241
+                    ],
+                    [
+                        111.04204627003,
+                        -7.7718356582598
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04204627003,
+                        -7.7718356582598
+                    ],
+                    [
+                        111.04205824681,
+                        -7.7716202571006
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04205824681,
+                        -7.7716202571006
+                    ],
+                    [
+                        111.04213020509,
+                        -7.7713091166718
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04213020509,
+                        -7.7713091166718
+                    ],
+                    [
+                        111.04220218238,
+                        -7.7711894428734
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04220218238,
+                        -7.7711894428734
+                    ],
+                    [
+                        111.04238574876,
+                        -7.7711283946053
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04238574876,
+                        -7.7711283946053
+                    ],
+                    [
+                        111.04258733374,
+                        -7.7712791544304
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04258733374,
+                        -7.7712791544304
+                    ],
+                    [
+                        111.04282611803,
+                        -7.7714765804041
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04282611803,
+                        -7.7714765804041
+                    ],
+                    [
+                        111.04292211952,
+                        -7.7716321373628
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04292211952,
+                        -7.7716321373628
+                    ],
+                    [
+                        111.04321727367,
+                        -7.7716129607752
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04321727367,
+                        -7.7716129607752
+                    ],
+                    [
+                        111.04348722168,
+                        -7.7714980532429
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04348722168,
+                        -7.7714980532429
+                    ],
+                    [
+                        111.04378596004,
+                        -7.7713328825794
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04378596004,
+                        -7.7713328825794
+                    ],
+                    [
+                        111.04416987264,
+                        -7.7710456428738
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04416987264,
+                        -7.7710456428738
+                    ],
+                    [
+                        111.04450579952,
+                        -7.7708302078417
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04450579952,
+                        -7.7708302078417
+                    ],
+                    [
+                        111.04485372678,
+                        -7.7706387046078
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04485372678,
+                        -7.7706387046078
+                    ],
+                    [
+                        111.04509365221,
+                        -7.7702796792481
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "51",
+                "NAMA_SUNGAI": "Kali Amblo",
+                "FOTO": "sungai-51_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04509365221,
+                        -7.7702796792481
+                    ],
+                    [
+                        111.04521362246,
+                        -7.7701719665088
+                    ]
+                ]
+            }
+        }
+    ]
+}

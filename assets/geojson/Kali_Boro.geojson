@@ -1,0 +1,4730 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.195092921,
+                        -7.51266914576
+                    ],
+                    [
+                        111.19538509,
+                        -7.51273750092
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.19538509,
+                        -7.51273750092
+                    ],
+                    [
+                        111.195477421,
+                        -7.51283082964
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.195477421,
+                        -7.51283082964
+                    ],
+                    [
+                        111.195560407,
+                        -7.51302411759
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.195560407,
+                        -7.51302411759
+                    ],
+                    [
+                        111.195651876,
+                        -7.51341842453
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.195651876,
+                        -7.51341842453
+                    ],
+                    [
+                        111.195651173,
+                        -7.51379391223
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.195651173,
+                        -7.51379391223
+                    ],
+                    [
+                        111.195615822,
+                        -7.51397325012
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.195615822,
+                        -7.51397325012
+                    ],
+                    [
+                        111.19548599,
+                        -7.51500867073
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.19548599,
+                        -7.51500867073
+                    ],
+                    [
+                        111.195437236,
+                        -7.51539746794
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.195437236,
+                        -7.51539746794
+                    ],
+                    [
+                        111.195347632,
+                        -7.51623619877
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.195347632,
+                        -7.51623619877
+                    ],
+                    [
+                        111.195337417,
+                        -7.51739276039
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.195337417,
+                        -7.51739276039
+                    ],
+                    [
+                        111.195247492,
+                        -7.51745285486
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.195247492,
+                        -7.51745285486
+                    ],
+                    [
+                        111.194937822,
+                        -7.51764554851
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.194937822,
+                        -7.51764554851
+                    ],
+                    [
+                        111.194806502,
+                        -7.51785081776
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.194806502,
+                        -7.51785081776
+                    ],
+                    [
+                        111.194746058,
+                        -7.51806436852
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.194746058,
+                        -7.51806436852
+                    ],
+                    [
+                        111.194747471,
+                        -7.51842773397
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.194747471,
+                        -7.51842773397
+                    ],
+                    [
+                        111.19474487,
+                        -7.518794032
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.19474487,
+                        -7.518794032
+                    ],
+                    [
+                        111.194688101,
+                        -7.51909961214
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.194688101,
+                        -7.51909961214
+                    ],
+                    [
+                        111.194661997,
+                        -7.51928291689
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.194661997,
+                        -7.51928291689
+                    ],
+                    [
+                        111.194583568,
+                        -7.51998107223
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.194583568,
+                        -7.51998107223
+                    ],
+                    [
+                        111.194470665,
+                        -7.52010337502
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.194470665,
+                        -7.52010337502
+                    ],
+                    [
+                        111.194240963,
+                        -7.5202503248
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.194240963,
+                        -7.5202503248
+                    ],
+                    [
+                        111.193540136,
+                        -7.52068882671
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.193540136,
+                        -7.52068882671
+                    ],
+                    [
+                        111.193484652,
+                        -7.52084662642
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.193484652,
+                        -7.52084662642
+                    ],
+                    [
+                        111.193333517,
+                        -7.52131993732
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.193333517,
+                        -7.52131993732
+                    ],
+                    [
+                        111.193148922,
+                        -7.52147557767
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.193148922,
+                        -7.52147557767
+                    ],
+                    [
+                        111.192638279,
+                        -7.52187769398
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192638279,
+                        -7.52187769398
+                    ],
+                    [
+                        111.192630763,
+                        -7.52199837606
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192630763,
+                        -7.52199837606
+                    ],
+                    [
+                        111.192701212,
+                        -7.52212488551
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192701212,
+                        -7.52212488551
+                    ],
+                    [
+                        111.192877735,
+                        -7.52230587583
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192877735,
+                        -7.52230587583
+                    ],
+                    [
+                        111.193221044,
+                        -7.52268120294
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.193221044,
+                        -7.52268120294
+                    ],
+                    [
+                        111.193180211,
+                        -7.52280644969
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.193180211,
+                        -7.52280644969
+                    ],
+                    [
+                        111.192835982,
+                        -7.52348976914
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192835982,
+                        -7.52348976914
+                    ],
+                    [
+                        111.192914782,
+                        -7.52360217261
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192914782,
+                        -7.52360217261
+                    ],
+                    [
+                        111.193178343,
+                        -7.52382866057
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.193178343,
+                        -7.52382866057
+                    ],
+                    [
+                        111.193608059,
+                        -7.52421609762
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.193608059,
+                        -7.52421609762
+                    ],
+                    [
+                        111.193659229,
+                        -7.52436598046
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.193659229,
+                        -7.52436598046
+                    ],
+                    [
+                        111.193637551,
+                        -7.52449692662
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.193637551,
+                        -7.52449692662
+                    ],
+                    [
+                        111.193533683,
+                        -7.5246986284
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.193533683,
+                        -7.5246986284
+                    ],
+                    [
+                        111.193491493,
+                        -7.52487185419
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.193491493,
+                        -7.52487185419
+                    ],
+                    [
+                        111.193540464,
+                        -7.52502708402
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.193540464,
+                        -7.52502708402
+                    ],
+                    [
+                        111.193564465,
+                        -7.52518826789
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.193564465,
+                        -7.52518826789
+                    ],
+                    [
+                        111.19350269,
+                        -7.52532673064
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.19350269,
+                        -7.52532673064
+                    ],
+                    [
+                        111.193388355,
+                        -7.52561813422
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.193388355,
+                        -7.52561813422
+                    ],
+                    [
+                        111.193456891,
+                        -7.52574270857
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.193456891,
+                        -7.52574270857
+                    ],
+                    [
+                        111.193542954,
+                        -7.5259616671
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.193542954,
+                        -7.5259616671
+                    ],
+                    [
+                        111.193486437,
+                        -7.52606229838
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.193486437,
+                        -7.52606229838
+                    ],
+                    [
+                        111.193215215,
+                        -7.52636676981
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.193215215,
+                        -7.52636676981
+                    ],
+                    [
+                        111.192941924,
+                        -7.52662585969
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192941924,
+                        -7.52662585969
+                    ],
+                    [
+                        111.192774889,
+                        -7.52683444573
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192774889,
+                        -7.52683444573
+                    ],
+                    [
+                        111.192768098,
+                        -7.52695367111
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192768098,
+                        -7.52695367111
+                    ],
+                    [
+                        111.192834051,
+                        -7.52710007397
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192834051,
+                        -7.52710007397
+                    ],
+                    [
+                        111.192985898,
+                        -7.52745282581
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192985898,
+                        -7.52745282581
+                    ],
+                    [
+                        111.192949072,
+                        -7.5276226299
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192949072,
+                        -7.5276226299
+                    ],
+                    [
+                        111.192760311,
+                        -7.52797746741
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192760311,
+                        -7.52797746741
+                    ],
+                    [
+                        111.192592137,
+                        -7.52817471963
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192592137,
+                        -7.52817471963
+                    ],
+                    [
+                        111.192323353,
+                        -7.52850485212
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192323353,
+                        -7.52850485212
+                    ],
+                    [
+                        111.192249559,
+                        -7.52872624194
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192249559,
+                        -7.52872624194
+                    ],
+                    [
+                        111.192286469,
+                        -7.52883066745
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192286469,
+                        -7.52883066745
+                    ],
+                    [
+                        111.192425742,
+                        -7.52899454161
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192425742,
+                        -7.52899454161
+                    ],
+                    [
+                        111.192701749,
+                        -7.52931794897
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192701749,
+                        -7.52931794897
+                    ],
+                    [
+                        111.192698783,
+                        -7.52949820402
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192698783,
+                        -7.52949820402
+                    ],
+                    [
+                        111.192601278,
+                        -7.52962268864
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192601278,
+                        -7.52962268864
+                    ],
+                    [
+                        111.192479298,
+                        -7.52968167501
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192479298,
+                        -7.52968167501
+                    ],
+                    [
+                        111.192196115,
+                        -7.52981717733
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192196115,
+                        -7.52981717733
+                    ],
+                    [
+                        111.192057429,
+                        -7.52997786272
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192057429,
+                        -7.52997786272
+                    ],
+                    [
+                        111.192007128,
+                        -7.53013660069
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192007128,
+                        -7.53013660069
+                    ],
+                    [
+                        111.192067864,
+                        -7.53027092087
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192067864,
+                        -7.53027092087
+                    ],
+                    [
+                        111.192244663,
+                        -7.53063805367
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192244663,
+                        -7.53063805367
+                    ],
+                    [
+                        111.192243942,
+                        -7.53081248229
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192243942,
+                        -7.53081248229
+                    ],
+                    [
+                        111.1921794,
+                        -7.5309679158
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.1921794,
+                        -7.5309679158
+                    ],
+                    [
+                        111.192048004,
+                        -7.53111474902
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192048004,
+                        -7.53111474902
+                    ],
+                    [
+                        111.19138709,
+                        -7.53177717927
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.19138709,
+                        -7.53177717927
+                    ],
+                    [
+                        111.191323215,
+                        -7.53197815297
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.191323215,
+                        -7.53197815297
+                    ],
+                    [
+                        111.191226107,
+                        -7.53224473608
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.191226107,
+                        -7.53224473608
+                    ],
+                    [
+                        111.190925975,
+                        -7.53261634693
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.190925975,
+                        -7.53261634693
+                    ],
+                    [
+                        111.19076048,
+                        -7.53270611624
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.19076048,
+                        -7.53270611624
+                    ],
+                    [
+                        111.190320665,
+                        -7.53295120193
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.190320665,
+                        -7.53295120193
+                    ],
+                    [
+                        111.19003941,
+                        -7.53327439138
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.19003941,
+                        -7.53327439138
+                    ],
+                    [
+                        111.189495482,
+                        -7.5336104217
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.189495482,
+                        -7.5336104217
+                    ],
+                    [
+                        111.189277849,
+                        -7.5338908241
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.189277849,
+                        -7.5338908241
+                    ],
+                    [
+                        111.18903963,
+                        -7.5341689829
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.18903963,
+                        -7.5341689829
+                    ],
+                    [
+                        111.188807853,
+                        -7.53429685347
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188807853,
+                        -7.53429685347
+                    ],
+                    [
+                        111.188504899,
+                        -7.53437602536
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188504899,
+                        -7.53437602536
+                    ],
+                    [
+                        111.187993504,
+                        -7.53450807732
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187993504,
+                        -7.53450807732
+                    ],
+                    [
+                        111.187795307,
+                        -7.53464780995
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187795307,
+                        -7.53464780995
+                    ],
+                    [
+                        111.18769945,
+                        -7.53479519653
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.18769945,
+                        -7.53479519653
+                    ],
+                    [
+                        111.187703953,
+                        -7.53489546624
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187703953,
+                        -7.53489546624
+                    ],
+                    [
+                        111.187773373,
+                        -7.53498952084
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187773373,
+                        -7.53498952084
+                    ],
+                    [
+                        111.187880079,
+                        -7.53505039788
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187880079,
+                        -7.53505039788
+                    ],
+                    [
+                        111.188160733,
+                        -7.53513574117
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188160733,
+                        -7.53513574117
+                    ],
+                    [
+                        111.188321559,
+                        -7.53525036251
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188321559,
+                        -7.53525036251
+                    ],
+                    [
+                        111.188374033,
+                        -7.53537650037
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188374033,
+                        -7.53537650037
+                    ],
+                    [
+                        111.188373394,
+                        -7.53559597655
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188373394,
+                        -7.53559597655
+                    ],
+                    [
+                        111.188410541,
+                        -7.53597705606
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188410541,
+                        -7.53597705606
+                    ],
+                    [
+                        111.188417905,
+                        -7.53625802149
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188417905,
+                        -7.53625802149
+                    ],
+                    [
+                        111.188390342,
+                        -7.53712301969
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188390342,
+                        -7.53712301969
+                    ],
+                    [
+                        111.18837902,
+                        -7.53730986356
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.18837902,
+                        -7.53730986356
+                    ],
+                    [
+                        111.18838549,
+                        -7.53778778144
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.18838549,
+                        -7.53778778144
+                    ],
+                    [
+                        111.188517708,
+                        -7.53867554213
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188517708,
+                        -7.53867554213
+                    ],
+                    [
+                        111.188515584,
+                        -7.53883543488
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188515584,
+                        -7.53883543488
+                    ],
+                    [
+                        111.188474632,
+                        -7.53961427844
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188474632,
+                        -7.53961427844
+                    ],
+                    [
+                        111.188457925,
+                        -7.53973937865
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188457925,
+                        -7.53973937865
+                    ],
+                    [
+                        111.188348294,
+                        -7.54048327201
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188348294,
+                        -7.54048327201
+                    ],
+                    [
+                        111.188277619,
+                        -7.5412201472
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188277619,
+                        -7.5412201472
+                    ],
+                    [
+                        111.188211461,
+                        -7.54181784325
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188211461,
+                        -7.54181784325
+                    ],
+                    [
+                        111.188250301,
+                        -7.54198215074
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188250301,
+                        -7.54198215074
+                    ],
+                    [
+                        111.188566951,
+                        -7.54268640309
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188566951,
+                        -7.54268640309
+                    ],
+                    [
+                        111.188657757,
+                        -7.54299082412
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188657757,
+                        -7.54299082412
+                    ],
+                    [
+                        111.188643574,
+                        -7.54327035143
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188643574,
+                        -7.54327035143
+                    ],
+                    [
+                        111.188443807,
+                        -7.5437042897
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188443807,
+                        -7.5437042897
+                    ],
+                    [
+                        111.18839451,
+                        -7.54370094367
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.18839451,
+                        -7.54370094367
+                    ],
+                    [
+                        111.188185961,
+                        -7.54372507693
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188185961,
+                        -7.54372507693
+                    ],
+                    [
+                        111.188096845,
+                        -7.54380514258
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188096845,
+                        -7.54380514258
+                    ],
+                    [
+                        111.188054029,
+                        -7.5439442115
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188054029,
+                        -7.5439442115
+                    ],
+                    [
+                        111.188002945,
+                        -7.54429964356
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188002945,
+                        -7.54429964356
+                    ],
+                    [
+                        111.187860946,
+                        -7.54447620881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187860946,
+                        -7.54447620881
+                    ],
+                    [
+                        111.187593231,
+                        -7.54470717001
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187593231,
+                        -7.54470717001
+                    ],
+                    [
+                        111.187407576,
+                        -7.54489455894
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187407576,
+                        -7.54489455894
+                    ],
+                    [
+                        111.187371712,
+                        -7.5451574695
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187371712,
+                        -7.5451574695
+                    ],
+                    [
+                        111.187340179,
+                        -7.5455429203
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187340179,
+                        -7.5455429203
+                    ],
+                    [
+                        111.187264078,
+                        -7.5456425144
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187264078,
+                        -7.5456425144
+                    ],
+                    [
+                        111.186783756,
+                        -7.5460574426
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186783756,
+                        -7.5460574426
+                    ],
+                    [
+                        111.186608749,
+                        -7.54617549135
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186608749,
+                        -7.54617549135
+                    ],
+                    [
+                        111.186508742,
+                        -7.54639489226
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186508742,
+                        -7.54639489226
+                    ],
+                    [
+                        111.186503336,
+                        -7.54670464648
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186503336,
+                        -7.54670464648
+                    ],
+                    [
+                        111.186455117,
+                        -7.54699178661
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186455117,
+                        -7.54699178661
+                    ],
+                    [
+                        111.186358234,
+                        -7.54739500382
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186358234,
+                        -7.54739500382
+                    ],
+                    [
+                        111.186363036,
+                        -7.54753755296
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186363036,
+                        -7.54753755296
+                    ],
+                    [
+                        111.186459986,
+                        -7.54775684269
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186459986,
+                        -7.54775684269
+                    ],
+                    [
+                        111.186649691,
+                        -7.54817499869
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186649691,
+                        -7.54817499869
+                    ],
+                    [
+                        111.186560059,
+                        -7.548388027
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186560059,
+                        -7.548388027
+                    ],
+                    [
+                        111.186498088,
+                        -7.54871557108
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186498088,
+                        -7.54871557108
+                    ],
+                    [
+                        111.186541347,
+                        -7.54899646681
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186541347,
+                        -7.54899646681
+                    ],
+                    [
+                        111.186637778,
+                        -7.54926979571
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186637778,
+                        -7.54926979571
+                    ],
+                    [
+                        111.186878024,
+                        -7.54965824199
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186878024,
+                        -7.54965824199
+                    ],
+                    [
+                        111.186909239,
+                        -7.54971063038
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186909239,
+                        -7.54971063038
+                    ],
+                    [
+                        111.187002079,
+                        -7.54992905785
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187002079,
+                        -7.54992905785
+                    ],
+                    [
+                        111.186962033,
+                        -7.55004983958
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186962033,
+                        -7.55004983958
+                    ],
+                    [
+                        111.186815177,
+                        -7.55037341275
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186815177,
+                        -7.55037341275
+                    ],
+                    [
+                        111.186792142,
+                        -7.55064357238
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186792142,
+                        -7.55064357238
+                    ],
+                    [
+                        111.18685166,
+                        -7.55133723439
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.18685166,
+                        -7.55133723439
+                    ],
+                    [
+                        111.186967023,
+                        -7.55187568448
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186967023,
+                        -7.55187568448
+                    ],
+                    [
+                        111.187267704,
+                        -7.5527846121
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187267704,
+                        -7.5527846121
+                    ],
+                    [
+                        111.18730758,
+                        -7.55288935323
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.18730758,
+                        -7.55288935323
+                    ],
+                    [
+                        111.187305859,
+                        -7.5529921063
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187305859,
+                        -7.5529921063
+                    ],
+                    [
+                        111.187125692,
+                        -7.55319873975
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187125692,
+                        -7.55319873975
+                    ],
+                    [
+                        111.18671972,
+                        -7.55348632242
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.18671972,
+                        -7.55348632242
+                    ],
+                    [
+                        111.18658957,
+                        -7.55370439743
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.18658957,
+                        -7.55370439743
+                    ],
+                    [
+                        111.18640866,
+                        -7.55393234484
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.18640866,
+                        -7.55393234484
+                    ],
+                    [
+                        111.186113791,
+                        -7.55423155752
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186113791,
+                        -7.55423155752
+                    ],
+                    [
+                        111.185804905,
+                        -7.55456933778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.185804905,
+                        -7.55456933778
+                    ],
+                    [
+                        111.185641409,
+                        -7.55467018542
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.185641409,
+                        -7.55467018542
+                    ],
+                    [
+                        111.185567378,
+                        -7.55471579363
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.185567378,
+                        -7.55471579363
+                    ],
+                    [
+                        111.185454706,
+                        -7.55483168522
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.185454706,
+                        -7.55483168522
+                    ],
+                    [
+                        111.185405094,
+                        -7.55500393636
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.185405094,
+                        -7.55500393636
+                    ],
+                    [
+                        111.185296458,
+                        -7.55533821193
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.185296458,
+                        -7.55533821193
+                    ],
+                    [
+                        111.185044388,
+                        -7.55579862721
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.185044388,
+                        -7.55579862721
+                    ],
+                    [
+                        111.184904406,
+                        -7.5562315593
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.184904406,
+                        -7.5562315593
+                    ],
+                    [
+                        111.18494732,
+                        -7.55639332341
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.18494732,
+                        -7.55639332341
+                    ],
+                    [
+                        111.185083469,
+                        -7.55665522005
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.185083469,
+                        -7.55665522005
+                    ],
+                    [
+                        111.185242145,
+                        -7.55683474602
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.185242145,
+                        -7.55683474602
+                    ],
+                    [
+                        111.185543691,
+                        -7.55705095485
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.185543691,
+                        -7.55705095485
+                    ],
+                    [
+                        111.185729397,
+                        -7.55718388381
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.185729397,
+                        -7.55718388381
+                    ],
+                    [
+                        111.185789349,
+                        -7.55726032157
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.185789349,
+                        -7.55726032157
+                    ],
+                    [
+                        111.185887764,
+                        -7.55744563503
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.185887764,
+                        -7.55744563503
+                    ],
+                    [
+                        111.186198295,
+                        -7.55764388386
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186198295,
+                        -7.55764388386
+                    ],
+                    [
+                        111.18632739,
+                        -7.55781407781
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.18632739,
+                        -7.55781407781
+                    ],
+                    [
+                        111.186502398,
+                        -7.55804860319
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186502398,
+                        -7.55804860319
+                    ],
+                    [
+                        111.186727242,
+                        -7.55823235179
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.186727242,
+                        -7.55823235179
+                    ],
+                    [
+                        111.187006698,
+                        -7.55839828097
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187006698,
+                        -7.55839828097
+                    ],
+                    [
+                        111.187209852,
+                        -7.55855123197
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187209852,
+                        -7.55855123197
+                    ],
+                    [
+                        111.187302471,
+                        -7.55870541228
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187302471,
+                        -7.55870541228
+                    ],
+                    [
+                        111.187352847,
+                        -7.55885697842
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187352847,
+                        -7.55885697842
+                    ],
+                    [
+                        111.187363042,
+                        -7.55893315688
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187363042,
+                        -7.55893315688
+                    ],
+                    [
+                        111.187432715,
+                        -7.55912219103
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187432715,
+                        -7.55912219103
+                    ],
+                    [
+                        111.187536069,
+                        -7.55936362145
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187536069,
+                        -7.55936362145
+                    ],
+                    [
+                        111.187582339,
+                        -7.55945357909
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187582339,
+                        -7.55945357909
+                    ],
+                    [
+                        111.187657117,
+                        -7.5595820953
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187657117,
+                        -7.5595820953
+                    ],
+                    [
+                        111.187721039,
+                        -7.55965623346
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187721039,
+                        -7.55965623346
+                    ],
+                    [
+                        111.187843922,
+                        -7.55981982624
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187843922,
+                        -7.55981982624
+                    ],
+                    [
+                        111.187913079,
+                        -7.55990503404
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.187913079,
+                        -7.55990503404
+                    ],
+                    [
+                        111.188057652,
+                        -7.56010482733
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188057652,
+                        -7.56010482733
+                    ],
+                    [
+                        111.188211557,
+                        -7.56033484725
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188211557,
+                        -7.56033484725
+                    ],
+                    [
+                        111.188337491,
+                        -7.5605916273
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188337491,
+                        -7.5605916273
+                    ],
+                    [
+                        111.188478603,
+                        -7.56090076626
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188478603,
+                        -7.56090076626
+                    ],
+                    [
+                        111.188647405,
+                        -7.56128313618
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188647405,
+                        -7.56128313618
+                    ],
+                    [
+                        111.188680924,
+                        -7.56135850849
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188680924,
+                        -7.56135850849
+                    ],
+                    [
+                        111.188891619,
+                        -7.56183115428
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.188891619,
+                        -7.56183115428
+                    ],
+                    [
+                        111.189057468,
+                        -7.56219522585
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.189057468,
+                        -7.56219522585
+                    ],
+                    [
+                        111.189182197,
+                        -7.56253688638
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.189182197,
+                        -7.56253688638
+                    ],
+                    [
+                        111.189221939,
+                        -7.56268361289
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.189221939,
+                        -7.56268361289
+                    ],
+                    [
+                        111.189241543,
+                        -7.56275845749
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.189241543,
+                        -7.56275845749
+                    ],
+                    [
+                        111.189318261,
+                        -7.56298963209
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.189318261,
+                        -7.56298963209
+                    ],
+                    [
+                        111.189351666,
+                        -7.56307355257
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.189351666,
+                        -7.56307355257
+                    ],
+                    [
+                        111.189404183,
+                        -7.56320549737
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.189404183,
+                        -7.56320549737
+                    ],
+                    [
+                        111.189504809,
+                        -7.56342138338
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.189504809,
+                        -7.56342138338
+                    ],
+                    [
+                        111.189609299,
+                        -7.56353984558
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.189609299,
+                        -7.56353984558
+                    ],
+                    [
+                        111.189763966,
+                        -7.56362038448
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.189763966,
+                        -7.56362038448
+                    ],
+                    [
+                        111.190096861,
+                        -7.56370325185
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.190096861,
+                        -7.56370325185
+                    ],
+                    [
+                        111.190372995,
+                        -7.56381334412
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.190372995,
+                        -7.56381334412
+                    ],
+                    [
+                        111.190597056,
+                        -7.56395866481
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.190597056,
+                        -7.56395866481
+                    ],
+                    [
+                        111.190900322,
+                        -7.56417190194
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.190900322,
+                        -7.56417190194
+                    ],
+                    [
+                        111.191164745,
+                        -7.56440907269
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.191164745,
+                        -7.56440907269
+                    ],
+                    [
+                        111.191505369,
+                        -7.56472606517
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.191505369,
+                        -7.56472606517
+                    ],
+                    [
+                        111.191815193,
+                        -7.56505113062
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.191815193,
+                        -7.56505113062
+                    ],
+                    [
+                        111.191902424,
+                        -7.56516871335
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.191902424,
+                        -7.56516871335
+                    ],
+                    [
+                        111.191989191,
+                        -7.56538372739
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.191989191,
+                        -7.56538372739
+                    ],
+                    [
+                        111.192008383,
+                        -7.56575607571
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192008383,
+                        -7.56575607571
+                    ],
+                    [
+                        111.192007704,
+                        -7.56612838754
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192007704,
+                        -7.56612838754
+                    ],
+                    [
+                        111.192020885,
+                        -7.56657943598
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192020885,
+                        -7.56657943598
+                    ],
+                    [
+                        111.192064131,
+                        -7.56683693866
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192064131,
+                        -7.56683693866
+                    ],
+                    [
+                        111.19208274,
+                        -7.56701780806
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.19208274,
+                        -7.56701780806
+                    ],
+                    [
+                        111.192093963,
+                        -7.56740929148
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192093963,
+                        -7.56740929148
+                    ],
+                    [
+                        111.192090953,
+                        -7.56753055026
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192090953,
+                        -7.56753055026
+                    ],
+                    [
+                        111.192050463,
+                        -7.56786663352
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192050463,
+                        -7.56786663352
+                    ],
+                    [
+                        111.192018674,
+                        -7.56801551242
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.192018674,
+                        -7.56801551242
+                    ],
+                    [
+                        111.191923443,
+                        -7.56842171481
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.191923443,
+                        -7.56842171481
+                    ],
+                    [
+                        111.191811926,
+                        -7.56878640464
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.191811926,
+                        -7.56878640464
+                    ],
+                    [
+                        111.191716356,
+                        -7.56907324927
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.191716356,
+                        -7.56907324927
+                    ],
+                    [
+                        111.191653479,
+                        -7.5692965426
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.191653479,
+                        -7.5692965426
+                    ],
+                    [
+                        111.191585155,
+                        -7.56954407171
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.191585155,
+                        -7.56954407171
+                    ],
+                    [
+                        111.191554727,
+                        -7.569695926
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.191554727,
+                        -7.569695926
+                    ],
+                    [
+                        111.191552582,
+                        -7.56978528025
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.191552582,
+                        -7.56978528025
+                    ],
+                    [
+                        111.191503578,
+                        -7.56997668141
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "99",
+                "NAMA_SUNGAI": "Kali Boro",
+                "FOTO": "sungai-99_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.191503578,
+                        -7.56997668141
+                    ],
+                    [
+                        111.191474449,
+                        -7.57012449622
+                    ]
+                ]
+            }
+        }
+    ]
+}

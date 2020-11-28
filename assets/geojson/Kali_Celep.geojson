@@ -1,0 +1,3953 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95853923117,
+                        -7.7219159352051
+                    ],
+                    [
+                        110.95846601196,
+                        -7.721922658077
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95846601196,
+                        -7.721922658077
+                    ],
+                    [
+                        110.95790080313,
+                        -7.7220185502231
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95790080313,
+                        -7.7220185502231
+                    ],
+                    [
+                        110.95789948815,
+                        -7.7220191742449
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95789948815,
+                        -7.7220191742449
+                    ],
+                    [
+                        110.95769517569,
+                        -7.7221158884812
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95769517569,
+                        -7.7221158884812
+                    ],
+                    [
+                        110.95755131772,
+                        -7.7222599174859
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95755131772,
+                        -7.7222599174859
+                    ],
+                    [
+                        110.95746022568,
+                        -7.7224365070645
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95746022568,
+                        -7.7224365070645
+                    ],
+                    [
+                        110.95730859959,
+                        -7.7227240447784
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95730859959,
+                        -7.7227240447784
+                    ],
+                    [
+                        110.9570416037,
+                        -7.723018192285
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9570416037,
+                        -7.723018192285
+                    ],
+                    [
+                        110.95664971088,
+                        -7.7233677226552
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95664971088,
+                        -7.7233677226552
+                    ],
+                    [
+                        110.9562594646,
+                        -7.7235728115627
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9562594646,
+                        -7.7235728115627
+                    ],
+                    [
+                        110.95585811928,
+                        -7.7236794097066
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95585811928,
+                        -7.7236794097066
+                    ],
+                    [
+                        110.95556431888,
+                        -7.7236795149467
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95556431888,
+                        -7.7236795149467
+                    ],
+                    [
+                        110.95524032888,
+                        -7.7235995988261
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95524032888,
+                        -7.7235995988261
+                    ],
+                    [
+                        110.95439570462,
+                        -7.7233923184642
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95439570462,
+                        -7.7233923184642
+                    ],
+                    [
+                        110.95364485996,
+                        -7.7233349876446
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95364485996,
+                        -7.7233349876446
+                    ],
+                    [
+                        110.95331536727,
+                        -7.723409062957
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95331536727,
+                        -7.723409062957
+                    ],
+                    [
+                        110.95207449455,
+                        -7.7238750308904
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95207449455,
+                        -7.7238750308904
+                    ],
+                    [
+                        110.95158423309,
+                        -7.7241268251643
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95158423309,
+                        -7.7241268251643
+                    ],
+                    [
+                        110.95105901415,
+                        -7.7244390399383
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95105901415,
+                        -7.7244390399383
+                    ],
+                    [
+                        110.95078663102,
+                        -7.7246914099655
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95078663102,
+                        -7.7246914099655
+                    ],
+                    [
+                        110.95066963695,
+                        -7.7248600439309
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95066963695,
+                        -7.7248600439309
+                    ],
+                    [
+                        110.95066518357,
+                        -7.7248664658417
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95066518357,
+                        -7.7248664658417
+                    ],
+                    [
+                        110.95057867375,
+                        -7.7249911503929
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95057867375,
+                        -7.7249911503929
+                    ],
+                    [
+                        110.95029304596,
+                        -7.7254328444112
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95029304596,
+                        -7.7254328444112
+                    ],
+                    [
+                        110.94949391374,
+                        -7.7263235590878
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94949391374,
+                        -7.7263235590878
+                    ],
+                    [
+                        110.94932387897,
+                        -7.726550612363
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94932387897,
+                        -7.726550612363
+                    ],
+                    [
+                        110.9491175763,
+                        -7.7273298540474
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9491175763,
+                        -7.7273298540474
+                    ],
+                    [
+                        110.94905678796,
+                        -7.7275722978353
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94905678796,
+                        -7.7275722978353
+                    ],
+                    [
+                        110.94905383927,
+                        -7.7275840658973
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94905383927,
+                        -7.7275840658973
+                    ],
+                    [
+                        110.94896881712,
+                        -7.7279231506906
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94896881712,
+                        -7.7279231506906
+                    ],
+                    [
+                        110.94883488813,
+                        -7.7281108141786
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94883488813,
+                        -7.7281108141786
+                    ],
+                    [
+                        110.94833098678,
+                        -7.7286859132299
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94833098678,
+                        -7.7286859132299
+                    ],
+                    [
+                        110.94808318012,
+                        -7.7291203827497
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94808318012,
+                        -7.7291203827497
+                    ],
+                    [
+                        110.94790839419,
+                        -7.7292517588244
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94790839419,
+                        -7.7292517588244
+                    ],
+                    [
+                        110.94755417082,
+                        -7.7294327464023
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94755417082,
+                        -7.7294327464023
+                    ],
+                    [
+                        110.94725858101,
+                        -7.7294974860207
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94725858101,
+                        -7.7294974860207
+                    ],
+                    [
+                        110.94699828567,
+                        -7.7294928314612
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94699828567,
+                        -7.7294928314612
+                    ],
+                    [
+                        110.94677226074,
+                        -7.7294144226504
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94677226074,
+                        -7.7294144226504
+                    ],
+                    [
+                        110.94648385246,
+                        -7.7293406734717
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94648385246,
+                        -7.7293406734717
+                    ],
+                    [
+                        110.94624118567,
+                        -7.7293431395997
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94624118567,
+                        -7.7293431395997
+                    ],
+                    [
+                        110.94621592843,
+                        -7.7293526886436
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94621592843,
+                        -7.7293526886436
+                    ],
+                    [
+                        110.94603711441,
+                        -7.7294202462623
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94603711441,
+                        -7.7294202462623
+                    ],
+                    [
+                        110.94589599995,
+                        -7.7295474376162
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94589599995,
+                        -7.7295474376162
+                    ],
+                    [
+                        110.9457221721,
+                        -7.7296971213379
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9457221721,
+                        -7.7296971213379
+                    ],
+                    [
+                        110.94537128068,
+                        -7.7297682840827
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94537128068,
+                        -7.7297682840827
+                    ],
+                    [
+                        110.94518336548,
+                        -7.7297344020754
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94518336548,
+                        -7.7297344020754
+                    ],
+                    [
+                        110.94502924558,
+                        -7.7296567885406
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94502924558,
+                        -7.7296567885406
+                    ],
+                    [
+                        110.94480930966,
+                        -7.7294800711761
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94480930966,
+                        -7.7294800711761
+                    ],
+                    [
+                        110.94450626384,
+                        -7.7292066628256
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94450626384,
+                        -7.7292066628256
+                    ],
+                    [
+                        110.94428296779,
+                        -7.7290696190457
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94428296779,
+                        -7.7290696190457
+                    ],
+                    [
+                        110.94386118493,
+                        -7.7289543129799
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94386118493,
+                        -7.7289543129799
+                    ],
+                    [
+                        110.94297057009,
+                        -7.7286711108638
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94297057009,
+                        -7.7286711108638
+                    ],
+                    [
+                        110.94268135834,
+                        -7.7285791500895
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94268135834,
+                        -7.7285791500895
+                    ],
+                    [
+                        110.94233038842,
+                        -7.7284299850379
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94233038842,
+                        -7.7284299850379
+                    ],
+                    [
+                        110.94217277636,
+                        -7.728431971867
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94217277636,
+                        -7.728431971867
+                    ],
+                    [
+                        110.94204292926,
+                        -7.7285225104334
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94204292926,
+                        -7.7285225104334
+                    ],
+                    [
+                        110.9419987546,
+                        -7.7286673165079
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9419987546,
+                        -7.7286673165079
+                    ],
+                    [
+                        110.94189713722,
+                        -7.7288953348945
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94189713722,
+                        -7.7288953348945
+                    ],
+                    [
+                        110.94170890037,
+                        -7.7290957521594
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94170890037,
+                        -7.7290957521594
+                    ],
+                    [
+                        110.94150999639,
+                        -7.7293127666743
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94150999639,
+                        -7.7293127666743
+                    ],
+                    [
+                        110.94133261326,
+                        -7.7296519005367
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94133261326,
+                        -7.7296519005367
+                    ],
+                    [
+                        110.94124651044,
+                        -7.7297576415771
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94124651044,
+                        -7.7297576415771
+                    ],
+                    [
+                        110.94117056164,
+                        -7.7297523122704
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94117056164,
+                        -7.7297523122704
+                    ],
+                    [
+                        110.94100933296,
+                        -7.7296727876754
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94100933296,
+                        -7.7296727876754
+                    ],
+                    [
+                        110.94051758715,
+                        -7.7294210419145
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94051758715,
+                        -7.7294210419145
+                    ],
+                    [
+                        110.94015916933,
+                        -7.7294196078587
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94015916933,
+                        -7.7294196078587
+                    ],
+                    [
+                        110.93890831371,
+                        -7.729401086155
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93890831371,
+                        -7.729401086155
+                    ],
+                    [
+                        110.93847654646,
+                        -7.7292929917943
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93847654646,
+                        -7.7292929917943
+                    ],
+                    [
+                        110.93813920752,
+                        -7.7292062675016
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93813920752,
+                        -7.7292062675016
+                    ],
+                    [
+                        110.93762688537,
+                        -7.7290298115618
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93762688537,
+                        -7.7290298115618
+                    ],
+                    [
+                        110.93733541209,
+                        -7.7290291809284
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93733541209,
+                        -7.7290291809284
+                    ],
+                    [
+                        110.93672010456,
+                        -7.729056489528
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93672010456,
+                        -7.729056489528
+                    ],
+                    [
+                        110.93637004005,
+                        -7.7289285408596
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93637004005,
+                        -7.7289285408596
+                    ],
+                    [
+                        110.93595530906,
+                        -7.7286713648863
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93595530906,
+                        -7.7286713648863
+                    ],
+                    [
+                        110.9357902512,
+                        -7.7284959446564
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9357902512,
+                        -7.7284959446564
+                    ],
+                    [
+                        110.93567735454,
+                        -7.7284491706265
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93567735454,
+                        -7.7284491706265
+                    ],
+                    [
+                        110.93558298384,
+                        -7.7284100700852
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93558298384,
+                        -7.7284100700852
+                    ],
+                    [
+                        110.93489399364,
+                        -7.7282685095111
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93489399364,
+                        -7.7282685095111
+                    ],
+                    [
+                        110.93467218679,
+                        -7.7283193032382
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93467218679,
+                        -7.7283193032382
+                    ],
+                    [
+                        110.93437897863,
+                        -7.7284574127367
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93437897863,
+                        -7.7284574127367
+                    ],
+                    [
+                        110.93393289527,
+                        -7.7286927302644
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93393289527,
+                        -7.7286927302644
+                    ],
+                    [
+                        110.93371516067,
+                        -7.7288548129343
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93371516067,
+                        -7.7288548129343
+                    ],
+                    [
+                        110.93350807188,
+                        -7.7289044143079
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93350807188,
+                        -7.7289044143079
+                    ],
+                    [
+                        110.93332303477,
+                        -7.7288578907453
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93332303477,
+                        -7.7288578907453
+                    ],
+                    [
+                        110.93297492597,
+                        -7.7286998718186
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93297492597,
+                        -7.7286998718186
+                    ],
+                    [
+                        110.93254055744,
+                        -7.7284829517174
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93254055744,
+                        -7.7284829517174
+                    ],
+                    [
+                        110.93239700682,
+                        -7.7285663119585
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93239700682,
+                        -7.7285663119585
+                    ],
+                    [
+                        110.93217315778,
+                        -7.7286822147536
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93217315778,
+                        -7.7286822147536
+                    ],
+                    [
+                        110.93155292179,
+                        -7.7287934679398
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93155292179,
+                        -7.7287934679398
+                    ],
+                    [
+                        110.93146751421,
+                        -7.7289041369934
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93146751421,
+                        -7.7289041369934
+                    ],
+                    [
+                        110.93127469459,
+                        -7.7290936940881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93127469459,
+                        -7.7290936940881
+                    ],
+                    [
+                        110.93098758233,
+                        -7.7292665194792
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93098758233,
+                        -7.7292665194792
+                    ],
+                    [
+                        110.9307650508,
+                        -7.7294734301642
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9307650508,
+                        -7.7294734301642
+                    ],
+                    [
+                        110.93063146024,
+                        -7.7296469224115
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93063146024,
+                        -7.7296469224115
+                    ],
+                    [
+                        110.93047177589,
+                        -7.7297298723187
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93047177589,
+                        -7.7297298723187
+                    ],
+                    [
+                        110.93032369796,
+                        -7.729710273369
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93032369796,
+                        -7.729710273369
+                    ],
+                    [
+                        110.93006314387,
+                        -7.729680678597
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93006314387,
+                        -7.729680678597
+                    ],
+                    [
+                        110.92977032179,
+                        -7.7296629915002
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92977032179,
+                        -7.7296629915002
+                    ],
+                    [
+                        110.92973931959,
+                        -7.7295331720811
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92973931959,
+                        -7.7295331720811
+                    ],
+                    [
+                        110.9297649811,
+                        -7.7292197621424
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9297649811,
+                        -7.7292197621424
+                    ],
+                    [
+                        110.92977582965,
+                        -7.7288203616799
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92977582965,
+                        -7.7288203616799
+                    ],
+                    [
+                        110.92955801822,
+                        -7.7287795389141
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92955801822,
+                        -7.7287795389141
+                    ],
+                    [
+                        110.9292142702,
+                        -7.7288010469467
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9292142702,
+                        -7.7288010469467
+                    ],
+                    [
+                        110.92891219325,
+                        -7.7288708473937
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92891219325,
+                        -7.7288708473937
+                    ],
+                    [
+                        110.92858877958,
+                        -7.7289302325001
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92858877958,
+                        -7.7289302325001
+                    ],
+                    [
+                        110.92834919967,
+                        -7.7288590572766
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92834919967,
+                        -7.7288590572766
+                    ],
+                    [
+                        110.92816002531,
+                        -7.7288278360512
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92816002531,
+                        -7.7288278360512
+                    ],
+                    [
+                        110.92810670356,
+                        -7.7288190346942
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92810670356,
+                        -7.7288190346942
+                    ],
+                    [
+                        110.92789351685,
+                        -7.7288341411981
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92789351685,
+                        -7.7288341411981
+                    ],
+                    [
+                        110.9274747031,
+                        -7.7288848616892
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9274747031,
+                        -7.7288848616892
+                    ],
+                    [
+                        110.92741673297,
+                        -7.7289069232609
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92741673297,
+                        -7.7289069232609
+                    ],
+                    [
+                        110.92636228393,
+                        -7.72937723485
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92636228393,
+                        -7.72937723485
+                    ],
+                    [
+                        110.9257222205,
+                        -7.7296500407094
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9257222205,
+                        -7.7296500407094
+                    ],
+                    [
+                        110.92546767526,
+                        -7.7296950889917
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92546767526,
+                        -7.7296950889917
+                    ],
+                    [
+                        110.92505203224,
+                        -7.7298094257939
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92505203224,
+                        -7.7298094257939
+                    ],
+                    [
+                        110.92474476428,
+                        -7.7299951787148
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92474476428,
+                        -7.7299951787148
+                    ],
+                    [
+                        110.92466248446,
+                        -7.7301507857856
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92466248446,
+                        -7.7301507857856
+                    ],
+                    [
+                        110.9246194912,
+                        -7.7304007188973
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9246194912,
+                        -7.7304007188973
+                    ],
+                    [
+                        110.92456149423,
+                        -7.7305208621884
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92456149423,
+                        -7.7305208621884
+                    ],
+                    [
+                        110.92444364756,
+                        -7.7305720307562
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92444364756,
+                        -7.7305720307562
+                    ],
+                    [
+                        110.92413778014,
+                        -7.7306801264644
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92413778014,
+                        -7.7306801264644
+                    ],
+                    [
+                        110.92391740581,
+                        -7.7309213712466
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92391740581,
+                        -7.7309213712466
+                    ],
+                    [
+                        110.92377399824,
+                        -7.7310022681625
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92377399824,
+                        -7.7310022681625
+                    ],
+                    [
+                        110.92361786817,
+                        -7.730977581788
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92361786817,
+                        -7.730977581788
+                    ],
+                    [
+                        110.92345007468,
+                        -7.7308588817015
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92345007468,
+                        -7.7308588817015
+                    ],
+                    [
+                        110.92328975244,
+                        -7.7307980570366
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92328975244,
+                        -7.7307980570366
+                    ],
+                    [
+                        110.9231752536,
+                        -7.7308396645883
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9231752536,
+                        -7.7308396645883
+                    ],
+                    [
+                        110.92305733499,
+                        -7.7309862011699
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92305733499,
+                        -7.7309862011699
+                    ],
+                    [
+                        110.92258659726,
+                        -7.7316529713034
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92258659726,
+                        -7.7316529713034
+                    ],
+                    [
+                        110.92221660494,
+                        -7.7319058750234
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92221660494,
+                        -7.7319058750234
+                    ],
+                    [
+                        110.92218037447,
+                        -7.7319621414798
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92218037447,
+                        -7.7319621414798
+                    ],
+                    [
+                        110.92218531583,
+                        -7.7320174113704
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92218531583,
+                        -7.7320174113704
+                    ],
+                    [
+                        110.9222146112,
+                        -7.7324432140683
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9222146112,
+                        -7.7324432140683
+                    ],
+                    [
+                        110.92216524435,
+                        -7.732724262802
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92216524435,
+                        -7.732724262802
+                    ],
+                    [
+                        110.92204111958,
+                        -7.7328340363846
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92204111958,
+                        -7.7328340363846
+                    ],
+                    [
+                        110.92187482587,
+                        -7.7328922690854
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92187482587,
+                        -7.7328922690854
+                    ],
+                    [
+                        110.92162092984,
+                        -7.7328957413074
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92162092984,
+                        -7.7328957413074
+                    ],
+                    [
+                        110.92138095791,
+                        -7.7329281620569
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92138095791,
+                        -7.7329281620569
+                    ],
+                    [
+                        110.92137572454,
+                        -7.7329322316404
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92137572454,
+                        -7.7329322316404
+                    ],
+                    [
+                        110.9212316843,
+                        -7.7330442355935
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9212316843,
+                        -7.7330442355935
+                    ],
+                    [
+                        110.92112557643,
+                        -7.7332147538391
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92112557643,
+                        -7.7332147538391
+                    ],
+                    [
+                        110.92097886011,
+                        -7.7334278243727
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92097886011,
+                        -7.7334278243727
+                    ],
+                    [
+                        110.92071552666,
+                        -7.7337531388962
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92071552666,
+                        -7.7337531388962
+                    ],
+                    [
+                        110.92059732536,
+                        -7.733899159107
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92059732536,
+                        -7.733899159107
+                    ],
+                    [
+                        110.92057417252,
+                        -7.734144201729
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92057417252,
+                        -7.734144201729
+                    ],
+                    [
+                        110.92046172659,
+                        -7.7344035379498
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92046172659,
+                        -7.7344035379498
+                    ],
+                    [
+                        110.92043688941,
+                        -7.7345865903375
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92043688941,
+                        -7.7345865903375
+                    ],
+                    [
+                        110.92045192073,
+                        -7.7362084617777
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92045192073,
+                        -7.7362084617777
+                    ],
+                    [
+                        110.92032950453,
+                        -7.7366292429935
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92032950453,
+                        -7.7366292429935
+                    ],
+                    [
+                        110.92009778722,
+                        -7.736976335865
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92009778722,
+                        -7.736976335865
+                    ],
+                    [
+                        110.91987348084,
+                        -7.7371679351236
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91987348084,
+                        -7.7371679351236
+                    ],
+                    [
+                        110.91985186688,
+                        -7.7371844122539
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91985186688,
+                        -7.7371844122539
+                    ],
+                    [
+                        110.91984846561,
+                        -7.7371869986732
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91984846561,
+                        -7.7371869986732
+                    ],
+                    [
+                        110.9192035382,
+                        -7.7376785356971
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9192035382,
+                        -7.7376785356971
+                    ],
+                    [
+                        110.91896604672,
+                        -7.7379564275448
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91896604672,
+                        -7.7379564275448
+                    ],
+                    [
+                        110.91887608141,
+                        -7.7381624433979
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91887608141,
+                        -7.7381624433979
+                    ],
+                    [
+                        110.91880231804,
+                        -7.7382939080017
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91880231804,
+                        -7.7382939080017
+                    ],
+                    [
+                        110.91871846446,
+                        -7.73831296028
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91871846446,
+                        -7.73831296028
+                    ],
+                    [
+                        110.91824437388,
+                        -7.7383234078793
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91824437388,
+                        -7.7383234078793
+                    ],
+                    [
+                        110.91787570374,
+                        -7.7384019166949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91787570374,
+                        -7.7384019166949
+                    ],
+                    [
+                        110.91756056499,
+                        -7.7384414306634
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91756056499,
+                        -7.7384414306634
+                    ],
+                    [
+                        110.91707499424,
+                        -7.7384000069432
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91707499424,
+                        -7.7384000069432
+                    ],
+                    [
+                        110.91680824799,
+                        -7.738292836334
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91680824799,
+                        -7.738292836334
+                    ],
+                    [
+                        110.91615935851,
+                        -7.7379268034184
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91615935851,
+                        -7.7379268034184
+                    ],
+                    [
+                        110.91584752081,
+                        -7.7376928394142
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91584752081,
+                        -7.7376928394142
+                    ],
+                    [
+                        110.91566543225,
+                        -7.7376768559654
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91566543225,
+                        -7.7376768559654
+                    ],
+                    [
+                        110.91556422433,
+                        -7.7376337967098
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91556422433,
+                        -7.7376337967098
+                    ],
+                    [
+                        110.91548578372,
+                        -7.7374760610963
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91548578372,
+                        -7.7374760610963
+                    ],
+                    [
+                        110.91545503922,
+                        -7.7372554404651
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91545503922,
+                        -7.7372554404651
+                    ],
+                    [
+                        110.91540058452,
+                        -7.73678442228
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91540058452,
+                        -7.73678442228
+                    ],
+                    [
+                        110.91523329484,
+                        -7.7365044983375
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91523329484,
+                        -7.7365044983375
+                    ],
+                    [
+                        110.91513073597,
+                        -7.7364616196249
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91513073597,
+                        -7.7364616196249
+                    ],
+                    [
+                        110.91500349443,
+                        -7.7364972341899
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91500349443,
+                        -7.7364972341899
+                    ],
+                    [
+                        110.91472866342,
+                        -7.7366469030824
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91472866342,
+                        -7.7366469030824
+                    ],
+                    [
+                        110.91445128334,
+                        -7.7368893616379
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91445128334,
+                        -7.7368893616379
+                    ],
+                    [
+                        110.91405232159,
+                        -7.7372492714833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91405232159,
+                        -7.7372492714833
+                    ],
+                    [
+                        110.91400928232,
+                        -7.7372888827898
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91400928232,
+                        -7.7372888827898
+                    ],
+                    [
+                        110.91378581783,
+                        -7.7374290725154
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91378581783,
+                        -7.7374290725154
+                    ],
+                    [
+                        110.91352748384,
+                        -7.7374800558324
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91352748384,
+                        -7.7374800558324
+                    ],
+                    [
+                        110.9134901916,
+                        -7.7374874114372
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9134901916,
+                        -7.7374874114372
+                    ],
+                    [
+                        110.91313056377,
+                        -7.7375617027111
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91313056377,
+                        -7.7375617027111
+                    ],
+                    [
+                        110.9130345395,
+                        -7.7376708189983
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9130345395,
+                        -7.7376708189983
+                    ],
+                    [
+                        110.91284687185,
+                        -7.7379292151149
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91284687185,
+                        -7.7379292151149
+                    ],
+                    [
+                        110.91253888521,
+                        -7.7381596806432
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91253888521,
+                        -7.7381596806432
+                    ],
+                    [
+                        110.91214771505,
+                        -7.7384549680849
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91214771505,
+                        -7.7384549680849
+                    ],
+                    [
+                        110.91207904023,
+                        -7.7386153515124
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91207904023,
+                        -7.7386153515124
+                    ],
+                    [
+                        110.91208283277,
+                        -7.7388693543175
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "110",
+                "NAMA_SUNGAI": "Kali Celep",
+                "FOTO": "sungai-110_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91208283277,
+                        -7.7388693543175
+                    ],
+                    [
+                        110.91209930424,
+                        -7.7390322157031
+                    ]
+                ]
+            }
+        }
+    ]
+}

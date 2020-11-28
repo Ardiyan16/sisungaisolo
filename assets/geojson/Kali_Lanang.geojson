@@ -1,0 +1,5129 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.894434059,
+                        -7.98217477953
+                    ],
+                    [
+                        110.894233188,
+                        -7.98338982377
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.894233188,
+                        -7.98338982377
+                    ],
+                    [
+                        110.894079477,
+                        -7.98360996857
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.894079477,
+                        -7.98360996857
+                    ],
+                    [
+                        110.893810504,
+                        -7.98390666952
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.893810504,
+                        -7.98390666952
+                    ],
+                    [
+                        110.893512745,
+                        -7.98410763067
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.893512745,
+                        -7.98410763067
+                    ],
+                    [
+                        110.893213467,
+                        -7.98437779761
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.893213467,
+                        -7.98437779761
+                    ],
+                    [
+                        110.892949331,
+                        -7.98453329421
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.892949331,
+                        -7.98453329421
+                    ],
+                    [
+                        110.892841258,
+                        -7.98466489804
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.892841258,
+                        -7.98466489804
+                    ],
+                    [
+                        110.89276916,
+                        -7.98494010947
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89276916,
+                        -7.98494010947
+                    ],
+                    [
+                        110.89261302,
+                        -7.98526316519
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89261302,
+                        -7.98526316519
+                    ],
+                    [
+                        110.892564949,
+                        -7.98546658366
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.892564949,
+                        -7.98546658366
+                    ],
+                    [
+                        110.892468861,
+                        -7.98566998964
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.892468861,
+                        -7.98566998964
+                    ],
+                    [
+                        110.892372767,
+                        -7.98589732865
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.892372767,
+                        -7.98589732865
+                    ],
+                    [
+                        110.892324702,
+                        -7.98607681403
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.892324702,
+                        -7.98607681403
+                    ],
+                    [
+                        110.892276647,
+                        -7.98622039982
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.892276647,
+                        -7.98622039982
+                    ],
+                    [
+                        110.892228564,
+                        -7.98647168434
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.892228564,
+                        -7.98647168434
+                    ],
+                    [
+                        110.892192513,
+                        -7.98661527325
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.892192513,
+                        -7.98661527325
+                    ],
+                    [
+                        110.892204461,
+                        -7.98683067382
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.892204461,
+                        -7.98683067382
+                    ],
+                    [
+                        110.892360461,
+                        -7.9870461119
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.892360461,
+                        -7.9870461119
+                    ],
+                    [
+                        110.892552491,
+                        -7.98720172665
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.892552491,
+                        -7.98720172665
+                    ],
+                    [
+                        110.892720537,
+                        -7.98726160289
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.892720537,
+                        -7.98726160289
+                    ],
+                    [
+                        110.892924581,
+                        -7.98738132102
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.892924581,
+                        -7.98738132102
+                    ],
+                    [
+                        110.893140626,
+                        -7.98751300866
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.893140626,
+                        -7.98751300866
+                    ],
+                    [
+                        110.893416687,
+                        -7.98766864472
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.893416687,
+                        -7.98766864472
+                    ],
+                    [
+                        110.893476675,
+                        -7.98780029195
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.893476675,
+                        -7.98780029195
+                    ],
+                    [
+                        110.89359667,
+                        -7.98799178724
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89359667,
+                        -7.98799178724
+                    ],
+                    [
+                        110.893596636,
+                        -7.98812341901
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.893596636,
+                        -7.98812341901
+                    ],
+                    [
+                        110.893584601,
+                        -7.98824308116
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.893584601,
+                        -7.98824308116
+                    ],
+                    [
+                        110.893500517,
+                        -7.98844649044
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.893500517,
+                        -7.98844649044
+                    ],
+                    [
+                        110.893392455,
+                        -7.98853022828
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.893392455,
+                        -7.98853022828
+                    ],
+                    [
+                        110.893296413,
+                        -7.98855413656
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.893296413,
+                        -7.98855413656
+                    ],
+                    [
+                        110.893068307,
+                        -7.98863784331
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.893068307,
+                        -7.98863784331
+                    ],
+                    [
+                        110.892804203,
+                        -7.98866170799
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.892804203,
+                        -7.98866170799
+                    ],
+                    [
+                        110.892540105,
+                        -7.98866163946
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.892540105,
+                        -7.98866163946
+                    ],
+                    [
+                        110.892396049,
+                        -7.98867356853
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.892396049,
+                        -7.98867356853
+                    ],
+                    [
+                        110.892239988,
+                        -7.98868549442
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.892239988,
+                        -7.98868549442
+                    ],
+                    [
+                        110.891951875,
+                        -7.98870935229
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.891951875,
+                        -7.98870935229
+                    ],
+                    [
+                        110.891759766,
+                        -7.98885290035
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.891759766,
+                        -7.98885290035
+                    ],
+                    [
+                        110.891627669,
+                        -7.98903236361
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.891627669,
+                        -7.98903236361
+                    ],
+                    [
+                        110.891471561,
+                        -7.98922378705
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.891471561,
+                        -7.98922378705
+                    ],
+                    [
+                        110.891387485,
+                        -7.98939129631
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.891387485,
+                        -7.98939129631
+                    ],
+                    [
+                        110.891315411,
+                        -7.98957077523
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.891315411,
+                        -7.98957077523
+                    ],
+                    [
+                        110.891195315,
+                        -7.98976220802
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.891195315,
+                        -7.98976220802
+                    ],
+                    [
+                        110.891075236,
+                        -7.98989380816
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.891075236,
+                        -7.98989380816
+                    ],
+                    [
+                        110.890955156,
+                        -7.99002540826
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.890955156,
+                        -7.99002540826
+                    ],
+                    [
+                        110.890823049,
+                        -7.99024077082
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.890823049,
+                        -7.99024077082
+                    ],
+                    [
+                        110.890714993,
+                        -7.99030057488
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.890714993,
+                        -7.99030057488
+                    ],
+                    [
+                        110.890582918,
+                        -7.99039627214
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.890582918,
+                        -7.99039627214
+                    ],
+                    [
+                        110.89042684,
+                        -7.99046802994
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89042684,
+                        -7.99046802994
+                    ],
+                    [
+                        110.890258755,
+                        -7.99055175102
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.890258755,
+                        -7.99055175102
+                    ],
+                    [
+                        110.890102665,
+                        -7.99067137479
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.890102665,
+                        -7.99067137479
+                    ],
+                    [
+                        110.889934576,
+                        -7.99076706225
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.889934576,
+                        -7.99076706225
+                    ],
+                    [
+                        110.889718459,
+                        -7.99089863641
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.889718459,
+                        -7.99089863641
+                    ],
+                    [
+                        110.889622398,
+                        -7.99099434295
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.889622398,
+                        -7.99099434295
+                    ],
+                    [
+                        110.889502311,
+                        -7.99114987566
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.889502311,
+                        -7.99114987566
+                    ],
+                    [
+                        110.889406232,
+                        -7.99130541475
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.889406232,
+                        -7.99130541475
+                    ],
+                    [
+                        110.889322133,
+                        -7.9915566892
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.889322133,
+                        -7.9915566892
+                    ],
+                    [
+                        110.889298076,
+                        -7.99173618058
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.889298076,
+                        -7.99173618058
+                    ],
+                    [
+                        110.889250003,
+                        -7.99193959857
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.889250003,
+                        -7.99193959857
+                    ],
+                    [
+                        110.889273925,
+                        -7.99226270104
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.889273925,
+                        -7.99226270104
+                    ],
+                    [
+                        110.889237824,
+                        -7.99258578744
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.889237824,
+                        -7.99258578744
+                    ],
+                    [
+                        110.889225771,
+                        -7.99276528202
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.889225771,
+                        -7.99276528202
+                    ],
+                    [
+                        110.889201717,
+                        -7.99293280686
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.889201717,
+                        -7.99293280686
+                    ],
+                    [
+                        110.889201675,
+                        -7.99308837162
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.889201675,
+                        -7.99308837162
+                    ],
+                    [
+                        110.889201629,
+                        -7.99325590289
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.889201629,
+                        -7.99325590289
+                    ],
+                    [
+                        110.88915355,
+                        -7.99348325389
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88915355,
+                        -7.99348325389
+                    ],
+                    [
+                        110.889105483,
+                        -7.9936627388
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.889105483,
+                        -7.9936627388
+                    ],
+                    [
+                        110.889033391,
+                        -7.99390204985
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.889033391,
+                        -7.99390204985
+                    ],
+                    [
+                        110.888949307,
+                        -7.99409349159
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.888949307,
+                        -7.99409349159
+                    ],
+                    [
+                        110.888913231,
+                        -7.99432084577
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.888913231,
+                        -7.99432084577
+                    ],
+                    [
+                        110.888889177,
+                        -7.99448837057
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.888889177,
+                        -7.99448837057
+                    ],
+                    [
+                        110.888805096,
+                        -7.99466784575
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.888805096,
+                        -7.99466784575
+                    ],
+                    [
+                        110.888768998,
+                        -7.99497896554
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.888768998,
+                        -7.99497896554
+                    ],
+                    [
+                        110.888696905,
+                        -7.99521827652
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.888696905,
+                        -7.99521827652
+                    ],
+                    [
+                        110.88860079,
+                        -7.99550544707
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88860079,
+                        -7.99550544707
+                    ],
+                    [
+                        110.888516696,
+                        -7.99573278825
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.888516696,
+                        -7.99573278825
+                    ],
+                    [
+                        110.888480623,
+                        -7.99594817585
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.888480623,
+                        -7.99594817585
+                    ],
+                    [
+                        110.888264422,
+                        -7.99637891211
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.888264422,
+                        -7.99637891211
+                    ],
+                    [
+                        110.888192345,
+                        -7.99655839038
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.888192345,
+                        -7.99655839038
+                    ],
+                    [
+                        110.888096239,
+                        -7.99680966124
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.888096239,
+                        -7.99680966124
+                    ],
+                    [
+                        110.887940117,
+                        -7.99703698277
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.887940117,
+                        -7.99703698277
+                    ],
+                    [
+                        110.887856041,
+                        -7.99719252468
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.887856041,
+                        -7.99719252468
+                    ],
+                    [
+                        110.887783964,
+                        -7.99737200288
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.887783964,
+                        -7.99737200288
+                    ],
+                    [
+                        110.887723875,
+                        -7.9976113169
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.887723875,
+                        -7.9976113169
+                    ],
+                    [
+                        110.887675817,
+                        -7.99775490204
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.887675817,
+                        -7.99775490204
+                    ],
+                    [
+                        110.887579714,
+                        -7.99799420624
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.887579714,
+                        -7.99799420624
+                    ],
+                    [
+                        110.887567614,
+                        -7.99834123194
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.887567614,
+                        -7.99834123194
+                    ],
+                    [
+                        110.88755556,
+                        -7.99852072641
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88755556,
+                        -7.99852072641
+                    ],
+                    [
+                        110.887471458,
+                        -7.99877200036
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.887471458,
+                        -7.99877200036
+                    ],
+                    [
+                        110.8874834,
+                        -7.99899936743
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8874834,
+                        -7.99899936743
+                    ],
+                    [
+                        110.887483328,
+                        -7.99926263077
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.887483328,
+                        -7.99926263077
+                    ],
+                    [
+                        110.887483253,
+                        -7.99953786062
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.887483253,
+                        -7.99953786062
+                    ],
+                    [
+                        110.887447192,
+                        -7.99970538202
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.887447192,
+                        -7.99970538202
+                    ],
+                    [
+                        110.887459141,
+                        -7.99990881605
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.887459141,
+                        -7.99990881605
+                    ],
+                    [
+                        110.887399042,
+                        -8.00018402953
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.887399042,
+                        -8.00018402953
+                    ],
+                    [
+                        110.887314923,
+                        -8.00049513599
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.887314923,
+                        -8.00049513599
+                    ],
+                    [
+                        110.887242825,
+                        -8.00074641313
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.887242825,
+                        -8.00074641313
+                    ],
+                    [
+                        110.88719476,
+                        -8.00091393122
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88719476,
+                        -8.00091393122
+                    ],
+                    [
+                        110.887134703,
+                        -8.00103357996
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.887134703,
+                        -8.00103357996
+                    ],
+                    [
+                        110.887062615,
+                        -8.00124895752
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.887062615,
+                        -8.00124895752
+                    ],
+                    [
+                        110.887002555,
+                        -8.00138057276
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.887002555,
+                        -8.00138057276
+                    ],
+                    [
+                        110.886906453,
+                        -8.00160791023
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.886906453,
+                        -8.00160791023
+                    ],
+                    [
+                        110.886798347,
+                        -8.00183524438
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.886798347,
+                        -8.00183524438
+                    ],
+                    [
+                        110.886738297,
+                        -8.00193096003
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.886738297,
+                        -8.00193096003
+                    ],
+                    [
+                        110.886678167,
+                        -8.00231387199
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.886678167,
+                        -8.00231387199
+                    ],
+                    [
+                        110.886630101,
+                        -8.00248138999
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.886630101,
+                        -8.00248138999
+                    ],
+                    [
+                        110.886606038,
+                        -8.00267284761
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.886606038,
+                        -8.00267284761
+                    ],
+                    [
+                        110.886593981,
+                        -8.00286430852
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.886593981,
+                        -8.00286430852
+                    ],
+                    [
+                        110.886617947,
+                        -8.00301987978
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.886617947,
+                        -8.00301987978
+                    ],
+                    [
+                        110.886617908,
+                        -8.00316347794
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.886617908,
+                        -8.00316347794
+                    ],
+                    [
+                        110.886617848,
+                        -8.00337887517
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.886617848,
+                        -8.00337887517
+                    ],
+                    [
+                        110.886617815,
+                        -8.00349854029
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.886617815,
+                        -8.00349854029
+                    ],
+                    [
+                        110.886653754,
+                        -8.00377377997
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.886653754,
+                        -8.00377377997
+                    ],
+                    [
+                        110.886677717,
+                        -8.00394131774
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.886677717,
+                        -8.00394131774
+                    ],
+                    [
+                        110.886665659,
+                        -8.00413277864
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.886665659,
+                        -8.00413277864
+                    ],
+                    [
+                        110.886653595,
+                        -8.00434817256
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.886653595,
+                        -8.00434817256
+                    ],
+                    [
+                        110.886581526,
+                        -8.00449175092
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.886581526,
+                        -8.00449175092
+                    ],
+                    [
+                        110.886473445,
+                        -8.00462335285
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.886473445,
+                        -8.00462335285
+                    ],
+                    [
+                        110.886245325,
+                        -8.00471902215
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.886245325,
+                        -8.00471902215
+                    ],
+                    [
+                        110.88607724,
+                        -8.00477880835
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88607724,
+                        -8.00477880835
+                    ],
+                    [
+                        110.885861151,
+                        -8.00477874865
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.885861151,
+                        -8.00477874865
+                    ],
+                    [
+                        110.885633065,
+                        -8.00475475249
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.885633065,
+                        -8.00475475249
+                    ],
+                    [
+                        110.885404981,
+                        -8.0047187897
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.885404981,
+                        -8.0047187897
+                    ],
+                    [
+                        110.885188906,
+                        -8.0046708636
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.885188906,
+                        -8.0046708636
+                    ],
+                    [
+                        110.884924808,
+                        -8.00463489053
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.884924808,
+                        -8.00463489053
+                    ],
+                    [
+                        110.884744738,
+                        -8.00462287377
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.884744738,
+                        -8.00462287377
+                    ],
+                    [
+                        110.884564664,
+                        -8.00462282345
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.884564664,
+                        -8.00462282345
+                    ],
+                    [
+                        110.884384591,
+                        -8.00462277305
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.884384591,
+                        -8.00462277305
+                    ],
+                    [
+                        110.884168495,
+                        -8.00464664549
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.884168495,
+                        -8.00464664549
+                    ],
+                    [
+                        110.884060411,
+                        -8.00479021329
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.884060411,
+                        -8.00479021329
+                    ],
+                    [
+                        110.883916304,
+                        -8.00495770395
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.883916304,
+                        -8.00495770395
+                    ],
+                    [
+                        110.883808229,
+                        -8.00506537214
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.883808229,
+                        -8.00506537214
+                    ],
+                    [
+                        110.883616127,
+                        -8.0051490836
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.883616127,
+                        -8.0051490836
+                    ],
+                    [
+                        110.883436002,
+                        -8.00532853044
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.883436002,
+                        -8.00532853044
+                    ],
+                    [
+                        110.883327934,
+                        -8.00541226548
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.883327934,
+                        -8.00541226548
+                    ],
+                    [
+                        110.883159824,
+                        -8.00555581606
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.883159824,
+                        -8.00555581606
+                    ],
+                    [
+                        110.883027739,
+                        -8.00566347724
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.883027739,
+                        -8.00566347724
+                    ],
+                    [
+                        110.882811646,
+                        -8.00567538245
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.882811646,
+                        -8.00567538245
+                    ],
+                    [
+                        110.882684371,
+                        -8.00575432526
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.882684371,
+                        -8.00575432526
+                    ],
+                    [
+                        110.882482655,
+                        -8.00586914637
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.882482655,
+                        -8.00586914637
+                    ],
+                    [
+                        110.882309768,
+                        -8.00592653636
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.882309768,
+                        -8.00592653636
+                    ],
+                    [
+                        110.88206004,
+                        -8.00601262394
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88206004,
+                        -8.00601262394
+                    ],
+                    [
+                        110.88195438,
+                        -8.00607003298
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88195438,
+                        -8.00607003298
+                    ],
+                    [
+                        110.88179109,
+                        -8.00614657191
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88179109,
+                        -8.00614657191
+                    ],
+                    [
+                        110.881695034,
+                        -8.00620398363
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.881695034,
+                        -8.00620398363
+                    ],
+                    [
+                        110.881502935,
+                        -8.00627094097
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.881502935,
+                        -8.00627094097
+                    ],
+                    [
+                        110.881301227,
+                        -8.00635704187
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.881301227,
+                        -8.00635704187
+                    ],
+                    [
+                        110.881118732,
+                        -8.0064240018
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.881118732,
+                        -8.0064240018
+                    ],
+                    [
+                        110.880907431,
+                        -8.00647180691
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.880907431,
+                        -8.00647180691
+                    ],
+                    [
+                        110.880600076,
+                        -8.00656745017
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.880600076,
+                        -8.00656745017
+                    ],
+                    [
+                        110.880359957,
+                        -8.00663439308
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.880359957,
+                        -8.00663439308
+                    ],
+                    [
+                        110.879966172,
+                        -8.00671086438
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.879966172,
+                        -8.00671086438
+                    ],
+                    [
+                        110.879591569,
+                        -8.00687349977
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.879591569,
+                        -8.00687349977
+                    ],
+                    [
+                        110.879245806,
+                        -8.00694041118
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.879245806,
+                        -8.00694041118
+                    ],
+                    [
+                        110.878986498,
+                        -8.00694033522
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.878986498,
+                        -8.00694033522
+                    ],
+                    [
+                        110.878717587,
+                        -8.00694025627
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.878717587,
+                        -8.00694025627
+                    ],
+                    [
+                        110.878482622,
+                        -8.00689774593
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.878482622,
+                        -8.00689774593
+                    ],
+                    [
+                        110.878324199,
+                        -8.00675410115
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.878324199,
+                        -8.00675410115
+                    ],
+                    [
+                        110.878050507,
+                        -8.00668222131
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.878050507,
+                        -8.00668222131
+                    ],
+                    [
+                        110.877906482,
+                        -8.00656730025
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.877906482,
+                        -8.00656730025
+                    ],
+                    [
+                        110.877762448,
+                        -8.00648109875
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.877762448,
+                        -8.00648109875
+                    ],
+                    [
+                        110.877575187,
+                        -8.006423604
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.877575187,
+                        -8.006423604
+                    ],
+                    [
+                        110.877416748,
+                        -8.00633739811
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.877416748,
+                        -8.00633739811
+                    ],
+                    [
+                        110.87727271,
+                        -8.00626555626
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87727271,
+                        -8.00626555626
+                    ],
+                    [
+                        110.87701342,
+                        -8.00620803983
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87701342,
+                        -8.00620803983
+                    ],
+                    [
+                        110.876826164,
+                        -8.00613618493
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.876826164,
+                        -8.00613618493
+                    ],
+                    [
+                        110.876610114,
+                        -8.00600688211
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.876610114,
+                        -8.00600688211
+                    ],
+                    [
+                        110.876221188,
+                        -8.00589188717
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.876221188,
+                        -8.00589188717
+                    ],
+                    [
+                        110.876005117,
+                        -8.00583438307
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.876005117,
+                        -8.00583438307
+                    ],
+                    [
+                        110.875832241,
+                        -8.00584869091
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.875832241,
+                        -8.00584869091
+                    ],
+                    [
+                        110.875688151,
+                        -8.00594916619
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.875688151,
+                        -8.00594916619
+                    ],
+                    [
+                        110.875558437,
+                        -8.00615016443
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.875558437,
+                        -8.00615016443
+                    ],
+                    [
+                        110.875414308,
+                        -8.00637987788
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.875414308,
+                        -8.00637987788
+                    ],
+                    [
+                        110.875270165,
+                        -8.0066526707
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.875270165,
+                        -8.0066526707
+                    ],
+                    [
+                        110.875111664,
+                        -8.00676750123
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.875111664,
+                        -8.00676750123
+                    ],
+                    [
+                        110.874837863,
+                        -8.00705461443
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.874837863,
+                        -8.00705461443
+                    ],
+                    [
+                        110.874722576,
+                        -8.00718381771
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.874722576,
+                        -8.00718381771
+                    ],
+                    [
+                        110.874535246,
+                        -8.00735607849
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.874535246,
+                        -8.00735607849
+                    ],
+                    [
+                        110.874391133,
+                        -8.00752835233
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.874391133,
+                        -8.00752835233
+                    ],
+                    [
+                        110.874232592,
+                        -8.00777242076
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.874232592,
+                        -8.00777242076
+                    ],
+                    [
+                        110.874102868,
+                        -8.0080021381
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.874102868,
+                        -8.0080021381
+                    ],
+                    [
+                        110.87391555,
+                        -8.00813131917
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87391555,
+                        -8.00813131917
+                    ],
+                    [
+                        110.873771419,
+                        -8.008361032
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.873771419,
+                        -8.008361032
+                    ],
+                    [
+                        110.873656127,
+                        -8.00850459477
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.873656127,
+                        -8.00850459477
+                    ],
+                    [
+                        110.873425568,
+                        -8.00870556138
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.873425568,
+                        -8.00870556138
+                    ],
+                    [
+                        110.873195041,
+                        -8.00880600923
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.873195041,
+                        -8.00880600923
+                    ],
+                    [
+                        110.872892487,
+                        -8.00889207496
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.872892487,
+                        -8.00889207496
+                    ],
+                    [
+                        110.872445909,
+                        -8.00886321752
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.872445909,
+                        -8.00886321752
+                    ],
+                    [
+                        110.872129003,
+                        -8.00877696059
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.872129003,
+                        -8.00877696059
+                    ],
+                    [
+                        110.871884114,
+                        -8.0087338052
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.871884114,
+                        -8.0087338052
+                    ],
+                    [
+                        110.871596002,
+                        -8.00870499602
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.871596002,
+                        -8.00870499602
+                    ],
+                    [
+                        110.87139434,
+                        -8.00863313418
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87139434,
+                        -8.00863313418
+                    ],
+                    [
+                        110.871135041,
+                        -8.00860433366
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.871135041,
+                        -8.00860433366
+                    ],
+                    [
+                        110.870890179,
+                        -8.00847501887
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.870890179,
+                        -8.00847501887
+                    ],
+                    [
+                        110.870789378,
+                        -8.00834574907
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.870789378,
+                        -8.00834574907
+                    ],
+                    [
+                        110.870717411,
+                        -8.00814468926
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.870717411,
+                        -8.00814468926
+                    ],
+                    [
+                        110.870674247,
+                        -8.00797235807
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.870674247,
+                        -8.00797235807
+                    ],
+                    [
+                        110.870616691,
+                        -8.00775694295
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.870616691,
+                        -8.00775694295
+                    ],
+                    [
+                        110.870587916,
+                        -8.00764205549
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.870587916,
+                        -8.00764205549
+                    ],
+                    [
+                        110.870501534,
+                        -8.00746971073
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.870501534,
+                        -8.00746971073
+                    ],
+                    [
+                        110.870386322,
+                        -8.00735479611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.870386322,
+                        -8.00735479611
+                    ],
+                    [
+                        110.870141484,
+                        -8.00715368186
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.870141484,
+                        -8.00715368186
+                    ],
+                    [
+                        110.870098285,
+                        -8.00709622904
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.870098285,
+                        -8.00709622904
+                    ],
+                    [
+                        110.869911066,
+                        -8.0069094926
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.869911066,
+                        -8.0069094926
+                    ],
+                    [
+                        110.869752601,
+                        -8.00690944261
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.869752601,
+                        -8.00690944261
+                    ],
+                    [
+                        110.869550913,
+                        -8.00692373871
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.869550913,
+                        -8.00692373871
+                    ],
+                    [
+                        110.869450066,
+                        -8.00693806662
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.869450066,
+                        -8.00693806662
+                    ],
+                    [
+                        110.869277149,
+                        -8.00708160993
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.869277149,
+                        -8.00708160993
+                    ],
+                    [
+                        110.869118669,
+                        -8.00712463911
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.869118669,
+                        -8.00712463911
+                    ],
+                    [
+                        110.868974559,
+                        -8.00728255122
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.868974559,
+                        -8.00728255122
+                    ],
+                    [
+                        110.868916899,
+                        -8.00739741134
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.868916899,
+                        -8.00739741134
+                    ],
+                    [
+                        110.86898886,
+                        -8.00761283126
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86898886,
+                        -8.00761283126
+                    ],
+                    [
+                        110.869060812,
+                        -8.00785697077
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.869060812,
+                        -8.00785697077
+                    ],
+                    [
+                        110.869132791,
+                        -8.00801495145
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.869132791,
+                        -8.00801495145
+                    ],
+                    [
+                        110.869262381,
+                        -8.00821602979
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.869262381,
+                        -8.00821602979
+                    ],
+                    [
+                        110.869276732,
+                        -8.00838835199
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.869276732,
+                        -8.00838835199
+                    ],
+                    [
+                        110.869305453,
+                        -8.00867555716
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.869305453,
+                        -8.00867555716
+                    ],
+                    [
+                        110.869334182,
+                        -8.00893404272
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.869334182,
+                        -8.00893404272
+                    ],
+                    [
+                        110.869290909,
+                        -8.00910634666
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.869290909,
+                        -8.00910634666
+                    ],
+                    [
+                        110.869204432,
+                        -8.00923555748
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.869204432,
+                        -8.00923555748
+                    ],
+                    [
+                        110.868988272,
+                        -8.00945088593
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.868988272,
+                        -8.00945088593
+                    ],
+                    [
+                        110.868786518,
+                        -8.00966621885
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.868786518,
+                        -8.00966621885
+                    ],
+                    [
+                        110.868642398,
+                        -8.00985285042
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.868642398,
+                        -8.00985285042
+                    ],
+                    [
+                        110.868512679,
+                        -8.01005384632
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.868512679,
+                        -8.01005384632
+                    ],
+                    [
+                        110.86832534,
+                        -8.01024046399
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86832534,
+                        -8.01024046399
+                    ],
+                    [
+                        110.868166808,
+                        -8.01044145058
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.868166808,
+                        -8.01044145058
+                    ],
+                    [
+                        110.867993894,
+                        -8.01057063349
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867993894,
+                        -8.01057063349
+                    ],
+                    [
+                        110.867835376,
+                        -8.01072854055
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867835376,
+                        -8.01072854055
+                    ],
+                    [
+                        110.867676862,
+                        -8.01087208774
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867676862,
+                        -8.01087208774
+                    ],
+                    [
+                        110.867475061,
+                        -8.01123101797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867475061,
+                        -8.01123101797
+                    ],
+                    [
+                        110.867345354,
+                        -8.01138893408
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867345354,
+                        -8.01138893408
+                    ],
+                    [
+                        110.867085979,
+                        -8.01158988778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867085979,
+                        -8.01158988778
+                    ],
+                    [
+                        110.866927442,
+                        -8.01180523366
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.866927442,
+                        -8.01180523366
+                    ],
+                    [
+                        110.866869766,
+                        -8.01196317285
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.866869766,
+                        -8.01196317285
+                    ],
+                    [
+                        110.866884093,
+                        -8.01220729407
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.866884093,
+                        -8.01220729407
+                    ],
+                    [
+                        110.866869649,
+                        -8.01232216781
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.866869649,
+                        -8.01232216781
+                    ],
+                    [
+                        110.866984833,
+                        -8.01252324217
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.866984833,
+                        -8.01252324217
+                    ],
+                    [
+                        110.867085592,
+                        -8.01278175105
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867085592,
+                        -8.01278175105
+                    ],
+                    [
+                        110.867114349,
+                        -8.01295407792
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867114349,
+                        -8.01295407792
+                    ],
+                    [
+                        110.867143031,
+                        -8.01335616154
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867143031,
+                        -8.01335616154
+                    ],
+                    [
+                        110.867085332,
+                        -8.01358589973
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867085332,
+                        -8.01358589973
+                    ],
+                    [
+                        110.867013179,
+                        -8.01395923123
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.867013179,
+                        -8.01395923123
+                    ],
+                    [
+                        110.866912243,
+                        -8.01424639464
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.866912243,
+                        -8.01424639464
+                    ],
+                    [
+                        110.866811324,
+                        -8.01447611882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "135",
+                "NAMA_SUNGAI": "Kali Lanang",
+                "FOTO": "sungai-135_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.866811324,
+                        -8.01447611882
+                    ],
+                    [
+                        110.866623954,
+                        -8.01474889441
+                    ]
+                ]
+            }
+        }
+    ]
+}

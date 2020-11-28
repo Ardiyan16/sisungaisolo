@@ -1,0 +1,3701 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.727903156,
+                        -7.6639789089
+                    ],
+                    [
+                        110.727957247,
+                        -7.66402417088
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.727957247,
+                        -7.66402417088
+                    ],
+                    [
+                        110.729566578,
+                        -7.66549961751
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.729566578,
+                        -7.66549961751
+                    ],
+                    [
+                        110.730086157,
+                        -7.66607886185
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.730086157,
+                        -7.66607886185
+                    ],
+                    [
+                        110.730181543,
+                        -7.66624174256
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.730181543,
+                        -7.66624174256
+                    ],
+                    [
+                        110.730297698,
+                        -7.66626895155
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.730297698,
+                        -7.66626895155
+                    ],
+                    [
+                        110.730833432,
+                        -7.66639592593
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.730833432,
+                        -7.66639592593
+                    ],
+                    [
+                        110.731311373,
+                        -7.66650477088
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.731311373,
+                        -7.66650477088
+                    ],
+                    [
+                        110.731337401,
+                        -7.66656810653
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.731337401,
+                        -7.66656810653
+                    ],
+                    [
+                        110.731355518,
+                        -7.66659525437
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.731355518,
+                        -7.66659525437
+                    ],
+                    [
+                        110.731507512,
+                        -7.66685767204
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.731507512,
+                        -7.66685767204
+                    ],
+                    [
+                        110.731884588,
+                        -7.66740968851
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.731884588,
+                        -7.66740968851
+                    ],
+                    [
+                        110.732296211,
+                        -7.66799790898
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.732296211,
+                        -7.66799790898
+                    ],
+                    [
+                        110.732368113,
+                        -7.66810650121
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.732368113,
+                        -7.66810650121
+                    ],
+                    [
+                        110.732535704,
+                        -7.66835083622
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.732535704,
+                        -7.66835083622
+                    ],
+                    [
+                        110.733049454,
+                        -7.66920144199
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.733049454,
+                        -7.66920144199
+                    ],
+                    [
+                        110.733143715,
+                        -7.66935527553
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.733143715,
+                        -7.66935527553
+                    ],
+                    [
+                        110.733277609,
+                        -7.66956340743
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.733277609,
+                        -7.66956340743
+                    ],
+                    [
+                        110.733886959,
+                        -7.67024220401
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.733886959,
+                        -7.67024220401
+                    ],
+                    [
+                        110.734289916,
+                        -7.67064950517
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.734289916,
+                        -7.67064950517
+                    ],
+                    [
+                        110.735320361,
+                        -7.67173561281
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.735320361,
+                        -7.67173561281
+                    ],
+                    [
+                        110.735788969,
+                        -7.67228768233
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.735788969,
+                        -7.67228768233
+                    ],
+                    [
+                        110.735927144,
+                        -7.67245058822
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.735927144,
+                        -7.67245058822
+                    ],
+                    [
+                        110.7367486,
+                        -7.67334660616
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7367486,
+                        -7.67334660616
+                    ],
+                    [
+                        110.73700744,
+                        -7.67358194975
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.73700744,
+                        -7.67358194975
+                    ],
+                    [
+                        110.737034354,
+                        -7.67359101222
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.737034354,
+                        -7.67359101222
+                    ],
+                    [
+                        110.737085052,
+                        -7.67362722522
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.737085052,
+                        -7.67362722522
+                    ],
+                    [
+                        110.737328641,
+                        -7.67378114958
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.737328641,
+                        -7.67378114958
+                    ],
+                    [
+                        110.737724337,
+                        -7.67402562218
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.737724337,
+                        -7.67402562218
+                    ],
+                    [
+                        110.738148324,
+                        -7.67434247672
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.738148324,
+                        -7.67434247672
+                    ],
+                    [
+                        110.73858793,
+                        -7.67460506707
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.73858793,
+                        -7.67460506707
+                    ],
+                    [
+                        110.739091007,
+                        -7.67486769429
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.739091007,
+                        -7.67486769429
+                    ],
+                    [
+                        110.739167213,
+                        -7.6748948772
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.739167213,
+                        -7.6748948772
+                    ],
+                    [
+                        110.739405497,
+                        -7.67492215903
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.739405497,
+                        -7.67492215903
+                    ],
+                    [
+                        110.739794805,
+                        -7.67495857708
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.739794805,
+                        -7.67495857708
+                    ],
+                    [
+                        110.739811517,
+                        -7.67496763235
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.739811517,
+                        -7.67496763235
+                    ],
+                    [
+                        110.740943594,
+                        -7.67531204931
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.740943594,
+                        -7.67531204931
+                    ],
+                    [
+                        110.741165906,
+                        -7.67551118619
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.741165906,
+                        -7.67551118619
+                    ],
+                    [
+                        110.741387381,
+                        -7.67569223141
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.741387381,
+                        -7.67569223141
+                    ],
+                    [
+                        110.741737559,
+                        -7.67577385208
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.741737559,
+                        -7.67577385208
+                    ],
+                    [
+                        110.742148996,
+                        -7.67576505401
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.742148996,
+                        -7.67576505401
+                    ],
+                    [
+                        110.742576938,
+                        -7.67563867139
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.742576938,
+                        -7.67563867139
+                    ],
+                    [
+                        110.74294791,
+                        -7.67553939163
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74294791,
+                        -7.67553939163
+                    ],
+                    [
+                        110.743115662,
+                        -7.67553044697
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.743115662,
+                        -7.67553044697
+                    ],
+                    [
+                        110.743167783,
+                        -7.67555761459
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.743167783,
+                        -7.67555761459
+                    ],
+                    [
+                        110.743290127,
+                        -7.67566623471
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.743290127,
+                        -7.67566623471
+                    ],
+                    [
+                        110.743362274,
+                        -7.67584719
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.743362274,
+                        -7.67584719
+                    ],
+                    [
+                        110.743499387,
+                        -7.67637191743
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.743499387,
+                        -7.67637191743
+                    ],
+                    [
+                        110.743533068,
+                        -7.67643525668
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.743533068,
+                        -7.67643525668
+                    ],
+                    [
+                        110.74361801,
+                        -7.67654385432
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74361801,
+                        -7.67654385432
+                    ],
+                    [
+                        110.74375881,
+                        -7.67658916666
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74375881,
+                        -7.67658916666
+                    ],
+                    [
+                        110.743820037,
+                        -7.67655302021
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.743820037,
+                        -7.67655302021
+                    ],
+                    [
+                        110.744101207,
+                        -7.67641750406
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.744101207,
+                        -7.67641750406
+                    ],
+                    [
+                        110.744306356,
+                        -7.67641762547
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.744306356,
+                        -7.67641762547
+                    ],
+                    [
+                        110.74477099,
+                        -7.67653549422
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74477099,
+                        -7.67653549422
+                    ],
+                    [
+                        110.745097602,
+                        -7.67669850893
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.745097602,
+                        -7.67669850893
+                    ],
+                    [
+                        110.745717107,
+                        -7.67702451767
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.745717107,
+                        -7.67702451767
+                    ],
+                    [
+                        110.745848291,
+                        -7.67704268667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.745848291,
+                        -7.67704268667
+                    ],
+                    [
+                        110.745898167,
+                        -7.67703367097
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.745898167,
+                        -7.67703367097
+                    ],
+                    [
+                        110.746726331,
+                        -7.6766994721
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.746726331,
+                        -7.6766994721
+                    ],
+                    [
+                        110.747092186,
+                        -7.67662732219
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.747092186,
+                        -7.67662732219
+                    ],
+                    [
+                        110.747185683,
+                        -7.67664546871
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.747185683,
+                        -7.67664546871
+                    ],
+                    [
+                        110.747286537,
+                        -7.67668171049
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.747286537,
+                        -7.67668171049
+                    ],
+                    [
+                        110.747372062,
+                        -7.67676317108
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.747372062,
+                        -7.67676317108
+                    ],
+                    [
+                        110.747376794,
+                        -7.67690790348
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.747376794,
+                        -7.67690790348
+                    ],
+                    [
+                        110.747303955,
+                        -7.67741441424
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.747303955,
+                        -7.67741441424
+                    ],
+                    [
+                        110.747254186,
+                        -7.67772193562
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.747254186,
+                        -7.67772193562
+                    ],
+                    [
+                        110.74727863,
+                        -7.67807472887
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74727863,
+                        -7.67807472887
+                    ],
+                    [
+                        110.747392502,
+                        -7.67813811488
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.747392502,
+                        -7.67813811488
+                    ],
+                    [
+                        110.747614653,
+                        -7.67813824528
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.747614653,
+                        -7.67813824528
+                    ],
+                    [
+                        110.747871701,
+                        -7.67806603152
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.747871701,
+                        -7.67806603152
+                    ],
+                    [
+                        110.748242679,
+                        -7.67795770189
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.748242679,
+                        -7.67795770189
+                    ],
+                    [
+                        110.749185005,
+                        -7.67767783916
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.749185005,
+                        -7.67767783916
+                    ],
+                    [
+                        110.749243969,
+                        -7.67763264553
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.749243969,
+                        -7.67763264553
+                    ],
+                    [
+                        110.7493282,
+                        -7.67750605606
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7493282,
+                        -7.67750605606
+                    ],
+                    [
+                        110.749481285,
+                        -7.67690008927
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.749481285,
+                        -7.67690008927
+                    ],
+                    [
+                        110.749583152,
+                        -7.67665591704
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.749583152,
+                        -7.67665591704
+                    ],
+                    [
+                        110.749608665,
+                        -7.67663784066
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.749608665,
+                        -7.67663784066
+                    ],
+                    [
+                        110.749682914,
+                        -7.67661979307
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.749682914,
+                        -7.67661979307
+                    ],
+                    [
+                        110.749851202,
+                        -7.6766651189
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.749851202,
+                        -7.6766651189
+                    ],
+                    [
+                        110.750000204,
+                        -7.67673757008
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.750000204,
+                        -7.67673757008
+                    ],
+                    [
+                        110.750200195,
+                        -7.67683718799
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.750200195,
+                        -7.67683718799
+                    ],
+                    [
+                        110.750439232,
+                        -7.67703633026
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.750439232,
+                        -7.67703633026
+                    ],
+                    [
+                        110.750607392,
+                        -7.67729875064
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.750607392,
+                        -7.67729875064
+                    ],
+                    [
+                        110.750830435,
+                        -7.67771497846
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.750830435,
+                        -7.67771497846
+                    ],
+                    [
+                        110.7510164,
+                        -7.67805881896
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7510164,
+                        -7.67805881896
+                    ],
+                    [
+                        110.751183712,
+                        -7.67832123843
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.751183712,
+                        -7.67832123843
+                    ],
+                    [
+                        110.7513638,
+                        -7.6785384373
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7513638,
+                        -7.6785384373
+                    ],
+                    [
+                        110.751728586,
+                        -7.67884619879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.751728586,
+                        -7.67884619879
+                    ],
+                    [
+                        110.751812717,
+                        -7.67889147516
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.751812717,
+                        -7.67889147516
+                    ],
+                    [
+                        110.75192999,
+                        -7.67895486298
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75192999,
+                        -7.67895486298
+                    ],
+                    [
+                        110.752164542,
+                        -7.67907259053
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.752164542,
+                        -7.67907259053
+                    ],
+                    [
+                        110.752233676,
+                        -7.67908167638
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.752233676,
+                        -7.67908167638
+                    ],
+                    [
+                        110.752406482,
+                        -7.67915414105
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.752406482,
+                        -7.67915414105
+                    ],
+                    [
+                        110.752673023,
+                        -7.67932616067
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.752673023,
+                        -7.67932616067
+                    ],
+                    [
+                        110.752686246,
+                        -7.67948898923
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.752686246,
+                        -7.67948898923
+                    ],
+                    [
+                        110.752720171,
+                        -7.6801131556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.752720171,
+                        -7.6801131556
+                    ],
+                    [
+                        110.752904828,
+                        -7.68076454625
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.752904828,
+                        -7.68076454625
+                    ],
+                    [
+                        110.752935116,
+                        -7.68081883742
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.752935116,
+                        -7.68081883742
+                    ],
+                    [
+                        110.752995656,
+                        -7.68099073833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.752995656,
+                        -7.68099073833
+                    ],
+                    [
+                        110.753205159,
+                        -7.68130745527
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.753205159,
+                        -7.68130745527
+                    ],
+                    [
+                        110.753454673,
+                        -7.68152469281
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.753454673,
+                        -7.68152469281
+                    ],
+                    [
+                        110.753836165,
+                        -7.68185959944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.753836165,
+                        -7.68185959944
+                    ],
+                    [
+                        110.75390552,
+                        -7.68197723166
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75390552,
+                        -7.68197723166
+                    ],
+                    [
+                        110.75414082,
+                        -7.68227587133
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75414082,
+                        -7.68227587133
+                    ],
+                    [
+                        110.754303118,
+                        -7.68239355752
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.754303118,
+                        -7.68239355752
+                    ],
+                    [
+                        110.754528054,
+                        -7.68248414263
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.754528054,
+                        -7.68248414263
+                    ],
+                    [
+                        110.754983644,
+                        -7.68257485814
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.754983644,
+                        -7.68257485814
+                    ],
+                    [
+                        110.755298452,
+                        -7.68258408339
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.755298452,
+                        -7.68258408339
+                    ],
+                    [
+                        110.755551813,
+                        -7.68252090871
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.755551813,
+                        -7.68252090871
+                    ],
+                    [
+                        110.755764379,
+                        -7.68243961899
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.755764379,
+                        -7.68243961899
+                    ],
+                    [
+                        110.755863565,
+                        -7.68242158399
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.755863565,
+                        -7.68242158399
+                    ],
+                    [
+                        110.756071856,
+                        -7.68238551938
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.756071856,
+                        -7.68238551938
+                    ],
+                    [
+                        110.756240764,
+                        -7.6823403878
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.756240764,
+                        -7.6823403878
+                    ],
+                    [
+                        110.756297986,
+                        -7.68236755722
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.756297986,
+                        -7.68236755722
+                    ],
+                    [
+                        110.75651212,
+                        -7.6825214537
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75651212,
+                        -7.6825214537
+                    ],
+                    [
+                        110.756833558,
+                        -7.68282918642
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.756833558,
+                        -7.68282918642
+                    ],
+                    [
+                        110.757158685,
+                        -7.68312787555
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.757158685,
+                        -7.68312787555
+                    ],
+                    [
+                        110.757727422,
+                        -7.68357143198
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.757727422,
+                        -7.68357143198
+                    ],
+                    [
+                        110.758035343,
+                        -7.683734426
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.758035343,
+                        -7.683734426
+                    ],
+                    [
+                        110.758317793,
+                        -7.68384313245
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.758317793,
+                        -7.68384313245
+                    ],
+                    [
+                        110.758532828,
+                        -7.68390657243
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.758532828,
+                        -7.68390657243
+                    ],
+                    [
+                        110.758619768,
+                        -7.6839970775
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.758619768,
+                        -7.6839970775
+                    ],
+                    [
+                        110.758874954,
+                        -7.68421431594
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.758874954,
+                        -7.68421431594
+                    ],
+                    [
+                        110.759130757,
+                        -7.68434109786
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.759130757,
+                        -7.68434109786
+                    ],
+                    [
+                        110.759297369,
+                        -7.68435023677
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.759297369,
+                        -7.68435023677
+                    ],
+                    [
+                        110.75944245,
+                        -7.68435031771
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75944245,
+                        -7.68435031771
+                    ],
+                    [
+                        110.759632277,
+                        -7.68439565254
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.759632277,
+                        -7.68439565254
+                    ],
+                    [
+                        110.759773077,
+                        -7.68445000486
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.759773077,
+                        -7.68445000486
+                    ],
+                    [
+                        110.76009204,
+                        -7.68463109505
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76009204,
+                        -7.68463109505
+                    ],
+                    [
+                        110.760287822,
+                        -7.68466738719
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.760287822,
+                        -7.68466738719
+                    ],
+                    [
+                        110.760666687,
+                        -7.68464950687
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.760666687,
+                        -7.68464950687
+                    ],
+                    [
+                        110.761331215,
+                        -7.68456846626
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.761331215,
+                        -7.68456846626
+                    ],
+                    [
+                        110.761410819,
+                        -7.68460469275
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.761410819,
+                        -7.68460469275
+                    ],
+                    [
+                        110.761855616,
+                        -7.68474966976
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.761855616,
+                        -7.68474966976
+                    ],
+                    [
+                        110.762089956,
+                        -7.68474979926
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.762089956,
+                        -7.68474979926
+                    ],
+                    [
+                        110.76238414,
+                        -7.68465046105
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76238414,
+                        -7.68465046105
+                    ],
+                    [
+                        110.762719736,
+                        -7.68447877957
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.762719736,
+                        -7.68447877957
+                    ],
+                    [
+                        110.763167283,
+                        -7.68426193234
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.763167283,
+                        -7.68426193234
+                    ],
+                    [
+                        110.763388609,
+                        -7.68422587133
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.763388609,
+                        -7.68422587133
+                    ],
+                    [
+                        110.763680178,
+                        -7.68424412307
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.763680178,
+                        -7.68424412307
+                    ],
+                    [
+                        110.763990692,
+                        -7.68433475045
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.763990692,
+                        -7.68433475045
+                    ],
+                    [
+                        110.764604327,
+                        -7.68456122762
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.764604327,
+                        -7.68456122762
+                    ],
+                    [
+                        110.764629815,
+                        -7.68458837815
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.764629815,
+                        -7.68458837815
+                    ],
+                    [
+                        110.7651167,
+                        -7.68497760563
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7651167,
+                        -7.68497760563
+                    ],
+                    [
+                        110.76545322,
+                        -7.68518583916
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76545322,
+                        -7.68518583916
+                    ],
+                    [
+                        110.76550592,
+                        -7.68519491331
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76550592,
+                        -7.68519491331
+                    ],
+                    [
+                        110.765726942,
+                        -7.68519503382
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.765726942,
+                        -7.68519503382
+                    ],
+                    [
+                        110.766053708,
+                        -7.68510475628
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.766053708,
+                        -7.68510475628
+                    ],
+                    [
+                        110.767805835,
+                        -7.68440014915
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.767805835,
+                        -7.68440014915
+                    ],
+                    [
+                        110.768437819,
+                        -7.68423766863
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.768437819,
+                        -7.68423766863
+                    ],
+                    [
+                        110.768490846,
+                        -7.68416533256
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.768490846,
+                        -7.68416533256
+                    ],
+                    [
+                        110.768807278,
+                        -7.68379463292
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.768807278,
+                        -7.68379463292
+                    ],
+                    [
+                        110.769005093,
+                        -7.68374046495
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.769005093,
+                        -7.68374046495
+                    ],
+                    [
+                        110.769301206,
+                        -7.68374062413
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.769301206,
+                        -7.68374062413
+                    ],
+                    [
+                        110.769784585,
+                        -7.6838042026
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.769784585,
+                        -7.6838042026
+                    ],
+                    [
+                        110.770223243,
+                        -7.68377730118
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.770223243,
+                        -7.68377730118
+                    ],
+                    [
+                        110.770555068,
+                        -7.68375938759
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.770555068,
+                        -7.68375938759
+                    ],
+                    [
+                        110.770592751,
+                        -7.68376845275
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.770592751,
+                        -7.68376845275
+                    ],
+                    [
+                        110.770771806,
+                        -7.68382282217
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.770771806,
+                        -7.68382282217
+                    ],
+                    [
+                        110.771631657,
+                        -7.68410369483
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.771631657,
+                        -7.68410369483
+                    ],
+                    [
+                        110.771680957,
+                        -7.68411276629
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.771680957,
+                        -7.68411276629
+                    ],
+                    [
+                        110.772019261,
+                        -7.68416721934
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.772019261,
+                        -7.68416721934
+                    ],
+                    [
+                        110.772045052,
+                        -7.68415818745
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.772045052,
+                        -7.68415818745
+                    ],
+                    [
+                        110.772390254,
+                        -7.68403173198
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.772390254,
+                        -7.68403173198
+                    ],
+                    [
+                        110.773032144,
+                        -7.68388734223
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.773032144,
+                        -7.68388734223
+                    ],
+                    [
+                        110.774159541,
+                        -7.68353515692
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.774159541,
+                        -7.68353515692
+                    ],
+                    [
+                        110.774359925,
+                        -7.68344480563
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.774359925,
+                        -7.68344480563
+                    ],
+                    [
+                        110.774501643,
+                        -7.68337251543
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.774501643,
+                        -7.68337251543
+                    ],
+                    [
+                        110.774800377,
+                        -7.6832369876
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.774800377,
+                        -7.6832369876
+                    ],
+                    [
+                        110.775325851,
+                        -7.68300207658
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.775325851,
+                        -7.68300207658
+                    ],
+                    [
+                        110.775547223,
+                        -7.68287555366
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.775547223,
+                        -7.68287555366
+                    ],
+                    [
+                        110.775611003,
+                        -7.68283035913
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.775611003,
+                        -7.68283035913
+                    ],
+                    [
+                        110.775849663,
+                        -7.68269479893
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.775849663,
+                        -7.68269479893
+                    ],
+                    [
+                        110.776167401,
+                        -7.68252309766
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.776167401,
+                        -7.68252309766
+                    ],
+                    [
+                        110.776227185,
+                        -7.68253217452
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "34",
+                "NAMA_SUNGAI": "Kali Blora",
+                "FOTO": "sungai-34_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.776227185,
+                        -7.68253217452
+                    ],
+                    [
+                        110.776328023,
+                        -7.68260459243
+                    ]
+                ]
+            }
+        }
+    ]
+}

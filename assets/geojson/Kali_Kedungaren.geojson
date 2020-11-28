@@ -1,0 +1,6452 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214100668,
+                        -7.40026605402
+                    ],
+                    [
+                        111.214217625,
+                        -7.40042156609
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214217625,
+                        -7.40042156609
+                    ],
+                    [
+                        111.214477387,
+                        -7.40078859327
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214477387,
+                        -7.40078859327
+                    ],
+                    [
+                        111.214665254,
+                        -7.40105121836
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214665254,
+                        -7.40105121836
+                    ],
+                    [
+                        111.214934321,
+                        -7.40129180495
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214934321,
+                        -7.40129180495
+                    ],
+                    [
+                        111.21557843,
+                        -7.40146021979
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.21557843,
+                        -7.40146021979
+                    ],
+                    [
+                        111.215835944,
+                        -7.40155072442
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.215835944,
+                        -7.40155072442
+                    ],
+                    [
+                        111.215972951,
+                        -7.40164999839
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.215972951,
+                        -7.40164999839
+                    ],
+                    [
+                        111.216049444,
+                        -7.40180583755
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.216049444,
+                        -7.40180583755
+                    ],
+                    [
+                        111.21615299,
+                        -7.40205991127
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.21615299,
+                        -7.40205991127
+                    ],
+                    [
+                        111.216087297,
+                        -7.4022560458
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.216087297,
+                        -7.4022560458
+                    ],
+                    [
+                        111.215992775,
+                        -7.40236830409
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.215992775,
+                        -7.40236830409
+                    ],
+                    [
+                        111.215567226,
+                        -7.40241338566
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.215567226,
+                        -7.40241338566
+                    ],
+                    [
+                        111.214468276,
+                        -7.40244961057
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214468276,
+                        -7.40244961057
+                    ],
+                    [
+                        111.213996826,
+                        -7.40244705145
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213996826,
+                        -7.40244705145
+                    ],
+                    [
+                        111.213763085,
+                        -7.40249503083
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213763085,
+                        -7.40249503083
+                    ],
+                    [
+                        111.213499424,
+                        -7.40264773384
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213499424,
+                        -7.40264773384
+                    ],
+                    [
+                        111.213214832,
+                        -7.40289917274
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213214832,
+                        -7.40289917274
+                    ],
+                    [
+                        111.213134,
+                        -7.40307871327
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213134,
+                        -7.40307871327
+                    ],
+                    [
+                        111.213035241,
+                        -7.40337493857
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213035241,
+                        -7.40337493857
+                    ],
+                    [
+                        111.213473146,
+                        -7.40409273629
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213473146,
+                        -7.40409273629
+                    ],
+                    [
+                        111.213719046,
+                        -7.40439777149
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213719046,
+                        -7.40439777149
+                    ],
+                    [
+                        111.213947206,
+                        -7.40520242848
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213947206,
+                        -7.40520242848
+                    ],
+                    [
+                        111.214013304,
+                        -7.40554345019
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214013304,
+                        -7.40554345019
+                    ],
+                    [
+                        111.214058387,
+                        -7.40580968955
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214058387,
+                        -7.40580968955
+                    ],
+                    [
+                        111.214115452,
+                        -7.40606096466
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214115452,
+                        -7.40606096466
+                    ],
+                    [
+                        111.214535182,
+                        -7.40637189911
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214535182,
+                        -7.40637189911
+                    ],
+                    [
+                        111.214718068,
+                        -7.4065124207
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214718068,
+                        -7.4065124207
+                    ],
+                    [
+                        111.214864956,
+                        -7.40658415057
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214864956,
+                        -7.40658415057
+                    ],
+                    [
+                        111.215026872,
+                        -7.40674562402
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.215026872,
+                        -7.40674562402
+                    ],
+                    [
+                        111.215027026,
+                        -7.40706274379
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.215027026,
+                        -7.40706274379
+                    ],
+                    [
+                        111.214967286,
+                        -7.40747562678
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214967286,
+                        -7.40747562678
+                    ],
+                    [
+                        111.214898447,
+                        -7.40766712859
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214898447,
+                        -7.40766712859
+                    ],
+                    [
+                        111.214781667,
+                        -7.40787959541
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214781667,
+                        -7.40787959541
+                    ],
+                    [
+                        111.21471581,
+                        -7.40804117879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.21471581,
+                        -7.40804117879
+                    ],
+                    [
+                        111.214589968,
+                        -7.4081070568
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214589968,
+                        -7.4081070568
+                    ],
+                    [
+                        111.214404143,
+                        -7.40808620446
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214404143,
+                        -7.40808620446
+                    ],
+                    [
+                        111.214134368,
+                        -7.40799658341
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214134368,
+                        -7.40799658341
+                    ],
+                    [
+                        111.213590039,
+                        -7.40766899739
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213590039,
+                        -7.40766899739
+                    ],
+                    [
+                        111.213461691,
+                        -7.40756337754
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213461691,
+                        -7.40756337754
+                    ],
+                    [
+                        111.213211011,
+                        -7.4074226208
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213211011,
+                        -7.4074226208
+                    ],
+                    [
+                        111.212947429,
+                        -7.40735169473
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.212947429,
+                        -7.40735169473
+                    ],
+                    [
+                        111.212698469,
+                        -7.40731217317
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.212698469,
+                        -7.40731217317
+                    ],
+                    [
+                        111.212500777,
+                        -7.40754262825
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.212500777,
+                        -7.40754262825
+                    ],
+                    [
+                        111.212452898,
+                        -7.40769522765
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.212452898,
+                        -7.40769522765
+                    ],
+                    [
+                        111.212249244,
+                        -7.4079944945
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.212249244,
+                        -7.4079944945
+                    ],
+                    [
+                        111.21194963,
+                        -7.40817713077
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.21194963,
+                        -7.40817713077
+                    ],
+                    [
+                        111.211557116,
+                        -7.40837776119
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.211557116,
+                        -7.40837776119
+                    ],
+                    [
+                        111.211182579,
+                        -7.40856641596
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.211182579,
+                        -7.40856641596
+                    ],
+                    [
+                        111.210855963,
+                        -7.40869222207
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.210855963,
+                        -7.40869222207
+                    ],
+                    [
+                        111.210532379,
+                        -7.40888982726
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.210532379,
+                        -7.40888982726
+                    ],
+                    [
+                        111.210355671,
+                        -7.40913522998
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.210355671,
+                        -7.40913522998
+                    ],
+                    [
+                        111.210220992,
+                        -7.40953019764
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.210220992,
+                        -7.40953019764
+                    ],
+                    [
+                        111.210287087,
+                        -7.4098682282
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.210287087,
+                        -7.4098682282
+                    ],
+                    [
+                        111.210341148,
+                        -7.41011053012
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.210341148,
+                        -7.41011053012
+                    ],
+                    [
+                        111.210527071,
+                        -7.41033481949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.210527071,
+                        -7.41033481949
+                    ],
+                    [
+                        111.211000649,
+                        -7.41043332121
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.211000649,
+                        -7.41043332121
+                    ],
+                    [
+                        111.211872758,
+                        -7.41037606462
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.211872758,
+                        -7.41037606462
+                    ],
+                    [
+                        111.212307313,
+                        -7.41034594055
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.212307313,
+                        -7.41034594055
+                    ],
+                    [
+                        111.212951619,
+                        -7.41022895655
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.212951619,
+                        -7.41022895655
+                    ],
+                    [
+                        111.213431103,
+                        -7.41014495935
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213431103,
+                        -7.41014495935
+                    ],
+                    [
+                        111.213844644,
+                        -7.41004304316
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213844644,
+                        -7.41004304316
+                    ],
+                    [
+                        111.214132337,
+                        -7.40999802938
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214132337,
+                        -7.40999802938
+                    ],
+                    [
+                        111.214497988,
+                        -7.41002477857
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214497988,
+                        -7.41002477857
+                    ],
+                    [
+                        111.214599913,
+                        -7.41007857997
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214599913,
+                        -7.41007857997
+                    ],
+                    [
+                        111.214624055,
+                        -7.4104226134
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214624055,
+                        -7.4104226134
+                    ],
+                    [
+                        111.214615283,
+                        -7.41087436376
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214615283,
+                        -7.41087436376
+                    ],
+                    [
+                        111.214738473,
+                        -7.411517519
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214738473,
+                        -7.411517519
+                    ],
+                    [
+                        111.214729651,
+                        -7.4118675517
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214729651,
+                        -7.4118675517
+                    ],
+                    [
+                        111.214747823,
+                        -7.41225945511
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214747823,
+                        -7.41225945511
+                    ],
+                    [
+                        111.21467009,
+                        -7.4126514048
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.21467009,
+                        -7.4126514048
+                    ],
+                    [
+                        111.214364633,
+                        -7.41315116531
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214364633,
+                        -7.41315116531
+                    ],
+                    [
+                        111.2142538,
+                        -7.41327088654
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.2142538,
+                        -7.41327088654
+                    ],
+                    [
+                        111.214166968,
+                        -7.41344145502
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214166968,
+                        -7.41344145502
+                    ],
+                    [
+                        111.214280996,
+                        -7.41373159462
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214280996,
+                        -7.41373159462
+                    ],
+                    [
+                        111.214412911,
+                        -7.41382427362
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214412911,
+                        -7.41382427362
+                    ],
+                    [
+                        111.214670667,
+                        -7.41384209948
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214670667,
+                        -7.41384209948
+                    ],
+                    [
+                        111.215030255,
+                        -7.41372225797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.215030255,
+                        -7.41372225797
+                    ],
+                    [
+                        111.21538082,
+                        -7.41353660324
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.21538082,
+                        -7.41353660324
+                    ],
+                    [
+                        111.215641519,
+                        -7.41344373437
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.215641519,
+                        -7.41344373437
+                    ],
+                    [
+                        111.215761422,
+                        -7.41348855167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.215761422,
+                        -7.41348855167
+                    ],
+                    [
+                        111.215935321,
+                        -7.41363206868
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.215935321,
+                        -7.41363206868
+                    ],
+                    [
+                        111.215910314,
+                        -7.41397672415
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.215910314,
+                        -7.41397672415
+                    ],
+                    [
+                        111.215902675,
+                        -7.4147017154
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.215902675,
+                        -7.4147017154
+                    ],
+                    [
+                        111.215794921,
+                        -7.41498897045
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.215794921,
+                        -7.41498897045
+                    ],
+                    [
+                        111.215651242,
+                        -7.41536001038
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.215651242,
+                        -7.41536001038
+                    ],
+                    [
+                        111.215135924,
+                        -7.4157252468
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.215135924,
+                        -7.4157252468
+                    ],
+                    [
+                        111.214524659,
+                        -7.41600676147
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214524659,
+                        -7.41600676147
+                    ],
+                    [
+                        111.214021244,
+                        -7.41619847256
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.214021244,
+                        -7.41619847256
+                    ],
+                    [
+                        111.213523799,
+                        -7.41634231309
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213523799,
+                        -7.41634231309
+                    ],
+                    [
+                        111.213050305,
+                        -7.41643229107
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213050305,
+                        -7.41643229107
+                    ],
+                    [
+                        111.212708691,
+                        -7.41654015566
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.212708691,
+                        -7.41654015566
+                    ],
+                    [
+                        111.212576954,
+                        -7.41682143806
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.212576954,
+                        -7.41682143806
+                    ],
+                    [
+                        111.212457439,
+                        -7.4175873693
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.212457439,
+                        -7.4175873693
+                    ],
+                    [
+                        111.212409704,
+                        -7.41804212986
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.212409704,
+                        -7.41804212986
+                    ],
+                    [
+                        111.212433924,
+                        -7.41855070654
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.212433924,
+                        -7.41855070654
+                    ],
+                    [
+                        111.212727633,
+                        -7.41853859931
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.212727633,
+                        -7.41853859931
+                    ],
+                    [
+                        111.213213115,
+                        -7.41844263247
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213213115,
+                        -7.41844263247
+                    ],
+                    [
+                        111.213368952,
+                        -7.41841862414
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213368952,
+                        -7.41841862414
+                    ],
+                    [
+                        111.21343827,
+                        -7.41853107914
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.21343827,
+                        -7.41853107914
+                    ],
+                    [
+                        111.213345131,
+                        -7.41874173868
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213345131,
+                        -7.41874173868
+                    ],
+                    [
+                        111.213279258,
+                        -7.41887340489
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213279258,
+                        -7.41887340489
+                    ],
+                    [
+                        111.213153435,
+                        -7.41898714966
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213153435,
+                        -7.41898714966
+                    ],
+                    [
+                        111.213069563,
+                        -7.41908292413
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.213069563,
+                        -7.41908292413
+                    ],
+                    [
+                        111.212698038,
+                        -7.41932243769
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.212698038,
+                        -7.41932243769
+                    ],
+                    [
+                        111.212176613,
+                        -7.41946628827
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.212176613,
+                        -7.41946628827
+                    ],
+                    [
+                        111.211894955,
+                        -7.41961002402
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.211894955,
+                        -7.41961002402
+                    ],
+                    [
+                        111.211919075,
+                        -7.41990918207
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.211919075,
+                        -7.41990918207
+                    ],
+                    [
+                        111.212177118,
+                        -7.42051936483
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.212177118,
+                        -7.42051936483
+                    ],
+                    [
+                        111.212213221,
+                        -7.42080655035
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.212213221,
+                        -7.42080655035
+                    ],
+                    [
+                        111.212123425,
+                        -7.42105191224
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.212123425,
+                        -7.42105191224
+                    ],
+                    [
+                        111.211991613,
+                        -7.42117762634
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.211991613,
+                        -7.42117762634
+                    ],
+                    [
+                        111.211910729,
+                        -7.42125844069
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.211910729,
+                        -7.42125844069
+                    ],
+                    [
+                        111.211781893,
+                        -7.42133927788
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.211781893,
+                        -7.42133927788
+                    ],
+                    [
+                        111.211733982,
+                        -7.42142905157
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.211733982,
+                        -7.42142905157
+                    ],
+                    [
+                        111.211620133,
+                        -7.42151586497
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.211620133,
+                        -7.42151586497
+                    ],
+                    [
+                        111.211320735,
+                        -7.42217118873
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.211320735,
+                        -7.42217118873
+                    ],
+                    [
+                        111.210925395,
+                        -7.42275475717
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.210925395,
+                        -7.42275475717
+                    ],
+                    [
+                        111.210814617,
+                        -7.42299713706
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.210814617,
+                        -7.42299713706
+                    ],
+                    [
+                        111.210269336,
+                        -7.42340725773
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.210269336,
+                        -7.42340725773
+                    ],
+                    [
+                        111.209819889,
+                        -7.42366176434
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209819889,
+                        -7.42366176434
+                    ],
+                    [
+                        111.209154697,
+                        -7.42402108147
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209154697,
+                        -7.42402108147
+                    ],
+                    [
+                        111.208825117,
+                        -7.42423963029
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208825117,
+                        -7.42423963029
+                    ],
+                    [
+                        111.208474608,
+                        -7.42456888144
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208474608,
+                        -7.42456888144
+                    ],
+                    [
+                        111.20833086,
+                        -7.42481127622
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20833086,
+                        -7.42481127622
+                    ],
+                    [
+                        111.208142231,
+                        -7.42521524355
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208142231,
+                        -7.42521524355
+                    ],
+                    [
+                        111.208058646,
+                        -7.42592730623
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208058646,
+                        -7.42592730623
+                    ],
+                    [
+                        111.207987117,
+                        -7.42678296461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207987117,
+                        -7.42678296461
+                    ],
+                    [
+                        111.207906312,
+                        -7.42703430486
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207906312,
+                        -7.42703430486
+                    ],
+                    [
+                        111.207750563,
+                        -7.42725277151
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207750563,
+                        -7.42725277151
+                    ],
+                    [
+                        111.207693701,
+                        -7.42757210244
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207693701,
+                        -7.42757210244
+                    ],
+                    [
+                        111.207805102,
+                        -7.42780265331
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207805102,
+                        -7.42780265331
+                    ],
+                    [
+                        111.20788871,
+                        -7.42816839665
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20788871,
+                        -7.42816839665
+                    ],
+                    [
+                        111.207894789,
+                        -7.42841492633
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207894789,
+                        -7.42841492633
+                    ],
+                    [
+                        111.207960647,
+                        -7.42855444407
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207960647,
+                        -7.42855444407
+                    ],
+                    [
+                        111.208076225,
+                        -7.4286472625
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208076225,
+                        -7.4286472625
+                    ],
+                    [
+                        111.208323343,
+                        -7.42874199117
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208323343,
+                        -7.42874199117
+                    ],
+                    [
+                        111.208542213,
+                        -7.42885561141
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208542213,
+                        -7.42885561141
+                    ],
+                    [
+                        111.208615269,
+                        -7.4289613127
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208615269,
+                        -7.4289613127
+                    ],
+                    [
+                        111.208635116,
+                        -7.42911723378
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208635116,
+                        -7.42911723378
+                    ],
+                    [
+                        111.208615924,
+                        -7.42979302263
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208615924,
+                        -7.42979302263
+                    ],
+                    [
+                        111.208465408,
+                        -7.43002342493
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208465408,
+                        -7.43002342493
+                    ],
+                    [
+                        111.208226653,
+                        -7.43025355198
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208226653,
+                        -7.43025355198
+                    ],
+                    [
+                        111.208116545,
+                        -7.43025097131
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208116545,
+                        -7.43025097131
+                    ],
+                    [
+                        111.207850073,
+                        -7.43014503491
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207850073,
+                        -7.43014503491
+                    ],
+                    [
+                        111.207621364,
+                        -7.4300961231
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207621364,
+                        -7.4300961231
+                    ],
+                    [
+                        111.207398206,
+                        -7.43011667079
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207398206,
+                        -7.43011667079
+                    ],
+                    [
+                        111.207273314,
+                        -7.43018376708
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207273314,
+                        -7.43018376708
+                    ],
+                    [
+                        111.207176474,
+                        -7.4303179063
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207176474,
+                        -7.4303179063
+                    ],
+                    [
+                        111.207106588,
+                        -7.43053781364
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207106588,
+                        -7.43053781364
+                    ],
+                    [
+                        111.207115722,
+                        -7.43076800528
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207115722,
+                        -7.43076800528
+                    ],
+                    [
+                        111.207111656,
+                        -7.43110217478
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207111656,
+                        -7.43110217478
+                    ],
+                    [
+                        111.207093725,
+                        -7.43182592348
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207093725,
+                        -7.43182592348
+                    ],
+                    [
+                        111.207092444,
+                        -7.43187746668
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207092444,
+                        -7.43187746668
+                    ],
+                    [
+                        111.207054942,
+                        -7.43235575034
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207054942,
+                        -7.43235575034
+                    ],
+                    [
+                        111.206989661,
+                        -7.43242232124
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.206989661,
+                        -7.43242232124
+                    ],
+                    [
+                        111.206868184,
+                        -7.43244927086
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.206868184,
+                        -7.43244927086
+                    ],
+                    [
+                        111.206595371,
+                        -7.43242848421
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.206595371,
+                        -7.43242848421
+                    ],
+                    [
+                        111.206002629,
+                        -7.43238377534
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.206002629,
+                        -7.43238377534
+                    ],
+                    [
+                        111.20575603,
+                        -7.43244058541
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20575603,
+                        -7.43244058541
+                    ],
+                    [
+                        111.205318509,
+                        -7.4326269614
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205318509,
+                        -7.4326269614
+                    ],
+                    [
+                        111.204937393,
+                        -7.43284381013
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204937393,
+                        -7.43284381013
+                    ],
+                    [
+                        111.204885648,
+                        -7.43294338236
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204885648,
+                        -7.43294338236
+                    ],
+                    [
+                        111.204913083,
+                        -7.43302948511
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204913083,
+                        -7.43302948511
+                    ],
+                    [
+                        111.205023298,
+                        -7.43314404368
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205023298,
+                        -7.43314404368
+                    ],
+                    [
+                        111.205336041,
+                        -7.43336052636
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205336041,
+                        -7.43336052636
+                    ],
+                    [
+                        111.206379408,
+                        -7.43398401713
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.206379408,
+                        -7.43398401713
+                    ],
+                    [
+                        111.207402306,
+                        -7.43451124116
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207402306,
+                        -7.43451124116
+                    ],
+                    [
+                        111.207719918,
+                        -7.43465325532
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207719918,
+                        -7.43465325532
+                    ],
+                    [
+                        111.207899845,
+                        -7.43479177883
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207899845,
+                        -7.43479177883
+                    ],
+                    [
+                        111.20794316,
+                        -7.43492093162
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20794316,
+                        -7.43492093162
+                    ],
+                    [
+                        111.207899483,
+                        -7.43504426354
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207899483,
+                        -7.43504426354
+                    ],
+                    [
+                        111.207692496,
+                        -7.43532870412
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207692496,
+                        -7.43532870412
+                    ],
+                    [
+                        111.207536858,
+                        -7.43544237331
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207536858,
+                        -7.43544237331
+                    ],
+                    [
+                        111.207411425,
+                        -7.43544234152
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207411425,
+                        -7.43544234152
+                    ],
+                    [
+                        111.207085499,
+                        -7.43538945866
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207085499,
+                        -7.43538945866
+                    ],
+                    [
+                        111.205592304,
+                        -7.43514924724
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205592304,
+                        -7.43514924724
+                    ],
+                    [
+                        111.20538407,
+                        -7.43521125272
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20538407,
+                        -7.43521125272
+                    ],
+                    [
+                        111.205232028,
+                        -7.43534235057
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205232028,
+                        -7.43534235057
+                    ],
+                    [
+                        111.205022866,
+                        -7.435630753
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205022866,
+                        -7.435630753
+                    ],
+                    [
+                        111.204993571,
+                        -7.43575554342
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204993571,
+                        -7.43575554342
+                    ],
+                    [
+                        111.205031686,
+                        -7.43592827222
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205031686,
+                        -7.43592827222
+                    ],
+                    [
+                        111.205071223,
+                        -7.43619803396
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205071223,
+                        -7.43619803396
+                    ],
+                    [
+                        111.205127467,
+                        -7.43686628879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205127467,
+                        -7.43686628879
+                    ],
+                    [
+                        111.205135235,
+                        -7.43737867183
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205135235,
+                        -7.43737867183
+                    ],
+                    [
+                        111.205059984,
+                        -7.43756194609
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205059984,
+                        -7.43756194609
+                    ],
+                    [
+                        111.204846674,
+                        -7.4380915006
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204846674,
+                        -7.4380915006
+                    ],
+                    [
+                        111.204821724,
+                        -7.43906675088
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204821724,
+                        -7.43906675088
+                    ],
+                    [
+                        111.204871058,
+                        -7.43931669792
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204871058,
+                        -7.43931669792
+                    ],
+                    [
+                        111.205261411,
+                        -7.44026422987
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205261411,
+                        -7.44026422987
+                    ],
+                    [
+                        111.205429915,
+                        -7.44050792529
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205429915,
+                        -7.44050792529
+                    ],
+                    [
+                        111.205540081,
+                        -7.44055169175
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205540081,
+                        -7.44055169175
+                    ],
+                    [
+                        111.205700247,
+                        -7.44052459785
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205700247,
+                        -7.44052459785
+                    ],
+                    [
+                        111.206099444,
+                        -7.44047277938
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.206099444,
+                        -7.44047277938
+                    ],
+                    [
+                        111.206287488,
+                        -7.44052521143
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.206287488,
+                        -7.44052521143
+                    ],
+                    [
+                        111.20648407,
+                        -7.44065599357
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20648407,
+                        -7.44065599357
+                    ],
+                    [
+                        111.20661534,
+                        -7.44083106684
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20661534,
+                        -7.44083106684
+                    ],
+                    [
+                        111.206828523,
+                        -7.44124812947
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.206828523,
+                        -7.44124812947
+                    ],
+                    [
+                        111.20691399,
+                        -7.44155445949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20691399,
+                        -7.44155445949
+                    ],
+                    [
+                        111.20699398,
+                        -7.44218308244
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20699398,
+                        -7.44218308244
+                    ],
+                    [
+                        111.20695864,
+                        -7.44238511728
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20695864,
+                        -7.44238511728
+                    ],
+                    [
+                        111.206817027,
+                        -7.44282491452
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.206817027,
+                        -7.44282491452
+                    ],
+                    [
+                        111.20680304,
+                        -7.44301058469
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20680304,
+                        -7.44301058469
+                    ],
+                    [
+                        111.206852936,
+                        -7.44312339786
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.206852936,
+                        -7.44312339786
+                    ],
+                    [
+                        111.206962805,
+                        -7.44320716431
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.206962805,
+                        -7.44320716431
+                    ],
+                    [
+                        111.20710569,
+                        -7.44323672232
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20710569,
+                        -7.44323672232
+                    ],
+                    [
+                        111.20730356,
+                        -7.44321497431
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20730356,
+                        -7.44321497431
+                    ],
+                    [
+                        111.207679954,
+                        -7.44317393849
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207679954,
+                        -7.44317393849
+                    ],
+                    [
+                        111.207874951,
+                        -7.44322838377
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207874951,
+                        -7.44322838377
+                    ],
+                    [
+                        111.207968625,
+                        -7.44333182298
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207968625,
+                        -7.44333182298
+                    ],
+                    [
+                        111.208017277,
+                        -7.44347582628
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208017277,
+                        -7.44347582628
+                    ],
+                    [
+                        111.208011105,
+                        -7.44357098122
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208011105,
+                        -7.44357098122
+                    ],
+                    [
+                        111.208001775,
+                        -7.44371495745
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208001775,
+                        -7.44371495745
+                    ],
+                    [
+                        111.207939774,
+                        -7.44393633559
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207939774,
+                        -7.44393633559
+                    ],
+                    [
+                        111.207761399,
+                        -7.44444549491
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207761399,
+                        -7.44444549491
+                    ],
+                    [
+                        111.207678622,
+                        -7.44512086988
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207678622,
+                        -7.44512086988
+                    ],
+                    [
+                        111.207767808,
+                        -7.44523807882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207767808,
+                        -7.44523807882
+                    ],
+                    [
+                        111.208085427,
+                        -7.44553142751
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208085427,
+                        -7.44553142751
+                    ],
+                    [
+                        111.20824028,
+                        -7.44560810776
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20824028,
+                        -7.44560810776
+                    ],
+                    [
+                        111.208365245,
+                        -7.44559081688
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208365245,
+                        -7.44559081688
+                    ],
+                    [
+                        111.209039625,
+                        -7.44546793856
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209039625,
+                        -7.44546793856
+                    ],
+                    [
+                        111.209404677,
+                        -7.44547096833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209404677,
+                        -7.44547096833
+                    ],
+                    [
+                        111.20945305,
+                        -7.44556124898
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20945305,
+                        -7.44556124898
+                    ],
+                    [
+                        111.209440636,
+                        -7.4457365249
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209440636,
+                        -7.4457365249
+                    ],
+                    [
+                        111.209353128,
+                        -7.44598614698
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209353128,
+                        -7.44598614698
+                    ],
+                    [
+                        111.209203909,
+                        -7.44618833526
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209203909,
+                        -7.44618833526
+                    ],
+                    [
+                        111.209155362,
+                        -7.44630721002
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209155362,
+                        -7.44630721002
+                    ],
+                    [
+                        111.209172256,
+                        -7.44644382874
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209172256,
+                        -7.44644382874
+                    ],
+                    [
+                        111.209305436,
+                        -7.44677831307
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209305436,
+                        -7.44677831307
+                    ],
+                    [
+                        111.209486264,
+                        -7.44714491428
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209486264,
+                        -7.44714491428
+                    ],
+                    [
+                        111.209689313,
+                        -7.4475085198
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209689313,
+                        -7.4475085198
+                    ],
+                    [
+                        111.209653738,
+                        -7.44757539362
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209653738,
+                        -7.44757539362
+                    ],
+                    [
+                        111.209455548,
+                        -7.44788205619
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209455548,
+                        -7.44788205619
+                    ],
+                    [
+                        111.209538831,
+                        -7.44803046624
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209538831,
+                        -7.44803046624
+                    ],
+                    [
+                        111.209648326,
+                        -7.44827833973
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209648326,
+                        -7.44827833973
+                    ],
+                    [
+                        111.209604152,
+                        -7.44844325522
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209604152,
+                        -7.44844325522
+                    ],
+                    [
+                        111.209483907,
+                        -7.44861272957
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209483907,
+                        -7.44861272957
+                    ],
+                    [
+                        111.209054535,
+                        -7.44903108033
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209054535,
+                        -7.44903108033
+                    ],
+                    [
+                        111.208903369,
+                        -7.44922079537
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208903369,
+                        -7.44922079537
+                    ],
+                    [
+                        111.20891278,
+                        -7.44932326094
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20891278,
+                        -7.44932326094
+                    ],
+                    [
+                        111.209013825,
+                        -7.44941134578
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209013825,
+                        -7.44941134578
+                    ],
+                    [
+                        111.209287318,
+                        -7.44956365519
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209287318,
+                        -7.44956365519
+                    ],
+                    [
+                        111.209884446,
+                        -7.44993941245
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209884446,
+                        -7.44993941245
+                    ],
+                    [
+                        111.209938272,
+                        -7.45005914332
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209938272,
+                        -7.45005914332
+                    ],
+                    [
+                        111.209876725,
+                        -7.45020675354
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209876725,
+                        -7.45020675354
+                    ],
+                    [
+                        111.209715036,
+                        -7.45046984373
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209715036,
+                        -7.45046984373
+                    ],
+                    [
+                        111.20947149,
+                        -7.45072102096
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20947149,
+                        -7.45072102096
+                    ],
+                    [
+                        111.209406457,
+                        -7.45078809185
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209406457,
+                        -7.45078809185
+                    ],
+                    [
+                        111.209263422,
+                        -7.45098134909
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209263422,
+                        -7.45098134909
+                    ],
+                    [
+                        111.209120854,
+                        -7.45130184326
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209120854,
+                        -7.45130184326
+                    ],
+                    [
+                        111.20902223,
+                        -7.45173318107
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20902223,
+                        -7.45173318107
+                    ],
+                    [
+                        111.209077513,
+                        -7.45179271203
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209077513,
+                        -7.45179271203
+                    ],
+                    [
+                        111.209178661,
+                        -7.45176995042
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209178661,
+                        -7.45176995042
+                    ],
+                    [
+                        111.209433933,
+                        -7.4516414437
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209433933,
+                        -7.4516414437
+                    ],
+                    [
+                        111.209658517,
+                        -7.45156589602
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209658517,
+                        -7.45156589602
+                    ],
+                    [
+                        111.209874304,
+                        -7.45159342845
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209874304,
+                        -7.45159342845
+                    ],
+                    [
+                        111.210132884,
+                        -7.45171397576
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.210132884,
+                        -7.45171397576
+                    ],
+                    [
+                        111.210236986,
+                        -7.45182349721
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.210236986,
+                        -7.45182349721
+                    ],
+                    [
+                        111.210339982,
+                        -7.45202979938
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.210339982,
+                        -7.45202979938
+                    ],
+                    [
+                        111.210420042,
+                        -7.45229405935
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.210420042,
+                        -7.45229405935
+                    ],
+                    [
+                        111.21046138,
+                        -7.45264302381
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.21046138,
+                        -7.45264302381
+                    ],
+                    [
+                        111.210421849,
+                        -7.45283367223
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.210421849,
+                        -7.45283367223
+                    ],
+                    [
+                        111.210230207,
+                        -7.45321116909
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.210230207,
+                        -7.45321116909
+                    ],
+                    [
+                        111.210070029,
+                        -7.45337638392
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.210070029,
+                        -7.45337638392
+                    ],
+                    [
+                        111.209860885,
+                        -7.45350324996
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209860885,
+                        -7.45350324996
+                    ],
+                    [
+                        111.209557134,
+                        -7.45371197931
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209557134,
+                        -7.45371197931
+                    ],
+                    [
+                        111.209587424,
+                        -7.45382525363
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209587424,
+                        -7.45382525363
+                    ],
+                    [
+                        111.209744374,
+                        -7.45413248066
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209744374,
+                        -7.45413248066
+                    ],
+                    [
+                        111.209800172,
+                        -7.45435667061
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209800172,
+                        -7.45435667061
+                    ],
+                    [
+                        111.209747837,
+                        -7.45453495954
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209747837,
+                        -7.45453495954
+                    ],
+                    [
+                        111.209623696,
+                        -7.45472572941
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209623696,
+                        -7.45472572941
+                    ],
+                    [
+                        111.209349471,
+                        -7.45499260865
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209349471,
+                        -7.45499260865
+                    ],
+                    [
+                        111.209133856,
+                        -7.45524906649
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209133856,
+                        -7.45524906649
+                    ],
+                    [
+                        111.209064859,
+                        -7.45543629134
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209064859,
+                        -7.45543629134
+                    ],
+                    [
+                        111.209016228,
+                        -7.45568561904
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209016228,
+                        -7.45568561904
+                    ],
+                    [
+                        111.209102264,
+                        -7.4563217145
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209102264,
+                        -7.4563217145
+                    ],
+                    [
+                        111.209145738,
+                        -7.45664601032
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209145738,
+                        -7.45664601032
+                    ],
+                    [
+                        111.209157801,
+                        -7.45685600113
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209157801,
+                        -7.45685600113
+                    ],
+                    [
+                        111.209185246,
+                        -7.45733352402
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209185246,
+                        -7.45733352402
+                    ],
+                    [
+                        111.209270964,
+                        -7.45814476435
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209270964,
+                        -7.45814476435
+                    ],
+                    [
+                        111.209244834,
+                        -7.45830263818
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209244834,
+                        -7.45830263818
+                    ],
+                    [
+                        111.209144273,
+                        -7.45846677066
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209144273,
+                        -7.45846677066
+                    ],
+                    [
+                        111.209090497,
+                        -7.45862505104
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209090497,
+                        -7.45862505104
+                    ],
+                    [
+                        111.209119178,
+                        -7.45882836727
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209119178,
+                        -7.45882836727
+                    ],
+                    [
+                        111.20911847,
+                        -7.45903573178
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20911847,
+                        -7.45903573178
+                    ],
+                    [
+                        111.209034323,
+                        -7.45911716499
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.209034323,
+                        -7.45911716499
+                    ],
+                    [
+                        111.208902503,
+                        -7.4591529579
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208902503,
+                        -7.4591529579
+                    ],
+                    [
+                        111.208633149,
+                        -7.45916062016
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208633149,
+                        -7.45916062016
+                    ],
+                    [
+                        111.20836932,
+                        -7.45919965022
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20836932,
+                        -7.45919965022
+                    ],
+                    [
+                        111.208276447,
+                        -7.45928433482
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208276447,
+                        -7.45928433482
+                    ],
+                    [
+                        111.208247486,
+                        -7.45938916127
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208247486,
+                        -7.45938916127
+                    ],
+                    [
+                        111.208289278,
+                        -7.45952941363
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208289278,
+                        -7.45952941363
+                    ],
+                    [
+                        111.208429437,
+                        -7.45979986901
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208429437,
+                        -7.45979986901
+                    ],
+                    [
+                        111.208701453,
+                        -7.46037958969
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208701453,
+                        -7.46037958969
+                    ],
+                    [
+                        111.208746331,
+                        -7.46058765633
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208746331,
+                        -7.46058765633
+                    ],
+                    [
+                        111.208704762,
+                        -7.46072599412
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208704762,
+                        -7.46072599412
+                    ],
+                    [
+                        111.208589627,
+                        -7.46089966303
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208589627,
+                        -7.46089966303
+                    ],
+                    [
+                        111.208473536,
+                        -7.46096617672
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208473536,
+                        -7.46096617672
+                    ],
+                    [
+                        111.208759619,
+                        -7.46240677215
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208759619,
+                        -7.46240677215
+                    ],
+                    [
+                        111.208593625,
+                        -7.46300663622
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208593625,
+                        -7.46300663622
+                    ],
+                    [
+                        111.208383696,
+                        -7.4631124888
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208383696,
+                        -7.4631124888
+                    ],
+                    [
+                        111.207782202,
+                        -7.46294598393
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207782202,
+                        -7.46294598393
+                    ],
+                    [
+                        111.207731337,
+                        -7.46296257358
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207731337,
+                        -7.46296257358
+                    ],
+                    [
+                        111.207612278,
+                        -7.46309902094
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207612278,
+                        -7.46309902094
+                    ],
+                    [
+                        111.207572634,
+                        -7.46326641258
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207572634,
+                        -7.46326641258
+                    ],
+                    [
+                        111.207608719,
+                        -7.46345030423
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207608719,
+                        -7.46345030423
+                    ],
+                    [
+                        111.207631379,
+                        -7.46366915485
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "97",
+                "NAMA_SUNGAI": "Kali Kedungaren",
+                "FOTO": "sungai-97_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207631379,
+                        -7.46366915485
+                    ],
+                    [
+                        111.207563191,
+                        -7.4638902342
+                    ]
+                ]
+            }
+        }
+    ]
+}

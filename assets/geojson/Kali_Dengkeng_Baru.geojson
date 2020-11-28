@@ -1,0 +1,3386 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74109368373,
+                        -7.7556007669618
+                    ],
+                    [
+                        110.74110984275,
+                        -7.7555917305739
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74110984275,
+                        -7.7555917305739
+                    ],
+                    [
+                        110.74122752983,
+                        -7.7554742098668
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74122752983,
+                        -7.7554742098668
+                    ],
+                    [
+                        110.74172790812,
+                        -7.7547418226769
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74172790812,
+                        -7.7547418226769
+                    ],
+                    [
+                        110.74189497337,
+                        -7.7545157843759
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74189497337,
+                        -7.7545157843759
+                    ],
+                    [
+                        110.74201863825,
+                        -7.7543530394611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74201863825,
+                        -7.7543530394611
+                    ],
+                    [
+                        110.74218369712,
+                        -7.7541631826847
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74218369712,
+                        -7.7541631826847
+                    ],
+                    [
+                        110.74257245695,
+                        -7.7538196857298
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74257245695,
+                        -7.7538196857298
+                    ],
+                    [
+                        110.7429432852,
+                        -7.7536028160171
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7429432852,
+                        -7.7536028160171
+                    ],
+                    [
+                        110.74327183093,
+                        -7.7534763767334
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74327183093,
+                        -7.7534763767334
+                    ],
+                    [
+                        110.74343710114,
+                        -7.7534041117103
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74343710114,
+                        -7.7534041117103
+                    ],
+                    [
+                        110.74437772905,
+                        -7.7524639379603
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74437772905,
+                        -7.7524639379603
+                    ],
+                    [
+                        110.74454790956,
+                        -7.7522379005586
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74454790956,
+                        -7.7522379005586
+                    ],
+                    [
+                        110.74468639166,
+                        -7.7519394794234
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74468639166,
+                        -7.7519394794234
+                    ],
+                    [
+                        110.7447233538,
+                        -7.7517404990248
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7447233538,
+                        -7.7517404990248
+                    ],
+                    [
+                        110.74471067696,
+                        -7.7516138537962
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74471067696,
+                        -7.7516138537962
+                    ],
+                    [
+                        110.74447341242,
+                        -7.7512337967023
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74447341242,
+                        -7.7512337967023
+                    ],
+                    [
+                        110.74433837562,
+                        -7.7509894850766
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74433837562,
+                        -7.7509894850766
+                    ],
+                    [
+                        110.74438258719,
+                        -7.7505191423445
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74438258719,
+                        -7.7505191423445
+                    ],
+                    [
+                        110.74446602269,
+                        -7.750329235206
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74446602269,
+                        -7.750329235206
+                    ],
+                    [
+                        110.74474622266,
+                        -7.7500037624636
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74474622266,
+                        -7.7500037624636
+                    ],
+                    [
+                        110.74478564894,
+                        -7.7499495126598
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74478564894,
+                        -7.7499495126598
+                    ],
+                    [
+                        110.74492519764,
+                        -7.7497596387962
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74492519764,
+                        -7.7497596387962
+                    ],
+                    [
+                        110.74507920114,
+                        -7.7495697739259
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74507920114,
+                        -7.7495697739259
+                    ],
+                    [
+                        110.74530008183,
+                        -7.7493889949062
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74530008183,
+                        -7.7493889949062
+                    ],
+                    [
+                        110.74545713044,
+                        -7.7493167244872
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74545713044,
+                        -7.7493167244872
+                    ],
+                    [
+                        110.74581368016,
+                        -7.7492717089222
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74581368016,
+                        -7.7492717089222
+                    ],
+                    [
+                        110.74630312449,
+                        -7.7492629549214
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74630312449,
+                        -7.7492629549214
+                    ],
+                    [
+                        110.74655114672,
+                        -7.7491907384618
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74655114672,
+                        -7.7491907384618
+                    ],
+                    [
+                        110.74672010955,
+                        -7.7491003826765
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74672010955,
+                        -7.7491003826765
+                    ],
+                    [
+                        110.7468962058,
+                        -7.7489286220582
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7468962058,
+                        -7.7489286220582
+                    ],
+                    [
+                        110.74701566004,
+                        -7.7486935077991
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74701566004,
+                        -7.7486935077991
+                    ],
+                    [
+                        110.74709853797,
+                        -7.748485508999
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74709853797,
+                        -7.748485508999
+                    ],
+                    [
+                        110.74712215147,
+                        -7.7483317483115
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74712215147,
+                        -7.7483317483115
+                    ],
+                    [
+                        110.74720379102,
+                        -7.7478252438399
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74720379102,
+                        -7.7478252438399
+                    ],
+                    [
+                        110.7473714894,
+                        -7.7470021959945
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7473714894,
+                        -7.7470021959945
+                    ],
+                    [
+                        110.74766094789,
+                        -7.7463510859338
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74766094789,
+                        -7.7463510859338
+                    ],
+                    [
+                        110.74793067256,
+                        -7.7459984680548
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74793067256,
+                        -7.7459984680548
+                    ],
+                    [
+                        110.74844288323,
+                        -7.7453474892952
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74844288323,
+                        -7.7453474892952
+                    ],
+                    [
+                        110.74864965446,
+                        -7.7450581522119
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74864965446,
+                        -7.7450581522119
+                    ],
+                    [
+                        110.74909468038,
+                        -7.7444342691262
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74909468038,
+                        -7.7444342691262
+                    ],
+                    [
+                        110.74930323676,
+                        -7.7440002041461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74930323676,
+                        -7.7440002041461
+                    ],
+                    [
+                        110.74934038955,
+                        -7.7439549979248
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74934038955,
+                        -7.7439549979248
+                    ],
+                    [
+                        110.74935315273,
+                        -7.7439369143571
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74935315273,
+                        -7.7439369143571
+                    ],
+                    [
+                        110.74938433222,
+                        -7.7439278869624
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74938433222,
+                        -7.7439278869624
+                    ],
+                    [
+                        110.74941242075,
+                        -7.7438736308633
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74941242075,
+                        -7.7438736308633
+                    ],
+                    [
+                        110.74952673267,
+                        -7.7437018315742
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74952673267,
+                        -7.7437018315742
+                    ],
+                    [
+                        110.74995162996,
+                        -7.7430869812791
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74995162996,
+                        -7.7430869812791
+                    ],
+                    [
+                        110.75000013939,
+                        -7.7430055998285
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75000013939,
+                        -7.7430055998285
+                    ],
+                    [
+                        110.75061768586,
+                        -7.7420109469476
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75061768586,
+                        -7.7420109469476
+                    ],
+                    [
+                        110.75077483249,
+                        -7.741766808891
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75077483249,
+                        -7.741766808891
+                    ],
+                    [
+                        110.75082420797,
+                        -7.7416582903977
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75082420797,
+                        -7.7416582903977
+                    ],
+                    [
+                        110.75083498724,
+                        -7.7416402059307
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75083498724,
+                        -7.7416402059307
+                    ],
+                    [
+                        110.75090907699,
+                        -7.7414322008353
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75090907699,
+                        -7.7414322008353
+                    ],
+                    [
+                        110.75103076696,
+                        -7.7412423143813
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75103076696,
+                        -7.7412423143813
+                    ],
+                    [
+                        110.75112153913,
+                        -7.7410976377457
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75112153913,
+                        -7.7410976377457
+                    ],
+                    [
+                        110.75129167377,
+                        -7.7409349171127
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75129167377,
+                        -7.7409349171127
+                    ],
+                    [
+                        110.75184513275,
+                        -7.7404829601205
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75184513275,
+                        -7.7404829601205
+                    ],
+                    [
+                        110.75206003294,
+                        -7.7403383554307
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75206003294,
+                        -7.7403383554307
+                    ],
+                    [
+                        110.75209886927,
+                        -7.7403202871515
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75209886927,
+                        -7.7403202871515
+                    ],
+                    [
+                        110.75244387618,
+                        -7.7401305301997
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75244387618,
+                        -7.7401305301997
+                    ],
+                    [
+                        110.75281754719,
+                        -7.7398684245881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75281754719,
+                        -7.7398684245881
+                    ],
+                    [
+                        110.7533011927,
+                        -7.7395792466849
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7533011927,
+                        -7.7395792466849
+                    ],
+                    [
+                        110.75348574797,
+                        -7.7394708055332
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75348574797,
+                        -7.7394708055332
+                    ],
+                    [
+                        110.75365869389,
+                        -7.739344267324
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75365869389,
+                        -7.739344267324
+                    ],
+                    [
+                        110.75444996599,
+                        -7.7388110341019
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75444996599,
+                        -7.7388110341019
+                    ],
+                    [
+                        110.7544621572,
+                        -7.7388019959153
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7544621572,
+                        -7.7388019959153
+                    ],
+                    [
+                        110.75460504689,
+                        -7.7387025767625
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75460504689,
+                        -7.7387025767625
+                    ],
+                    [
+                        110.75491379673,
+                        -7.7384766140045
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75491379673,
+                        -7.7384766140045
+                    ],
+                    [
+                        110.75505167989,
+                        -7.7382143716958
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75505167989,
+                        -7.7382143716958
+                    ],
+                    [
+                        110.75519785839,
+                        -7.7378164495694
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75519785839,
+                        -7.7378164495694
+                    ],
+                    [
+                        110.75556568741,
+                        -7.7368668743068
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75556568741,
+                        -7.7368668743068
+                    ],
+                    [
+                        110.75559320306,
+                        -7.7368216617902
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75559320306,
+                        -7.7368216617902
+                    ],
+                    [
+                        110.75575467364,
+                        -7.7364418394193
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75575467364,
+                        -7.7364418394193
+                    ],
+                    [
+                        110.7559253227,
+                        -7.7358720649438
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7559253227,
+                        -7.7358720649438
+                    ],
+                    [
+                        110.7560508123,
+                        -7.7354741311262
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7560508123,
+                        -7.7354741311262
+                    ],
+                    [
+                        110.7562328108,
+                        -7.7348772259032
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7562328108,
+                        -7.7348772259032
+                    ],
+                    [
+                        110.75689179262,
+                        -7.7327428433075
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75689179262,
+                        -7.7327428433075
+                    ],
+                    [
+                        110.75694431843,
+                        -7.7325710062469
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75694431843,
+                        -7.7325710062469
+                    ],
+                    [
+                        110.75695596375,
+                        -7.7325257856364
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75695596375,
+                        -7.7325257856364
+                    ],
+                    [
+                        110.75699431983,
+                        -7.7323539404819
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75699431983,
+                        -7.7323539404819
+                    ],
+                    [
+                        110.75710957874,
+                        -7.7320012281741
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75710957874,
+                        -7.7320012281741
+                    ],
+                    [
+                        110.757620873,
+                        -7.7304185409828
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.757620873,
+                        -7.7304185409828
+                    ],
+                    [
+                        110.75846118873,
+                        -7.7283204397365
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75846118873,
+                        -7.7283204397365
+                    ],
+                    [
+                        110.75896184401,
+                        -7.7269910196198
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75896184401,
+                        -7.7269910196198
+                    ],
+                    [
+                        110.7591715812,
+                        -7.726439356591
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7591715812,
+                        -7.726439356591
+                    ],
+                    [
+                        110.7597108129,
+                        -7.7250375932103
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7597108129,
+                        -7.7250375932103
+                    ],
+                    [
+                        110.75975735552,
+                        -7.7249200266378
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.75975735552,
+                        -7.7249200266378
+                    ],
+                    [
+                        110.76062229378,
+                        -7.722840025147
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76062229378,
+                        -7.722840025147
+                    ],
+                    [
+                        110.76136862586,
+                        -7.7210132313755
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76136862586,
+                        -7.7210132313755
+                    ],
+                    [
+                        110.7614656807,
+                        -7.7207690546481
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7614656807,
+                        -7.7207690546481
+                    ],
+                    [
+                        110.76217148662,
+                        -7.7189331912137
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76217148662,
+                        -7.7189331912137
+                    ],
+                    [
+                        110.7628017459,
+                        -7.7173867440029
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7628017459,
+                        -7.7173867440029
+                    ],
+                    [
+                        110.76293714064,
+                        -7.7169888128833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76293714064,
+                        -7.7169888128833
+                    ],
+                    [
+                        110.76339897938,
+                        -7.7155960454211
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76339897938,
+                        -7.7155960454211
+                    ],
+                    [
+                        110.76355754604,
+                        -7.7153157195448
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76355754604,
+                        -7.7153157195448
+                    ],
+                    [
+                        110.76370165431,
+                        -7.7150444309557
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76370165431,
+                        -7.7150444309557
+                    ],
+                    [
+                        110.76391339339,
+                        -7.7144384929421
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76391339339,
+                        -7.7144384929421
+                    ],
+                    [
+                        110.76407492782,
+                        -7.7139139372783
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76407492782,
+                        -7.7139139372783
+                    ],
+                    [
+                        110.76441717561,
+                        -7.7130276563013
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76441717561,
+                        -7.7130276563013
+                    ],
+                    [
+                        110.76467571991,
+                        -7.7123312869593
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76467571991,
+                        -7.7123312869593
+                    ],
+                    [
+                        110.76525212688,
+                        -7.7107667139127
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76525212688,
+                        -7.7107667139127
+                    ],
+                    [
+                        110.76588437546,
+                        -7.7091659881198
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76588437546,
+                        -7.7091659881198
+                    ],
+                    [
+                        110.76601719454,
+                        -7.7088042367261
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76601719454,
+                        -7.7088042367261
+                    ],
+                    [
+                        110.76624056545,
+                        -7.7081621207852
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76624056545,
+                        -7.7081621207852
+                    ],
+                    [
+                        110.7667468334,
+                        -7.7068417379558
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7667468334,
+                        -7.7068417379558
+                    ],
+                    [
+                        110.76713176302,
+                        -7.7056117450859
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76713176302,
+                        -7.7056117450859
+                    ],
+                    [
+                        110.76748989105,
+                        -7.7046802416997
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76748989105,
+                        -7.7046802416997
+                    ],
+                    [
+                        110.76774499544,
+                        -7.7040381419466
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76774499544,
+                        -7.7040381419466
+                    ],
+                    [
+                        110.76793568858,
+                        -7.7035497821967
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76793568858,
+                        -7.7035497821967
+                    ],
+                    [
+                        110.76811502239,
+                        -7.7031066448557
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76811502239,
+                        -7.7031066448557
+                    ],
+                    [
+                        110.76849325566,
+                        -7.7021932421244
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76849325566,
+                        -7.7021932421244
+                    ],
+                    [
+                        110.76871507434,
+                        -7.7017863096904
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76871507434,
+                        -7.7017863096904
+                    ],
+                    [
+                        110.76893179207,
+                        -7.7013793745584
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76893179207,
+                        -7.7013793745584
+                    ],
+                    [
+                        110.76920643423,
+                        -7.7007553745608
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76920643423,
+                        -7.7007553745608
+                    ],
+                    [
+                        110.76954312512,
+                        -7.6996248548032
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76954312512,
+                        -7.6996248548032
+                    ],
+                    [
+                        110.76978278815,
+                        -7.6987023311476
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76978278815,
+                        -7.6987023311476
+                    ],
+                    [
+                        110.76989058628,
+                        -7.6984852941609
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76989058628,
+                        -7.6984852941609
+                    ],
+                    [
+                        110.77078349796,
+                        -7.6968846987698
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77078349796,
+                        -7.6968846987698
+                    ],
+                    [
+                        110.77100743095,
+                        -7.6962244884693
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77100743095,
+                        -7.6962244884693
+                    ],
+                    [
+                        110.77151233373,
+                        -7.6947503224694
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77151233373,
+                        -7.6947503224694
+                    ],
+                    [
+                        110.77171038603,
+                        -7.694261964518
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77171038603,
+                        -7.694261964518
+                    ],
+                    [
+                        110.7722580156,
+                        -7.6928963682727
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7722580156,
+                        -7.6928963682727
+                    ],
+                    [
+                        110.77229604433,
+                        -7.6927878407862
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77229604433,
+                        -7.6927878407862
+                    ],
+                    [
+                        110.77238143406,
+                        -7.6926069736329
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77238143406,
+                        -7.6926069736329
+                    ],
+                    [
+                        110.77257888381,
+                        -7.6921819342488
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77257888381,
+                        -7.6921819342488
+                    ],
+                    [
+                        110.77339467233,
+                        -7.6900928280215
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77339467233,
+                        -7.6900928280215
+                    ],
+                    [
+                        110.77345936056,
+                        -7.6899390871191
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77345936056,
+                        -7.6899390871191
+                    ],
+                    [
+                        110.77394143045,
+                        -7.6887453189412
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77394143045,
+                        -7.6887453189412
+                    ],
+                    [
+                        110.7741812032,
+                        -7.6881212973599
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7741812032,
+                        -7.6881212973599
+                    ],
+                    [
+                        110.77422970634,
+                        -7.6880308669309
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77422970634,
+                        -7.6880308669309
+                    ],
+                    [
+                        110.77426401727,
+                        -7.6879856571123
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77426401727,
+                        -7.6879856571123
+                    ],
+                    [
+                        110.77435621577,
+                        -7.6877867018947
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77435621577,
+                        -7.6877867018947
+                    ],
+                    [
+                        110.77491319739,
+                        -7.6863849232256
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77491319739,
+                        -7.6863849232256
+                    ],
+                    [
+                        110.77517310955,
+                        -7.6857156828324
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77517310955,
+                        -7.6857156828324
+                    ],
+                    [
+                        110.77598802663,
+                        -7.6836175249288
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77598802663,
+                        -7.6836175249288
+                    ],
+                    [
+                        110.77615090284,
+                        -7.6831834194792
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77615090284,
+                        -7.6831834194792
+                    ],
+                    [
+                        110.77632802342,
+                        -7.6826045924279
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77632802342,
+                        -7.6826045924279
+                    ],
+                    [
+                        110.77639864628,
+                        -7.6824779903669
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77639864628,
+                        -7.6824779903669
+                    ],
+                    [
+                        110.77659324878,
+                        -7.6820619927667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77659324878,
+                        -7.6820619927667
+                    ],
+                    [
+                        110.77668944027,
+                        -7.6818087652622
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77668944027,
+                        -7.6818087652622
+                    ],
+                    [
+                        110.77676495993,
+                        -7.6815283899232
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77676495993,
+                        -7.6815283899232
+                    ],
+                    [
+                        110.7767861039,
+                        -7.681193713519
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7767861039,
+                        -7.681193713519
+                    ],
+                    [
+                        110.77673884362,
+                        -7.6810760956852
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77673884362,
+                        -7.6810760956852
+                    ],
+                    [
+                        110.77641265052,
+                        -7.6806236449652
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77641265052,
+                        -7.6806236449652
+                    ],
+                    [
+                        110.77600382592,
+                        -7.6799631010162
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77600382592,
+                        -7.6799631010162
+                    ],
+                    [
+                        110.7759088638,
+                        -7.6794926791438
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7759088638,
+                        -7.6794926791438
+                    ],
+                    [
+                        110.77592919568,
+                        -7.6790856369925
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77592919568,
+                        -7.6790856369925
+                    ],
+                    [
+                        110.77600395542,
+                        -7.6786333949152
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77600395542,
+                        -7.6786333949152
+                    ],
+                    [
+                        110.77613055028,
+                        -7.6782173613421
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77613055028,
+                        -7.6782173613421
+                    ],
+                    [
+                        110.77629962103,
+                        -7.6778556243376
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77629962103,
+                        -7.6778556243376
+                    ],
+                    [
+                        110.7763169105,
+                        -7.6778465879496
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7763169105,
+                        -7.6778465879496
+                    ],
+                    [
+                        110.77670697974,
+                        -7.6775211484822
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77670697974,
+                        -7.6775211484822
+                    ],
+                    [
+                        110.77686972106,
+                        -7.6773403199997
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77686972106,
+                        -7.6773403199997
+                    ],
+                    [
+                        110.77708887865,
+                        -7.6771052480087
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77708887865,
+                        -7.6771052480087
+                    ],
+                    [
+                        110.77734943383,
+                        -7.6768159226167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77734943383,
+                        -7.6768159226167
+                    ],
+                    [
+                        110.77770758614,
+                        -7.6762914613818
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77770758614,
+                        -7.6762914613818
+                    ],
+                    [
+                        110.77785313062,
+                        -7.6759387571678
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77785313062,
+                        -7.6759387571678
+                    ],
+                    [
+                        110.77796104567,
+                        -7.6754774858972
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77796104567,
+                        -7.6754774858972
+                    ],
+                    [
+                        110.77804503875,
+                        -7.6750779189108
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77804503875,
+                        -7.6750779189108
+                    ],
+                    [
+                        110.77807530993,
+                        -7.6749163512086
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "71",
+                "NAMA_SUNGAI": "Kali Dengkeng Baru",
+                "FOTO": "sungai-71_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77807530993,
+                        -7.6749163512086
+                    ],
+                    [
+                        110.7782869,
+                        -7.673953604
+                    ]
+                ]
+            }
+        }
+    ]
+}

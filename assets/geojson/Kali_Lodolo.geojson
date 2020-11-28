@@ -1,0 +1,5675 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207563191,
+                        -7.4638902342
+                    ],
+                    [
+                        111.207553263,
+                        -7.46402865049
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207553263,
+                        -7.46402865049
+                    ],
+                    [
+                        111.207653784,
+                        -7.46415167937
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207653784,
+                        -7.46415167937
+                    ],
+                    [
+                        111.207812132,
+                        -7.46424625032
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207812132,
+                        -7.46424625032
+                    ],
+                    [
+                        111.208294394,
+                        -7.46452070567
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208294394,
+                        -7.46452070567
+                    ],
+                    [
+                        111.208498421,
+                        -7.464771384
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208498421,
+                        -7.464771384
+                    ],
+                    [
+                        111.20864365,
+                        -7.46504569029
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20864365,
+                        -7.46504569029
+                    ],
+                    [
+                        111.208614408,
+                        -7.46515197324
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208614408,
+                        -7.46515197324
+                    ],
+                    [
+                        111.208526116,
+                        -7.46520774561
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208526116,
+                        -7.46520774561
+                    ],
+                    [
+                        111.208389679,
+                        -7.46520325998
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208389679,
+                        -7.46520325998
+                    ],
+                    [
+                        111.208097911,
+                        -7.46511993262
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208097911,
+                        -7.46511993262
+                    ],
+                    [
+                        111.207496334,
+                        -7.46494170725
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207496334,
+                        -7.46494170725
+                    ],
+                    [
+                        111.2073802,
+                        -7.46496068542
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.2073802,
+                        -7.46496068542
+                    ],
+                    [
+                        111.207344894,
+                        -7.46500533359
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207344894,
+                        -7.46500533359
+                    ],
+                    [
+                        111.20720218,
+                        -7.46508518381
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20720218,
+                        -7.46508518381
+                    ],
+                    [
+                        111.206955567,
+                        -7.46523887767
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.206955567,
+                        -7.46523887767
+                    ],
+                    [
+                        111.206684874,
+                        -7.46551128969
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.206684874,
+                        -7.46551128969
+                    ],
+                    [
+                        111.206723798,
+                        -7.46560407155
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.206723798,
+                        -7.46560407155
+                    ],
+                    [
+                        111.206890994,
+                        -7.46578003209
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.206890994,
+                        -7.46578003209
+                    ],
+                    [
+                        111.2076254,
+                        -7.46640114676
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.2076254,
+                        -7.46640114676
+                    ],
+                    [
+                        111.208198905,
+                        -7.46670241597
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208198905,
+                        -7.46670241597
+                    ],
+                    [
+                        111.208232731,
+                        -7.4668039473
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208232731,
+                        -7.4668039473
+                    ],
+                    [
+                        111.208181333,
+                        -7.46691521581
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208181333,
+                        -7.46691521581
+                    ],
+                    [
+                        111.208057526,
+                        -7.46703695718
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.208057526,
+                        -7.46703695718
+                    ],
+                    [
+                        111.207878885,
+                        -7.46711480736
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207878885,
+                        -7.46711480736
+                    ],
+                    [
+                        111.207657951,
+                        -7.46718321552
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207657951,
+                        -7.46718321552
+                    ],
+                    [
+                        111.207583729,
+                        -7.46719089404
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207583729,
+                        -7.46719089404
+                    ],
+                    [
+                        111.207336555,
+                        -7.46725375125
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207336555,
+                        -7.46725375125
+                    ],
+                    [
+                        111.207081205,
+                        -7.4674096836
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.207081205,
+                        -7.4674096836
+                    ],
+                    [
+                        111.206570622,
+                        -7.467800526
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.206570622,
+                        -7.467800526
+                    ],
+                    [
+                        111.205956234,
+                        -7.46814214419
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205956234,
+                        -7.46814214419
+                    ],
+                    [
+                        111.205602179,
+                        -7.46841884593
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205602179,
+                        -7.46841884593
+                    ],
+                    [
+                        111.205577249,
+                        -7.46854109238
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205577249,
+                        -7.46854109238
+                    ],
+                    [
+                        111.205640831,
+                        -7.46870494412
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205640831,
+                        -7.46870494412
+                    ],
+                    [
+                        111.205836589,
+                        -7.4691809745
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205836589,
+                        -7.4691809745
+                    ],
+                    [
+                        111.205813243,
+                        -7.46947230285
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205813243,
+                        -7.46947230285
+                    ],
+                    [
+                        111.203919079,
+                        -7.47096550871
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203919079,
+                        -7.47096550871
+                    ],
+                    [
+                        111.203920913,
+                        -7.47108904529
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203920913,
+                        -7.47108904529
+                    ],
+                    [
+                        111.203995356,
+                        -7.47120341214
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203995356,
+                        -7.47120341214
+                    ],
+                    [
+                        111.204158573,
+                        -7.47130056916
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204158573,
+                        -7.47130056916
+                    ],
+                    [
+                        111.20460128,
+                        -7.47145646623
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20460128,
+                        -7.47145646623
+                    ],
+                    [
+                        111.204838341,
+                        -7.47158592721
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204838341,
+                        -7.47158592721
+                    ],
+                    [
+                        111.204816886,
+                        -7.47165728077
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204816886,
+                        -7.47165728077
+                    ],
+                    [
+                        111.204698399,
+                        -7.47178319789
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204698399,
+                        -7.47178319789
+                    ],
+                    [
+                        111.204554624,
+                        -7.47184798668
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204554624,
+                        -7.47184798668
+                    ],
+                    [
+                        111.204099264,
+                        -7.47200249031
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204099264,
+                        -7.47200249031
+                    ],
+                    [
+                        111.203926577,
+                        -7.47220282431
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203926577,
+                        -7.47220282431
+                    ],
+                    [
+                        111.203688128,
+                        -7.47242328818
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203688128,
+                        -7.47242328818
+                    ],
+                    [
+                        111.203426808,
+                        -7.47255555763
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203426808,
+                        -7.47255555763
+                    ],
+                    [
+                        111.203061776,
+                        -7.47276144352
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203061776,
+                        -7.47276144352
+                    ],
+                    [
+                        111.203030454,
+                        -7.47286191971
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203030454,
+                        -7.47286191971
+                    ],
+                    [
+                        111.203075879,
+                        -7.47301813652
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203075879,
+                        -7.47301813652
+                    ],
+                    [
+                        111.203240605,
+                        -7.47331993452
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203240605,
+                        -7.47331993452
+                    ],
+                    [
+                        111.203506349,
+                        -7.47387305743
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203506349,
+                        -7.47387305743
+                    ],
+                    [
+                        111.203570549,
+                        -7.47419969594
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203570549,
+                        -7.47419969594
+                    ],
+                    [
+                        111.203540267,
+                        -7.47446878393
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203540267,
+                        -7.47446878393
+                    ],
+                    [
+                        111.203422009,
+                        -7.474837732
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203422009,
+                        -7.474837732
+                    ],
+                    [
+                        111.203376274,
+                        -7.47493226277
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203376274,
+                        -7.47493226277
+                    ],
+                    [
+                        111.203306228,
+                        -7.47507703562
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203306228,
+                        -7.47507703562
+                    ],
+                    [
+                        111.203157516,
+                        -7.47538442343
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203157516,
+                        -7.47538442343
+                    ],
+                    [
+                        111.203051712,
+                        -7.4757169476
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203051712,
+                        -7.4757169476
+                    ],
+                    [
+                        111.203054377,
+                        -7.4759131571
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203054377,
+                        -7.4759131571
+                    ],
+                    [
+                        111.203131725,
+                        -7.47609679485
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203131725,
+                        -7.47609679485
+                    ],
+                    [
+                        111.203263205,
+                        -7.47625102715
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203263205,
+                        -7.47625102715
+                    ],
+                    [
+                        111.203487533,
+                        -7.47641723835
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203487533,
+                        -7.47641723835
+                    ],
+                    [
+                        111.203823573,
+                        -7.4766956914
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203823573,
+                        -7.4766956914
+                    ],
+                    [
+                        111.203906092,
+                        -7.47686718726
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203906092,
+                        -7.47686718726
+                    ],
+                    [
+                        111.203904421,
+                        -7.47703676813
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203904421,
+                        -7.47703676813
+                    ],
+                    [
+                        111.203835035,
+                        -7.47725521815
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203835035,
+                        -7.47725521815
+                    ],
+                    [
+                        111.203652593,
+                        -7.47755188442
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203652593,
+                        -7.47755188442
+                    ],
+                    [
+                        111.203582003,
+                        -7.4777553281
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203582003,
+                        -7.4777553281
+                    ],
+                    [
+                        111.203629897,
+                        -7.47786114091
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203629897,
+                        -7.47786114091
+                    ],
+                    [
+                        111.20377042,
+                        -7.47799336966
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20377042,
+                        -7.47799336966
+                    ],
+                    [
+                        111.204045644,
+                        -7.47814831319
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204045644,
+                        -7.47814831319
+                    ],
+                    [
+                        111.204384289,
+                        -7.47835315953
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204384289,
+                        -7.47835315953
+                    ],
+                    [
+                        111.204643913,
+                        -7.47858214007
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204643913,
+                        -7.47858214007
+                    ],
+                    [
+                        111.204672407,
+                        -7.47867643751
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204672407,
+                        -7.47867643751
+                    ],
+                    [
+                        111.204613484,
+                        -7.47874817026
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204613484,
+                        -7.47874817026
+                    ],
+                    [
+                        111.20444808,
+                        -7.47884908863
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20444808,
+                        -7.47884908863
+                    ],
+                    [
+                        111.204084636,
+                        -7.47895118412
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204084636,
+                        -7.47895118412
+                    ],
+                    [
+                        111.203614723,
+                        -7.47910794653
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203614723,
+                        -7.47910794653
+                    ],
+                    [
+                        111.203346229,
+                        -7.4792580032
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203346229,
+                        -7.4792580032
+                    ],
+                    [
+                        111.203344601,
+                        -7.47932439048
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203344601,
+                        -7.47932439048
+                    ],
+                    [
+                        111.203428864,
+                        -7.47938632384
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203428864,
+                        -7.47938632384
+                    ],
+                    [
+                        111.20364046,
+                        -7.47945483796
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20364046,
+                        -7.47945483796
+                    ],
+                    [
+                        111.204082656,
+                        -7.47952784055
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204082656,
+                        -7.47952784055
+                    ],
+                    [
+                        111.204356884,
+                        -7.47960658318
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204356884,
+                        -7.47960658318
+                    ],
+                    [
+                        111.204372264,
+                        -7.47968352798
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204372264,
+                        -7.47968352798
+                    ],
+                    [
+                        111.204338777,
+                        -7.47984216017
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204338777,
+                        -7.47984216017
+                    ],
+                    [
+                        111.204337698,
+                        -7.47999769275
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204337698,
+                        -7.47999769275
+                    ],
+                    [
+                        111.204436851,
+                        -7.48009640794
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204436851,
+                        -7.48009640794
+                    ],
+                    [
+                        111.204619505,
+                        -7.48019587135
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204619505,
+                        -7.48019587135
+                    ],
+                    [
+                        111.204901537,
+                        -7.48027296369
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204901537,
+                        -7.48027296369
+                    ],
+                    [
+                        111.205469491,
+                        -7.4804118135
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205469491,
+                        -7.4804118135
+                    ],
+                    [
+                        111.205441723,
+                        -7.48047496554
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205441723,
+                        -7.48047496554
+                    ],
+                    [
+                        111.205286906,
+                        -7.48061530959
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205286906,
+                        -7.48061530959
+                    ],
+                    [
+                        111.204590902,
+                        -7.48120835372
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204590902,
+                        -7.48120835372
+                    ],
+                    [
+                        111.204520758,
+                        -7.48139726084
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204520758,
+                        -7.48139726084
+                    ],
+                    [
+                        111.204554478,
+                        -7.48150460882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204554478,
+                        -7.48150460882
+                    ],
+                    [
+                        111.204696304,
+                        -7.48166556581
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204696304,
+                        -7.48166556581
+                    ],
+                    [
+                        111.204975909,
+                        -7.48188114008
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204975909,
+                        -7.48188114008
+                    ],
+                    [
+                        111.205064562,
+                        -7.48194949352
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205064562,
+                        -7.48194949352
+                    ],
+                    [
+                        111.205277472,
+                        -7.482167948
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205277472,
+                        -7.482167948
+                    ],
+                    [
+                        111.205263977,
+                        -7.48224652538
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205263977,
+                        -7.48224652538
+                    ],
+                    [
+                        111.205162331,
+                        -7.48234279198
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205162331,
+                        -7.48234279198
+                    ],
+                    [
+                        111.204975945,
+                        -7.48242561986
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204975945,
+                        -7.48242561986
+                    ],
+                    [
+                        111.204655378,
+                        -7.48256945096
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204655378,
+                        -7.48256945096
+                    ],
+                    [
+                        111.204649786,
+                        -7.48268674032
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204649786,
+                        -7.48268674032
+                    ],
+                    [
+                        111.204712658,
+                        -7.48315147101
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204712658,
+                        -7.48315147101
+                    ],
+                    [
+                        111.204838901,
+                        -7.48334449319
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204838901,
+                        -7.48334449319
+                    ],
+                    [
+                        111.20524258,
+                        -7.48374239833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20524258,
+                        -7.48374239833
+                    ],
+                    [
+                        111.205395128,
+                        -7.48394252706
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205395128,
+                        -7.48394252706
+                    ],
+                    [
+                        111.205364988,
+                        -7.48399116183
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205364988,
+                        -7.48399116183
+                    ],
+                    [
+                        111.205249272,
+                        -7.48404066866
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205249272,
+                        -7.48404066866
+                    ],
+                    [
+                        111.204997024,
+                        -7.48406935243
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204997024,
+                        -7.48406935243
+                    ],
+                    [
+                        111.204448884,
+                        -7.48413759464
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204448884,
+                        -7.48413759464
+                    ],
+                    [
+                        111.204376243,
+                        -7.48422113838
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204376243,
+                        -7.48422113838
+                    ],
+                    [
+                        111.204364792,
+                        -7.48431715794
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204364792,
+                        -7.48431715794
+                    ],
+                    [
+                        111.204406477,
+                        -7.48447094896
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204406477,
+                        -7.48447094896
+                    ],
+                    [
+                        111.204487391,
+                        -7.4845403192
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204487391,
+                        -7.4845403192
+                    ],
+                    [
+                        111.204649761,
+                        -7.4845776931
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204649761,
+                        -7.4845776931
+                    ],
+                    [
+                        111.204882703,
+                        -7.48456598826
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204882703,
+                        -7.48456598826
+                    ],
+                    [
+                        111.205115841,
+                        -7.48458543666
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205115841,
+                        -7.48458543666
+                    ],
+                    [
+                        111.205166256,
+                        -7.48465184493
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205166256,
+                        -7.48465184493
+                    ],
+                    [
+                        111.205125655,
+                        -7.48473639604
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.205125655,
+                        -7.48473639604
+                    ],
+                    [
+                        111.20480739,
+                        -7.48517489041
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20480739,
+                        -7.48517489041
+                    ],
+                    [
+                        111.204133994,
+                        -7.48594938046
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204133994,
+                        -7.48594938046
+                    ],
+                    [
+                        111.203792107,
+                        -7.48636815635
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203792107,
+                        -7.48636815635
+                    ],
+                    [
+                        111.203613386,
+                        -7.48662361763
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203613386,
+                        -7.48662361763
+                    ],
+                    [
+                        111.203607515,
+                        -7.48672539369
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203607515,
+                        -7.48672539369
+                    ],
+                    [
+                        111.20366375,
+                        -7.48685587024
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20366375,
+                        -7.48685587024
+                    ],
+                    [
+                        111.203796,
+                        -7.48698262098
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203796,
+                        -7.48698262098
+                    ],
+                    [
+                        111.204093653,
+                        -7.48715942643
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204093653,
+                        -7.48715942643
+                    ],
+                    [
+                        111.204251936,
+                        -7.48731295837
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204251936,
+                        -7.48731295837
+                    ],
+                    [
+                        111.204281471,
+                        -7.48744213558
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204281471,
+                        -7.48744213558
+                    ],
+                    [
+                        111.204241702,
+                        -7.48762164815
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204241702,
+                        -7.48762164815
+                    ],
+                    [
+                        111.204097712,
+                        -7.48793504036
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.204097712,
+                        -7.48793504036
+                    ],
+                    [
+                        111.2038704,
+                        -7.48824651722
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.2038704,
+                        -7.48824651722
+                    ],
+                    [
+                        111.203277417,
+                        -7.48892129406
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.203277417,
+                        -7.48892129406
+                    ],
+                    [
+                        111.202888133,
+                        -7.48929887888
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.202888133,
+                        -7.48929887888
+                    ],
+                    [
+                        111.202837553,
+                        -7.48948087483
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.202837553,
+                        -7.48948087483
+                    ],
+                    [
+                        111.202750684,
+                        -7.48990292457
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.202750684,
+                        -7.48990292457
+                    ],
+                    [
+                        111.202606658,
+                        -7.49004605788
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.202606658,
+                        -7.49004605788
+                    ],
+                    [
+                        111.202287634,
+                        -7.49026832207
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.202287634,
+                        -7.49026832207
+                    ],
+                    [
+                        111.202094586,
+                        -7.49043598257
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.202094586,
+                        -7.49043598257
+                    ],
+                    [
+                        111.202043707,
+                        -7.49056129812
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.202043707,
+                        -7.49056129812
+                    ],
+                    [
+                        111.202086833,
+                        -7.4906438838
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.202086833,
+                        -7.4906438838
+                    ],
+                    [
+                        111.202247357,
+                        -7.49078252614
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.202247357,
+                        -7.49078252614
+                    ],
+                    [
+                        111.202518982,
+                        -7.49103667635
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.202518982,
+                        -7.49103667635
+                    ],
+                    [
+                        111.202577826,
+                        -7.49116373253
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.202577826,
+                        -7.49116373253
+                    ],
+                    [
+                        111.202549789,
+                        -7.49125402166
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.202549789,
+                        -7.49125402166
+                    ],
+                    [
+                        111.202436944,
+                        -7.49138263125
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.202436944,
+                        -7.49138263125
+                    ],
+                    [
+                        111.202166317,
+                        -7.49158230405
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.202166317,
+                        -7.49158230405
+                    ],
+                    [
+                        111.20185409,
+                        -7.49172647316
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20185409,
+                        -7.49172647316
+                    ],
+                    [
+                        111.201590534,
+                        -7.49189190435
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201590534,
+                        -7.49189190435
+                    ],
+                    [
+                        111.201543122,
+                        -7.49198812723
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201543122,
+                        -7.49198812723
+                    ],
+                    [
+                        111.201578186,
+                        -7.49210128211
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201578186,
+                        -7.49210128211
+                    ],
+                    [
+                        111.201737356,
+                        -7.49232802146
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201737356,
+                        -7.49232802146
+                    ],
+                    [
+                        111.201958354,
+                        -7.49268465598
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201958354,
+                        -7.49268465598
+                    ],
+                    [
+                        111.201950957,
+                        -7.49279957612
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201950957,
+                        -7.49279957612
+                    ],
+                    [
+                        111.201870263,
+                        -7.49291683654
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201870263,
+                        -7.49291683654
+                    ],
+                    [
+                        111.201666537,
+                        -7.49308534302
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201666537,
+                        -7.49308534302
+                    ],
+                    [
+                        111.201299197,
+                        -7.49341608678
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201299197,
+                        -7.49341608678
+                    ],
+                    [
+                        111.201368316,
+                        -7.49353290771
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201368316,
+                        -7.49353290771
+                    ],
+                    [
+                        111.201559437,
+                        -7.49370479735
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201559437,
+                        -7.49370479735
+                    ],
+                    [
+                        111.201690239,
+                        -7.49379592728
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201690239,
+                        -7.49379592728
+                    ],
+                    [
+                        111.20204211,
+                        -7.49404107663
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20204211,
+                        -7.49404107663
+                    ],
+                    [
+                        111.202473487,
+                        -7.49432384642
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.202473487,
+                        -7.49432384642
+                    ],
+                    [
+                        111.202566254,
+                        -7.49446426557
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.202566254,
+                        -7.49446426557
+                    ],
+                    [
+                        111.202555694,
+                        -7.49457916004
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.202555694,
+                        -7.49457916004
+                    ],
+                    [
+                        111.202446543,
+                        -7.49485841524
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.202446543,
+                        -7.49485841524
+                    ],
+                    [
+                        111.202192617,
+                        -7.49531017538
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.202192617,
+                        -7.49531017538
+                    ],
+                    [
+                        111.202023376,
+                        -7.49541906398
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.202023376,
+                        -7.49541906398
+                    ],
+                    [
+                        111.201863294,
+                        -7.49543831435
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201863294,
+                        -7.49543831435
+                    ],
+                    [
+                        111.201576571,
+                        -7.49538862198
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201576571,
+                        -7.49538862198
+                    ],
+                    [
+                        111.201015329,
+                        -7.49530194938
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201015329,
+                        -7.49530194938
+                    ],
+                    [
+                        111.200853102,
+                        -7.49536738777
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200853102,
+                        -7.49536738777
+                    ],
+                    [
+                        111.200730994,
+                        -7.49549933904
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200730994,
+                        -7.49549933904
+                    ],
+                    [
+                        111.20066017,
+                        -7.49569599802
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20066017,
+                        -7.49569599802
+                    ],
+                    [
+                        111.200586412,
+                        -7.49613492063
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200586412,
+                        -7.49613492063
+                    ],
+                    [
+                        111.20062235,
+                        -7.49633334911
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20062235,
+                        -7.49633334911
+                    ],
+                    [
+                        111.200735193,
+                        -7.49649496264
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200735193,
+                        -7.49649496264
+                    ],
+                    [
+                        111.200962803,
+                        -7.49668005163
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200962803,
+                        -7.49668005163
+                    ],
+                    [
+                        111.201142887,
+                        -7.49675510304
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201142887,
+                        -7.49675510304
+                    ],
+                    [
+                        111.20138089,
+                        -7.49677524753
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20138089,
+                        -7.49677524753
+                    ],
+                    [
+                        111.201730773,
+                        -7.4968324009
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201730773,
+                        -7.4968324009
+                    ],
+                    [
+                        111.201791575,
+                        -7.49689850622
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201791575,
+                        -7.49689850622
+                    ],
+                    [
+                        111.201741434,
+                        -7.49699473942
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201741434,
+                        -7.49699473942
+                    ],
+                    [
+                        111.201517947,
+                        -7.49728100295
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201517947,
+                        -7.49728100295
+                    ],
+                    [
+                        111.201360843,
+                        -7.49739020235
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201360843,
+                        -7.49739020235
+                    ],
+                    [
+                        111.201099272,
+                        -7.4974843974
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201099272,
+                        -7.4974843974
+                    ],
+                    [
+                        111.200202629,
+                        -7.4977988192
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200202629,
+                        -7.4977988192
+                    ],
+                    [
+                        111.200137732,
+                        -7.4978953484
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200137732,
+                        -7.4978953484
+                    ],
+                    [
+                        111.200180709,
+                        -7.49796921423
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200180709,
+                        -7.49796921423
+                    ],
+                    [
+                        111.200332387,
+                        -7.49808213519
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200332387,
+                        -7.49808213519
+                    ],
+                    [
+                        111.200580568,
+                        -7.49817872077
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200580568,
+                        -7.49817872077
+                    ],
+                    [
+                        111.201288407,
+                        -7.4984200175
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201288407,
+                        -7.4984200175
+                    ],
+                    [
+                        111.20148706,
+                        -7.49858580683
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20148706,
+                        -7.49858580683
+                    ],
+                    [
+                        111.201578435,
+                        -7.49875239603
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201578435,
+                        -7.49875239603
+                    ],
+                    [
+                        111.201626058,
+                        -7.49897303531
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201626058,
+                        -7.49897303531
+                    ],
+                    [
+                        111.201572756,
+                        -7.49911580107
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201572756,
+                        -7.49911580107
+                    ],
+                    [
+                        111.201421449,
+                        -7.49929842189
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.201421449,
+                        -7.49929842189
+                    ],
+                    [
+                        111.200882858,
+                        -7.49996293552
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200882858,
+                        -7.49996293552
+                    ],
+                    [
+                        111.200871503,
+                        -7.50000028556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200871503,
+                        -7.50000028556
+                    ],
+                    [
+                        111.200808054,
+                        -7.50020898138
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200808054,
+                        -7.50020898138
+                    ],
+                    [
+                        111.200568859,
+                        -7.50061743205
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200568859,
+                        -7.50061743205
+                    ],
+                    [
+                        111.200503994,
+                        -7.50074559414
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200503994,
+                        -7.50074559414
+                    ],
+                    [
+                        111.200191541,
+                        -7.50136297062
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200191541,
+                        -7.50136297062
+                    ],
+                    [
+                        111.200017703,
+                        -7.50208836202
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200017703,
+                        -7.50208836202
+                    ],
+                    [
+                        111.200059548,
+                        -7.50230128808
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200059548,
+                        -7.50230128808
+                    ],
+                    [
+                        111.200157049,
+                        -7.50279971667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200157049,
+                        -7.50279971667
+                    ],
+                    [
+                        111.200164596,
+                        -7.5030709941
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200164596,
+                        -7.5030709941
+                    ],
+                    [
+                        111.200214666,
+                        -7.50349220292
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200214666,
+                        -7.50349220292
+                    ],
+                    [
+                        111.200122149,
+                        -7.50372291067
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200122149,
+                        -7.50372291067
+                    ],
+                    [
+                        111.200023829,
+                        -7.50405054583
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200023829,
+                        -7.50405054583
+                    ],
+                    [
+                        111.200040534,
+                        -7.50424909158
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200040534,
+                        -7.50424909158
+                    ],
+                    [
+                        111.20012027,
+                        -7.50444967106
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20012027,
+                        -7.50444967106
+                    ],
+                    [
+                        111.20029499,
+                        -7.50470053757
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.20029499,
+                        -7.50470053757
+                    ],
+                    [
+                        111.200526465,
+                        -7.50506345447
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200526465,
+                        -7.50506345447
+                    ],
+                    [
+                        111.200501604,
+                        -7.50516535669
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200501604,
+                        -7.50516535669
+                    ],
+                    [
+                        111.200370894,
+                        -7.50534300168
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200370894,
+                        -7.50534300168
+                    ],
+                    [
+                        111.200180638,
+                        -7.50550860677
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.200180638,
+                        -7.50550860677
+                    ],
+                    [
+                        111.199978697,
+                        -7.50558920552
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.199978697,
+                        -7.50558920552
+                    ],
+                    [
+                        111.199726397,
+                        -7.50561216971
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.199726397,
+                        -7.50561216971
+                    ],
+                    [
+                        111.198970107,
+                        -7.50562486013
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.198970107,
+                        -7.50562486013
+                    ],
+                    [
+                        111.198834822,
+                        -7.50576827778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.198834822,
+                        -7.50576827778
+                    ],
+                    [
+                        111.198704499,
+                        -7.50600212311
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.198704499,
+                        -7.50600212311
+                    ],
+                    [
+                        111.198617109,
+                        -7.50630837801
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.198617109,
+                        -7.50630837801
+                    ],
+                    [
+                        111.198616703,
+                        -7.50639421294
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.198616703,
+                        -7.50639421294
+                    ],
+                    [
+                        111.198614968,
+                        -7.50676382145
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.198614968,
+                        -7.50676382145
+                    ],
+                    [
+                        111.198660101,
+                        -7.50709300158
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.198660101,
+                        -7.50709300158
+                    ],
+                    [
+                        111.198792384,
+                        -7.50738289294
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.198792384,
+                        -7.50738289294
+                    ],
+                    [
+                        111.198997805,
+                        -7.50783463316
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.198997805,
+                        -7.50783463316
+                    ],
+                    [
+                        111.199077919,
+                        -7.50815100675
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.199077919,
+                        -7.50815100675
+                    ],
+                    [
+                        111.199092917,
+                        -7.50825423411
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.199092917,
+                        -7.50825423411
+                    ],
+                    [
+                        111.19902845,
+                        -7.50855295717
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.19902845,
+                        -7.50855295717
+                    ],
+                    [
+                        111.198929475,
+                        -7.50861824869
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.198929475,
+                        -7.50861824869
+                    ],
+                    [
+                        111.198794562,
+                        -7.50862687605
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.198794562,
+                        -7.50862687605
+                    ],
+                    [
+                        111.198573323,
+                        -7.50856980721
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.198573323,
+                        -7.50856980721
+                    ],
+                    [
+                        111.19800853,
+                        -7.50830321368
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.19800853,
+                        -7.50830321368
+                    ],
+                    [
+                        111.197797037,
+                        -7.50825183886
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.197797037,
+                        -7.50825183886
+                    ],
+                    [
+                        111.197705548,
+                        -7.50829513662
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.197705548,
+                        -7.50829513662
+                    ],
+                    [
+                        111.197419223,
+                        -7.50856520746
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.197419223,
+                        -7.50856520746
+                    ],
+                    [
+                        111.197200717,
+                        -7.50888050336
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.197200717,
+                        -7.50888050336
+                    ],
+                    [
+                        111.19720378,
+                        -7.50896042988
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.19720378,
+                        -7.50896042988
+                    ],
+                    [
+                        111.197274336,
+                        -7.50902574441
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.197274336,
+                        -7.50902574441
+                    ],
+                    [
+                        111.197431474,
+                        -7.50908025564
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.197431474,
+                        -7.50908025564
+                    ],
+                    [
+                        111.197788165,
+                        -7.50921629644
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.197788165,
+                        -7.50921629644
+                    ],
+                    [
+                        111.197821072,
+                        -7.50930862928
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.197821072,
+                        -7.50930862928
+                    ],
+                    [
+                        111.197773632,
+                        -7.50948915777
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.197773632,
+                        -7.50948915777
+                    ],
+                    [
+                        111.197637796,
+                        -7.50970220014
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.197637796,
+                        -7.50970220014
+                    ],
+                    [
+                        111.197467179,
+                        -7.50988784056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.197467179,
+                        -7.50988784056
+                    ],
+                    [
+                        111.197301879,
+                        -7.51000580757
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.197301879,
+                        -7.51000580757
+                    ],
+                    [
+                        111.197170199,
+                        -7.51002646378
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.197170199,
+                        -7.51002646378
+                    ],
+                    [
+                        111.196910745,
+                        -7.51011135656
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.196910745,
+                        -7.51011135656
+                    ],
+                    [
+                        111.196418962,
+                        -7.51026965957
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.196418962,
+                        -7.51026965957
+                    ],
+                    [
+                        111.196134735,
+                        -7.51039082723
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.196134735,
+                        -7.51039082723
+                    ],
+                    [
+                        111.195983026,
+                        -7.51054025771
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.195983026,
+                        -7.51054025771
+                    ],
+                    [
+                        111.195880142,
+                        -7.51074438387
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.195880142,
+                        -7.51074438387
+                    ],
+                    [
+                        111.19576585,
+                        -7.51123878288
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.19576585,
+                        -7.51123878288
+                    ],
+                    [
+                        111.195654319,
+                        -7.51174867593
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.195654319,
+                        -7.51174867593
+                    ],
+                    [
+                        111.195524872,
+                        -7.51184036662
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.195524872,
+                        -7.51184036662
+                    ],
+                    [
+                        111.195345467,
+                        -7.51187610465
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.195345467,
+                        -7.51187610465
+                    ],
+                    [
+                        111.194423777,
+                        -7.51199367372
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.194423777,
+                        -7.51199367372
+                    ],
+                    [
+                        111.194328868,
+                        -7.51209687301
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.194328868,
+                        -7.51209687301
+                    ],
+                    [
+                        111.194321486,
+                        -7.51218993854
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.194321486,
+                        -7.51218993854
+                    ],
+                    [
+                        111.194380196,
+                        -7.5123591578
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.194380196,
+                        -7.5123591578
+                    ],
+                    [
+                        111.194502692,
+                        -7.51253330584
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.194502692,
+                        -7.51253330584
+                    ],
+                    [
+                        111.194674798,
+                        -7.51265304
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.194674798,
+                        -7.51265304
+                    ],
+                    [
+                        111.194840058,
+                        -7.51268526894
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "98",
+                "NAMA_SUNGAI": "Kali Lodolo",
+                "FOTO": "sungai-98_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.194840058,
+                        -7.51268526894
+                    ],
+                    [
+                        111.195092921,
+                        -7.51266914576
+                    ]
+                ]
+            }
+        }
+    ]
+}

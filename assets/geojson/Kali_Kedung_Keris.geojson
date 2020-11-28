@@ -1,0 +1,2525 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91209930404,
+                        -7.7390322160639
+                    ],
+                    [
+                        110.91213537045,
+                        -7.7395135341222
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91213537045,
+                        -7.7395135341222
+                    ],
+                    [
+                        110.91214683231,
+                        -7.739826226599
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91214683231,
+                        -7.739826226599
+                    ],
+                    [
+                        110.91195149956,
+                        -7.7400438967084
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91195149956,
+                        -7.7400438967084
+                    ],
+                    [
+                        110.91158989836,
+                        -7.7403956800166
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91158989836,
+                        -7.7403956800166
+                    ],
+                    [
+                        110.91152087539,
+                        -7.7405700207898
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91152087539,
+                        -7.7405700207898
+                    ],
+                    [
+                        110.91153416287,
+                        -7.7407358935466
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91153416287,
+                        -7.7407358935466
+                    ],
+                    [
+                        110.91164055447,
+                        -7.7414917251629
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91164055447,
+                        -7.7414917251629
+                    ],
+                    [
+                        110.91153387419,
+                        -7.7415962164921
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91153387419,
+                        -7.7415962164921
+                    ],
+                    [
+                        110.91141912519,
+                        -7.7416029677028
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91141912519,
+                        -7.7416029677028
+                    ],
+                    [
+                        110.91093284647,
+                        -7.7415921299728
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91093284647,
+                        -7.7415921299728
+                    ],
+                    [
+                        110.91094981308,
+                        -7.741683820352
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91094981308,
+                        -7.741683820352
+                    ],
+                    [
+                        110.91110150983,
+                        -7.74223576307
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91110150983,
+                        -7.74223576307
+                    ],
+                    [
+                        110.91108563589,
+                        -7.7422974241867
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91108563589,
+                        -7.7422974241867
+                    ],
+                    [
+                        110.91104804153,
+                        -7.7424433949467
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91104804153,
+                        -7.7424433949467
+                    ],
+                    [
+                        110.91092228034,
+                        -7.7424583299878
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91092228034,
+                        -7.7424583299878
+                    ],
+                    [
+                        110.91063962342,
+                        -7.742407913994
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91063962342,
+                        -7.742407913994
+                    ],
+                    [
+                        110.91013489061,
+                        -7.7423902683961
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91013489061,
+                        -7.7423902683961
+                    ],
+                    [
+                        110.90987231106,
+                        -7.7424748082657
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90987231106,
+                        -7.7424748082657
+                    ],
+                    [
+                        110.90981114996,
+                        -7.7426081822218
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90981114996,
+                        -7.7426081822218
+                    ],
+                    [
+                        110.909775812,
+                        -7.7428870880685
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.909775812,
+                        -7.7428870880685
+                    ],
+                    [
+                        110.90965618868,
+                        -7.7442305960651
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90965618868,
+                        -7.7442305960651
+                    ],
+                    [
+                        110.90935443556,
+                        -7.7444576775797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90935443556,
+                        -7.7444576775797
+                    ],
+                    [
+                        110.90921584374,
+                        -7.7445901845893
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90921584374,
+                        -7.7445901845893
+                    ],
+                    [
+                        110.90890938896,
+                        -7.7450461471619
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90890938896,
+                        -7.7450461471619
+                    ],
+                    [
+                        110.90869107313,
+                        -7.7451705953467
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90869107313,
+                        -7.7451705953467
+                    ],
+                    [
+                        110.90828701943,
+                        -7.7452401965777
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90828701943,
+                        -7.7452401965777
+                    ],
+                    [
+                        110.90798631222,
+                        -7.745321180528
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90798631222,
+                        -7.745321180528
+                    ],
+                    [
+                        110.90789631616,
+                        -7.7453454217538
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90789631616,
+                        -7.7453454217538
+                    ],
+                    [
+                        110.90749467444,
+                        -7.7454159627764
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90749467444,
+                        -7.7454159627764
+                    ],
+                    [
+                        110.90715012438,
+                        -7.7453501989524
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90715012438,
+                        -7.7453501989524
+                    ],
+                    [
+                        110.90705051817,
+                        -7.7452741028175
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90705051817,
+                        -7.7452741028175
+                    ],
+                    [
+                        110.90693717571,
+                        -7.7451067605685
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90693717571,
+                        -7.7451067605685
+                    ],
+                    [
+                        110.90690448715,
+                        -7.7449598338292
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90690448715,
+                        -7.7449598338292
+                    ],
+                    [
+                        110.90692858629,
+                        -7.7446141506225
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90692858629,
+                        -7.7446141506225
+                    ],
+                    [
+                        110.90693561898,
+                        -7.7440598166072
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90693561898,
+                        -7.7440598166072
+                    ],
+                    [
+                        110.90682036457,
+                        -7.7438429396998
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90682036457,
+                        -7.7438429396998
+                    ],
+                    [
+                        110.90669828969,
+                        -7.7437927368453
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90669828969,
+                        -7.7437927368453
+                    ],
+                    [
+                        110.90626479848,
+                        -7.7437032614962
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90626479848,
+                        -7.7437032614962
+                    ],
+                    [
+                        110.9059501275,
+                        -7.7436561010482
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9059501275,
+                        -7.7436561010482
+                    ],
+                    [
+                        110.90594737107,
+                        -7.7436556846621
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90594737107,
+                        -7.7436556846621
+                    ],
+                    [
+                        110.90525323385,
+                        -7.7435516501885
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90525323385,
+                        -7.7435516501885
+                    ],
+                    [
+                        110.90466337661,
+                        -7.7435054403238
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90466337661,
+                        -7.7435054403238
+                    ],
+                    [
+                        110.9041135464,
+                        -7.7435548508756
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9041135464,
+                        -7.7435548508756
+                    ],
+                    [
+                        110.90411136735,
+                        -7.74364580471
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90411136735,
+                        -7.74364580471
+                    ],
+                    [
+                        110.90418338326,
+                        -7.7438871494723
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90418338326,
+                        -7.7438871494723
+                    ],
+                    [
+                        110.90428655978,
+                        -7.7442504099284
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90428655978,
+                        -7.7442504099284
+                    ],
+                    [
+                        110.90424993579,
+                        -7.744588030713
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90424993579,
+                        -7.744588030713
+                    ],
+                    [
+                        110.90419065607,
+                        -7.7447319609112
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90419065607,
+                        -7.7447319609112
+                    ],
+                    [
+                        110.90401906363,
+                        -7.7448896057706
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90401906363,
+                        -7.7448896057706
+                    ],
+                    [
+                        110.90376004989,
+                        -7.7449944136612
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90376004989,
+                        -7.7449944136612
+                    ],
+                    [
+                        110.90356320897,
+                        -7.7449920628334
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90356320897,
+                        -7.7449920628334
+                    ],
+                    [
+                        110.9029550919,
+                        -7.7449578679112
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9029550919,
+                        -7.7449578679112
+                    ],
+                    [
+                        110.90271620499,
+                        -7.7450487309142
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90271620499,
+                        -7.7450487309142
+                    ],
+                    [
+                        110.90261959082,
+                        -7.7451770398884
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90261959082,
+                        -7.7451770398884
+                    ],
+                    [
+                        110.90252213399,
+                        -7.7455036835481
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90252213399,
+                        -7.7455036835481
+                    ],
+                    [
+                        110.90248315198,
+                        -7.7457551978441
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90248315198,
+                        -7.7457551978441
+                    ],
+                    [
+                        110.90241858965,
+                        -7.7458756071735
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90241858965,
+                        -7.7458756071735
+                    ],
+                    [
+                        110.90214542327,
+                        -7.7461558691979
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90214542327,
+                        -7.7461558691979
+                    ],
+                    [
+                        110.90210697995,
+                        -7.7461953089663
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90210697995,
+                        -7.7461953089663
+                    ],
+                    [
+                        110.90187089982,
+                        -7.7463793786054
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90187089982,
+                        -7.7463793786054
+                    ],
+                    [
+                        110.90186658308,
+                        -7.7463821188397
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90186658308,
+                        -7.7463821188397
+                    ],
+                    [
+                        110.90178493812,
+                        -7.74636849501
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90178493812,
+                        -7.74636849501
+                    ],
+                    [
+                        110.90112315401,
+                        -7.7462709473463
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90112315401,
+                        -7.7462709473463
+                    ],
+                    [
+                        110.90093968782,
+                        -7.7462015520599
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90093968782,
+                        -7.7462015520599
+                    ],
+                    [
+                        110.90073627016,
+                        -7.7460125316529
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90073627016,
+                        -7.7460125316529
+                    ],
+                    [
+                        110.90070299884,
+                        -7.7459614438655
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90070299884,
+                        -7.7459614438655
+                    ],
+                    [
+                        110.90055498393,
+                        -7.7457342094662
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90055498393,
+                        -7.7457342094662
+                    ],
+                    [
+                        110.90040513709,
+                        -7.7455828949346
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90040513709,
+                        -7.7455828949346
+                    ],
+                    [
+                        110.90025750798,
+                        -7.7455293286156
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90025750798,
+                        -7.7455293286156
+                    ],
+                    [
+                        110.90013980831,
+                        -7.7455806079586
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90013980831,
+                        -7.7455806079586
+                    ],
+                    [
+                        110.8999437489,
+                        -7.7457635462506
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8999437489,
+                        -7.7457635462506
+                    ],
+                    [
+                        110.8991089748,
+                        -7.7465114791214
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8991089748,
+                        -7.7465114791214
+                    ],
+                    [
+                        110.89904517599,
+                        -7.7465451137659
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89904517599,
+                        -7.7465451137659
+                    ],
+                    [
+                        110.89859344923,
+                        -7.7467832866193
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89859344923,
+                        -7.7467832866193
+                    ],
+                    [
+                        110.89830233239,
+                        -7.7469116297679
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89830233239,
+                        -7.7469116297679
+                    ],
+                    [
+                        110.89810726944,
+                        -7.746943568291
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89810726944,
+                        -7.746943568291
+                    ],
+                    [
+                        110.89795736324,
+                        -7.7468526414362
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89795736324,
+                        -7.7468526414362
+                    ],
+                    [
+                        110.89777516329,
+                        -7.7466463477507
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89777516329,
+                        -7.7466463477507
+                    ],
+                    [
+                        110.89760426153,
+                        -7.7462976698015
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89760426153,
+                        -7.7462976698015
+                    ],
+                    [
+                        110.89749261609,
+                        -7.7461356083716
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89749261609,
+                        -7.7461356083716
+                    ],
+                    [
+                        110.89731703875,
+                        -7.7460346711631
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89731703875,
+                        -7.7460346711631
+                    ],
+                    [
+                        110.89711478032,
+                        -7.7459728310812
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89711478032,
+                        -7.7459728310812
+                    ],
+                    [
+                        110.89676240706,
+                        -7.7460106475732
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89676240706,
+                        -7.7460106475732
+                    ],
+                    [
+                        110.89665312324,
+                        -7.7459857453458
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89665312324,
+                        -7.7459857453458
+                    ],
+                    [
+                        110.89643808815,
+                        -7.7459150739215
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89643808815,
+                        -7.7459150739215
+                    ],
+                    [
+                        110.89612438303,
+                        -7.7458857524254
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89612438303,
+                        -7.7458857524254
+                    ],
+                    [
+                        110.89592016768,
+                        -7.7458530117071
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89592016768,
+                        -7.7458530117071
+                    ],
+                    [
+                        110.89571593434,
+                        -7.7458220525456
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89571593434,
+                        -7.7458220525456
+                    ],
+                    [
+                        110.895511049,
+                        -7.7457477559541
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.895511049,
+                        -7.7457477559541
+                    ],
+                    [
+                        110.89540377337,
+                        -7.7457798059932
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89540377337,
+                        -7.7457798059932
+                    ],
+                    [
+                        110.89517455506,
+                        -7.7460418108808
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89517455506,
+                        -7.7460418108808
+                    ],
+                    [
+                        110.89512320107,
+                        -7.746100513228
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89512320107,
+                        -7.746100513228
+                    ],
+                    [
+                        110.89500406159,
+                        -7.746250072283
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89500406159,
+                        -7.746250072283
+                    ],
+                    [
+                        110.89481240077,
+                        -7.7463510283772
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89481240077,
+                        -7.7463510283772
+                    ],
+                    [
+                        110.89452422381,
+                        -7.7463948469446
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89452422381,
+                        -7.7463948469446
+                    ],
+                    [
+                        110.89416963102,
+                        -7.7464204488446
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89416963102,
+                        -7.7464204488446
+                    ],
+                    [
+                        110.89389163169,
+                        -7.7464579910434
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89389163169,
+                        -7.7464579910434
+                    ],
+                    [
+                        110.8935874522,
+                        -7.7463772193331
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8935874522,
+                        -7.7463772193331
+                    ],
+                    [
+                        110.89339690924,
+                        -7.7463196141588
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89339690924,
+                        -7.7463196141588
+                    ],
+                    [
+                        110.89324477812,
+                        -7.7463538954159
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89324477812,
+                        -7.7463538954159
+                    ],
+                    [
+                        110.89308681131,
+                        -7.7464775548952
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89308681131,
+                        -7.7464775548952
+                    ],
+                    [
+                        110.89289708853,
+                        -7.7467691204985
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89289708853,
+                        -7.7467691204985
+                    ],
+                    [
+                        110.89260404444,
+                        -7.7471207599151
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89260404444,
+                        -7.7471207599151
+                    ],
+                    [
+                        110.8924503566,
+                        -7.747321679252
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8924503566,
+                        -7.747321679252
+                    ],
+                    [
+                        110.89242817122,
+                        -7.7474036542552
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89242817122,
+                        -7.7474036542552
+                    ],
+                    [
+                        110.89235453473,
+                        -7.7476756928788
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89235453473,
+                        -7.7476756928788
+                    ],
+                    [
+                        110.89235212905,
+                        -7.7476845925698
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89235212905,
+                        -7.7476845925698
+                    ],
+                    [
+                        110.89232152872,
+                        -7.7479426485344
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89232152872,
+                        -7.7479426485344
+                    ],
+                    [
+                        110.89258328449,
+                        -7.7483426139204
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89258328449,
+                        -7.7483426139204
+                    ],
+                    [
+                        110.89271501449,
+                        -7.7485830530653
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89271501449,
+                        -7.7485830530653
+                    ],
+                    [
+                        110.89276216864,
+                        -7.7488503090944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89276216864,
+                        -7.7488503090944
+                    ],
+                    [
+                        110.89287383836,
+                        -7.7494123619909
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89287383836,
+                        -7.7494123619909
+                    ],
+                    [
+                        110.89295610654,
+                        -7.7498299199148
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89295610654,
+                        -7.7498299199148
+                    ],
+                    [
+                        110.89296315722,
+                        -7.7498516493341
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89296315722,
+                        -7.7498516493341
+                    ],
+                    [
+                        110.89301144812,
+                        -7.7500004988239
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89301144812,
+                        -7.7500004988239
+                    ],
+                    [
+                        110.89307527211,
+                        -7.7501972489039
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89307527211,
+                        -7.7501972489039
+                    ],
+                    [
+                        110.89311416059,
+                        -7.7503374747946
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89311416059,
+                        -7.7503374747946
+                    ],
+                    [
+                        110.89294802073,
+                        -7.750642199278
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89294802073,
+                        -7.750642199278
+                    ],
+                    [
+                        110.89251280013,
+                        -7.7510245757235
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "56",
+                "NAMA_SUNGAI": "Kali Kedung Keris",
+                "FOTO": "sungai-56_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89251280013,
+                        -7.7510245757235
+                    ],
+                    [
+                        110.8924395,
+                        -7.751671375
+                    ]
+                ]
+            }
+        }
+    ]
+}

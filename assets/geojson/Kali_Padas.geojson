@@ -1,0 +1,2378 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99503376596,
+                        -7.7267892049123
+                    ],
+                    [
+                        110.99478903021,
+                        -7.7266240616269
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99478903021,
+                        -7.7266240616269
+                    ],
+                    [
+                        110.99472424992,
+                        -7.7263655802495
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99472424992,
+                        -7.7263655802495
+                    ],
+                    [
+                        110.99486821516,
+                        -7.7262004416292
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99486821516,
+                        -7.7262004416292
+                    ],
+                    [
+                        110.99555924127,
+                        -7.725934788766
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99555924127,
+                        -7.725934788766
+                    ],
+                    [
+                        110.99750274271,
+                        -7.7260137847253
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99750274271,
+                        -7.7260137847253
+                    ],
+                    [
+                        110.99783385934,
+                        -7.7257337658923
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99783385934,
+                        -7.7257337658923
+                    ],
+                    [
+                        110.99776535509,
+                        -7.7254163633744
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99776535509,
+                        -7.7254163633744
+                    ],
+                    [
+                        110.99727746119,
+                        -7.7251884185106
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99727746119,
+                        -7.7251884185106
+                    ],
+                    [
+                        110.99684986503,
+                        -7.7248968196324
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99684986503,
+                        -7.7248968196324
+                    ],
+                    [
+                        110.99570051796,
+                        -7.7245109205425
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99570051796,
+                        -7.7245109205425
+                    ],
+                    [
+                        110.99514176574,
+                        -7.7244054406818
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99514176574,
+                        -7.7244054406818
+                    ],
+                    [
+                        110.99417721937,
+                        -7.724190028121
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99417721937,
+                        -7.724190028121
+                    ],
+                    [
+                        110.99355818165,
+                        -7.724118219069
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99355818165,
+                        -7.724118219069
+                    ],
+                    [
+                        110.99292301758,
+                        -7.7241389078842
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99292301758,
+                        -7.7241389078842
+                    ],
+                    [
+                        110.99188821268,
+                        -7.7243335911416
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99188821268,
+                        -7.7243335911416
+                    ],
+                    [
+                        110.99053090098,
+                        -7.7247100502286
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99053090098,
+                        -7.7247100502286
+                    ],
+                    [
+                        110.99019623627,
+                        -7.7247710377532
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99019623627,
+                        -7.7247710377532
+                    ],
+                    [
+                        110.98915061791,
+                        -7.7248364310564
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98915061791,
+                        -7.7248364310564
+                    ],
+                    [
+                        110.98867939384,
+                        -7.7247563014621
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98867939384,
+                        -7.7247563014621
+                    ],
+                    [
+                        110.9884016706,
+                        -7.7247839097496
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9884016706,
+                        -7.7247839097496
+                    ],
+                    [
+                        110.98824330628,
+                        -7.7248027118756
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98824330628,
+                        -7.7248027118756
+                    ],
+                    [
+                        110.98797720858,
+                        -7.7248555668309
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98797720858,
+                        -7.7248555668309
+                    ],
+                    [
+                        110.98772194861,
+                        -7.7248444790894
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98772194861,
+                        -7.7248444790894
+                    ],
+                    [
+                        110.98719842717,
+                        -7.7247417953975
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98719842717,
+                        -7.7247417953975
+                    ],
+                    [
+                        110.98658277198,
+                        -7.7245606818299
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98658277198,
+                        -7.7245606818299
+                    ],
+                    [
+                        110.98607881708,
+                        -7.7243003227017
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98607881708,
+                        -7.7243003227017
+                    ],
+                    [
+                        110.98569108607,
+                        -7.7240017756613
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98569108607,
+                        -7.7240017756613
+                    ],
+                    [
+                        110.98536629772,
+                        -7.7237664590548
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98536629772,
+                        -7.7237664590548
+                    ],
+                    [
+                        110.98515224738,
+                        -7.7236961311715
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98515224738,
+                        -7.7236961311715
+                    ],
+                    [
+                        110.98485483618,
+                        -7.7237458987542
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98485483618,
+                        -7.7237458987542
+                    ],
+                    [
+                        110.98467019008,
+                        -7.7238123505595
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98467019008,
+                        -7.7238123505595
+                    ],
+                    [
+                        110.9843638621,
+                        -7.7239225975498
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9843638621,
+                        -7.7239225975498
+                    ],
+                    [
+                        110.98377453187,
+                        -7.7240811642143
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98377453187,
+                        -7.7240811642143
+                    ],
+                    [
+                        110.98347293343,
+                        -7.7240516277803
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98347293343,
+                        -7.7240516277803
+                    ],
+                    [
+                        110.98200229637,
+                        -7.7238692074979
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98200229637,
+                        -7.7238692074979
+                    ],
+                    [
+                        110.9812848739,
+                        -7.7238013428576
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9812848739,
+                        -7.7238013428576
+                    ],
+                    [
+                        110.98078022383,
+                        -7.7237536050448
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98078022383,
+                        -7.7237536050448
+                    ],
+                    [
+                        110.98051170605,
+                        -7.7237629184239
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98051170605,
+                        -7.7237629184239
+                    ],
+                    [
+                        110.98030587372,
+                        -7.723864971691
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98030587372,
+                        -7.723864971691
+                    ],
+                    [
+                        110.98003671472,
+                        -7.7240050402004
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98003671472,
+                        -7.7240050402004
+                    ],
+                    [
+                        110.97925903048,
+                        -7.7241557045221
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97925903048,
+                        -7.7241557045221
+                    ],
+                    [
+                        110.97887114659,
+                        -7.7241088282597
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97887114659,
+                        -7.7241088282597
+                    ],
+                    [
+                        110.97841458596,
+                        -7.724088063813
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97841458596,
+                        -7.724088063813
+                    ],
+                    [
+                        110.97803167083,
+                        -7.724058130778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97803167083,
+                        -7.724058130778
+                    ],
+                    [
+                        110.97713275437,
+                        -7.7239502768837
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97713275437,
+                        -7.7239502768837
+                    ],
+                    [
+                        110.97640367939,
+                        -7.7240453613043
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97640367939,
+                        -7.7240453613043
+                    ],
+                    [
+                        110.97590564833,
+                        -7.7241854963635
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97590564833,
+                        -7.7241854963635
+                    ],
+                    [
+                        110.97542856967,
+                        -7.7244070245645
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97542856967,
+                        -7.7244070245645
+                    ],
+                    [
+                        110.97521422256,
+                        -7.7244772885959
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97521422256,
+                        -7.7244772885959
+                    ],
+                    [
+                        110.97491852907,
+                        -7.7245872028371
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97491852907,
+                        -7.7245872028371
+                    ],
+                    [
+                        110.97476467305,
+                        -7.7247353355672
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97476467305,
+                        -7.7247353355672
+                    ],
+                    [
+                        110.9743866754,
+                        -7.7251084103248
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9743866754,
+                        -7.7251084103248
+                    ],
+                    [
+                        110.97423734208,
+                        -7.7251487089457
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97423734208,
+                        -7.7251487089457
+                    ],
+                    [
+                        110.97405622132,
+                        -7.7250834424469
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97405622132,
+                        -7.7250834424469
+                    ],
+                    [
+                        110.97385444043,
+                        -7.7250348367883
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97385444043,
+                        -7.7250348367883
+                    ],
+                    [
+                        110.97379406894,
+                        -7.7250811383837
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97379406894,
+                        -7.7250811383837
+                    ],
+                    [
+                        110.97370784734,
+                        -7.7253415119012
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97370784734,
+                        -7.7253415119012
+                    ],
+                    [
+                        110.97354852794,
+                        -7.7254008599617
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97354852794,
+                        -7.7254008599617
+                    ],
+                    [
+                        110.97338961504,
+                        -7.7254928264327
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97338961504,
+                        -7.7254928264327
+                    ],
+                    [
+                        110.97338550783,
+                        -7.7256291987285
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97338550783,
+                        -7.7256291987285
+                    ],
+                    [
+                        110.97339743644,
+                        -7.7259973038324
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97339743644,
+                        -7.7259973038324
+                    ],
+                    [
+                        110.97331733203,
+                        -7.7263309217346
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97331733203,
+                        -7.7263309217346
+                    ],
+                    [
+                        110.97324124309,
+                        -7.7263928616412
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97324124309,
+                        -7.7263928616412
+                    ],
+                    [
+                        110.97318421708,
+                        -7.7264347304784
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97318421708,
+                        -7.7264347304784
+                    ],
+                    [
+                        110.97272561769,
+                        -7.726771471726
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97272561769,
+                        -7.726771471726
+                    ],
+                    [
+                        110.97246868498,
+                        -7.7268203112084
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97246868498,
+                        -7.7268203112084
+                    ],
+                    [
+                        110.97216855154,
+                        -7.7268319880058
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97216855154,
+                        -7.7268319880058
+                    ],
+                    [
+                        110.97204886077,
+                        -7.7267644723025
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97204886077,
+                        -7.7267644723025
+                    ],
+                    [
+                        110.97185465577,
+                        -7.7266605880157
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97185465577,
+                        -7.7266605880157
+                    ],
+                    [
+                        110.97163987968,
+                        -7.7266128484042
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97163987968,
+                        -7.7266128484042
+                    ],
+                    [
+                        110.97128836976,
+                        -7.7266735310586
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97128836976,
+                        -7.7266735310586
+                    ],
+                    [
+                        110.97110438016,
+                        -7.7267778326308
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97110438016,
+                        -7.7267778326308
+                    ],
+                    [
+                        110.97045642402,
+                        -7.7271664090025
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97045642402,
+                        -7.7271664090025
+                    ],
+                    [
+                        110.9696971606,
+                        -7.7274117377614
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9696971606,
+                        -7.7274117377614
+                    ],
+                    [
+                        110.96955563698,
+                        -7.7277905780727
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96955563698,
+                        -7.7277905780727
+                    ],
+                    [
+                        110.96938487371,
+                        -7.7280716872585
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96938487371,
+                        -7.7280716872585
+                    ],
+                    [
+                        110.96926929015,
+                        -7.7281300595545
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96926929015,
+                        -7.7281300595545
+                    ],
+                    [
+                        110.96888967642,
+                        -7.7280521306013
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96888967642,
+                        -7.7280521306013
+                    ],
+                    [
+                        110.96846025823,
+                        -7.727976966164
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96846025823,
+                        -7.727976966164
+                    ],
+                    [
+                        110.96693760349,
+                        -7.7279460321836
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96693760349,
+                        -7.7279460321836
+                    ],
+                    [
+                        110.96634329281,
+                        -7.7279693057388
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96634329281,
+                        -7.7279693057388
+                    ],
+                    [
+                        110.9662355945,
+                        -7.7279739192609
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9662355945,
+                        -7.7279739192609
+                    ],
+                    [
+                        110.96616333487,
+                        -7.7279831220234
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96616333487,
+                        -7.7279831220234
+                    ],
+                    [
+                        110.96559287421,
+                        -7.7280193584066
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96559287421,
+                        -7.7280193584066
+                    ],
+                    [
+                        110.96535224531,
+                        -7.7279454907917
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96535224531,
+                        -7.7279454907917
+                    ],
+                    [
+                        110.96480014521,
+                        -7.7278074268712
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96480014521,
+                        -7.7278074268712
+                    ],
+                    [
+                        110.96438297489,
+                        -7.7276718513748
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96438297489,
+                        -7.7276718513748
+                    ],
+                    [
+                        110.96387714402,
+                        -7.7275220216239
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96387714402,
+                        -7.7275220216239
+                    ],
+                    [
+                        110.96345105602,
+                        -7.7275343603224
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96345105602,
+                        -7.7275343603224
+                    ],
+                    [
+                        110.9632335388,
+                        -7.7276301084427
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9632335388,
+                        -7.7276301084427
+                    ],
+                    [
+                        110.96261534033,
+                        -7.7279818494827
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96261534033,
+                        -7.7279818494827
+                    ],
+                    [
+                        110.96236008755,
+                        -7.7280818001349
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96236008755,
+                        -7.7280818001349
+                    ],
+                    [
+                        110.96178308072,
+                        -7.7282950635663
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96178308072,
+                        -7.7282950635663
+                    ],
+                    [
+                        110.96162957185,
+                        -7.7284595540651
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96162957185,
+                        -7.7284595540651
+                    ],
+                    [
+                        110.96142756703,
+                        -7.7286809015023
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96142756703,
+                        -7.7286809015023
+                    ],
+                    [
+                        110.96070094,
+                        -7.72934293293
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96070094,
+                        -7.72934293293
+                    ],
+                    [
+                        110.9603724842,
+                        -7.7294511159762
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9603724842,
+                        -7.7294511159762
+                    ],
+                    [
+                        110.9600352915,
+                        -7.7294886060143
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9600352915,
+                        -7.7294886060143
+                    ],
+                    [
+                        110.95968913704,
+                        -7.7295565426003
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95968913704,
+                        -7.7295565426003
+                    ],
+                    [
+                        110.95934312289,
+                        -7.7295757233409
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95934312289,
+                        -7.7295757233409
+                    ],
+                    [
+                        110.95855803543,
+                        -7.7293935674591
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95855803543,
+                        -7.7293935674591
+                    ],
+                    [
+                        110.95791784134,
+                        -7.7293567159396
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95791784134,
+                        -7.7293567159396
+                    ],
+                    [
+                        110.95668597967,
+                        -7.7292858016983
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95668597967,
+                        -7.7292858016983
+                    ],
+                    [
+                        110.95636200161,
+                        -7.7294069799481
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95636200161,
+                        -7.7294069799481
+                    ],
+                    [
+                        110.9557319087,
+                        -7.72964315181
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9557319087,
+                        -7.72964315181
+                    ],
+                    [
+                        110.95531238126,
+                        -7.7296880108929
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95531238126,
+                        -7.7296880108929
+                    ],
+                    [
+                        110.95525630943,
+                        -7.7296940021764
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95525630943,
+                        -7.7296940021764
+                    ],
+                    [
+                        110.95408824298,
+                        -7.7297280891799
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95408824298,
+                        -7.7297280891799
+                    ],
+                    [
+                        110.95380762482,
+                        -7.7297246213941
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95380762482,
+                        -7.7297246213941
+                    ],
+                    [
+                        110.9535926275,
+                        -7.7297988001744
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9535926275,
+                        -7.7297988001744
+                    ],
+                    [
+                        110.95306925624,
+                        -7.7299942291503
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95306925624,
+                        -7.7299942291503
+                    ],
+                    [
+                        110.95261110112,
+                        -7.7301555531362
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "55",
+                "NAMA_SUNGAI": "Kali Padas",
+                "FOTO": "sungai-55_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95261110112,
+                        -7.7301555531362
+                    ],
+                    [
+                        110.95252548117,
+                        -7.7301857020085
+                    ]
+                ]
+            }
+        }
+    ]
+}

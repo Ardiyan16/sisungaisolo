@@ -1,0 +1,61 @@
+[08-Oct-2020 09:37:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function M_line_patok::get_peta(), 0 passed in /home/k8796512/public_html/sisungai/application/controllers/peta.php on line 23 and exactly 2 expected in /home/k8796512/public_html/sisungai/application/models/m_line_patok.php:76
+Stack trace:
+#0 /home/k8796512/public_html/sisungai/application/controllers/peta.php(23): M_line_patok->get_peta()
+#1 /home/k8796512/public_html/sisungai/system/core/CodeIgniter.php(360): Peta->index('149')
+#2 /home/k8796512/public_html/sisungai/index.php(315): require_once('/home/k8796512/...')
+#3 {main}
+  thrown in /home/k8796512/public_html/sisungai/application/models/m_line_patok.php on line 76
+[08-Oct-2020 09:38:01 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function M_line_patok::get_peta(), 0 passed in /home/k8796512/public_html/sisungai/application/controllers/peta.php on line 23 and exactly 2 expected in /home/k8796512/public_html/sisungai/application/models/m_line_patok.php:76
+Stack trace:
+#0 /home/k8796512/public_html/sisungai/application/controllers/peta.php(23): M_line_patok->get_peta()
+#1 /home/k8796512/public_html/sisungai/system/core/CodeIgniter.php(360): Peta->index('132')
+#2 /home/k8796512/public_html/sisungai/index.php(315): require_once('/home/k8796512/...')
+#3 {main}
+  thrown in /home/k8796512/public_html/sisungai/application/models/m_line_patok.php on line 76
+[08-Oct-2020 09:38:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function M_line_patok::get_peta(), 0 passed in /home/k8796512/public_html/sisungai/application/controllers/peta.php on line 23 and exactly 2 expected in /home/k8796512/public_html/sisungai/application/models/m_line_patok.php:76
+Stack trace:
+#0 /home/k8796512/public_html/sisungai/application/controllers/peta.php(23): M_line_patok->get_peta()
+#1 /home/k8796512/public_html/sisungai/system/core/CodeIgniter.php(360): Peta->index('174')
+#2 /home/k8796512/public_html/sisungai/index.php(315): require_once('/home/k8796512/...')
+#3 {main}
+  thrown in /home/k8796512/public_html/sisungai/application/models/m_line_patok.php on line 76
+[08-Oct-2020 09:38:20 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function M_line_patok::get_peta(), 0 passed in /home/k8796512/public_html/sisungai/application/controllers/peta.php on line 23 and exactly 2 expected in /home/k8796512/public_html/sisungai/application/models/m_line_patok.php:76
+Stack trace:
+#0 /home/k8796512/public_html/sisungai/application/controllers/peta.php(23): M_line_patok->get_peta()
+#1 /home/k8796512/public_html/sisungai/system/core/CodeIgniter.php(360): Peta->index('176')
+#2 /home/k8796512/public_html/sisungai/index.php(315): require_once('/home/k8796512/...')
+#3 {main}
+  thrown in /home/k8796512/public_html/sisungai/application/models/m_line_patok.php on line 76
+[08-Oct-2020 09:40:26 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function M_line_patok::get_peta(), 0 passed in /home/k8796512/public_html/sisungai/application/controllers/peta.php on line 23 and exactly 2 expected in /home/k8796512/public_html/sisungai/application/models/m_line_patok.php:76
+Stack trace:
+#0 /home/k8796512/public_html/sisungai/application/controllers/peta.php(23): M_line_patok->get_peta()
+#1 /home/k8796512/public_html/sisungai/system/core/CodeIgniter.php(360): Peta->index('148')
+#2 /home/k8796512/public_html/sisungai/index.php(315): require_once('/home/k8796512/...')
+#3 {main}
+  thrown in /home/k8796512/public_html/sisungai/application/models/m_line_patok.php on line 76
+[08-Oct-2020 09:40:26 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function M_line_patok::get_peta(), 0 passed in /home/k8796512/public_html/sisungai/application/controllers/peta.php on line 23 and exactly 2 expected in /home/k8796512/public_html/sisungai/application/models/m_line_patok.php:76
+Stack trace:
+#0 /home/k8796512/public_html/sisungai/application/controllers/peta.php(23): M_line_patok->get_peta()
+#1 /home/k8796512/public_html/sisungai/system/core/CodeIgniter.php(360): Peta->index('148')
+#2 /home/k8796512/public_html/sisungai/index.php(315): require_once('/home/k8796512/...')
+#3 {main}
+  thrown in /home/k8796512/public_html/sisungai/application/models/m_line_patok.php on line 76
+[08-Oct-2020 09:42:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function detail_cekdam() on null in /home/k8796512/public_html/sisungai/application/controllers/peta.php:455
+Stack trace:
+#0 /home/k8796512/public_html/sisungai/system/core/CodeIgniter.php(360): Peta->create_load_cekdam('75')
+#1 /home/k8796512/public_html/sisungai/index.php(315): require_once('/home/k8796512/...')
+#2 {main}
+  thrown in /home/k8796512/public_html/sisungai/application/controllers/peta.php on line 455
+[09-Oct-2020 01:30:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function M_line_patok::get_peta(), 0 passed in /home/k8796512/public_html/sisungai/application/controllers/peta.php on line 23 and exactly 2 expected in /home/k8796512/public_html/sisungai/application/models/m_line_patok.php:76
+Stack trace:
+#0 /home/k8796512/public_html/sisungai/application/controllers/peta.php(23): M_line_patok->get_peta()
+#1 /home/k8796512/public_html/sisungai/system/core/CodeIgniter.php(360): Peta->index('213')
+#2 /home/k8796512/public_html/sisungai/index.php(315): require_once('/home/k8796512/...')
+#3 {main}
+  thrown in /home/k8796512/public_html/sisungai/application/models/m_line_patok.php on line 76
+[09-Oct-2020 01:49:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function detail_cekdam() on null in /home/k8796512/public_html/sisungai/application/controllers/peta.php:455
+Stack trace:
+#0 /home/k8796512/public_html/sisungai/system/core/CodeIgniter.php(360): Peta->create_load_cekdam('55')
+#1 /home/k8796512/public_html/sisungai/index.php(315): require_once('/home/k8796512/...')
+#2 {main}
+  thrown in /home/k8796512/public_html/sisungai/application/controllers/peta.php on line 455

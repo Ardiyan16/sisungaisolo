@@ -1,0 +1,5045 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9312123,
+                        -7.816104827
+                    ],
+                    [
+                        110.931765506,
+                        -7.81619442353
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.931765506,
+                        -7.81619442353
+                    ],
+                    [
+                        110.932044895,
+                        -7.81635531764
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.932044895,
+                        -7.81635531764
+                    ],
+                    [
+                        110.932172697,
+                        -7.81641265122
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.932172697,
+                        -7.81641265122
+                    ],
+                    [
+                        110.932308552,
+                        -7.81648697389
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.932308552,
+                        -7.81648697389
+                    ],
+                    [
+                        110.932687647,
+                        -7.81668271853
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.932687647,
+                        -7.81668271853
+                    ],
+                    [
+                        110.933400865,
+                        -7.81726637404
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.933400865,
+                        -7.81726637404
+                    ],
+                    [
+                        110.933439454,
+                        -7.81747332603
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.933439454,
+                        -7.81747332603
+                    ],
+                    [
+                        110.933456257,
+                        -7.81796987051
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.933456257,
+                        -7.81796987051
+                    ],
+                    [
+                        110.933457379,
+                        -7.81815450942
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.933457379,
+                        -7.81815450942
+                    ],
+                    [
+                        110.933585745,
+                        -7.81832463328
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.933585745,
+                        -7.81832463328
+                    ],
+                    [
+                        110.93377317,
+                        -7.81843141877
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93377317,
+                        -7.81843141877
+                    ],
+                    [
+                        110.933874363,
+                        -7.81853224806
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.933874363,
+                        -7.81853224806
+                    ],
+                    [
+                        110.933882155,
+                        -7.81864304004
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.933882155,
+                        -7.81864304004
+                    ],
+                    [
+                        110.933911364,
+                        -7.81886451788
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.933911364,
+                        -7.81886451788
+                    ],
+                    [
+                        110.933982683,
+                        -7.81893895657
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.933982683,
+                        -7.81893895657
+                    ],
+                    [
+                        110.934126387,
+                        -7.81893301834
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.934126387,
+                        -7.81893301834
+                    ],
+                    [
+                        110.934207092,
+                        -7.81890549549
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.934207092,
+                        -7.81890549549
+                    ],
+                    [
+                        110.934349861,
+                        -7.8188567981
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.934349861,
+                        -7.8188567981
+                    ],
+                    [
+                        110.934532319,
+                        -7.81882918262
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.934532319,
+                        -7.81882918262
+                    ],
+                    [
+                        110.934881085,
+                        -7.81885212253
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.934881085,
+                        -7.81885212253
+                    ],
+                    [
+                        110.935783576,
+                        -7.81889600495
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.935783576,
+                        -7.81889600495
+                    ],
+                    [
+                        110.935900894,
+                        -7.81884143229
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.935900894,
+                        -7.81884143229
+                    ],
+                    [
+                        110.935946051,
+                        -7.81881248491
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.935946051,
+                        -7.81881248491
+                    ],
+                    [
+                        110.936046064,
+                        -7.81874172625
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.936046064,
+                        -7.81874172625
+                    ],
+                    [
+                        110.936179886,
+                        -7.81865402257
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.936179886,
+                        -7.81865402257
+                    ],
+                    [
+                        110.936405974,
+                        -7.81842915518
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.936405974,
+                        -7.81842915518
+                    ],
+                    [
+                        110.936595355,
+                        -7.81838447147
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.936595355,
+                        -7.81838447147
+                    ],
+                    [
+                        110.936758628,
+                        -7.81842051539
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.936758628,
+                        -7.81842051539
+                    ],
+                    [
+                        110.937353473,
+                        -7.81859251613
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.937353473,
+                        -7.81859251613
+                    ],
+                    [
+                        110.937501176,
+                        -7.81848388163
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.937501176,
+                        -7.81848388163
+                    ],
+                    [
+                        110.937655919,
+                        -7.81842228616
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.937655919,
+                        -7.81842228616
+                    ],
+                    [
+                        110.937800917,
+                        -7.81843988319
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.937800917,
+                        -7.81843988319
+                    ],
+                    [
+                        110.938046203,
+                        -7.81843004101
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.938046203,
+                        -7.81843004101
+                    ],
+                    [
+                        110.938494091,
+                        -7.8183975602
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.938494091,
+                        -7.8183975602
+                    ],
+                    [
+                        110.93867612,
+                        -7.8185031496
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93867612,
+                        -7.8185031496
+                    ],
+                    [
+                        110.939160427,
+                        -7.81878220473
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.939160427,
+                        -7.81878220473
+                    ],
+                    [
+                        110.939383176,
+                        -7.81874756465
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.939383176,
+                        -7.81874756465
+                    ],
+                    [
+                        110.939448972,
+                        -7.81863891845
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.939448972,
+                        -7.81863891845
+                    ],
+                    [
+                        110.939561911,
+                        -7.81830572053
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.939561911,
+                        -7.81830572053
+                    ],
+                    [
+                        110.939734407,
+                        -7.81822944543
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.939734407,
+                        -7.81822944543
+                    ],
+                    [
+                        110.940057997,
+                        -7.81816515919
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940057997,
+                        -7.81816515919
+                    ],
+                    [
+                        110.940362506,
+                        -7.81807683498
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940362506,
+                        -7.81807683498
+                    ],
+                    [
+                        110.940607737,
+                        -7.81787245685
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940607737,
+                        -7.81787245685
+                    ],
+                    [
+                        110.940731694,
+                        -7.81781594795
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940731694,
+                        -7.81781594795
+                    ],
+                    [
+                        110.940945024,
+                        -7.81786647995
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940945024,
+                        -7.81786647995
+                    ],
+                    [
+                        110.941187503,
+                        -7.81795255587
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.941187503,
+                        -7.81795255587
+                    ],
+                    [
+                        110.941395976,
+                        -7.81791518094
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.941395976,
+                        -7.81791518094
+                    ],
+                    [
+                        110.941627101,
+                        -7.81791598134
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.941627101,
+                        -7.81791598134
+                    ],
+                    [
+                        110.94215987,
+                        -7.8180103463
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94215987,
+                        -7.8180103463
+                    ],
+                    [
+                        110.942891138,
+                        -7.81791779167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.942891138,
+                        -7.81791779167
+                    ],
+                    [
+                        110.943074851,
+                        -7.81798246552
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943074851,
+                        -7.81798246552
+                    ],
+                    [
+                        110.943206826,
+                        -7.8181274758
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943206826,
+                        -7.8181274758
+                    ],
+                    [
+                        110.943516988,
+                        -7.81842104779
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943516988,
+                        -7.81842104779
+                    ],
+                    [
+                        110.943893938,
+                        -7.81863611257
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943893938,
+                        -7.81863611257
+                    ],
+                    [
+                        110.944028672,
+                        -7.81856465244
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944028672,
+                        -7.81856465244
+                    ],
+                    [
+                        110.944133247,
+                        -7.81842455785
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944133247,
+                        -7.81842455785
+                    ],
+                    [
+                        110.944299684,
+                        -7.81820135241
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944299684,
+                        -7.81820135241
+                    ],
+                    [
+                        110.9444748,
+                        -7.81806093317
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9444748,
+                        -7.81806093317
+                    ],
+                    [
+                        110.944662856,
+                        -7.81801107115
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944662856,
+                        -7.81801107115
+                    ],
+                    [
+                        110.94476161,
+                        -7.81805273854
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94476161,
+                        -7.81805273854
+                    ],
+                    [
+                        110.944939349,
+                        -7.81816960454
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944939349,
+                        -7.81816960454
+                    ],
+                    [
+                        110.945177118,
+                        -7.81841858005
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945177118,
+                        -7.81841858005
+                    ],
+                    [
+                        110.945480632,
+                        -7.81865174368
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945480632,
+                        -7.81865174368
+                    ],
+                    [
+                        110.945597968,
+                        -7.81865050981
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945597968,
+                        -7.81865050981
+                    ],
+                    [
+                        110.945668546,
+                        -7.81857448203
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945668546,
+                        -7.81857448203
+                    ],
+                    [
+                        110.945698924,
+                        -7.81843616899
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945698924,
+                        -7.81843616899
+                    ],
+                    [
+                        110.945767771,
+                        -7.81827182778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945767771,
+                        -7.81827182778
+                    ],
+                    [
+                        110.945894672,
+                        -7.81817374412
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945894672,
+                        -7.81817374412
+                    ],
+                    [
+                        110.946092179,
+                        -7.81812212843
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946092179,
+                        -7.81812212843
+                    ],
+                    [
+                        110.946424188,
+                        -7.81810888232
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946424188,
+                        -7.81810888232
+                    ],
+                    [
+                        110.946764175,
+                        -7.81805933687
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946764175,
+                        -7.81805933687
+                    ],
+                    [
+                        110.947146864,
+                        -7.81802247905
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947146864,
+                        -7.81802247905
+                    ],
+                    [
+                        110.947487623,
+                        -7.81803125014
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947487623,
+                        -7.81803125014
+                    ],
+                    [
+                        110.947673466,
+                        -7.81790442685
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947673466,
+                        -7.81790442685
+                    ],
+                    [
+                        110.947863514,
+                        -7.81780338352
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947863514,
+                        -7.81780338352
+                    ],
+                    [
+                        110.948074734,
+                        -7.81777378503
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948074734,
+                        -7.81777378503
+                    ],
+                    [
+                        110.948432122,
+                        -7.8179080655
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948432122,
+                        -7.8179080655
+                    ],
+                    [
+                        110.948934102,
+                        -7.81812458898
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948934102,
+                        -7.81812458898
+                    ],
+                    [
+                        110.949381502,
+                        -7.81822737429
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949381502,
+                        -7.81822737429
+                    ],
+                    [
+                        110.949570523,
+                        -7.81836445615
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949570523,
+                        -7.81836445615
+                    ],
+                    [
+                        110.949771947,
+                        -7.81848389152
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949771947,
+                        -7.81848389152
+                    ],
+                    [
+                        110.9498838,
+                        -7.81859059788
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9498838,
+                        -7.81859059788
+                    ],
+                    [
+                        110.950104765,
+                        -7.81883725314
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.950104765,
+                        -7.81883725314
+                    ],
+                    [
+                        110.950367047,
+                        -7.81892315368
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.950367047,
+                        -7.81892315368
+                    ],
+                    [
+                        110.950797392,
+                        -7.81889834678
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.950797392,
+                        -7.81889834678
+                    ],
+                    [
+                        110.950832152,
+                        -7.81903159303
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.950832152,
+                        -7.81903159303
+                    ],
+                    [
+                        110.95107075,
+                        -7.81951336345
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95107075,
+                        -7.81951336345
+                    ],
+                    [
+                        110.95153799,
+                        -7.81983488997
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95153799,
+                        -7.81983488997
+                    ],
+                    [
+                        110.951609208,
+                        -7.81987631814
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.951609208,
+                        -7.81987631814
+                    ],
+                    [
+                        110.95164732,
+                        -7.81989473086
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95164732,
+                        -7.81989473086
+                    ],
+                    [
+                        110.952011324,
+                        -7.82010469378
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952011324,
+                        -7.82010469378
+                    ],
+                    [
+                        110.952080256,
+                        -7.8201444573
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952080256,
+                        -7.8201444573
+                    ],
+                    [
+                        110.952545282,
+                        -7.82041059637
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952545282,
+                        -7.82041059637
+                    ],
+                    [
+                        110.952687762,
+                        -7.82040300519
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952687762,
+                        -7.82040300519
+                    ],
+                    [
+                        110.953098511,
+                        -7.82034008413
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953098511,
+                        -7.82034008413
+                    ],
+                    [
+                        110.953337189,
+                        -7.82038438023
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953337189,
+                        -7.82038438023
+                    ],
+                    [
+                        110.953639203,
+                        -7.82053381069
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953639203,
+                        -7.82053381069
+                    ],
+                    [
+                        110.953836647,
+                        -7.8206517244
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953836647,
+                        -7.8206517244
+                    ],
+                    [
+                        110.953991633,
+                        -7.8206758658
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953991633,
+                        -7.8206758658
+                    ],
+                    [
+                        110.954175976,
+                        -7.82056997962
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954175976,
+                        -7.82056997962
+                    ],
+                    [
+                        110.954395318,
+                        -7.82033848064
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954395318,
+                        -7.82033848064
+                    ],
+                    [
+                        110.95451634,
+                        -7.82023450462
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95451634,
+                        -7.82023450462
+                    ],
+                    [
+                        110.954688828,
+                        -7.82020889732
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954688828,
+                        -7.82020889732
+                    ],
+                    [
+                        110.954881282,
+                        -7.8202507176
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954881282,
+                        -7.8202507176
+                    ],
+                    [
+                        110.955111341,
+                        -7.82039526383
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955111341,
+                        -7.82039526383
+                    ],
+                    [
+                        110.955541625,
+                        -7.82095937707
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955541625,
+                        -7.82095937707
+                    ],
+                    [
+                        110.955571339,
+                        -7.82113688256
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955571339,
+                        -7.82113688256
+                    ],
+                    [
+                        110.955525128,
+                        -7.82127371081
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955525128,
+                        -7.82127371081
+                    ],
+                    [
+                        110.955513051,
+                        -7.82139813202
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955513051,
+                        -7.82139813202
+                    ],
+                    [
+                        110.955617334,
+                        -7.82158456418
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955617334,
+                        -7.82158456418
+                    ],
+                    [
+                        110.955703411,
+                        -7.82161139365
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955703411,
+                        -7.82161139365
+                    ],
+                    [
+                        110.955734105,
+                        -7.82162096693
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955734105,
+                        -7.82162096693
+                    ],
+                    [
+                        110.956249823,
+                        -7.821691713
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956249823,
+                        -7.821691713
+                    ],
+                    [
+                        110.956319782,
+                        -7.82162893403
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956319782,
+                        -7.82162893403
+                    ],
+                    [
+                        110.956425537,
+                        -7.82144056113
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956425537,
+                        -7.82144056113
+                    ],
+                    [
+                        110.956575253,
+                        -7.8212036896
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956575253,
+                        -7.8212036896
+                    ],
+                    [
+                        110.956752814,
+                        -7.82107362245
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956752814,
+                        -7.82107362245
+                    ],
+                    [
+                        110.956962757,
+                        -7.82102651596
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956962757,
+                        -7.82102651596
+                    ],
+                    [
+                        110.957103131,
+                        -7.82104444934
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957103131,
+                        -7.82104444934
+                    ],
+                    [
+                        110.957233708,
+                        -7.82115852834
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957233708,
+                        -7.82115852834
+                    ],
+                    [
+                        110.957397978,
+                        -7.82132112217
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957397978,
+                        -7.82132112217
+                    ],
+                    [
+                        110.957552219,
+                        -7.8213553117
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957552219,
+                        -7.8213553117
+                    ],
+                    [
+                        110.957809835,
+                        -7.82133168381
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957809835,
+                        -7.82133168381
+                    ],
+                    [
+                        110.958139931,
+                        -7.82134319513
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958139931,
+                        -7.82134319513
+                    ],
+                    [
+                        110.958517164,
+                        -7.82136701368
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958517164,
+                        -7.82136701368
+                    ],
+                    [
+                        110.958635951,
+                        -7.82137451492
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958635951,
+                        -7.82137451492
+                    ],
+                    [
+                        110.958896163,
+                        -7.82132575728
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958896163,
+                        -7.82132575728
+                    ],
+                    [
+                        110.959218186,
+                        -7.82142393357
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959218186,
+                        -7.82142393357
+                    ],
+                    [
+                        110.959710263,
+                        -7.82153424711
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959710263,
+                        -7.82153424711
+                    ],
+                    [
+                        110.960115507,
+                        -7.82165133614
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.960115507,
+                        -7.82165133614
+                    ],
+                    [
+                        110.960424576,
+                        -7.82177507296
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.960424576,
+                        -7.82177507296
+                    ],
+                    [
+                        110.960507469,
+                        -7.82190180093
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.960507469,
+                        -7.82190180093
+                    ],
+                    [
+                        110.960722669,
+                        -7.8223780558
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.960722669,
+                        -7.8223780558
+                    ],
+                    [
+                        110.960832363,
+                        -7.82244143013
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.960832363,
+                        -7.82244143013
+                    ],
+                    [
+                        110.96126235,
+                        -7.82259311968
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96126235,
+                        -7.82259311968
+                    ],
+                    [
+                        110.961924022,
+                        -7.82269484379
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.961924022,
+                        -7.82269484379
+                    ],
+                    [
+                        110.962152436,
+                        -7.82271683581
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.962152436,
+                        -7.82271683581
+                    ],
+                    [
+                        110.963563139,
+                        -7.82285268111
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.963563139,
+                        -7.82285268111
+                    ],
+                    [
+                        110.963786975,
+                        -7.82293887753
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.963786975,
+                        -7.82293887753
+                    ],
+                    [
+                        110.963965345,
+                        -7.82287477745
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.963965345,
+                        -7.82287477745
+                    ],
+                    [
+                        110.964151398,
+                        -7.8227046545
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.964151398,
+                        -7.8227046545
+                    ],
+                    [
+                        110.964556619,
+                        -7.82237250609
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.964556619,
+                        -7.82237250609
+                    ],
+                    [
+                        110.965452512,
+                        -7.82204760711
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965452512,
+                        -7.82204760711
+                    ],
+                    [
+                        110.965801938,
+                        -7.82181812081
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965801938,
+                        -7.82181812081
+                    ],
+                    [
+                        110.965947526,
+                        -7.8217483631
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965947526,
+                        -7.8217483631
+                    ],
+                    [
+                        110.966078031,
+                        -7.82168583234
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.966078031,
+                        -7.82168583234
+                    ],
+                    [
+                        110.966223583,
+                        -7.82171308089
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.966223583,
+                        -7.82171308089
+                    ],
+                    [
+                        110.96645753,
+                        -7.82184799629
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96645753,
+                        -7.82184799629
+                    ],
+                    [
+                        110.966659872,
+                        -7.82190817532
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.966659872,
+                        -7.82190817532
+                    ],
+                    [
+                        110.966879682,
+                        -7.82187996089
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.966879682,
+                        -7.82187996089
+                    ],
+                    [
+                        110.967345361,
+                        -7.82182546108
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.967345361,
+                        -7.82182546108
+                    ],
+                    [
+                        110.967834943,
+                        -7.8217405336
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.967834943,
+                        -7.8217405336
+                    ],
+                    [
+                        110.967933749,
+                        -7.82161527692
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.967933749,
+                        -7.82161527692
+                    ],
+                    [
+                        110.968140568,
+                        -7.82135659683
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.968140568,
+                        -7.82135659683
+                    ],
+                    [
+                        110.968390216,
+                        -7.82125792771
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.968390216,
+                        -7.82125792771
+                    ],
+                    [
+                        110.969220759,
+                        -7.82106505461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.969220759,
+                        -7.82106505461
+                    ],
+                    [
+                        110.969727937,
+                        -7.82096553473
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.969727937,
+                        -7.82096553473
+                    ],
+                    [
+                        110.970186266,
+                        -7.82081097814
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.970186266,
+                        -7.82081097814
+                    ],
+                    [
+                        110.970836296,
+                        -7.82059092483
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.970836296,
+                        -7.82059092483
+                    ],
+                    [
+                        110.971431626,
+                        -7.82054986269
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.971431626,
+                        -7.82054986269
+                    ],
+                    [
+                        110.971617967,
+                        -7.82048177951
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.971617967,
+                        -7.82048177951
+                    ],
+                    [
+                        110.972020637,
+                        -7.82032803951
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.972020637,
+                        -7.82032803951
+                    ],
+                    [
+                        110.972393548,
+                        -7.82030133414
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.972393548,
+                        -7.82030133414
+                    ],
+                    [
+                        110.972755481,
+                        -7.82029982957
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.972755481,
+                        -7.82029982957
+                    ],
+                    [
+                        110.973470371,
+                        -7.82036862141
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.973470371,
+                        -7.82036862141
+                    ],
+                    [
+                        110.973650929,
+                        -7.82038599092
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.973650929,
+                        -7.82038599092
+                    ],
+                    [
+                        110.973877755,
+                        -7.82054960458
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.973877755,
+                        -7.82054960458
+                    ],
+                    [
+                        110.974081702,
+                        -7.82076802383
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.974081702,
+                        -7.82076802383
+                    ],
+                    [
+                        110.974228212,
+                        -7.82087714127
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.974228212,
+                        -7.82087714127
+                    ],
+                    [
+                        110.974561147,
+                        -7.82071606819
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.974561147,
+                        -7.82071606819
+                    ],
+                    [
+                        110.9748512,
+                        -7.82051739806
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9748512,
+                        -7.82051739806
+                    ],
+                    [
+                        110.975129913,
+                        -7.82032291517
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.975129913,
+                        -7.82032291517
+                    ],
+                    [
+                        110.975187459,
+                        -7.82028275594
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.975187459,
+                        -7.82028275594
+                    ],
+                    [
+                        110.975619881,
+                        -7.82010103623
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.975619881,
+                        -7.82010103623
+                    ],
+                    [
+                        110.976023443,
+                        -7.82000982519
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.976023443,
+                        -7.82000982519
+                    ],
+                    [
+                        110.976170375,
+                        -7.82003699821
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.976170375,
+                        -7.82003699821
+                    ],
+                    [
+                        110.976219492,
+                        -7.82004608226
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.976219492,
+                        -7.82004608226
+                    ],
+                    [
+                        110.976513024,
+                        -7.82020039873
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.976513024,
+                        -7.82020039873
+                    ],
+                    [
+                        110.976765109,
+                        -7.82027968026
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.976765109,
+                        -7.82027968026
+                    ],
+                    [
+                        110.977014544,
+                        -7.82020889373
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.977014544,
+                        -7.82020889373
+                    ],
+                    [
+                        110.97719845,
+                        -7.82001774193
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97719845,
+                        -7.82001774193
+                    ],
+                    [
+                        110.977256618,
+                        -7.81988121045
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.977256618,
+                        -7.81988121045
+                    ],
+                    [
+                        110.977284594,
+                        -7.81967223948
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.977284594,
+                        -7.81967223948
+                    ],
+                    [
+                        110.977501565,
+                        -7.8194208376
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.977501565,
+                        -7.8194208376
+                    ],
+                    [
+                        110.977715865,
+                        -7.81925877797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.977715865,
+                        -7.81925877797
+                    ],
+                    [
+                        110.977979542,
+                        -7.81914999058
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.977979542,
+                        -7.81914999058
+                    ],
+                    [
+                        110.979016389,
+                        -7.81870081069
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.979016389,
+                        -7.81870081069
+                    ],
+                    [
+                        110.9793567,
+                        -7.81844171511
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9793567,
+                        -7.81844171511
+                    ],
+                    [
+                        110.979607788,
+                        -7.81828523757
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.979607788,
+                        -7.81828523757
+                    ],
+                    [
+                        110.980438475,
+                        -7.81788931374
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.980438475,
+                        -7.81788931374
+                    ],
+                    [
+                        110.980666774,
+                        -7.81779137847
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.980666774,
+                        -7.81779137847
+                    ],
+                    [
+                        110.980627705,
+                        -7.81766225021
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.980627705,
+                        -7.81766225021
+                    ],
+                    [
+                        110.980519329,
+                        -7.81730798208
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.980519329,
+                        -7.81730798208
+                    ],
+                    [
+                        110.980637197,
+                        -7.8171900234
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.980637197,
+                        -7.8171900234
+                    ],
+                    [
+                        110.980937593,
+                        -7.81697157538
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.980937593,
+                        -7.81697157538
+                    ],
+                    [
+                        110.981190677,
+                        -7.8167920671
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.981190677,
+                        -7.8167920671
+                    ],
+                    [
+                        110.981290265,
+                        -7.81669768955
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.981290265,
+                        -7.81669768955
+                    ],
+                    [
+                        110.981548141,
+                        -7.81645330598
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.981548141,
+                        -7.81645330598
+                    ],
+                    [
+                        110.981865451,
+                        -7.81628669038
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.981865451,
+                        -7.81628669038
+                    ],
+                    [
+                        110.982157605,
+                        -7.81621050251
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.982157605,
+                        -7.81621050251
+                    ],
+                    [
+                        110.982254116,
+                        -7.8161944685
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.982254116,
+                        -7.8161944685
+                    ],
+                    [
+                        110.982358669,
+                        -7.81621853436
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.982358669,
+                        -7.81621853436
+                    ],
+                    [
+                        110.982479306,
+                        -7.81623457736
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.982479306,
+                        -7.81623457736
+                    ],
+                    [
+                        110.982615278,
+                        -7.81630862125
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.982615278,
+                        -7.81630862125
+                    ],
+                    [
+                        110.982841481,
+                        -7.81643847166
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.982841481,
+                        -7.81643847166
+                    ],
+                    [
+                        110.98332859,
+                        -7.81651102806
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.98332859,
+                        -7.81651102806
+                    ],
+                    [
+                        110.983789167,
+                        -7.81658130288
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.983789167,
+                        -7.81658130288
+                    ],
+                    [
+                        110.983966318,
+                        -7.81670384181
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.983966318,
+                        -7.81670384181
+                    ],
+                    [
+                        110.984324065,
+                        -7.81696802396
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.984324065,
+                        -7.81696802396
+                    ],
+                    [
+                        110.984559024,
+                        -7.81704299414
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.984559024,
+                        -7.81704299414
+                    ],
+                    [
+                        110.984761478,
+                        -7.81701960007
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.984761478,
+                        -7.81701960007
+                    ],
+                    [
+                        110.985094405,
+                        -7.81691793981
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.985094405,
+                        -7.81691793981
+                    ],
+                    [
+                        110.985138142,
+                        -7.81690514156
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.985138142,
+                        -7.81690514156
+                    ],
+                    [
+                        110.985405888,
+                        -7.81682678813
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.985405888,
+                        -7.81682678813
+                    ],
+                    [
+                        110.9855508,
+                        -7.81676154681
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9855508,
+                        -7.81676154681
+                    ],
+                    [
+                        110.985778175,
+                        -7.8166078158
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.985778175,
+                        -7.8166078158
+                    ],
+                    [
+                        110.985897002,
+                        -7.81647739971
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.985897002,
+                        -7.81647739971
+                    ],
+                    [
+                        110.986049236,
+                        -7.81635145326
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.986049236,
+                        -7.81635145326
+                    ],
+                    [
+                        110.986236117,
+                        -7.81630115687
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.986236117,
+                        -7.81630115687
+                    ],
+                    [
+                        110.986757909,
+                        -7.81614840163
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.986757909,
+                        -7.81614840163
+                    ],
+                    [
+                        110.987536817,
+                        -7.81581412542
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.987536817,
+                        -7.81581412542
+                    ],
+                    [
+                        110.988154737,
+                        -7.81563714784
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.988154737,
+                        -7.81563714784
+                    ],
+                    [
+                        110.988890636,
+                        -7.81548730819
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.988890636,
+                        -7.81548730819
+                    ],
+                    [
+                        110.989708196,
+                        -7.81530079959
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.989708196,
+                        -7.81530079959
+                    ],
+                    [
+                        110.990047516,
+                        -7.81512018425
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.990047516,
+                        -7.81512018425
+                    ],
+                    [
+                        110.990923829,
+                        -7.81473018335
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.990923829,
+                        -7.81473018335
+                    ],
+                    [
+                        110.991879705,
+                        -7.81438782584
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.991879705,
+                        -7.81438782584
+                    ],
+                    [
+                        110.992078101,
+                        -7.81442815504
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.992078101,
+                        -7.81442815504
+                    ],
+                    [
+                        110.992293848,
+                        -7.81452311985
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.992293848,
+                        -7.81452311985
+                    ],
+                    [
+                        110.992500796,
+                        -7.81470223602
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.992500796,
+                        -7.81470223602
+                    ],
+                    [
+                        110.993033139,
+                        -7.815298009
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.993033139,
+                        -7.815298009
+                    ],
+                    [
+                        110.993262891,
+                        -7.81539857299
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.993262891,
+                        -7.81539857299
+                    ],
+                    [
+                        110.993605416,
+                        -7.81554850076
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.993605416,
+                        -7.81554850076
+                    ],
+                    [
+                        110.993824041,
+                        -7.81558741802
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.993824041,
+                        -7.81558741802
+                    ],
+                    [
+                        110.994340149,
+                        -7.81560308332
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.994340149,
+                        -7.81560308332
+                    ],
+                    [
+                        110.994391125,
+                        -7.81559431852
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.994391125,
+                        -7.81559431852
+                    ],
+                    [
+                        110.994767885,
+                        -7.81552953856
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.994767885,
+                        -7.81552953856
+                    ],
+                    [
+                        110.995223795,
+                        -7.8154242891
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.995223795,
+                        -7.8154242891
+                    ],
+                    [
+                        110.99535918,
+                        -7.81539303766
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "52",
+                "NAMA_SUNGAI": "Kali Ngantup",
+                "FOTO": "sungai-52_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.99535918,
+                        -7.81539303766
+                    ],
+                    [
+                        110.995914407,
+                        -7.81554860149
+                    ]
+                ]
+            }
+        }
+    ]
+}

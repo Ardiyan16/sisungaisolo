@@ -1,0 +1,3869 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84683110997,
+                        -7.5218935619383
+                    ],
+                    [
+                        110.84656942524,
+                        -7.5217668303749
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84656942524,
+                        -7.5217668303749
+                    ],
+                    [
+                        110.84592394224,
+                        -7.5216037805899
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84592394224,
+                        -7.5216037805899
+                    ],
+                    [
+                        110.84581177609,
+                        -7.5215946956387
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84581177609,
+                        -7.5215946956387
+                    ],
+                    [
+                        110.8456814976,
+                        -7.5215403756877
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8456814976,
+                        -7.5215403756877
+                    ],
+                    [
+                        110.84524421755,
+                        -7.5213502617052
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84524421755,
+                        -7.5213502617052
+                    ],
+                    [
+                        110.84429416834,
+                        -7.5213770624015
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84429416834,
+                        -7.5213770624015
+                    ],
+                    [
+                        110.84421117081,
+                        -7.5213860790043
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84421117081,
+                        -7.5213860790043
+                    ],
+                    [
+                        110.84412871467,
+                        -7.5214674604549
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84412871467,
+                        -7.5214674604549
+                    ],
+                    [
+                        110.84361746807,
+                        -7.5221728455004
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84361746807,
+                        -7.5221728455004
+                    ],
+                    [
+                        110.84340632524,
+                        -7.5224984162688
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84340632524,
+                        -7.5224984162688
+                    ],
+                    [
+                        110.84325245843,
+                        -7.5226611836666
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84325245843,
+                        -7.5226611836666
+                    ],
+                    [
+                        110.84293911845,
+                        -7.5228238953065
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87500003932,
+                        -7.5214905883199
+                    ],
+                    [
+                        110.8755898336,
+                        -7.5212831201198
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8755898336,
+                        -7.5212831201198
+                    ],
+                    [
+                        110.87630002732,
+                        -7.5212355954463
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87630002732,
+                        -7.5212355954463
+                    ],
+                    [
+                        110.87695089277,
+                        -7.5212923327749
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87695089277,
+                        -7.5212923327749
+                    ],
+                    [
+                        110.87741641873,
+                        -7.5213324362429
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87499994129,
+                        -7.5214863911839
+                    ],
+                    [
+                        110.87496169672,
+                        -7.5215044720537
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87496169672,
+                        -7.5215044720537
+                    ],
+                    [
+                        110.87480278202,
+                        -7.521531563231
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87480278202,
+                        -7.521531563231
+                    ],
+                    [
+                        110.87461360334,
+                        -7.5214048694392
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87461360334,
+                        -7.5214048694392
+                    ],
+                    [
+                        110.87446038494,
+                        -7.5213234133448
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87446038494,
+                        -7.5213234133448
+                    ],
+                    [
+                        110.87424370139,
+                        -7.5212962142488
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87424370139,
+                        -7.5212962142488
+                    ],
+                    [
+                        110.87396667962,
+                        -7.521287088828
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87396667962,
+                        -7.521287088828
+                    ],
+                    [
+                        110.87370469631,
+                        -7.5211875104952
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87370469631,
+                        -7.5211875104952
+                    ],
+                    [
+                        110.87361947296,
+                        -7.5210608454816
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87361947296,
+                        -7.5210608454816
+                    ],
+                    [
+                        110.8735778973,
+                        -7.5208437365492
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8735778973,
+                        -7.5208437365492
+                    ],
+                    [
+                        110.87356915319,
+                        -7.5207170931193
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87356915319,
+                        -7.5207170931193
+                    ],
+                    [
+                        110.87346975383,
+                        -7.5206356532128
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87346975383,
+                        -7.5206356532128
+                    ],
+                    [
+                        110.87326554207,
+                        -7.520581319772
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87326554207,
+                        -7.520581319772
+                    ],
+                    [
+                        110.87309700013,
+                        -7.5205993628703
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87309700013,
+                        -7.5205993628703
+                    ],
+                    [
+                        110.87280946888,
+                        -7.520689736642
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87280946888,
+                        -7.520689736642
+                    ],
+                    [
+                        110.87270664759,
+                        -7.5206897069643
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87270664759,
+                        -7.5206897069643
+                    ],
+                    [
+                        110.87253222228,
+                        -7.5204816038429
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87253222228,
+                        -7.5204816038429
+                    ],
+                    [
+                        110.87246540086,
+                        -7.5203911275485
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87246540086,
+                        -7.5203911275485
+                    ],
+                    [
+                        110.87232603382,
+                        -7.5204091787406
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87232603382,
+                        -7.5204091787406
+                    ],
+                    [
+                        110.87204781865,
+                        -7.5206081033812
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87204781865,
+                        -7.5206081033812
+                    ],
+                    [
+                        110.87185345447,
+                        -7.5207799152608
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87185345447,
+                        -7.5207799152608
+                    ],
+                    [
+                        110.87150588899,
+                        -7.5208159969607
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87150588899,
+                        -7.5208159969607
+                    ],
+                    [
+                        110.87134331134,
+                        -7.5207797659734
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87134331134,
+                        -7.5207797659734
+                    ],
+                    [
+                        110.87112978171,
+                        -7.5206259261456
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87112978171,
+                        -7.5206259261456
+                    ],
+                    [
+                        110.87100347103,
+                        -7.5205535235262
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87100347103,
+                        -7.5205535235262
+                    ],
+                    [
+                        110.86992030957,
+                        -7.5205260663249
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86992030957,
+                        -7.5205260663249
+                    ],
+                    [
+                        110.86980162784,
+                        -7.5205169849708
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86980162784,
+                        -7.5205169849708
+                    ],
+                    [
+                        110.8697056396,
+                        -7.5203993617411
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8697056396,
+                        -7.5203993617411
+                    ],
+                    [
+                        110.8696564287,
+                        -7.5201460667875
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8696564287,
+                        -7.5201460667875
+                    ],
+                    [
+                        110.86970493274,
+                        -7.5199199376549
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86970493274,
+                        -7.5199199376549
+                    ],
+                    [
+                        110.86975454833,
+                        -7.5197661751688
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86975454833,
+                        -7.5197661751688
+                    ],
+                    [
+                        110.86974780971,
+                        -7.5195671668912
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86974780971,
+                        -7.5195671668912
+                    ],
+                    [
+                        110.86968465662,
+                        -7.5195219193011
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86968465662,
+                        -7.5195219193011
+                    ],
+                    [
+                        110.86939458749,
+                        -7.519576107951
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86939458749,
+                        -7.519576107951
+                    ],
+                    [
+                        110.86927588238,
+                        -7.5196484386245
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86927588238,
+                        -7.5196484386245
+                    ],
+                    [
+                        110.86903103026,
+                        -7.520046377838
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86903103026,
+                        -7.520046377838
+                    ],
+                    [
+                        110.86887848725,
+                        -7.5205528931015
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86887848725,
+                        -7.5205528931015
+                    ],
+                    [
+                        110.8687053066,
+                        -7.520923716856
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8687053066,
+                        -7.520923716856
+                    ],
+                    [
+                        110.86848316327,
+                        -7.521158839209
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86848316327,
+                        -7.521158839209
+                    ],
+                    [
+                        110.86820554525,
+                        -7.5212492129808
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86820554525,
+                        -7.5212492129808
+                    ],
+                    [
+                        110.86796137032,
+                        -7.5212762771784
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86796137032,
+                        -7.5212762771784
+                    ],
+                    [
+                        110.86769429775,
+                        -7.5211495564068
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86769429775,
+                        -7.5211495564068
+                    ],
+                    [
+                        110.86763822682,
+                        -7.5211043106154
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86763822682,
+                        -7.5211043106154
+                    ],
+                    [
+                        110.86731368758,
+                        -7.5208690236864
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86731368758,
+                        -7.5208690236864
+                    ],
+                    [
+                        110.86723667233,
+                        -7.5207694966149
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86723667233,
+                        -7.5207694966149
+                    ],
+                    [
+                        110.86702771756,
+                        -7.5204799697747
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86702771756,
+                        -7.5204799697747
+                    ],
+                    [
+                        110.86698497098,
+                        -7.5203985451567
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86698497098,
+                        -7.5203985451567
+                    ],
+                    [
+                        110.86696404825,
+                        -7.5202718990289
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86696404825,
+                        -7.5202718990289
+                    ],
+                    [
+                        110.86692228643,
+                        -7.5197472336479
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86692228643,
+                        -7.5197472336479
+                    ],
+                    [
+                        110.86689059792,
+                        -7.5196296293039
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86689059792,
+                        -7.5196296293039
+                    ],
+                    [
+                        110.86663772295,
+                        -7.5193943639587
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86663772295,
+                        -7.5193943639587
+                    ],
+                    [
+                        110.86625060438,
+                        -7.5190957368787
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86625060438,
+                        -7.5190957368787
+                    ],
+                    [
+                        110.86623361259,
+                        -7.5190866861016
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86623361259,
+                        -7.5190866861016
+                    ],
+                    [
+                        110.86619508653,
+                        -7.5190957197916
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86619508653,
+                        -7.5190957197916
+                    ],
+                    [
+                        110.86603503689,
+                        -7.5191318536521
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86603503689,
+                        -7.5191318536521
+                    ],
+                    [
+                        110.86550132702,
+                        -7.5193216510733
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86550132702,
+                        -7.5193216510733
+                    ],
+                    [
+                        110.86511974648,
+                        -7.5194391286129
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86511974648,
+                        -7.5194391286129
+                    ],
+                    [
+                        110.8648973936,
+                        -7.5194300139839
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8648973936,
+                        -7.5194300139839
+                    ],
+                    [
+                        110.86457309537,
+                        -7.5193394567505
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86457309537,
+                        -7.5193394567505
+                    ],
+                    [
+                        110.86433009046,
+                        -7.519248924698
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86433009046,
+                        -7.519248924698
+                    ],
+                    [
+                        110.86378795215,
+                        -7.5192125732016
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86378795215,
+                        -7.5192125732016
+                    ],
+                    [
+                        110.86349649177,
+                        -7.5191853453274
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86349649177,
+                        -7.5191853453274
+                    ],
+                    [
+                        110.86302866264,
+                        -7.5188414616641
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86302866264,
+                        -7.5188414616641
+                    ],
+                    [
+                        110.86284090758,
+                        -7.5187057170951
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86284090758,
+                        -7.5187057170951
+                    ],
+                    [
+                        110.86254099897,
+                        -7.5185247087483
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86254099897,
+                        -7.5185247087483
+                    ],
+                    [
+                        110.86238975818,
+                        -7.5184703869987
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86238975818,
+                        -7.5184703869987
+                    ],
+                    [
+                        110.86238975818,
+                        -7.5184703869987
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86238975818,
+                        -7.5184703869987
+                    ],
+                    [
+                        110.86197393235,
+                        -7.5184973936397
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86197393235,
+                        -7.5184973936397
+                    ],
+                    [
+                        110.86125673021,
+                        -7.5185062132911
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86125673021,
+                        -7.5185062132911
+                    ],
+                    [
+                        110.86121850183,
+                        -7.5184700182767
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86121850183,
+                        -7.5184700182767
+                    ],
+                    [
+                        110.86079203972,
+                        -7.5180990083625
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86079203972,
+                        -7.5180990083625
+                    ],
+                    [
+                        110.86052953481,
+                        -7.5178727812038
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86052953481,
+                        -7.5178727812038
+                    ],
+                    [
+                        110.86048450665,
+                        -7.517845629772
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86048450665,
+                        -7.517845629772
+                    ],
+                    [
+                        110.86027938479,
+                        -7.5179902965149
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86027938479,
+                        -7.5179902965149
+                    ],
+                    [
+                        110.86004678953,
+                        -7.5181259079842
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86004678953,
+                        -7.5181259079842
+                    ],
+                    [
+                        110.85991959391,
+                        -7.5181710962191
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85991959391,
+                        -7.5181710962191
+                    ],
+                    [
+                        110.85970121424,
+                        -7.5181438890292
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85970121424,
+                        -7.5181438890292
+                    ],
+                    [
+                        110.859302775,
+                        -7.5178362066756
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.859302775,
+                        -7.5178362066756
+                    ],
+                    [
+                        110.85873640806,
+                        -7.5174018296307
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85873640806,
+                        -7.5174018296307
+                    ],
+                    [
+                        110.85835661177,
+                        -7.5172569758287
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85835661177,
+                        -7.5172569758287
+                    ],
+                    [
+                        110.8582280267,
+                        -7.5172207511367
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8582280267,
+                        -7.5172207511367
+                    ],
+                    [
+                        110.85814474678,
+                        -7.5172297695382
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85814474678,
+                        -7.5172297695382
+                    ],
+                    [
+                        110.8577906747,
+                        -7.5172477469859
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8577906747,
+                        -7.5172477469859
+                    ],
+                    [
+                        110.85732417117,
+                        -7.5172023671955
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85732417117,
+                        -7.5172023671955
+                    ],
+                    [
+                        110.85713892072,
+                        -7.517211352322
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85713892072,
+                        -7.517211352322
+                    ],
+                    [
+                        110.85702050249,
+                        -7.5172655877366
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85702050249,
+                        -7.5172655877366
+                    ],
+                    [
+                        110.85692641812,
+                        -7.5174012432727
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85692641812,
+                        -7.5174012432727
+                    ],
+                    [
+                        110.85673254227,
+                        -7.5177991923788
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85673254227,
+                        -7.5177991923788
+                    ],
+                    [
+                        110.8566007826,
+                        -7.5179438807055
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8566007826,
+                        -7.5179438807055
+                    ],
+                    [
+                        110.85656848795,
+                        -7.5179529161941
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85656848795,
+                        -7.5179529161941
+                    ],
+                    [
+                        110.85625949078,
+                        -7.5178533117809
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85625949078,
+                        -7.5178533117809
+                    ],
+                    [
+                        110.85613288872,
+                        -7.5178170879882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85613288872,
+                        -7.5178170879882
+                    ],
+                    [
+                        110.8560254701,
+                        -7.5180160584943
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8560254701,
+                        -7.5180160584943
+                    ],
+                    [
+                        110.85585391003,
+                        -7.518594928713
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85585391003,
+                        -7.518594928713
+                    ],
+                    [
+                        110.85581556384,
+                        -7.5189205624339
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85581556384,
+                        -7.5189205624339
+                    ],
+                    [
+                        110.85581668439,
+                        -7.5189567457572
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85581668439,
+                        -7.5189567457572
+                    ],
+                    [
+                        110.85587515112,
+                        -7.5194633257718
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85587515112,
+                        -7.5194633257718
+                    ],
+                    [
+                        110.85585412497,
+                        -7.5196623250562
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85585412497,
+                        -7.5196623250562
+                    ],
+                    [
+                        110.8557747625,
+                        -7.5198160767505
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8557747625,
+                        -7.5198160767505
+                    ],
+                    [
+                        110.85567474349,
+                        -7.5199065008842
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85567474349,
+                        -7.5199065008842
+                    ],
+                    [
+                        110.85549513899,
+                        -7.519969761895
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85549513899,
+                        -7.519969761895
+                    ],
+                    [
+                        110.85515920443,
+                        -7.5199515596167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85515920443,
+                        -7.5199515596167
+                    ],
+                    [
+                        110.85484282654,
+                        -7.5198971803106
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85484282654,
+                        -7.5198971803106
+                    ],
+                    [
+                        110.85418472335,
+                        -7.5202045173245
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85418472335,
+                        -7.5202045173245
+                    ],
+                    [
+                        110.85384107351,
+                        -7.5203853170287
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85384107351,
+                        -7.5203853170287
+                    ],
+                    [
+                        110.85334584024,
+                        -7.5206927071027
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85334584024,
+                        -7.5206927071027
+                    ],
+                    [
+                        110.85312145669,
+                        -7.5208283176727
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85312145669,
+                        -7.5208283176727
+                    ],
+                    [
+                        110.85290245738,
+                        -7.5209548846602
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85290245738,
+                        -7.5209548846602
+                    ],
+                    [
+                        110.85206397447,
+                        -7.5210902883861
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85206397447,
+                        -7.5210902883861
+                    ],
+                    [
+                        110.85158155025,
+                        -7.5212077200602
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85158155025,
+                        -7.5212077200602
+                    ],
+                    [
+                        110.85096195513,
+                        -7.5215422022108
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85096195513,
+                        -7.5215422022108
+                    ],
+                    [
+                        110.85074689575,
+                        -7.5217411349454
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85074689575,
+                        -7.5217411349454
+                    ],
+                    [
+                        110.85056635685,
+                        -7.5220486275421
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85056635685,
+                        -7.5220486275421
+                    ],
+                    [
+                        110.85031578415,
+                        -7.5225551032354
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85031578415,
+                        -7.5225551032354
+                    ],
+                    [
+                        110.85019478126,
+                        -7.5227088387419
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85019478126,
+                        -7.5227088387419
+                    ],
+                    [
+                        110.8501857143,
+                        -7.522717881425
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8501857143,
+                        -7.522717881425
+                    ],
+                    [
+                        110.85000694437,
+                        -7.5228173239603
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85000694437,
+                        -7.5228173239603
+                    ],
+                    [
+                        110.84920613046,
+                        -7.5229527348808
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84920613046,
+                        -7.5229527348808
+                    ],
+                    [
+                        110.84914721048,
+                        -7.5229617604768
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84914721048,
+                        -7.5229617604768
+                    ],
+                    [
+                        110.84865063542,
+                        -7.5230339553527
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84865063542,
+                        -7.5230339553527
+                    ],
+                    [
+                        110.84853420739,
+                        -7.5230610519259
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84853420739,
+                        -7.5230610519259
+                    ],
+                    [
+                        110.84851070091,
+                        -7.5230519984509
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84851070091,
+                        -7.5230519984509
+                    ],
+                    [
+                        110.84776336249,
+                        -7.5225451792166
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84776336249,
+                        -7.5225451792166
+                    ],
+                    [
+                        110.84723464836,
+                        -7.5221831661202
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84723464836,
+                        -7.5221831661202
+                    ],
+                    [
+                        110.84683110997,
+                        -7.5218935619383
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84293911845,
+                        -7.5228238953065
+                    ],
+                    [
+                        110.84254618576,
+                        -7.5229775309882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84254618576,
+                        -7.5229775309882
+                    ],
+                    [
+                        110.84222659998,
+                        -7.523176422354
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84222659998,
+                        -7.523176422354
+                    ],
+                    [
+                        110.84177968099,
+                        -7.5237913706752
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84177968099,
+                        -7.5237913706752
+                    ],
+                    [
+                        110.84159149335,
+                        -7.524080765315
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84159149335,
+                        -7.524080765315
+                    ],
+                    [
+                        110.84106647903,
+                        -7.5244604959551
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84106647903,
+                        -7.5244604959551
+                    ],
+                    [
+                        110.84051199753,
+                        -7.5248583065655
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84051199753,
+                        -7.5248583065655
+                    ],
+                    [
+                        110.8401541438,
+                        -7.5251295474905
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8401541438,
+                        -7.5251295474905
+                    ],
+                    [
+                        110.83999829219,
+                        -7.525292313989
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83999829219,
+                        -7.525292313989
+                    ],
+                    [
+                        110.83990328421,
+                        -7.5256088798459
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83990328421,
+                        -7.5256088798459
+                    ],
+                    [
+                        110.83989448704,
+                        -7.5256541049529
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83989448704,
+                        -7.5256541049529
+                    ],
+                    [
+                        110.83951794989,
+                        -7.5258891562595
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83951794989,
+                        -7.5258891562595
+                    ],
+                    [
+                        110.83921648905,
+                        -7.5260880512225
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83921648905,
+                        -7.5260880512225
+                    ],
+                    [
+                        110.83853438116,
+                        -7.5269109614716
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83853438116,
+                        -7.5269109614716
+                    ],
+                    [
+                        110.83833631537,
+                        -7.5270918025446
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83833631537,
+                        -7.5270918025446
+                    ],
+                    [
+                        110.83818105911,
+                        -7.5271731570155
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83818105911,
+                        -7.5271731570155
+                    ],
+                    [
+                        110.83779498645,
+                        -7.5271458769806
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83779498645,
+                        -7.5271458769806
+                    ],
+                    [
+                        110.83770972532,
+                        -7.5271458455043
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83770972532,
+                        -7.5271458455043
+                    ],
+                    [
+                        110.83753015949,
+                        -7.5270915039697
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83753015949,
+                        -7.5270915039697
+                    ],
+                    [
+                        110.83751429995,
+                        -7.5270824531926
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83751429995,
+                        -7.5270824531926
+                    ],
+                    [
+                        110.83638126029,
+                        -7.526331236897
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83638126029,
+                        -7.526331236897
+                    ],
+                    [
+                        110.83610433475,
+                        -7.5260597612489
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83610433475,
+                        -7.5260597612489
+                    ],
+                    [
+                        110.83589625861,
+                        -7.5257430838762
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83589625861,
+                        -7.5257430838762
+                    ],
+                    [
+                        110.83584366176,
+                        -7.5255078751882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83584366176,
+                        -7.5255078751882
+                    ],
+                    [
+                        110.83579181764,
+                        -7.5247751525512
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83579181764,
+                        -7.5247751525512
+                    ],
+                    [
+                        110.83566759968,
+                        -7.5244223224322
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83566759968,
+                        -7.5244223224322
+                    ],
+                    [
+                        110.83553114465,
+                        -7.5242232655912
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83553114465,
+                        -7.5242232655912
+                    ],
+                    [
+                        110.8352230558,
+                        -7.5239698699135
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8352230558,
+                        -7.5239698699135
+                    ],
+                    [
+                        110.83507212798,
+                        -7.5238431734237
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83507212798,
+                        -7.5238431734237
+                    ],
+                    [
+                        110.83505004063,
+                        -7.5238250736681
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83505004063,
+                        -7.5238250736681
+                    ],
+                    [
+                        110.83482405359,
+                        -7.522938507606
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83482405359,
+                        -7.522938507606
+                    ],
+                    [
+                        110.83478644484,
+                        -7.5227666246799
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83478644484,
+                        -7.5227666246799
+                    ],
+                    [
+                        110.83486010921,
+                        -7.5227214238546
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83486010921,
+                        -7.5227214238546
+                    ],
+                    [
+                        110.83507971106,
+                        -7.5225134556314
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83507971106,
+                        -7.5225134556314
+                    ],
+                    [
+                        110.83513952947,
+                        -7.5223777920014
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83513952947,
+                        -7.5223777920014
+                    ],
+                    [
+                        110.83513221978,
+                        -7.5222330578093
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83513221978,
+                        -7.5222330578093
+                    ],
+                    [
+                        110.83512213838,
+                        -7.5219254995621
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83512213838,
+                        -7.5219254995621
+                    ],
+                    [
+                        110.83520524832,
+                        -7.5216179763884
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83520524832,
+                        -7.5216179763884
+                    ],
+                    [
+                        110.83529536849,
+                        -7.521500415212
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83529536849,
+                        -7.521500415212
+                    ],
+                    [
+                        110.83505988328,
+                        -7.5211628869457
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83505988328,
+                        -7.5211628869457
+                    ],
+                    [
+                        110.83460674189,
+                        -7.5208324337762
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83460674189,
+                        -7.5208324337762
+                    ],
+                    [
+                        110.83418946021,
+                        -7.5208035560185
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83418946021,
+                        -7.5208035560185
+                    ],
+                    [
+                        110.83303113016,
+                        -7.5207600363046
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83303113016,
+                        -7.5207600363046
+                    ],
+                    [
+                        110.83208144109,
+                        -7.5207309535646
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "42",
+                "NAMA_SUNGAI": "Kali Watuburik",
+                "FOTO": "sungai-42_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83208144109,
+                        -7.5207309535646
+                    ],
+                    [
+                        110.83151312094,
+                        -7.5205727744471
+                    ]
+                ]
+            }
+        }
+    ]
+}

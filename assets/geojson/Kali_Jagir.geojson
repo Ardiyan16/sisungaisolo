@@ -1,0 +1,4940 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.039631101,
+                        -7.79869094437
+                    ],
+                    [
+                        111.039723961,
+                        -7.79841634625
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.039723961,
+                        -7.79841634625
+                    ],
+                    [
+                        111.039789327,
+                        -7.79819606976
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.039789327,
+                        -7.79819606976
+                    ],
+                    [
+                        111.039886001,
+                        -7.79767902097
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.039886001,
+                        -7.79767902097
+                    ],
+                    [
+                        111.039975835,
+                        -7.79744142878
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.039975835,
+                        -7.79744142878
+                    ],
+                    [
+                        111.040029417,
+                        -7.79710893315
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.040029417,
+                        -7.79710893315
+                    ],
+                    [
+                        111.04007467,
+                        -7.79694842305
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04007467,
+                        -7.79694842305
+                    ],
+                    [
+                        111.040157911,
+                        -7.79690260804
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.040157911,
+                        -7.79690260804
+                    ],
+                    [
+                        111.040291524,
+                        -7.79692819451
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.040291524,
+                        -7.79692819451
+                    ],
+                    [
+                        111.040423004,
+                        -7.79702960169
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.040423004,
+                        -7.79702960169
+                    ],
+                    [
+                        111.040604237,
+                        -7.7971651604
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.040604237,
+                        -7.7971651604
+                    ],
+                    [
+                        111.040716314,
+                        -7.79714771869
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.040716314,
+                        -7.79714771869
+                    ],
+                    [
+                        111.04084409,
+                        -7.79702556311
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04084409,
+                        -7.79702556311
+                    ],
+                    [
+                        111.04112106,
+                        -7.79664035489
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04112106,
+                        -7.79664035489
+                    ],
+                    [
+                        111.041244214,
+                        -7.79646365443
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.041244214,
+                        -7.79646365443
+                    ],
+                    [
+                        111.041451966,
+                        -7.79639805326
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.041451966,
+                        -7.79639805326
+                    ],
+                    [
+                        111.041700329,
+                        -7.7963854283
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.041700329,
+                        -7.7963854283
+                    ],
+                    [
+                        111.041917084,
+                        -7.79637441645
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.041917084,
+                        -7.79637441645
+                    ],
+                    [
+                        111.042134608,
+                        -7.79644619011
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.042134608,
+                        -7.79644619011
+                    ],
+                    [
+                        111.042401513,
+                        -7.79636392956
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.042401513,
+                        -7.79636392956
+                    ],
+                    [
+                        111.042497803,
+                        -7.7963892477
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.042497803,
+                        -7.7963892477
+                    ],
+                    [
+                        111.04278484,
+                        -7.79645318052
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04278484,
+                        -7.79645318052
+                    ],
+                    [
+                        111.043005308,
+                        -7.79639776269
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.043005308,
+                        -7.79639776269
+                    ],
+                    [
+                        111.043299463,
+                        -7.79634965515
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.043299463,
+                        -7.79634965515
+                    ],
+                    [
+                        111.043571816,
+                        -7.79641888967
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.043571816,
+                        -7.79641888967
+                    ],
+                    [
+                        111.043679103,
+                        -7.79657349574
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.043679103,
+                        -7.79657349574
+                    ],
+                    [
+                        111.043799423,
+                        -7.79663450519
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.043799423,
+                        -7.79663450519
+                    ],
+                    [
+                        111.044026203,
+                        -7.79664513744
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.044026203,
+                        -7.79664513744
+                    ],
+                    [
+                        111.044551871,
+                        -7.79660755211
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.044551871,
+                        -7.79660755211
+                    ],
+                    [
+                        111.044915563,
+                        -7.79654414899
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.044915563,
+                        -7.79654414899
+                    ],
+                    [
+                        111.045040636,
+                        -7.79643381509
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.045040636,
+                        -7.79643381509
+                    ],
+                    [
+                        111.045135739,
+                        -7.7962099073
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.045135739,
+                        -7.7962099073
+                    ],
+                    [
+                        111.045232147,
+                        -7.79572961879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.045232147,
+                        -7.79572961879
+                    ],
+                    [
+                        111.045451032,
+                        -7.79546103032
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.045451032,
+                        -7.79546103032
+                    ],
+                    [
+                        111.045693876,
+                        -7.79524480436
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.045693876,
+                        -7.79524480436
+                    ],
+                    [
+                        111.045894065,
+                        -7.79528365183
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.045894065,
+                        -7.79528365183
+                    ],
+                    [
+                        111.046067023,
+                        -7.79538919567
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.046067023,
+                        -7.79538919567
+                    ],
+                    [
+                        111.046274109,
+                        -7.795471009
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.046274109,
+                        -7.795471009
+                    ],
+                    [
+                        111.046423963,
+                        -7.79545971269
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.046423963,
+                        -7.79545971269
+                    ],
+                    [
+                        111.046576139,
+                        -7.79545757025
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.046576139,
+                        -7.79545757025
+                    ],
+                    [
+                        111.046815037,
+                        -7.79540294444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.046815037,
+                        -7.79540294444
+                    ],
+                    [
+                        111.047045755,
+                        -7.79527541154
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.047045755,
+                        -7.79527541154
+                    ],
+                    [
+                        111.047430097,
+                        -7.79503522504
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.047430097,
+                        -7.79503522504
+                    ],
+                    [
+                        111.047700808,
+                        -7.79494491916
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.047700808,
+                        -7.79494491916
+                    ],
+                    [
+                        111.047840954,
+                        -7.79499193163
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.047840954,
+                        -7.79499193163
+                    ],
+                    [
+                        111.04806053,
+                        -7.79515367899
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04806053,
+                        -7.79515367899
+                    ],
+                    [
+                        111.048138975,
+                        -7.79530060745
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.048138975,
+                        -7.79530060745
+                    ],
+                    [
+                        111.048282265,
+                        -7.79555975775
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.048282265,
+                        -7.79555975775
+                    ],
+                    [
+                        111.048640541,
+                        -7.79564799315
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.048640541,
+                        -7.79564799315
+                    ],
+                    [
+                        111.048768704,
+                        -7.79576182682
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.048768704,
+                        -7.79576182682
+                    ],
+                    [
+                        111.048969663,
+                        -7.79594399185
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.048969663,
+                        -7.79594399185
+                    ],
+                    [
+                        111.04929214,
+                        -7.79611223951
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04929214,
+                        -7.79611223951
+                    ],
+                    [
+                        111.049468174,
+                        -7.7960598176
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.049468174,
+                        -7.7960598176
+                    ],
+                    [
+                        111.049543552,
+                        -7.79595506029
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.049543552,
+                        -7.79595506029
+                    ],
+                    [
+                        111.049570504,
+                        -7.79577325789
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.049570504,
+                        -7.79577325789
+                    ],
+                    [
+                        111.049620123,
+                        -7.79558590785
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.049620123,
+                        -7.79558590785
+                    ],
+                    [
+                        111.049726481,
+                        -7.79546474713
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.049726481,
+                        -7.79546474713
+                    ],
+                    [
+                        111.049851345,
+                        -7.79544060773
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.049851345,
+                        -7.79544060773
+                    ],
+                    [
+                        111.050018288,
+                        -7.79551715034
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.050018288,
+                        -7.79551715034
+                    ],
+                    [
+                        111.050154063,
+                        -7.79564171082
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.050154063,
+                        -7.79564171082
+                    ],
+                    [
+                        111.050460917,
+                        -7.79592011723
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.050460917,
+                        -7.79592011723
+                    ],
+                    [
+                        111.05060526,
+                        -7.79587317124
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.05060526,
+                        -7.79587317124
+                    ],
+                    [
+                        111.050702785,
+                        -7.79575233698
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.050702785,
+                        -7.79575233698
+                    ],
+                    [
+                        111.05090396,
+                        -7.79546810792
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.05090396,
+                        -7.79546810792
+                    ],
+                    [
+                        111.051140093,
+                        -7.79513662917
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.051140093,
+                        -7.79513662917
+                    ],
+                    [
+                        111.051105363,
+                        -7.79482258687
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.051105363,
+                        -7.79482258687
+                    ],
+                    [
+                        111.051173582,
+                        -7.79462777174
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.051173582,
+                        -7.79462777174
+                    ],
+                    [
+                        111.05132264,
+                        -7.79449954082
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.05132264,
+                        -7.79449954082
+                    ],
+                    [
+                        111.051356062,
+                        -7.79448599545
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.051356062,
+                        -7.79448599545
+                    ],
+                    [
+                        111.051553678,
+                        -7.79440589945
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.051553678,
+                        -7.79440589945
+                    ],
+                    [
+                        111.051744504,
+                        -7.79442546903
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.051744504,
+                        -7.79442546903
+                    ],
+                    [
+                        111.051907585,
+                        -7.79452168564
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.051907585,
+                        -7.79452168564
+                    ],
+                    [
+                        111.052122254,
+                        -7.79459720846
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.052122254,
+                        -7.79459720846
+                    ],
+                    [
+                        111.052270246,
+                        -7.79457977737
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.052270246,
+                        -7.79457977737
+                    ],
+                    [
+                        111.052546436,
+                        -7.79442859961
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.052546436,
+                        -7.79442859961
+                    ],
+                    [
+                        111.052695448,
+                        -7.7942908522
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.052695448,
+                        -7.7942908522
+                    ],
+                    [
+                        111.052819189,
+                        -7.79406518428
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.052819189,
+                        -7.79406518428
+                    ],
+                    [
+                        111.052984059,
+                        -7.79381613724
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.052984059,
+                        -7.79381613724
+                    ],
+                    [
+                        111.053141079,
+                        -7.79368473871
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.053141079,
+                        -7.79368473871
+                    ],
+                    [
+                        111.053452492,
+                        -7.79343371017
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.053452492,
+                        -7.79343371017
+                    ],
+                    [
+                        111.053569271,
+                        -7.79317078391
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.053569271,
+                        -7.79317078391
+                    ],
+                    [
+                        111.053703924,
+                        -7.79260299921
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.053703924,
+                        -7.79260299921
+                    ],
+                    [
+                        111.053712356,
+                        -7.79236644561
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.053712356,
+                        -7.79236644561
+                    ],
+                    [
+                        111.053878013,
+                        -7.79196564846
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.053878013,
+                        -7.79196564846
+                    ],
+                    [
+                        111.053969413,
+                        -7.79141888216
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.053969413,
+                        -7.79141888216
+                    ],
+                    [
+                        111.053970969,
+                        -7.79138508745
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.053970969,
+                        -7.79138508745
+                    ],
+                    [
+                        111.053898462,
+                        -7.79129771579
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.053898462,
+                        -7.79129771579
+                    ],
+                    [
+                        111.053657626,
+                        -7.79107183149
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.053657626,
+                        -7.79107183149
+                    ],
+                    [
+                        111.053468255,
+                        -7.79085578221
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.053468255,
+                        -7.79085578221
+                    ],
+                    [
+                        111.053455322,
+                        -7.79071621865
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.053455322,
+                        -7.79071621865
+                    ],
+                    [
+                        111.053523103,
+                        -7.79058739113
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.053523103,
+                        -7.79058739113
+                    ],
+                    [
+                        111.053730714,
+                        -7.79044754639
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.053730714,
+                        -7.79044754639
+                    ],
+                    [
+                        111.053967329,
+                        -7.79037343254
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.053967329,
+                        -7.79037343254
+                    ],
+                    [
+                        111.05413629,
+                        -7.79028325309
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.05413629,
+                        -7.79028325309
+                    ],
+                    [
+                        111.054480877,
+                        -7.7900993382
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.054480877,
+                        -7.7900993382
+                    ],
+                    [
+                        111.054660829,
+                        -7.7900032865
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.054660829,
+                        -7.7900032865
+                    ],
+                    [
+                        111.054936587,
+                        -7.78984249173
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.054936587,
+                        -7.78984249173
+                    ],
+                    [
+                        111.055211195,
+                        -7.78983137513
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.055211195,
+                        -7.78983137513
+                    ],
+                    [
+                        111.056078437,
+                        -7.78981236494
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.056078437,
+                        -7.78981236494
+                    ],
+                    [
+                        111.056197786,
+                        -7.78973197861
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.056197786,
+                        -7.78973197861
+                    ],
+                    [
+                        111.056241696,
+                        -7.78955166604
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.056241696,
+                        -7.78955166604
+                    ],
+                    [
+                        111.056230924,
+                        -7.78936404279
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.056230924,
+                        -7.78936404279
+                    ],
+                    [
+                        111.056240128,
+                        -7.78908177234
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.056240128,
+                        -7.78908177234
+                    ],
+                    [
+                        111.05632186,
+                        -7.7888356477
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.05632186,
+                        -7.7888356477
+                    ],
+                    [
+                        111.056509466,
+                        -7.78853297367
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.056509466,
+                        -7.78853297367
+                    ],
+                    [
+                        111.05672988,
+                        -7.78838244286
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.05672988,
+                        -7.78838244286
+                    ],
+                    [
+                        111.057116828,
+                        -7.78819113891
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.057116828,
+                        -7.78819113891
+                    ],
+                    [
+                        111.057419592,
+                        -7.78801424668
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.057419592,
+                        -7.78801424668
+                    ],
+                    [
+                        111.057740154,
+                        -7.78772513159
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.057740154,
+                        -7.78772513159
+                    ],
+                    [
+                        111.057858892,
+                        -7.78756118125
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.057858892,
+                        -7.78756118125
+                    ],
+                    [
+                        111.057879177,
+                        -7.78746585551
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.057879177,
+                        -7.78746585551
+                    ],
+                    [
+                        111.057892057,
+                        -7.78740532937
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.057892057,
+                        -7.78740532937
+                    ],
+                    [
+                        111.057877562,
+                        -7.78712955688
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.057877562,
+                        -7.78712955688
+                    ],
+                    [
+                        111.057985192,
+                        -7.7869236091
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.057985192,
+                        -7.7869236091
+                    ],
+                    [
+                        111.057999438,
+                        -7.78677238212
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.057999438,
+                        -7.78677238212
+                    ],
+                    [
+                        111.058025003,
+                        -7.78615368386
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.058025003,
+                        -7.78615368386
+                    ],
+                    [
+                        111.058158681,
+                        -7.78600968607
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.058158681,
+                        -7.78600968607
+                    ],
+                    [
+                        111.05831739,
+                        -7.78592010337
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.05831739,
+                        -7.78592010337
+                    ],
+                    [
+                        111.058695031,
+                        -7.7857999161
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.058695031,
+                        -7.7857999161
+                    ],
+                    [
+                        111.058986457,
+                        -7.78583114645
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.058986457,
+                        -7.78583114645
+                    ],
+                    [
+                        111.059103724,
+                        -7.78585961485
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.059103724,
+                        -7.78585961485
+                    ],
+                    [
+                        111.059167443,
+                        -7.78588364928
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.059167443,
+                        -7.78588364928
+                    ],
+                    [
+                        111.059364198,
+                        -7.78591028833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.059364198,
+                        -7.78591028833
+                    ],
+                    [
+                        111.059466452,
+                        -7.78585069941
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.059466452,
+                        -7.78585069941
+                    ],
+                    [
+                        111.059490173,
+                        -7.78574542291
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.059490173,
+                        -7.78574542291
+                    ],
+                    [
+                        111.059590372,
+                        -7.78526775372
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.059590372,
+                        -7.78526775372
+                    ],
+                    [
+                        111.059719041,
+                        -7.78524005596
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.059719041,
+                        -7.78524005596
+                    ],
+                    [
+                        111.059892639,
+                        -7.78525424218
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.059892639,
+                        -7.78525424218
+                    ],
+                    [
+                        111.06021725,
+                        -7.78540618109
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.06021725,
+                        -7.78540618109
+                    ],
+                    [
+                        111.060403443,
+                        -7.78546419144
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.060403443,
+                        -7.78546419144
+                    ],
+                    [
+                        111.060553392,
+                        -7.78551091794
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.060553392,
+                        -7.78551091794
+                    ],
+                    [
+                        111.060831576,
+                        -7.78548006867
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.060831576,
+                        -7.78548006867
+                    ],
+                    [
+                        111.060940516,
+                        -7.78537015753
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.060940516,
+                        -7.78537015753
+                    ],
+                    [
+                        111.061006255,
+                        -7.78519098105
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.061006255,
+                        -7.78519098105
+                    ],
+                    [
+                        111.061109645,
+                        -7.78496971881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.061109645,
+                        -7.78496971881
+                    ],
+                    [
+                        111.061241066,
+                        -7.78490360335
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.061241066,
+                        -7.78490360335
+                    ],
+                    [
+                        111.061447137,
+                        -7.78475798394
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.061447137,
+                        -7.78475798394
+                    ],
+                    [
+                        111.06148542,
+                        -7.78462868903
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.06148542,
+                        -7.78462868903
+                    ],
+                    [
+                        111.061510763,
+                        -7.78414530434
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.061510763,
+                        -7.78414530434
+                    ],
+                    [
+                        111.06143363,
+                        -7.78405846831
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.06143363,
+                        -7.78405846831
+                    ],
+                    [
+                        111.061231248,
+                        -7.78393262746
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.061231248,
+                        -7.78393262746
+                    ],
+                    [
+                        111.060977054,
+                        -7.78371604808
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.060977054,
+                        -7.78371604808
+                    ],
+                    [
+                        111.060967534,
+                        -7.78360894904
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.060967534,
+                        -7.78360894904
+                    ],
+                    [
+                        111.061051106,
+                        -7.78350759869
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.061051106,
+                        -7.78350759869
+                    ],
+                    [
+                        111.06123799,
+                        -7.78339560479
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.06123799,
+                        -7.78339560479
+                    ],
+                    [
+                        111.061504485,
+                        -7.78307270012
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.061504485,
+                        -7.78307270012
+                    ],
+                    [
+                        111.061734526,
+                        -7.78304677807
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.061734526,
+                        -7.78304677807
+                    ],
+                    [
+                        111.061901242,
+                        -7.78314434722
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.061901242,
+                        -7.78314434722
+                    ],
+                    [
+                        111.062002289,
+                        -7.78327164988
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.062002289,
+                        -7.78327164988
+                    ],
+                    [
+                        111.062129773,
+                        -7.78339052715
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.062129773,
+                        -7.78339052715
+                    ],
+                    [
+                        111.062207524,
+                        -7.78336909567
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.062207524,
+                        -7.78336909567
+                    ],
+                    [
+                        111.062342328,
+                        -7.78324896784
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.062342328,
+                        -7.78324896784
+                    ],
+                    [
+                        111.06264185,
+                        -7.78296053055
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.06264185,
+                        -7.78296053055
+                    ],
+                    [
+                        111.062799679,
+                        -7.78293908713
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.062799679,
+                        -7.78293908713
+                    ],
+                    [
+                        111.062967669,
+                        -7.78287977709
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.062967669,
+                        -7.78287977709
+                    ],
+                    [
+                        111.063133355,
+                        -7.78270283779
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.063133355,
+                        -7.78270283779
+                    ],
+                    [
+                        111.063410971,
+                        -7.78240102471
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.063410971,
+                        -7.78240102471
+                    ],
+                    [
+                        111.06361368,
+                        -7.78234598781
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.06361368,
+                        -7.78234598781
+                    ],
+                    [
+                        111.064063064,
+                        -7.78220956617
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.064063064,
+                        -7.78220956617
+                    ],
+                    [
+                        111.064229891,
+                        -7.7820811471
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.064229891,
+                        -7.7820811471
+                    ],
+                    [
+                        111.064245254,
+                        -7.78195140312
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.064245254,
+                        -7.78195140312
+                    ],
+                    [
+                        111.064323431,
+                        -7.78168865154
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.064323431,
+                        -7.78168865154
+                    ],
+                    [
+                        111.064419228,
+                        -7.78165022016
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.064419228,
+                        -7.78165022016
+                    ],
+                    [
+                        111.064614502,
+                        -7.78155035371
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.064614502,
+                        -7.78155035371
+                    ],
+                    [
+                        111.064935542,
+                        -7.78119200679
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.064935542,
+                        -7.78119200679
+                    ],
+                    [
+                        111.064894844,
+                        -7.78105860788
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.064894844,
+                        -7.78105860788
+                    ],
+                    [
+                        111.064883449,
+                        -7.78086287096
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.064883449,
+                        -7.78086287096
+                    ],
+                    [
+                        111.064945202,
+                        -7.78066707761
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.064945202,
+                        -7.78066707761
+                    ],
+                    [
+                        111.065164,
+                        -7.7802628576
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.065164,
+                        -7.7802628576
+                    ],
+                    [
+                        111.06530838,
+                        -7.78020047474
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.06530838,
+                        -7.78020047474
+                    ],
+                    [
+                        111.065671203,
+                        -7.7800816585
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.065671203,
+                        -7.7800816585
+                    ],
+                    [
+                        111.065794094,
+                        -7.77994647947
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.065794094,
+                        -7.77994647947
+                    ],
+                    [
+                        111.066075845,
+                        -7.77966165171
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.066075845,
+                        -7.77966165171
+                    ],
+                    [
+                        111.06631829,
+                        -7.77951706451
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.06631829,
+                        -7.77951706451
+                    ],
+                    [
+                        111.066451129,
+                        -7.77948987062
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.066451129,
+                        -7.77948987062
+                    ],
+                    [
+                        111.066721795,
+                        -7.77931427936
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.066721795,
+                        -7.77931427936
+                    ],
+                    [
+                        111.066894721,
+                        -7.77910917836
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.066894721,
+                        -7.77910917836
+                    ],
+                    [
+                        111.067176208,
+                        -7.77866391637
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.067176208,
+                        -7.77866391637
+                    ],
+                    [
+                        111.067646937,
+                        -7.77773006887
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.067646937,
+                        -7.77773006887
+                    ],
+                    [
+                        111.068299021,
+                        -7.77698057809
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.068299021,
+                        -7.77698057809
+                    ],
+                    [
+                        111.068404143,
+                        -7.77684448755
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.068404143,
+                        -7.77684448755
+                    ],
+                    [
+                        111.068765648,
+                        -7.77644926114
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.068765648,
+                        -7.77644926114
+                    ],
+                    [
+                        111.0690335,
+                        -7.77617012337
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0690335,
+                        -7.77617012337
+                    ],
+                    [
+                        111.069255651,
+                        -7.77611764959
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.069255651,
+                        -7.77611764959
+                    ],
+                    [
+                        111.069508818,
+                        -7.77599692123
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.069508818,
+                        -7.77599692123
+                    ],
+                    [
+                        111.069549513,
+                        -7.77588840302
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.069549513,
+                        -7.77588840302
+                    ],
+                    [
+                        111.069675732,
+                        -7.7754880402
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.069675732,
+                        -7.7754880402
+                    ],
+                    [
+                        111.069812609,
+                        -7.77536993588
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.069812609,
+                        -7.77536993588
+                    ],
+                    [
+                        111.06999915,
+                        -7.77535631861
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.06999915,
+                        -7.77535631861
+                    ],
+                    [
+                        111.070240274,
+                        -7.77530286427
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.070240274,
+                        -7.77530286427
+                    ],
+                    [
+                        111.070339622,
+                        -7.77519202963
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.070339622,
+                        -7.77519202963
+                    ],
+                    [
+                        111.070391909,
+                        -7.77503871539
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.070391909,
+                        -7.77503871539
+                    ],
+                    [
+                        111.070389433,
+                        -7.77482034489
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.070389433,
+                        -7.77482034489
+                    ],
+                    [
+                        111.070288108,
+                        -7.77444000137
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.070288108,
+                        -7.77444000137
+                    ],
+                    [
+                        111.070169546,
+                        -7.77435745233
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.070169546,
+                        -7.77435745233
+                    ],
+                    [
+                        111.069913523,
+                        -7.77431082807
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.069913523,
+                        -7.77431082807
+                    ],
+                    [
+                        111.06970424,
+                        -7.77423337748
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.06970424,
+                        -7.77423337748
+                    ],
+                    [
+                        111.06965111,
+                        -7.77412261323
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.06965111,
+                        -7.77412261323
+                    ],
+                    [
+                        111.069653124,
+                        -7.77396009884
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.069653124,
+                        -7.77396009884
+                    ],
+                    [
+                        111.069716205,
+                        -7.77375506894
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.069716205,
+                        -7.77375506894
+                    ],
+                    [
+                        111.069864699,
+                        -7.77363769539
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.069864699,
+                        -7.77363769539
+                    ],
+                    [
+                        111.070071552,
+                        -7.77355162818
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.070071552,
+                        -7.77355162818
+                    ],
+                    [
+                        111.070316858,
+                        -7.77351206722
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.070316858,
+                        -7.77351206722
+                    ],
+                    [
+                        111.070604249,
+                        -7.77342603164
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.070604249,
+                        -7.77342603164
+                    ],
+                    [
+                        111.07074798,
+                        -7.77330196479
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.07074798,
+                        -7.77330196479
+                    ],
+                    [
+                        111.070883768,
+                        -7.77302763296
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.070883768,
+                        -7.77302763296
+                    ],
+                    [
+                        111.070954123,
+                        -7.77282859893
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.070954123,
+                        -7.77282859893
+                    ],
+                    [
+                        111.07110264,
+                        -7.7723603534
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.07110264,
+                        -7.7723603534
+                    ],
+                    [
+                        111.071128365,
+                        -7.77211778106
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.071128365,
+                        -7.77211778106
+                    ],
+                    [
+                        111.071130357,
+                        -7.77209902006
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.071130357,
+                        -7.77209902006
+                    ],
+                    [
+                        111.071348732,
+                        -7.77188141757
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.071348732,
+                        -7.77188141757
+                    ],
+                    [
+                        111.072008985,
+                        -7.77130554178
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.072008985,
+                        -7.77130554178
+                    ],
+                    [
+                        111.072157585,
+                        -7.77107274497
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.072157585,
+                        -7.77107274497
+                    ],
+                    [
+                        111.072287146,
+                        -7.77072468267
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.072287146,
+                        -7.77072468267
+                    ],
+                    [
+                        111.072307307,
+                        -7.77067052296
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.072307307,
+                        -7.77067052296
+                    ],
+                    [
+                        111.072388215,
+                        -7.77029280823
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.072388215,
+                        -7.77029280823
+                    ],
+                    [
+                        111.072468044,
+                        -7.77007853945
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.072468044,
+                        -7.77007853945
+                    ],
+                    [
+                        111.072815214,
+                        -7.76965635598
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.072815214,
+                        -7.76965635598
+                    ],
+                    [
+                        111.073288258,
+                        -7.76918638951
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.073288258,
+                        -7.76918638951
+                    ],
+                    [
+                        111.073757379,
+                        -7.76879076033
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.073757379,
+                        -7.76879076033
+                    ],
+                    [
+                        111.074054661,
+                        -7.76850388022
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.074054661,
+                        -7.76850388022
+                    ],
+                    [
+                        111.074264945,
+                        -7.7682465763
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.074264945,
+                        -7.7682465763
+                    ],
+                    [
+                        111.074551003,
+                        -7.76793666759
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.074551003,
+                        -7.76793666759
+                    ],
+                    [
+                        111.07498928,
+                        -7.7674613684
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.07498928,
+                        -7.7674613684
+                    ],
+                    [
+                        111.075251262,
+                        -7.76702027445
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.075251262,
+                        -7.76702027445
+                    ],
+                    [
+                        111.075861965,
+                        -7.76624480922
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.075861965,
+                        -7.76624480922
+                    ],
+                    [
+                        111.076172385,
+                        -7.7660065366
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.076172385,
+                        -7.7660065366
+                    ],
+                    [
+                        111.076246896,
+                        -7.76599212257
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.076246896,
+                        -7.76599212257
+                    ],
+                    [
+                        111.07669626,
+                        -7.76586321364
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.07669626,
+                        -7.76586321364
+                    ],
+                    [
+                        111.077046096,
+                        -7.7657281441
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.077046096,
+                        -7.7657281441
+                    ],
+                    [
+                        111.07751718,
+                        -7.765550411
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.07751718,
+                        -7.765550411
+                    ],
+                    [
+                        111.078264039,
+                        -7.76523780134
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.078264039,
+                        -7.76523780134
+                    ],
+                    [
+                        111.078335752,
+                        -7.76519684754
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.078335752,
+                        -7.76519684754
+                    ],
+                    [
+                        111.078865213,
+                        -7.76486119234
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.078865213,
+                        -7.76486119234
+                    ],
+                    [
+                        111.079113067,
+                        -7.76470406863
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "128",
+                "NAMA_SUNGAI": "Kali Jagir",
+                "FOTO": "sungai-128_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.079113067,
+                        -7.76470406863
+                    ],
+                    [
+                        111.079144062,
+                        -7.76468266991
+                    ]
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,4310 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00468180172,
+                        -7.7935535647452
+                    ],
+                    [
+                        111.00480796868,
+                        -7.7935051755455
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00480796868,
+                        -7.7935051755455
+                    ],
+                    [
+                        111.00505168299,
+                        -7.793401050518
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00505168299,
+                        -7.793401050518
+                    ],
+                    [
+                        111.0054549309,
+                        -7.7932347775629
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0054549309,
+                        -7.7932347775629
+                    ],
+                    [
+                        111.00546605821,
+                        -7.7930890882907
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00546605821,
+                        -7.7930890882907
+                    ],
+                    [
+                        111.00550376049,
+                        -7.792959066108
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00550376049,
+                        -7.792959066108
+                    ],
+                    [
+                        111.00563351468,
+                        -7.7928918282952
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00563351468,
+                        -7.7928918282952
+                    ],
+                    [
+                        111.00572900289,
+                        -7.7929011794458
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00572900289,
+                        -7.7929011794458
+                    ],
+                    [
+                        111.00625140738,
+                        -7.7930337907768
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00625140738,
+                        -7.7930337907768
+                    ],
+                    [
+                        111.00633841409,
+                        -7.792948471195
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00633841409,
+                        -7.792948471195
+                    ],
+                    [
+                        111.00631973697,
+                        -7.7928204212254
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00631973697,
+                        -7.7928204212254
+                    ],
+                    [
+                        111.00621623309,
+                        -7.7923506549587
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00621623309,
+                        -7.7923506549587
+                    ],
+                    [
+                        111.00629453257,
+                        -7.7922480126356
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00629453257,
+                        -7.7922480126356
+                    ],
+                    [
+                        111.00637069255,
+                        -7.7922588665534
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00637069255,
+                        -7.7922588665534
+                    ],
+                    [
+                        111.00672486446,
+                        -7.7922353879528
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00672486446,
+                        -7.7922353879528
+                    ],
+                    [
+                        111.0070536575,
+                        -7.7921487067973
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0070536575,
+                        -7.7921487067973
+                    ],
+                    [
+                        111.00713582046,
+                        -7.7920385389474
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00713582046,
+                        -7.7920385389474
+                    ],
+                    [
+                        111.00713454882,
+                        -7.7919009543655
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00713454882,
+                        -7.7919009543655
+                    ],
+                    [
+                        111.00701102784,
+                        -7.7909575052846
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00701102784,
+                        -7.7909575052846
+                    ],
+                    [
+                        111.00711294441,
+                        -7.7908384988976
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00711294441,
+                        -7.7908384988976
+                    ],
+                    [
+                        111.00729708869,
+                        -7.7907457689021
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00729708869,
+                        -7.7907457689021
+                    ],
+                    [
+                        111.00744079316,
+                        -7.790758918789
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00744079316,
+                        -7.790758918789
+                    ],
+                    [
+                        111.00820280402,
+                        -7.7908683294098
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00820280402,
+                        -7.7908683294098
+                    ],
+                    [
+                        111.00836780983,
+                        -7.7907029269984
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00836780983,
+                        -7.7907029269984
+                    ],
+                    [
+                        111.00862392146,
+                        -7.7905204077906
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00862392146,
+                        -7.7905204077906
+                    ],
+                    [
+                        111.00872566895,
+                        -7.790574226819
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00872566895,
+                        -7.790574226819
+                    ],
+                    [
+                        111.00886015177,
+                        -7.7907364042616
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00886015177,
+                        -7.7907364042616
+                    ],
+                    [
+                        111.0088638345,
+                        -7.790742590698
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0088638345,
+                        -7.790742590698
+                    ],
+                    [
+                        111.00917166974,
+                        -7.791260185609
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00917166974,
+                        -7.791260185609
+                    ],
+                    [
+                        111.00936630911,
+                        -7.7916193928206
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00936630911,
+                        -7.7916193928206
+                    ],
+                    [
+                        111.00953052351,
+                        -7.7917724862112
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.00953052351,
+                        -7.7917724862112
+                    ],
+                    [
+                        111.0096570959,
+                        -7.7918321211554
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0096570959,
+                        -7.7918321211554
+                    ],
+                    [
+                        111.01002470997,
+                        -7.7918630398474
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01002470997,
+                        -7.7918630398474
+                    ],
+                    [
+                        111.01021033454,
+                        -7.7918121993735
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01021033454,
+                        -7.7918121993735
+                    ],
+                    [
+                        111.01047362096,
+                        -7.7916377201046
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01047362096,
+                        -7.7916377201046
+                    ],
+                    [
+                        111.01068256225,
+                        -7.791520247961
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01068256225,
+                        -7.791520247961
+                    ],
+                    [
+                        111.01107526831,
+                        -7.7913896915809
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01107526831,
+                        -7.7913896915809
+                    ],
+                    [
+                        111.01127701592,
+                        -7.7912472353715
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01127701592,
+                        -7.7912472353715
+                    ],
+                    [
+                        111.01147837952,
+                        -7.7909894204254
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01147837952,
+                        -7.7909894204254
+                    ],
+                    [
+                        111.01163594704,
+                        -7.7908332603466
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01163594704,
+                        -7.7908332603466
+                    ],
+                    [
+                        111.01194620056,
+                        -7.7908041609832
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01194620056,
+                        -7.7908041609832
+                    ],
+                    [
+                        111.01205214519,
+                        -7.7907770940876
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01205214519,
+                        -7.7907770940876
+                    ],
+                    [
+                        111.01208983937,
+                        -7.7907674677444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01208983937,
+                        -7.7907674677444
+                    ],
+                    [
+                        111.0123714324,
+                        -7.7907250359316
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0123714324,
+                        -7.7907250359316
+                    ],
+                    [
+                        111.01288888881,
+                        -7.7907241429048
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01288888881,
+                        -7.7907241429048
+                    ],
+                    [
+                        111.01335104771,
+                        -7.7907793702717
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01335104771,
+                        -7.7907793702717
+                    ],
+                    [
+                        111.01357582606,
+                        -7.7907319004568
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01357582606,
+                        -7.7907319004568
+                    ],
+                    [
+                        111.01369187188,
+                        -7.7906167368728
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01369187188,
+                        -7.7906167368728
+                    ],
+                    [
+                        111.01373563919,
+                        -7.7904948004946
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01373563919,
+                        -7.7904948004946
+                    ],
+                    [
+                        111.01381509519,
+                        -7.790324739595
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01381509519,
+                        -7.790324739595
+                    ],
+                    [
+                        111.01402398792,
+                        -7.7901743666537
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01402398792,
+                        -7.7901743666537
+                    ],
+                    [
+                        111.01419434649,
+                        -7.7901270254418
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01419434649,
+                        -7.7901270254418
+                    ],
+                    [
+                        111.01460714161,
+                        -7.7900315803931
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01460714161,
+                        -7.7900315803931
+                    ],
+                    [
+                        111.01512083886,
+                        -7.7896966737624
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01512083886,
+                        -7.7896966737624
+                    ],
+                    [
+                        111.01537080002,
+                        -7.7895580045982
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01537080002,
+                        -7.7895580045982
+                    ],
+                    [
+                        111.01569584559,
+                        -7.7895239355811
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01569584559,
+                        -7.7895239355811
+                    ],
+                    [
+                        111.0159250531,
+                        -7.7895861156067
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0159250531,
+                        -7.7895861156067
+                    ],
+                    [
+                        111.01624163065,
+                        -7.7896550315544
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01624163065,
+                        -7.7896550315544
+                    ],
+                    [
+                        111.01671510392,
+                        -7.789598975912
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01671510392,
+                        -7.789598975912
+                    ],
+                    [
+                        111.01720389175,
+                        -7.789644039141
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01720389175,
+                        -7.789644039141
+                    ],
+                    [
+                        111.01723882861,
+                        -7.789647258714
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01723882861,
+                        -7.789647258714
+                    ],
+                    [
+                        111.01751365063,
+                        -7.7895374604853
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01751365063,
+                        -7.7895374604853
+                    ],
+                    [
+                        111.01772493646,
+                        -7.7893904600017
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01772493646,
+                        -7.7893904600017
+                    ],
+                    [
+                        111.01812778057,
+                        -7.7890903535369
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01812778057,
+                        -7.7890903535369
+                    ],
+                    [
+                        111.01852849689,
+                        -7.7888759362754
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01852849689,
+                        -7.7888759362754
+                    ],
+                    [
+                        111.01875674123,
+                        -7.7887054967612
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01875674123,
+                        -7.7887054967612
+                    ],
+                    [
+                        111.01879672149,
+                        -7.7887111490003
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01879672149,
+                        -7.7887111490003
+                    ],
+                    [
+                        111.01883815326,
+                        -7.7887172796787
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01883815326,
+                        -7.7887172796787
+                    ],
+                    [
+                        111.01894298363,
+                        -7.7887327974806
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01894298363,
+                        -7.7887327974806
+                    ],
+                    [
+                        111.0191737065,
+                        -7.7888119000491
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0191737065,
+                        -7.7888119000491
+                    ],
+                    [
+                        111.01928698601,
+                        -7.7889539030002
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01928698601,
+                        -7.7889539030002
+                    ],
+                    [
+                        111.01949000616,
+                        -7.7891473076021
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01949000616,
+                        -7.7891473076021
+                    ],
+                    [
+                        111.01981721369,
+                        -7.7890029870981
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.01981721369,
+                        -7.7890029870981
+                    ],
+                    [
+                        111.02006227895,
+                        -7.7889420355465
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02006227895,
+                        -7.7889420355465
+                    ],
+                    [
+                        111.02024449419,
+                        -7.7889833557972
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02024449419,
+                        -7.7889833557972
+                    ],
+                    [
+                        111.02044415717,
+                        -7.789136824205
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02044415717,
+                        -7.789136824205
+                    ],
+                    [
+                        111.02092155059,
+                        -7.789524342974
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02092155059,
+                        -7.789524342974
+                    ],
+                    [
+                        111.02117720896,
+                        -7.7896275410781
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02117720896,
+                        -7.7896275410781
+                    ],
+                    [
+                        111.02127541493,
+                        -7.7895637557626
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02127541493,
+                        -7.7895637557626
+                    ],
+                    [
+                        111.02132795692,
+                        -7.7893910265745
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02132795692,
+                        -7.7893910265745
+                    ],
+                    [
+                        111.02135407953,
+                        -7.7890626499213
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02135407953,
+                        -7.7890626499213
+                    ],
+                    [
+                        111.02139731264,
+                        -7.7888224679825
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02139731264,
+                        -7.7888224679825
+                    ],
+                    [
+                        111.02140587238,
+                        -7.7887749235239
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02140587238,
+                        -7.7887749235239
+                    ],
+                    [
+                        111.02157607807,
+                        -7.7886222968814
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02157607807,
+                        -7.7886222968814
+                    ],
+                    [
+                        111.02181616109,
+                        -7.7885148045146
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02181616109,
+                        -7.7885148045146
+                    ],
+                    [
+                        111.02234431943,
+                        -7.7885518098181
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02234431943,
+                        -7.7885518098181
+                    ],
+                    [
+                        111.02242715779,
+                        -7.7884480334499
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02242715779,
+                        -7.7884480334499
+                    ],
+                    [
+                        111.02257344421,
+                        -7.7882471312001
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02257344421,
+                        -7.7882471312001
+                    ],
+                    [
+                        111.02293434484,
+                        -7.7882752161283
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02293434484,
+                        -7.7882752161283
+                    ],
+                    [
+                        111.02299220363,
+                        -7.7883239782689
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02299220363,
+                        -7.7883239782689
+                    ],
+                    [
+                        111.02340987217,
+                        -7.7888338498023
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02340987217,
+                        -7.7888338498023
+                    ],
+                    [
+                        111.02352876524,
+                        -7.7887734989977
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02352876524,
+                        -7.7887734989977
+                    ],
+                    [
+                        111.02361402277,
+                        -7.7886273168971
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02361402277,
+                        -7.7886273168971
+                    ],
+                    [
+                        111.02361691679,
+                        -7.7884699139553
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02361691679,
+                        -7.7884699139553
+                    ],
+                    [
+                        111.02363541494,
+                        -7.788063410498
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02363541494,
+                        -7.788063410498
+                    ],
+                    [
+                        111.02386896258,
+                        -7.7880424203214
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02386896258,
+                        -7.7880424203214
+                    ],
+                    [
+                        111.02415854518,
+                        -7.7880630642589
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02415854518,
+                        -7.7880630642589
+                    ],
+                    [
+                        111.02440860078,
+                        -7.7880470032665
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02440860078,
+                        -7.7880470032665
+                    ],
+                    [
+                        111.02480046237,
+                        -7.7880235246659
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02480046237,
+                        -7.7880235246659
+                    ],
+                    [
+                        111.02490400941,
+                        -7.7881142554685
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02490400941,
+                        -7.7881142554685
+                    ],
+                    [
+                        111.02515268635,
+                        -7.7884198936631
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02515268635,
+                        -7.7884198936631
+                    ],
+                    [
+                        111.02525004695,
+                        -7.788498385592
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02525004695,
+                        -7.788498385592
+                    ],
+                    [
+                        111.02534896069,
+                        -7.7884662681037
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02534896069,
+                        -7.7884662681037
+                    ],
+                    [
+                        111.02541233411,
+                        -7.7883525056636
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02541233411,
+                        -7.7883525056636
+                    ],
+                    [
+                        111.02548174918,
+                        -7.7879621099634
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02548174918,
+                        -7.7879621099634
+                    ],
+                    [
+                        111.02552362072,
+                        -7.787734663324
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02552362072,
+                        -7.787734663324
+                    ],
+                    [
+                        111.0256093432,
+                        -7.7876517818042
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0256093432,
+                        -7.7876517818042
+                    ],
+                    [
+                        111.02632960123,
+                        -7.7872629922932
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02632960123,
+                        -7.7872629922932
+                    ],
+                    [
+                        111.02638272958,
+                        -7.7870756536185
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02638272958,
+                        -7.7870756536185
+                    ],
+                    [
+                        111.02643855679,
+                        -7.7869782102761
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02643855679,
+                        -7.7869782102761
+                    ],
+                    [
+                        111.02664860785,
+                        -7.7868709886052
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02664860785,
+                        -7.7868709886052
+                    ],
+                    [
+                        111.02676931125,
+                        -7.7869111073617
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02676931125,
+                        -7.7869111073617
+                    ],
+                    [
+                        111.02695842429,
+                        -7.787023451571
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02695842429,
+                        -7.787023451571
+                    ],
+                    [
+                        111.02701366155,
+                        -7.7871956951252
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02701366155,
+                        -7.7871956951252
+                    ],
+                    [
+                        111.02702842033,
+                        -7.787221899571
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02702842033,
+                        -7.787221899571
+                    ],
+                    [
+                        111.0271248888,
+                        -7.7873931997363
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0271248888,
+                        -7.7873931997363
+                    ],
+                    [
+                        111.02748160129,
+                        -7.7877396788431
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02748160129,
+                        -7.7877396788431
+                    ],
+                    [
+                        111.02756809089,
+                        -7.7877365797792
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02756809089,
+                        -7.7877365797792
+                    ],
+                    [
+                        111.02768802268,
+                        -7.7876231213099
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02768802268,
+                        -7.7876231213099
+                    ],
+                    [
+                        111.02781487835,
+                        -7.7874125576434
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02781487835,
+                        -7.7874125576434
+                    ],
+                    [
+                        111.02778688965,
+                        -7.7872913119444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02778688965,
+                        -7.7872913119444
+                    ],
+                    [
+                        111.02775651775,
+                        -7.78705268943
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02775651775,
+                        -7.78705268943
+                    ],
+                    [
+                        111.02782664149,
+                        -7.7869897180011
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02782664149,
+                        -7.7869897180011
+                    ],
+                    [
+                        111.02797190088,
+                        -7.7869513097551
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02797190088,
+                        -7.7869513097551
+                    ],
+                    [
+                        111.02818163268,
+                        -7.7869680938024
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02818163268,
+                        -7.7869680938024
+                    ],
+                    [
+                        111.02873815114,
+                        -7.7870023939453
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02873815114,
+                        -7.7870023939453
+                    ],
+                    [
+                        111.02894915638,
+                        -7.7869492997703
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02894915638,
+                        -7.7869492997703
+                    ],
+                    [
+                        111.02903887005,
+                        -7.7868629891356
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02903887005,
+                        -7.7868629891356
+                    ],
+                    [
+                        111.02907059633,
+                        -7.7867344661226
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02907059633,
+                        -7.7867344661226
+                    ],
+                    [
+                        111.02916531293,
+                        -7.7864822854291
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02916531293,
+                        -7.7864822854291
+                    ],
+                    [
+                        111.02926810634,
+                        -7.7864280311287
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02926810634,
+                        -7.7864280311287
+                    ],
+                    [
+                        111.02951911971,
+                        -7.7865126906082
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02951911971,
+                        -7.7865126906082
+                    ],
+                    [
+                        111.02969443985,
+                        -7.786514053081
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.02969443985,
+                        -7.786514053081
+                    ],
+                    [
+                        111.03007636753,
+                        -7.7863560170165
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03007636753,
+                        -7.7863560170165
+                    ],
+                    [
+                        111.03017092585,
+                        -7.7861806600094
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03017092585,
+                        -7.7861806600094
+                    ],
+                    [
+                        111.03026313064,
+                        -7.7860662716411
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03026313064,
+                        -7.7860662716411
+                    ],
+                    [
+                        111.03034486732,
+                        -7.7860684821746
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03034486732,
+                        -7.7860684821746
+                    ],
+                    [
+                        111.0305814097,
+                        -7.7862070802924
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0305814097,
+                        -7.7862070802924
+                    ],
+                    [
+                        111.03071237438,
+                        -7.7862862835851
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03071237438,
+                        -7.7862862835851
+                    ],
+                    [
+                        111.030919553,
+                        -7.786243021698
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.030919553,
+                        -7.786243021698
+                    ],
+                    [
+                        111.03098063855,
+                        -7.7861330130281
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03098063855,
+                        -7.7861330130281
+                    ],
+                    [
+                        111.03095603939,
+                        -7.7859834989393
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03095603939,
+                        -7.7859834989393
+                    ],
+                    [
+                        111.03093397003,
+                        -7.7856940215618
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03093397003,
+                        -7.7856940215618
+                    ],
+                    [
+                        111.03108568925,
+                        -7.7854402076993
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03108568925,
+                        -7.7854402076993
+                    ],
+                    [
+                        111.03113939767,
+                        -7.785155790807
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03113939767,
+                        -7.785155790807
+                    ],
+                    [
+                        111.03128211558,
+                        -7.7848535385599
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03128211558,
+                        -7.7848535385599
+                    ],
+                    [
+                        111.03138404384,
+                        -7.7848847288471
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03138404384,
+                        -7.7848847288471
+                    ],
+                    [
+                        111.03158463582,
+                        -7.7849501419354
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03158463582,
+                        -7.7849501419354
+                    ],
+                    [
+                        111.03158646864,
+                        -7.784950738186
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03158646864,
+                        -7.784950738186
+                    ],
+                    [
+                        111.03185768349,
+                        -7.7848537939674
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03185768349,
+                        -7.7848537939674
+                    ],
+                    [
+                        111.03208962943,
+                        -7.7846657178485
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03208962943,
+                        -7.7846657178485
+                    ],
+                    [
+                        111.03222315717,
+                        -7.7844617372194
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03222315717,
+                        -7.7844617372194
+                    ],
+                    [
+                        111.03221523145,
+                        -7.7843561747976
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03221523145,
+                        -7.7843561747976
+                    ],
+                    [
+                        111.0321346459,
+                        -7.7842346350204
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0321346459,
+                        -7.7842346350204
+                    ],
+                    [
+                        111.03206941357,
+                        -7.7840835776949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03206941357,
+                        -7.7840835776949
+                    ],
+                    [
+                        111.03212036017,
+                        -7.7839894987163
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03212036017,
+                        -7.7839894987163
+                    ],
+                    [
+                        111.03228105013,
+                        -7.7838809838203
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03228105013,
+                        -7.7838809838203
+                    ],
+                    [
+                        111.03270986847,
+                        -7.7836380940228
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03270986847,
+                        -7.7836380940228
+                    ],
+                    [
+                        111.03291081478,
+                        -7.7834797980542
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03291081478,
+                        -7.7834797980542
+                    ],
+                    [
+                        111.03319042929,
+                        -7.7834068405532
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03319042929,
+                        -7.7834068405532
+                    ],
+                    [
+                        111.03326966496,
+                        -7.7834408466177
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03326966496,
+                        -7.7834408466177
+                    ],
+                    [
+                        111.03327391066,
+                        -7.7834490951996
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03327391066,
+                        -7.7834490951996
+                    ],
+                    [
+                        111.03333799815,
+                        -7.7835735946456
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03333799815,
+                        -7.7835735946456
+                    ],
+                    [
+                        111.03334570264,
+                        -7.7837399980024
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03334570264,
+                        -7.7837399980024
+                    ],
+                    [
+                        111.03335206984,
+                        -7.7840850166102
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03335206984,
+                        -7.7840850166102
+                    ],
+                    [
+                        111.03346134916,
+                        -7.7841718101808
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03346134916,
+                        -7.7841718101808
+                    ],
+                    [
+                        111.03367838525,
+                        -7.78424603033
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03367838525,
+                        -7.78424603033
+                    ],
+                    [
+                        111.03384633634,
+                        -7.7842038638172
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03384633634,
+                        -7.7842038638172
+                    ],
+                    [
+                        111.03389801768,
+                        -7.7841148327333
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03389801768,
+                        -7.7841148327333
+                    ],
+                    [
+                        111.03390467986,
+                        -7.7839484914297
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03390467986,
+                        -7.7839484914297
+                    ],
+                    [
+                        111.03393838555,
+                        -7.7838732388588
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03393838555,
+                        -7.7838732388588
+                    ],
+                    [
+                        111.034033032,
+                        -7.7836889165102
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.034033032,
+                        -7.7836889165102
+                    ],
+                    [
+                        111.03403155082,
+                        -7.7834334676804
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03403155082,
+                        -7.7834334676804
+                    ],
+                    [
+                        111.03404636715,
+                        -7.783158768862
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03404636715,
+                        -7.783158768862
+                    ],
+                    [
+                        111.03426418924,
+                        -7.782977268586
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03426418924,
+                        -7.782977268586
+                    ],
+                    [
+                        111.03502345627,
+                        -7.7831093358271
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03502345627,
+                        -7.7831093358271
+                    ],
+                    [
+                        111.03490109696,
+                        -7.7827248638252
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03490109696,
+                        -7.7827248638252
+                    ],
+                    [
+                        111.03528980495,
+                        -7.7821935119607
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03528980495,
+                        -7.7821935119607
+                    ],
+                    [
+                        111.03586569226,
+                        -7.7817052239275
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03586569226,
+                        -7.7817052239275
+                    ],
+                    [
+                        111.0364991747,
+                        -7.7812600101354
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0364991747,
+                        -7.7812600101354
+                    ],
+                    [
+                        111.03677272901,
+                        -7.7811307465815
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03677272901,
+                        -7.7811307465815
+                    ],
+                    [
+                        111.03703189883,
+                        -7.7811594440273
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03703189883,
+                        -7.7811594440273
+                    ],
+                    [
+                        111.03726223682,
+                        -7.7807860640493
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03726223682,
+                        -7.7807860640493
+                    ],
+                    [
+                        111.03753578676,
+                        -7.7806137200245
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03753578676,
+                        -7.7806137200245
+                    ],
+                    [
+                        111.03778054915,
+                        -7.7805418983383
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03778054915,
+                        -7.7805418983383
+                    ],
+                    [
+                        111.03793889281,
+                        -7.7801398044036
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03793889281,
+                        -7.7801398044036
+                    ],
+                    [
+                        111.0380252416,
+                        -7.7796946368799
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0380252416,
+                        -7.7796946368799
+                    ],
+                    [
+                        111.03857232741,
+                        -7.7792207077196
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03857232741,
+                        -7.7792207077196
+                    ],
+                    [
+                        111.03891785577,
+                        -7.7789334763001
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03891785577,
+                        -7.7789334763001
+                    ],
+                    [
+                        111.03923461148,
+                        -7.7789047271497
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.03923461148,
+                        -7.7789047271497
+                    ],
+                    [
+                        111.0394217681,
+                        -7.778703669893
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0394217681,
+                        -7.778703669893
+                    ],
+                    [
+                        111.0396952915,
+                        -7.7782728445779
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0396952915,
+                        -7.7782728445779
+                    ],
+                    [
+                        111.04047272067,
+                        -7.7775691314404
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04047272067,
+                        -7.7775691314404
+                    ],
+                    [
+                        111.04132219083,
+                        -7.7774110896623
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04132219083,
+                        -7.7774110896623
+                    ],
+                    [
+                        111.04218603401,
+                        -7.7770089248509
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04218603401,
+                        -7.7770089248509
+                    ],
+                    [
+                        111.04319385728,
+                        -7.7766211036536
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04319385728,
+                        -7.7766211036536
+                    ],
+                    [
+                        111.04484958632,
+                        -7.7762044921315
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04484958632,
+                        -7.7762044921315
+                    ],
+                    [
+                        111.04568464628,
+                        -7.7759746431867
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04568464628,
+                        -7.7759746431867
+                    ],
+                    [
+                        111.04650534843,
+                        -7.7761181540338
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04650534843,
+                        -7.7761181540338
+                    ],
+                    [
+                        111.04745559938,
+                        -7.7759600889508
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04745559938,
+                        -7.7759600889508
+                    ],
+                    [
+                        111.04844900902,
+                        -7.7755004569401
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04844900902,
+                        -7.7755004569401
+                    ],
+                    [
+                        111.04938482124,
+                        -7.7750121093216
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04938482124,
+                        -7.7750121093216
+                    ],
+                    [
+                        111.04991751228,
+                        -7.7747248471453
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.04991751228,
+                        -7.7747248471453
+                    ],
+                    [
+                        111.05040702929,
+                        -7.7746099093649
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.05040702929,
+                        -7.7746099093649
+                    ],
+                    [
+                        111.05101174355,
+                        -7.7746098371558
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "48",
+                "NAMA_SUNGAI": "Kali Tempuran",
+                "FOTO": "sungai-48_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.05101174355,
+                        -7.7746098371558
+                    ],
+                    [
+                        111.05160205107,
+                        -7.7745379658643
+                    ]
+                ]
+            }
+        }
+    ]
+}

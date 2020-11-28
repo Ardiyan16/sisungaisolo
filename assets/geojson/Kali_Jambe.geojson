@@ -1,0 +1,1040 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.33352165787",
+                "LONGITUDE": "111.086301605"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.086301605,
+                        -7.33352165787
+                    ],
+                    [
+                        111.086283104,
+                        -7.33356863638
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.33356863638",
+                "LONGITUDE": "111.086283104"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.086283104,
+                        -7.33356863638
+                    ],
+                    [
+                        111.086155852,
+                        -7.33404542091
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.33404542091",
+                "LONGITUDE": "111.086155852"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.086155852,
+                        -7.33404542091
+                    ],
+                    [
+                        111.086118055,
+                        -7.33439283299
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.33439283299",
+                "LONGITUDE": "111.086118055"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.086118055,
+                        -7.33439283299
+                    ],
+                    [
+                        111.086219572,
+                        -7.33568405953
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.33568405953",
+                "LONGITUDE": "111.086219572"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.086219572,
+                        -7.33568405953
+                    ],
+                    [
+                        111.086336839,
+                        -7.3361000544
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.3361000544",
+                "LONGITUDE": "111.086336839"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.086336839,
+                        -7.3361000544
+                    ],
+                    [
+                        111.086455381,
+                        -7.33630994896
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.33630994896",
+                "LONGITUDE": "111.086455381"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.086455381,
+                        -7.33630994896
+                    ],
+                    [
+                        111.086877347,
+                        -7.33689486995
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.33689486995",
+                "LONGITUDE": "111.086877347"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.086877347,
+                        -7.33689486995
+                    ],
+                    [
+                        111.087171141,
+                        -7.33750199576
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.33750199576",
+                "LONGITUDE": "111.087171141"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.087171141,
+                        -7.33750199576
+                    ],
+                    [
+                        111.087205521,
+                        -7.33757304402
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.33757304402",
+                "LONGITUDE": "111.087205521"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.087205521,
+                        -7.33757304402
+                    ],
+                    [
+                        111.087642309,
+                        -7.33846019129
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.33846019129",
+                "LONGITUDE": "111.087642309"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.087642309,
+                        -7.33846019129
+                    ],
+                    [
+                        111.087603466,
+                        -7.33878367743
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.33878367743",
+                "LONGITUDE": "111.087603466"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.087603466,
+                        -7.33878367743
+                    ],
+                    [
+                        111.087529658,
+                        -7.33942428972
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.33942428972",
+                "LONGITUDE": "111.087529658"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.087529658,
+                        -7.33942428972
+                    ],
+                    [
+                        111.087446228,
+                        -7.33992869189
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.33992869189",
+                "LONGITUDE": "111.087446228"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.087446228,
+                        -7.33992869189
+                    ],
+                    [
+                        111.087391166,
+                        -7.34019757153
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34019757153",
+                "LONGITUDE": "111.087391166"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.087391166,
+                        -7.34019757153
+                    ],
+                    [
+                        111.087337312,
+                        -7.34025648839
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34025648839",
+                "LONGITUDE": "111.087337312"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.087337312,
+                        -7.34025648839
+                    ],
+                    [
+                        111.08689536,
+                        -7.34081946838
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34081946838",
+                "LONGITUDE": "111.08689536"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.08689536,
+                        -7.34081946838
+                    ],
+                    [
+                        111.086749993,
+                        -7.34100464633
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34100464633",
+                "LONGITUDE": "111.086749993"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.086749993,
+                        -7.34100464633
+                    ],
+                    [
+                        111.086574837,
+                        -7.34120349822
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34120349822",
+                "LONGITUDE": "111.086574837"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.086574837,
+                        -7.34120349822
+                    ],
+                    [
+                        111.086398277,
+                        -7.34130746869
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34130746869",
+                "LONGITUDE": "111.086398277"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.086398277,
+                        -7.34130746869
+                    ],
+                    [
+                        111.086231633,
+                        -7.34133921537
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34133921537",
+                "LONGITUDE": "111.086231633"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.086231633,
+                        -7.34133921537
+                    ],
+                    [
+                        111.085745372,
+                        -7.34142987522
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34142987522",
+                "LONGITUDE": "111.085745372"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.085745372,
+                        -7.34142987522
+                    ],
+                    [
+                        111.084322024,
+                        -7.34194239144
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34194239144",
+                "LONGITUDE": "111.084322024"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.084322024,
+                        -7.34194239144
+                    ],
+                    [
+                        111.083899651,
+                        -7.34224135351
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34224135351",
+                "LONGITUDE": "111.083899651"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.083899651,
+                        -7.34224135351
+                    ],
+                    [
+                        111.083593771,
+                        -7.34230758073
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34230758073",
+                "LONGITUDE": "111.083593771"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.083593771,
+                        -7.34230758073
+                    ],
+                    [
+                        111.083585462,
+                        -7.34230884869
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34230884869",
+                "LONGITUDE": "111.083585462"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.083585462,
+                        -7.34230884869
+                    ],
+                    [
+                        111.083220578,
+                        -7.34241413745
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34241413745",
+                "LONGITUDE": "111.083220578"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.083220578,
+                        -7.34241413745
+                    ],
+                    [
+                        111.082823316,
+                        -7.34249946776
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34249946776",
+                "LONGITUDE": "111.082823316"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.082823316,
+                        -7.34249946776
+                    ],
+                    [
+                        111.082468162,
+                        -7.34255749874
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34255749874",
+                "LONGITUDE": "111.082468162"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.082468162,
+                        -7.34255749874
+                    ],
+                    [
+                        111.082402004,
+                        -7.34256831159
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34256831159",
+                "LONGITUDE": "111.082402004"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.082402004,
+                        -7.34256831159
+                    ],
+                    [
+                        111.081756963,
+                        -7.342601103
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.342601103",
+                "LONGITUDE": "111.081756963"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.081756963,
+                        -7.342601103
+                    ],
+                    [
+                        111.08123472,
+                        -7.34253839265
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34253839265",
+                "LONGITUDE": "111.08123472"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.08123472,
+                        -7.34253839265
+                    ],
+                    [
+                        111.0810215,
+                        -7.34254946707
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34254946707",
+                "LONGITUDE": "111.0810215"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.0810215,
+                        -7.34254946707
+                    ],
+                    [
+                        111.080999405,
+                        -7.34256883816
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34256883816",
+                "LONGITUDE": "111.080999405"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.080999405,
+                        -7.34256883816
+                    ],
+                    [
+                        111.080924142,
+                        -7.3426348229
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.3426348229",
+                "LONGITUDE": "111.080924142"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.080924142,
+                        -7.3426348229
+                    ],
+                    [
+                        111.080447421,
+                        -7.34314038904
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34314038904",
+                "LONGITUDE": "111.080447421"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.080447421,
+                        -7.34314038904
+                    ],
+                    [
+                        111.079946478,
+                        -7.3434276381
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.3434276381",
+                "LONGITUDE": "111.079946478"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.079946478,
+                        -7.3434276381
+                    ],
+                    [
+                        111.079747051,
+                        -7.3435552106
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.3435552106",
+                "LONGITUDE": "111.079747051"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.079747051,
+                        -7.3435552106
+                    ],
+                    [
+                        111.079544013,
+                        -7.34381406564
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34381406564",
+                "LONGITUDE": "111.079544013"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.079544013,
+                        -7.34381406564
+                    ],
+                    [
+                        111.079326374,
+                        -7.34414723459
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34414723459",
+                "LONGITUDE": "111.079326374"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.079326374,
+                        -7.34414723459
+                    ],
+                    [
+                        111.079029249,
+                        -7.34429413685
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34429413685",
+                "LONGITUDE": "111.079029249"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.079029249,
+                        -7.34429413685
+                    ],
+                    [
+                        111.078392319,
+                        -7.34456144398
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34456144398",
+                "LONGITUDE": "111.078392319"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.078392319,
+                        -7.34456144398
+                    ],
+                    [
+                        111.07831515,
+                        -7.34466389232
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34466389232",
+                "LONGITUDE": "111.07831515"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.07831515,
+                        -7.34466389232
+                    ],
+                    [
+                        111.078138919,
+                        -7.34475491494
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34475491494",
+                "LONGITUDE": "111.078138919"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.078138919,
+                        -7.34475491494
+                    ],
+                    [
+                        111.078131684,
+                        -7.34483504408
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "89",
+                "NAMA_SUNGAI": "Kali Jambe",
+                "FOTO": "sungai-89_file1-.png",
+                "LATITUDE": "-7.34483504408",
+                "LONGITUDE": "111.078131684"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.078131684,
+                        -7.34483504408
+                    ],
+                    [
+                        111.078089857,
+                        -7.34517906392
+                    ]
+                ]
+            }
+        }
+    ]
+}

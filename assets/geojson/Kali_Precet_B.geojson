@@ -1,0 +1,3365 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23730540256,
+                        -7.3656726035021
+                    ],
+                    [
+                        111.23689869726,
+                        -7.3649641299825
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23689869726,
+                        -7.3649641299825
+                    ],
+                    [
+                        111.23675036807,
+                        -7.364636435847
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23675036807,
+                        -7.364636435847
+                    ],
+                    [
+                        111.23654314105,
+                        -7.3642535394446
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23654314105,
+                        -7.3642535394446
+                    ],
+                    [
+                        111.23658694264,
+                        -7.3641701868897
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23658694264,
+                        -7.3641701868897
+                    ],
+                    [
+                        111.23666574142,
+                        -7.3641284262661
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23666574142,
+                        -7.3641284262661
+                    ],
+                    [
+                        111.23681284956,
+                        -7.3640508807186
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23681284956,
+                        -7.3640508807186
+                    ],
+                    [
+                        111.23684655269,
+                        -7.3639077501451
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23684655269,
+                        -7.3639077501451
+                    ],
+                    [
+                        111.2368392236,
+                        -7.3636538942034
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.2368392236,
+                        -7.3636538942034
+                    ],
+                    [
+                        111.23682353296,
+                        -7.3635568145084
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23682353296,
+                        -7.3635568145084
+                    ],
+                    [
+                        111.23675483429,
+                        -7.3631318816734
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23675483429,
+                        -7.3631318816734
+                    ],
+                    [
+                        111.23658143543,
+                        -7.3627036119828
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23658143543,
+                        -7.3627036119828
+                    ],
+                    [
+                        111.23656619744,
+                        -7.3624745364959
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23656619744,
+                        -7.3624745364959
+                    ],
+                    [
+                        111.23653219113,
+                        -7.362279211554
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23653219113,
+                        -7.362279211554
+                    ],
+                    [
+                        111.23643748243,
+                        -7.3621853848001
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23643748243,
+                        -7.3621853848001
+                    ],
+                    [
+                        111.23617528387,
+                        -7.3620452100329
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23617528387,
+                        -7.3620452100329
+                    ],
+                    [
+                        111.23592209918,
+                        -7.3620815219356
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23592209918,
+                        -7.3620815219356
+                    ],
+                    [
+                        111.23565473437,
+                        -7.3621053354116
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23565473437,
+                        -7.3621053354116
+                    ],
+                    [
+                        111.23528912714,
+                        -7.3620521215339
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23528912714,
+                        -7.3620521215339
+                    ],
+                    [
+                        111.2348221379,
+                        -7.3623779049952
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.2348221379,
+                        -7.3623779049952
+                    ],
+                    [
+                        111.23473293632,
+                        -7.3623660204146
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23473293632,
+                        -7.3623660204146
+                    ],
+                    [
+                        111.23469846197,
+                        -7.3623014699324
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23469846197,
+                        -7.3623014699324
+                    ],
+                    [
+                        111.23472495198,
+                        -7.362190473767
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23472495198,
+                        -7.362190473767
+                    ],
+                    [
+                        111.2347838114,
+                        -7.3619319697102
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.2347838114,
+                        -7.3619319697102
+                    ],
+                    [
+                        111.23471644102,
+                        -7.3619094358789
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23471644102,
+                        -7.3619094358789
+                    ],
+                    [
+                        111.23460116568,
+                        -7.361955620544
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23460116568,
+                        -7.361955620544
+                    ],
+                    [
+                        111.23429327794,
+                        -7.3620778993111
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23429327794,
+                        -7.3620778993111
+                    ],
+                    [
+                        111.23410462158,
+                        -7.3620609195868
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23410462158,
+                        -7.3620609195868
+                    ],
+                    [
+                        111.23381638549,
+                        -7.3619733806644
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23381638549,
+                        -7.3619733806644
+                    ],
+                    [
+                        111.23372932769,
+                        -7.3618678079408
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23372932769,
+                        -7.3618678079408
+                    ],
+                    [
+                        111.23360931137,
+                        -7.3617196197748
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23360931137,
+                        -7.3617196197748
+                    ],
+                    [
+                        111.23347493063,
+                        -7.3617388939678
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23347493063,
+                        -7.3617388939678
+                    ],
+                    [
+                        111.23326744381,
+                        -7.3617524892869
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23326744381,
+                        -7.3617524892869
+                    ],
+                    [
+                        111.23307713527,
+                        -7.3616772010846
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23307713527,
+                        -7.3616772010846
+                    ],
+                    [
+                        111.23294379109,
+                        -7.3615471563935
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23294379109,
+                        -7.3615471563935
+                    ],
+                    [
+                        111.2327487175,
+                        -7.3613691650838
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.2327487175,
+                        -7.3613691650838
+                    ],
+                    [
+                        111.23269839467,
+                        -7.3614410144817
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23269839467,
+                        -7.3614410144817
+                    ],
+                    [
+                        111.23254173454,
+                        -7.3617061905809
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23254173454,
+                        -7.3617061905809
+                    ],
+                    [
+                        111.23246480413,
+                        -7.3617166240812
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23246480413,
+                        -7.3617166240812
+                    ],
+                    [
+                        111.23233285322,
+                        -7.3616170717026
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23233285322,
+                        -7.3616170717026
+                    ],
+                    [
+                        111.23208443332,
+                        -7.3613419202262
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23208443332,
+                        -7.3613419202262
+                    ],
+                    [
+                        111.23212374739,
+                        -7.36127026656
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23212374739,
+                        -7.36127026656
+                    ],
+                    [
+                        111.23217093952,
+                        -7.3611369529747
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23217093952,
+                        -7.3611369529747
+                    ],
+                    [
+                        111.23195599532,
+                        -7.3609228609644
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23195599532,
+                        -7.3609228609644
+                    ],
+                    [
+                        111.23201978105,
+                        -7.3607956537272
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23201978105,
+                        -7.3607956537272
+                    ],
+                    [
+                        111.23212985839,
+                        -7.3604937038284
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23212985839,
+                        -7.3604937038284
+                    ],
+                    [
+                        111.23204546568,
+                        -7.3604065465162
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23204546568,
+                        -7.3604065465162
+                    ],
+                    [
+                        111.23191372351,
+                        -7.3603590340887
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23191372351,
+                        -7.3603590340887
+                    ],
+                    [
+                        111.23178665598,
+                        -7.3603798327116
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23178665598,
+                        -7.3603798327116
+                    ],
+                    [
+                        111.23169089854,
+                        -7.36047988302
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23169089854,
+                        -7.36047988302
+                    ],
+                    [
+                        111.23153145091,
+                        -7.3606121057836
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23153145091,
+                        -7.3606121057836
+                    ],
+                    [
+                        111.2314131032,
+                        -7.3606219273006
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.2314131032,
+                        -7.3606219273006
+                    ],
+                    [
+                        111.23122435716,
+                        -7.3605704097092
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23122435716,
+                        -7.3605704097092
+                    ],
+                    [
+                        111.23107095851,
+                        -7.3604682718743
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23107095851,
+                        -7.3604682718743
+                    ],
+                    [
+                        111.23093794939,
+                        -7.3603010212027
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23093794939,
+                        -7.3603010212027
+                    ],
+                    [
+                        111.23075309162,
+                        -7.360128677301
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23075309162,
+                        -7.360128677301
+                    ],
+                    [
+                        111.23063688301,
+                        -7.3599818793669
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23063688301,
+                        -7.3599818793669
+                    ],
+                    [
+                        111.2307199424,
+                        -7.359909217307
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.2307199424,
+                        -7.359909217307
+                    ],
+                    [
+                        111.2308717408,
+                        -7.3598609795264
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.2308717408,
+                        -7.3598609795264
+                    ],
+                    [
+                        111.23104776958,
+                        -7.3597810781165
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23104776958,
+                        -7.3597810781165
+                    ],
+                    [
+                        111.23116579573,
+                        -7.3596580764279
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23116579573,
+                        -7.3596580764279
+                    ],
+                    [
+                        111.23124393081,
+                        -7.3594899570013
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23124393081,
+                        -7.3594899570013
+                    ],
+                    [
+                        111.23124045669,
+                        -7.3593426035048
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23124045669,
+                        -7.3593426035048
+                    ],
+                    [
+                        111.23114996792,
+                        -7.359100757757
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23114996792,
+                        -7.359100757757
+                    ],
+                    [
+                        111.23105900489,
+                        -7.3588527249358
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23105900489,
+                        -7.3588527249358
+                    ],
+                    [
+                        111.23101959818,
+                        -7.3587452636327
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23101959818,
+                        -7.3587452636327
+                    ],
+                    [
+                        111.23104148606,
+                        -7.3585817594296
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23104148606,
+                        -7.3585817594296
+                    ],
+                    [
+                        111.23112586674,
+                        -7.3585241668408
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23112586674,
+                        -7.3585241668408
+                    ],
+                    [
+                        111.23122679569,
+                        -7.3585428666138
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23122679569,
+                        -7.3585428666138
+                    ],
+                    [
+                        111.23150029361,
+                        -7.3585904326924
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23150029361,
+                        -7.3585904326924
+                    ],
+                    [
+                        111.23162284932,
+                        -7.358536529046
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23162284932,
+                        -7.358536529046
+                    ],
+                    [
+                        111.23172118605,
+                        -7.3584138992263
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23172118605,
+                        -7.3584138992263
+                    ],
+                    [
+                        111.23173998777,
+                        -7.3582927216621
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23173998777,
+                        -7.3582927216621
+                    ],
+                    [
+                        111.23169727582,
+                        -7.3581542804296
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23169727582,
+                        -7.3581542804296
+                    ],
+                    [
+                        111.23135037446,
+                        -7.3575427678233
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23135037446,
+                        -7.3575427678233
+                    ],
+                    [
+                        111.23113819082,
+                        -7.357301229084
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23113819082,
+                        -7.357301229084
+                    ],
+                    [
+                        111.23116914012,
+                        -7.3572091816375
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23116914012,
+                        -7.3572091816375
+                    ],
+                    [
+                        111.2312761989,
+                        -7.3571326264766
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.2312761989,
+                        -7.3571326264766
+                    ],
+                    [
+                        111.2314426827,
+                        -7.3570996954076
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.2314426827,
+                        -7.3570996954076
+                    ],
+                    [
+                        111.23159302164,
+                        -7.3570521456393
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23159302164,
+                        -7.3570521456393
+                    ],
+                    [
+                        111.23165178785,
+                        -7.3569609521793
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23165178785,
+                        -7.3569609521793
+                    ],
+                    [
+                        111.23164144639,
+                        -7.356850101832
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23164144639,
+                        -7.356850101832
+                    ],
+                    [
+                        111.23155324995,
+                        -7.3566949313436
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23155324995,
+                        -7.3566949313436
+                    ],
+                    [
+                        111.23140914811,
+                        -7.3564687714999
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23140914811,
+                        -7.3564687714999
+                    ],
+                    [
+                        111.23144613702,
+                        -7.3563518903255
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23144613702,
+                        -7.3563518903255
+                    ],
+                    [
+                        111.23156271805,
+                        -7.3562221863884
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23156271805,
+                        -7.3562221863884
+                    ],
+                    [
+                        111.23175363079,
+                        -7.3560873602839
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23175363079,
+                        -7.3560873602839
+                    ],
+                    [
+                        111.23196872295,
+                        -7.3559106488011
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23196872295,
+                        -7.3559106488011
+                    ],
+                    [
+                        111.23183581067,
+                        -7.3556485535657
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23183581067,
+                        -7.3556485535657
+                    ],
+                    [
+                        111.23192807393,
+                        -7.3555742492572
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23192807393,
+                        -7.3555742492572
+                    ],
+                    [
+                        111.23204285118,
+                        -7.3554438677031
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23204285118,
+                        -7.3554438677031
+                    ],
+                    [
+                        111.23203747794,
+                        -7.3553213276755
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23203747794,
+                        -7.3553213276755
+                    ],
+                    [
+                        111.23192990073,
+                        -7.3548344233419
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23192990073,
+                        -7.3548344233419
+                    ],
+                    [
+                        111.23185110614,
+                        -7.3545677319833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23185110614,
+                        -7.3545677319833
+                    ],
+                    [
+                        111.23176556681,
+                        -7.3543813161043
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23176556681,
+                        -7.3543813161043
+                    ],
+                    [
+                        111.23130078544,
+                        -7.3539387212683
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23130078544,
+                        -7.3539387212683
+                    ],
+                    [
+                        111.2311062715,
+                        -7.3539064920473
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.2311062715,
+                        -7.3539064920473
+                    ],
+                    [
+                        111.23080625379,
+                        -7.3539252265658
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23080625379,
+                        -7.3539252265658
+                    ],
+                    [
+                        111.23063981992,
+                        -7.3539122833091
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23063981992,
+                        -7.3539122833091
+                    ],
+                    [
+                        111.23040668652,
+                        -7.3537868330285
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23040668652,
+                        -7.3537868330285
+                    ],
+                    [
+                        111.23014147726,
+                        -7.3536241094718
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.23014147726,
+                        -7.3536241094718
+                    ],
+                    [
+                        111.22996159934,
+                        -7.35359727255
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22996159934,
+                        -7.35359727255
+                    ],
+                    [
+                        111.22983321004,
+                        -7.3536519295066
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22983321004,
+                        -7.3536519295066
+                    ],
+                    [
+                        111.22962706754,
+                        -7.3537532118898
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22962706754,
+                        -7.3537532118898
+                    ],
+                    [
+                        111.22952888997,
+                        -7.3536910092746
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22952888997,
+                        -7.3536910092746
+                    ],
+                    [
+                        111.22946925068,
+                        -7.3535818213572
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22946925068,
+                        -7.3535818213572
+                    ],
+                    [
+                        111.2294635204,
+                        -7.3534330216226
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.2294635204,
+                        -7.3534330216226
+                    ],
+                    [
+                        111.22942324267,
+                        -7.3533038055322
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22942324267,
+                        -7.3533038055322
+                    ],
+                    [
+                        111.22931110972,
+                        -7.35320232429
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22931110972,
+                        -7.35320232429
+                    ],
+                    [
+                        111.22909872234,
+                        -7.3530873346624
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22909872234,
+                        -7.3530873346624
+                    ],
+                    [
+                        111.22874692768,
+                        -7.3528847446029
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22874692768,
+                        -7.3528847446029
+                    ],
+                    [
+                        111.2286943591,
+                        -7.3527638477548
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.2286943591,
+                        -7.3527638477548
+                    ],
+                    [
+                        111.22869307383,
+                        -7.352677940869
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22869307383,
+                        -7.352677940869
+                    ],
+                    [
+                        111.22869017249,
+                        -7.3523022992509
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22869017249,
+                        -7.3523022992509
+                    ],
+                    [
+                        111.22873192744,
+                        -7.3522202721497
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22873192744,
+                        -7.3522202721497
+                    ],
+                    [
+                        111.22905941964,
+                        -7.3518901490009
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22905941964,
+                        -7.3518901490009
+                    ],
+                    [
+                        111.22913064896,
+                        -7.3517376192661
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22913064896,
+                        -7.3517376192661
+                    ],
+                    [
+                        111.22905264773,
+                        -7.351653262207
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22905264773,
+                        -7.351653262207
+                    ],
+                    [
+                        111.22883786137,
+                        -7.3514168886485
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22883786137,
+                        -7.3514168886485
+                    ],
+                    [
+                        111.22853177733,
+                        -7.3508738922707
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22853177733,
+                        -7.3508738922707
+                    ],
+                    [
+                        111.22845758535,
+                        -7.3506013452363
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22845758535,
+                        -7.3506013452363
+                    ],
+                    [
+                        111.22846203244,
+                        -7.3505094019009
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22846203244,
+                        -7.3505094019009
+                    ],
+                    [
+                        111.22855411957,
+                        -7.3503572777301
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22855411957,
+                        -7.3503572777301
+                    ],
+                    [
+                        111.22868301374,
+                        -7.3501043198211
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22868301374,
+                        -7.3501043198211
+                    ],
+                    [
+                        111.22875419431,
+                        -7.3497859452596
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22875419431,
+                        -7.3497859452596
+                    ],
+                    [
+                        111.22872642234,
+                        -7.3496065820622
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22872642234,
+                        -7.3496065820622
+                    ],
+                    [
+                        111.22869038669,
+                        -7.3493732741791
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22869038669,
+                        -7.3493732741791
+                    ],
+                    [
+                        111.22876929332,
+                        -7.3492270364262
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22876929332,
+                        -7.3492270364262
+                    ],
+                    [
+                        111.22892275222,
+                        -7.3489068649944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22892275222,
+                        -7.3489068649944
+                    ],
+                    [
+                        111.22899031121,
+                        -7.3485943357963
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22899031121,
+                        -7.3485943357963
+                    ],
+                    [
+                        111.22896991082,
+                        -7.3484076598713
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22896991082,
+                        -7.3484076598713
+                    ],
+                    [
+                        111.22888691774,
+                        -7.3483054218375
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22888691774,
+                        -7.3483054218375
+                    ],
+                    [
+                        111.22873760499,
+                        -7.3482462030386
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22873760499,
+                        -7.3482462030386
+                    ],
+                    [
+                        111.22861044092,
+                        -7.3481603964693
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22861044092,
+                        -7.3481603964693
+                    ],
+                    [
+                        111.22854609,
+                        -7.3480312829694
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22854609,
+                        -7.3480312829694
+                    ],
+                    [
+                        111.22845318899,
+                        -7.3478662994738
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22845318899,
+                        -7.3478662994738
+                    ],
+                    [
+                        111.22837611872,
+                        -7.3476871422424
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22837611872,
+                        -7.3476871422424
+                    ],
+                    [
+                        111.22823436738,
+                        -7.347406108386
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22823436738,
+                        -7.347406108386
+                    ],
+                    [
+                        111.22813771156,
+                        -7.3473576722707
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22813771156,
+                        -7.3473576722707
+                    ],
+                    [
+                        111.22798571081,
+                        -7.3473568358965
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22798571081,
+                        -7.3473568358965
+                    ],
+                    [
+                        111.22783395803,
+                        -7.347415918448
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22783395803,
+                        -7.347415918448
+                    ],
+                    [
+                        111.22772294689,
+                        -7.3474319857869
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22772294689,
+                        -7.3474319857869
+                    ],
+                    [
+                        111.22758382294,
+                        -7.3473633447834
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22758382294,
+                        -7.3473633447834
+                    ],
+                    [
+                        111.22734671973,
+                        -7.3472804610841
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22734671973,
+                        -7.3472804610841
+                    ],
+                    [
+                        111.22681897849,
+                        -7.3472474035547
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22681897849,
+                        -7.3472474035547
+                    ],
+                    [
+                        111.22651909266,
+                        -7.3471783459219
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22651909266,
+                        -7.3471783459219
+                    ],
+                    [
+                        111.22633596967,
+                        -7.3470716531281
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22633596967,
+                        -7.3470716531281
+                    ],
+                    [
+                        111.22623952861,
+                        -7.3469815426726
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22623952861,
+                        -7.3469815426726
+                    ],
+                    [
+                        111.22600855612,
+                        -7.3467657458147
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22600855612,
+                        -7.3467657458147
+                    ],
+                    [
+                        111.22585041293,
+                        -7.3465504458854
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22585041293,
+                        -7.3465504458854
+                    ],
+                    [
+                        111.22564355388,
+                        -7.3461427399339
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22564355388,
+                        -7.3461427399339
+                    ],
+                    [
+                        111.22537072569,
+                        -7.3456638044953
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22537072569,
+                        -7.3456638044953
+                    ],
+                    [
+                        111.22525157605,
+                        -7.3453330698837
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22525157605,
+                        -7.3453330698837
+                    ],
+                    [
+                        111.22505960317,
+                        -7.3447424237132
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22505960317,
+                        -7.3447424237132
+                    ],
+                    [
+                        111.22481759693,
+                        -7.3444729903361
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22481759693,
+                        -7.3444729903361
+                    ],
+                    [
+                        111.22477516008,
+                        -7.3444061181808
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22477516008,
+                        -7.3444061181808
+                    ],
+                    [
+                        111.22461072646,
+                        -7.3441469851384
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22461072646,
+                        -7.3441469851384
+                    ],
+                    [
+                        111.22451360879,
+                        -7.3438078990649
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22451360879,
+                        -7.3438078990649
+                    ],
+                    [
+                        111.22453112017,
+                        -7.3435860430001
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.22453112017,
+                        -7.3435860430001
+                    ],
+                    [
+                        111.2245737954,
+                        -7.343099006882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "111",
+                "NAMA_SUNGAI": "Kali Precet B",
+                "FOTO": "sungai-111_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.2245737954,
+                        -7.343099006882
+                    ],
+                    [
+                        111.22457422231,
+                        -7.3430469663996
+                    ]
+                ]
+            }
+        }
+    ]
+}

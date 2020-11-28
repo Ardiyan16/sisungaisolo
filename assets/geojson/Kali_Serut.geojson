@@ -1,0 +1,4583 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87727795395,
+                        -7.7277621298018
+                    ],
+                    [
+                        110.87747713953,
+                        -7.7276365369811
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87747713953,
+                        -7.7276365369811
+                    ],
+                    [
+                        110.87767203484,
+                        -7.7275985170578
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87767203484,
+                        -7.7275985170578
+                    ],
+                    [
+                        110.87814821237,
+                        -7.7275413759337
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87814821237,
+                        -7.7275413759337
+                    ],
+                    [
+                        110.87870580193,
+                        -7.7275385043984
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87870580193,
+                        -7.7275385043984
+                    ],
+                    [
+                        110.87897942606,
+                        -7.7276045344217
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87897942606,
+                        -7.7276045344217
+                    ],
+                    [
+                        110.8796151784,
+                        -7.7277579560648
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8796151784,
+                        -7.7277579560648
+                    ],
+                    [
+                        110.87990133008,
+                        -7.7278091715559
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87990133008,
+                        -7.7278091715559
+                    ],
+                    [
+                        110.88031034175,
+                        -7.7278360253123
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88031034175,
+                        -7.7278360253123
+                    ],
+                    [
+                        110.88064648225,
+                        -7.727911288675
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88064648225,
+                        -7.727911288675
+                    ],
+                    [
+                        110.88098355175,
+                        -7.7280387999506
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88098355175,
+                        -7.7280387999506
+                    ],
+                    [
+                        110.88151963942,
+                        -7.7282325534895
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88151963942,
+                        -7.7282325534895
+                    ],
+                    [
+                        110.88179433374,
+                        -7.7282694994378
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88179433374,
+                        -7.7282694994378
+                    ],
+                    [
+                        110.88230621616,
+                        -7.7283383425404
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88230621616,
+                        -7.7283383425404
+                    ],
+                    [
+                        110.88274237566,
+                        -7.7283466756585
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88274237566,
+                        -7.7283466756585
+                    ],
+                    [
+                        110.88300761451,
+                        -7.7283083501502
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88300761451,
+                        -7.7283083501502
+                    ],
+                    [
+                        110.88317407542,
+                        -7.7281809333034
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88317407542,
+                        -7.7281809333034
+                    ],
+                    [
+                        110.88338605552,
+                        -7.7277065373268
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88338605552,
+                        -7.7277065373268
+                    ],
+                    [
+                        110.88357540328,
+                        -7.7269922624829
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88357540328,
+                        -7.7269922624829
+                    ],
+                    [
+                        110.88365700866,
+                        -7.7266351264099
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88365700866,
+                        -7.7266351264099
+                    ],
+                    [
+                        110.88372102241,
+                        -7.726473190885
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88372102241,
+                        -7.726473190885
+                    ],
+                    [
+                        110.88388401553,
+                        -7.7263244520118
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88388401553,
+                        -7.7263244520118
+                    ],
+                    [
+                        110.88420262105,
+                        -7.7261862576896
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88420262105,
+                        -7.7261862576896
+                    ],
+                    [
+                        110.88468689968,
+                        -7.726110405271
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88468689968,
+                        -7.726110405271
+                    ],
+                    [
+                        110.88499023651,
+                        -7.7260636845913
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88499023651,
+                        -7.7260636845913
+                    ],
+                    [
+                        110.88568790088,
+                        -7.7258045242593
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88568790088,
+                        -7.7258045242593
+                    ],
+                    [
+                        110.88598618801,
+                        -7.7256809673028
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88598618801,
+                        -7.7256809673028
+                    ],
+                    [
+                        110.88598793809,
+                        -7.7256802442478
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88598793809,
+                        -7.7256802442478
+                    ],
+                    [
+                        110.88603650598,
+                        -7.725660121917
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88603650598,
+                        -7.725660121917
+                    ],
+                    [
+                        110.88631129743,
+                        -7.725531366879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88631129743,
+                        -7.725531366879
+                    ],
+                    [
+                        110.8866665728,
+                        -7.7253661605198
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8866665728,
+                        -7.7253661605198
+                    ],
+                    [
+                        110.88691468137,
+                        -7.7252849418466
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88691468137,
+                        -7.7252849418466
+                    ],
+                    [
+                        110.88722135198,
+                        -7.7252115364832
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88722135198,
+                        -7.7252115364832
+                    ],
+                    [
+                        110.88757037347,
+                        -7.7249599331544
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88757037347,
+                        -7.7249599331544
+                    ],
+                    [
+                        110.88786900505,
+                        -7.7247319163448
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88786900505,
+                        -7.7247319163448
+                    ],
+                    [
+                        110.88817807146,
+                        -7.7246125853025
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88817807146,
+                        -7.7246125853025
+                    ],
+                    [
+                        110.88872469379,
+                        -7.7246441254259
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88872469379,
+                        -7.7246441254259
+                    ],
+                    [
+                        110.88891993031,
+                        -7.7246027386254
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88891993031,
+                        -7.7246027386254
+                    ],
+                    [
+                        110.88918131377,
+                        -7.7244540681007
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88918131377,
+                        -7.7244540681007
+                    ],
+                    [
+                        110.88935046545,
+                        -7.7243578577289
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88935046545,
+                        -7.7243578577289
+                    ],
+                    [
+                        110.8896446193,
+                        -7.7240105800242
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8896446193,
+                        -7.7240105800242
+                    ],
+                    [
+                        110.88974694956,
+                        -7.7238638592297
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88974694956,
+                        -7.7238638592297
+                    ],
+                    [
+                        110.88981469279,
+                        -7.7235081377903
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88981469279,
+                        -7.7235081377903
+                    ],
+                    [
+                        110.88984794523,
+                        -7.7233381155615
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88984794523,
+                        -7.7233381155615
+                    ],
+                    [
+                        110.89024824156,
+                        -7.7231060068367
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89024824156,
+                        -7.7231060068367
+                    ],
+                    [
+                        110.89045684021,
+                        -7.7229751338953
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89045684021,
+                        -7.7229751338953
+                    ],
+                    [
+                        110.89056250605,
+                        -7.7228316425662
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89056250605,
+                        -7.7228316425662
+                    ],
+                    [
+                        110.89058025418,
+                        -7.7227243021847
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89058025418,
+                        -7.7227243021847
+                    ],
+                    [
+                        110.8905666924,
+                        -7.722563766005
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8905666924,
+                        -7.722563766005
+                    ],
+                    [
+                        110.890597871,
+                        -7.7223471930685
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.890597871,
+                        -7.7223471930685
+                    ],
+                    [
+                        110.89068114282,
+                        -7.7222194632576
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89068114282,
+                        -7.7222194632576
+                    ],
+                    [
+                        110.89133213957,
+                        -7.7219668751711
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89133213957,
+                        -7.7219668751711
+                    ],
+                    [
+                        110.89158073646,
+                        -7.7218414746043
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89158073646,
+                        -7.7218414746043
+                    ],
+                    [
+                        110.89169906386,
+                        -7.7216910036368
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89169906386,
+                        -7.7216910036368
+                    ],
+                    [
+                        110.89175124253,
+                        -7.7214459518691
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89175124253,
+                        -7.7214459518691
+                    ],
+                    [
+                        110.89176509748,
+                        -7.7212018219065
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89176509748,
+                        -7.7212018219065
+                    ],
+                    [
+                        110.89183210507,
+                        -7.7210533636217
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89183210507,
+                        -7.7210533636217
+                    ],
+                    [
+                        110.89198570568,
+                        -7.7209120369609
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89198570568,
+                        -7.7209120369609
+                    ],
+                    [
+                        110.89241015331,
+                        -7.7203694948562
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89241015331,
+                        -7.7203694948562
+                    ],
+                    [
+                        110.89335654767,
+                        -7.7198315599784
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89335654767,
+                        -7.7198315599784
+                    ],
+                    [
+                        110.89363672336,
+                        -7.7195432184447
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89363672336,
+                        -7.7195432184447
+                    ],
+                    [
+                        110.8938101801,
+                        -7.7193029546676
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8938101801,
+                        -7.7193029546676
+                    ],
+                    [
+                        110.89416548965,
+                        -7.7194052858252
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89416548965,
+                        -7.7194052858252
+                    ],
+                    [
+                        110.8943663811,
+                        -7.7195486998126
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8943663811,
+                        -7.7195486998126
+                    ],
+                    [
+                        110.89445033731,
+                        -7.7199106463592
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89445033731,
+                        -7.7199106463592
+                    ],
+                    [
+                        110.89449713264,
+                        -7.7200840266564
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89449713264,
+                        -7.7200840266564
+                    ],
+                    [
+                        110.89472903002,
+                        -7.7203018586438
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89472903002,
+                        -7.7203018586438
+                    ],
+                    [
+                        110.89533954468,
+                        -7.7208753671044
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89533954468,
+                        -7.7208753671044
+                    ],
+                    [
+                        110.89545379815,
+                        -7.7209471725739
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89545379815,
+                        -7.7209471725739
+                    ],
+                    [
+                        110.89574805903,
+                        -7.7209457516451
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89574805903,
+                        -7.7209457516451
+                    ],
+                    [
+                        110.89625280892,
+                        -7.7208623835921
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89625280892,
+                        -7.7208623835921
+                    ],
+                    [
+                        110.89671612345,
+                        -7.7208209851003
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89671612345,
+                        -7.7208209851003
+                    ],
+                    [
+                        110.89698847684,
+                        -7.7208484863685
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89698847684,
+                        -7.7208484863685
+                    ],
+                    [
+                        110.89769021963,
+                        -7.7211393010378
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89769021963,
+                        -7.7211393010378
+                    ],
+                    [
+                        110.89798299482,
+                        -7.721322834681
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89798299482,
+                        -7.721322834681
+                    ],
+                    [
+                        110.89857805643,
+                        -7.7216951243305
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89857805643,
+                        -7.7216951243305
+                    ],
+                    [
+                        110.89944384186,
+                        -7.7225577054736
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89944384186,
+                        -7.7225577054736
+                    ],
+                    [
+                        110.89962495992,
+                        -7.722733261231
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89962495992,
+                        -7.722733261231
+                    ],
+                    [
+                        110.89990774275,
+                        -7.7228798848987
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89990774275,
+                        -7.7228798848987
+                    ],
+                    [
+                        110.90038196965,
+                        -7.7229538991031
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90038196965,
+                        -7.7229538991031
+                    ],
+                    [
+                        110.90132722637,
+                        -7.7226852446283
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90132722637,
+                        -7.7226852446283
+                    ],
+                    [
+                        110.90201913508,
+                        -7.7225078920255
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90201913508,
+                        -7.7225078920255
+                    ],
+                    [
+                        110.90255578572,
+                        -7.7224372961443
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90255578572,
+                        -7.7224372961443
+                    ],
+                    [
+                        110.90277102226,
+                        -7.7224082543374
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90277102226,
+                        -7.7224082543374
+                    ],
+                    [
+                        110.90290055162,
+                        -7.7223474062078
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90290055162,
+                        -7.7223474062078
+                    ],
+                    [
+                        110.90305526109,
+                        -7.7221791826231
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90305526109,
+                        -7.7221791826231
+                    ],
+                    [
+                        110.90316384164,
+                        -7.7218410447283
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90316384164,
+                        -7.7218410447283
+                    ],
+                    [
+                        110.90321934959,
+                        -7.7216040607788
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90321934959,
+                        -7.7216040607788
+                    ],
+                    [
+                        110.9034159252,
+                        -7.7214070184191
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9034159252,
+                        -7.7214070184191
+                    ],
+                    [
+                        110.90362070983,
+                        -7.7212768073787
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90362070983,
+                        -7.7212768073787
+                    ],
+                    [
+                        110.90421687221,
+                        -7.7212144447907
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90421687221,
+                        -7.7212144447907
+                    ],
+                    [
+                        110.90470447113,
+                        -7.7211758018217
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90470447113,
+                        -7.7211758018217
+                    ],
+                    [
+                        110.90509779862,
+                        -7.7210801769086
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90509779862,
+                        -7.7210801769086
+                    ],
+                    [
+                        110.90522216407,
+                        -7.7210346685151
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90522216407,
+                        -7.7210346685151
+                    ],
+                    [
+                        110.90613025721,
+                        -7.720658126871
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90613025721,
+                        -7.720658126871
+                    ],
+                    [
+                        110.90656941685,
+                        -7.720639081928
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90656941685,
+                        -7.720639081928
+                    ],
+                    [
+                        110.90680756002,
+                        -7.7207752257959
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90680756002,
+                        -7.7207752257959
+                    ],
+                    [
+                        110.90707202545,
+                        -7.7209644737314
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90707202545,
+                        -7.7209644737314
+                    ],
+                    [
+                        110.90758866708,
+                        -7.7211086377534
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90758866708,
+                        -7.7211086377534
+                    ],
+                    [
+                        110.90775607228,
+                        -7.7211810844394
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90775607228,
+                        -7.7211810844394
+                    ],
+                    [
+                        110.90799775429,
+                        -7.7214736464915
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90799775429,
+                        -7.7214736464915
+                    ],
+                    [
+                        110.90814364771,
+                        -7.7216809042503
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90814364771,
+                        -7.7216809042503
+                    ],
+                    [
+                        110.90862483807,
+                        -7.7219703060847
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90862483807,
+                        -7.7219703060847
+                    ],
+                    [
+                        110.90935518649,
+                        -7.72207696478
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90935518649,
+                        -7.72207696478
+                    ],
+                    [
+                        110.91005409372,
+                        -7.7222313864693
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91005409372,
+                        -7.7222313864693
+                    ],
+                    [
+                        110.91035871568,
+                        -7.7222986413691
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91035871568,
+                        -7.7222986413691
+                    ],
+                    [
+                        110.91061127229,
+                        -7.7222957914176
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91061127229,
+                        -7.7222957914176
+                    ],
+                    [
+                        110.91159666216,
+                        -7.7219245269953
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91159666216,
+                        -7.7219245269953
+                    ],
+                    [
+                        110.91218019806,
+                        -7.7218759636048
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91218019806,
+                        -7.7218759636048
+                    ],
+                    [
+                        110.91270949135,
+                        -7.7216705899257
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91270949135,
+                        -7.7216705899257
+                    ],
+                    [
+                        110.913021691,
+                        -7.7215335395412
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.913021691,
+                        -7.7215335395412
+                    ],
+                    [
+                        110.91325815514,
+                        -7.7215082056391
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91325815514,
+                        -7.7215082056391
+                    ],
+                    [
+                        110.91363147631,
+                        -7.7216343778242
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91363147631,
+                        -7.7216343778242
+                    ],
+                    [
+                        110.91375574014,
+                        -7.7216838558252
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91375574014,
+                        -7.7216838558252
+                    ],
+                    [
+                        110.91388778309,
+                        -7.7216505305475
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91388778309,
+                        -7.7216505305475
+                    ],
+                    [
+                        110.91416495505,
+                        -7.7213600216476
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91416495505,
+                        -7.7213600216476
+                    ],
+                    [
+                        110.9147002774,
+                        -7.7211550454689
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9147002774,
+                        -7.7211550454689
+                    ],
+                    [
+                        110.9149800331,
+                        -7.7210878103541
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9149800331,
+                        -7.7210878103541
+                    ],
+                    [
+                        110.91523868532,
+                        -7.7211194943691
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91523868532,
+                        -7.7211194943691
+                    ],
+                    [
+                        110.91548607262,
+                        -7.7214319089554
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91548607262,
+                        -7.7214319089554
+                    ],
+                    [
+                        110.91549293535,
+                        -7.721441444467
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91549293535,
+                        -7.721441444467
+                    ],
+                    [
+                        110.91558511766,
+                        -7.7215694045043
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91558511766,
+                        -7.7215694045043
+                    ],
+                    [
+                        110.91558749367,
+                        -7.7215708245339
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91558749367,
+                        -7.7215708245339
+                    ],
+                    [
+                        110.91595300333,
+                        -7.7219004485468
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91595300333,
+                        -7.7219004485468
+                    ],
+                    [
+                        110.91611279667,
+                        -7.7220456081182
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91611279667,
+                        -7.7220456081182
+                    ],
+                    [
+                        110.91630966996,
+                        -7.722106895117
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91630966996,
+                        -7.722106895117
+                    ],
+                    [
+                        110.91698210564,
+                        -7.7220025575719
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91698210564,
+                        -7.7220025575719
+                    ],
+                    [
+                        110.91726711429,
+                        -7.7219217354996
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91726711429,
+                        -7.7219217354996
+                    ],
+                    [
+                        110.91744396147,
+                        -7.7218090072798
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91744396147,
+                        -7.7218090072798
+                    ],
+                    [
+                        110.91759164094,
+                        -7.7215749425295
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91759164094,
+                        -7.7215749425295
+                    ],
+                    [
+                        110.91767480935,
+                        -7.7214250174505
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91767480935,
+                        -7.7214250174505
+                    ],
+                    [
+                        110.91780229724,
+                        -7.7213088142503
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91780229724,
+                        -7.7213088142503
+                    ],
+                    [
+                        110.91830628361,
+                        -7.7211678707006
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91830628361,
+                        -7.7211678707006
+                    ],
+                    [
+                        110.91855504958,
+                        -7.7211616950561
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91855504958,
+                        -7.7211616950561
+                    ],
+                    [
+                        110.91886493617,
+                        -7.7212071270072
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91886493617,
+                        -7.7212071270072
+                    ],
+                    [
+                        110.91901357162,
+                        -7.7211832652954
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91901357162,
+                        -7.7211832652954
+                    ],
+                    [
+                        110.91913056083,
+                        -7.7210059019008
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91913056083,
+                        -7.7210059019008
+                    ],
+                    [
+                        110.91933399916,
+                        -7.7207806226276
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91933399916,
+                        -7.7207806226276
+                    ],
+                    [
+                        110.91959942058,
+                        -7.7204980853183
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91959942058,
+                        -7.7204980853183
+                    ],
+                    [
+                        110.91968040363,
+                        -7.7203931443281
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91968040363,
+                        -7.7203931443281
+                    ],
+                    [
+                        110.91973871567,
+                        -7.7202365381856
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91973871567,
+                        -7.7202365381856
+                    ],
+                    [
+                        110.91997987967,
+                        -7.7199978410275
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91997987967,
+                        -7.7199978410275
+                    ],
+                    [
+                        110.92013339394,
+                        -7.7198299376015
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92013339394,
+                        -7.7198299376015
+                    ],
+                    [
+                        110.9202768403,
+                        -7.7194306071368
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9202768403,
+                        -7.7194306071368
+                    ],
+                    [
+                        110.92211081696,
+                        -7.718502280156
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92211081696,
+                        -7.718502280156
+                    ],
+                    [
+                        110.92231001859,
+                        -7.7183709827346
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92231001859,
+                        -7.7183709827346
+                    ],
+                    [
+                        110.92241013022,
+                        -7.7182851208616
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92241013022,
+                        -7.7182851208616
+                    ],
+                    [
+                        110.92262385231,
+                        -7.7182410262023
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92262385231,
+                        -7.7182410262023
+                    ],
+                    [
+                        110.92290582305,
+                        -7.7182445866183
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92290582305,
+                        -7.7182445866183
+                    ],
+                    [
+                        110.92324440341,
+                        -7.7180204054173
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92324440341,
+                        -7.7180204054173
+                    ],
+                    [
+                        110.92336467154,
+                        -7.7179481790652
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92336467154,
+                        -7.7179481790652
+                    ],
+                    [
+                        110.92387361857,
+                        -7.7179229692696
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92387361857,
+                        -7.7179229692696
+                    ],
+                    [
+                        110.92410339446,
+                        -7.7179147152918
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92410339446,
+                        -7.7179147152918
+                    ],
+                    [
+                        110.92452907056,
+                        -7.7177654017518
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92452907056,
+                        -7.7177654017518
+                    ],
+                    [
+                        110.92478940091,
+                        -7.7176807890372
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92478940091,
+                        -7.7176807890372
+                    ],
+                    [
+                        110.9257947854,
+                        -7.7177052523954
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9257947854,
+                        -7.7177052523954
+                    ],
+                    [
+                        110.9261899565,
+                        -7.7176541223398
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9261899565,
+                        -7.7176541223398
+                    ],
+                    [
+                        110.92674732753,
+                        -7.717581997611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92674732753,
+                        -7.717581997611
+                    ],
+                    [
+                        110.92694724322,
+                        -7.71755483179
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92694724322,
+                        -7.71755483179
+                    ],
+                    [
+                        110.92702448419,
+                        -7.7175760836692
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92702448419,
+                        -7.7175760836692
+                    ],
+                    [
+                        110.927252769,
+                        -7.7176388905223
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.927252769,
+                        -7.7176388905223
+                    ],
+                    [
+                        110.92755772371,
+                        -7.7177694981638
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92755772371,
+                        -7.7177694981638
+                    ],
+                    [
+                        110.92780826494,
+                        -7.7178153572929
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92780826494,
+                        -7.7178153572929
+                    ],
+                    [
+                        110.92806607179,
+                        -7.7177998691686
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92806607179,
+                        -7.7177998691686
+                    ],
+                    [
+                        110.92825279173,
+                        -7.7177290637453
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92825279173,
+                        -7.7177290637453
+                    ],
+                    [
+                        110.92870971928,
+                        -7.7171829081647
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92870971928,
+                        -7.7171829081647
+                    ],
+                    [
+                        110.92879086601,
+                        -7.7171066582457
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92879086601,
+                        -7.7171066582457
+                    ],
+                    [
+                        110.92991262906,
+                        -7.717099778432
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92991262906,
+                        -7.717099778432
+                    ],
+                    [
+                        110.93057874072,
+                        -7.7170565408266
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93057874072,
+                        -7.7170565408266
+                    ],
+                    [
+                        110.9314887548,
+                        -7.7168425489444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9314887548,
+                        -7.7168425489444
+                    ],
+                    [
+                        110.93224088571,
+                        -7.7167602357962
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93224088571,
+                        -7.7167602357962
+                    ],
+                    [
+                        110.93276430283,
+                        -7.7166277449744
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93276430283,
+                        -7.7166277449744
+                    ],
+                    [
+                        110.93306588958,
+                        -7.7165624460999
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93306588958,
+                        -7.7165624460999
+                    ],
+                    [
+                        110.93393627774,
+                        -7.7166666154719
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93393627774,
+                        -7.7166666154719
+                    ],
+                    [
+                        110.93427611805,
+                        -7.7166907478797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93427611805,
+                        -7.7166907478797
+                    ],
+                    [
+                        110.9347334359,
+                        -7.716614417921
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9347334359,
+                        -7.716614417921
+                    ],
+                    [
+                        110.93511210714,
+                        -7.7164647068807
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93511210714,
+                        -7.7164647068807
+                    ],
+                    [
+                        110.93525704727,
+                        -7.7163952756214
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93525704727,
+                        -7.7163952756214
+                    ],
+                    [
+                        110.93595628635,
+                        -7.7163973170824
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93595628635,
+                        -7.7163973170824
+                    ],
+                    [
+                        110.93646633325,
+                        -7.716521725697
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93646633325,
+                        -7.716521725697
+                    ],
+                    [
+                        110.93674909989,
+                        -7.7165956886401
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93674909989,
+                        -7.7165956886401
+                    ],
+                    [
+                        110.93695368936,
+                        -7.7165998255215
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93695368936,
+                        -7.7165998255215
+                    ],
+                    [
+                        110.93728459761,
+                        -7.7164447590184
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93728459761,
+                        -7.7164447590184
+                    ],
+                    [
+                        110.93742983632,
+                        -7.7163766938293
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93742983632,
+                        -7.7163766938293
+                    ],
+                    [
+                        110.93755012694,
+                        -7.7163214961401
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93755012694,
+                        -7.7163214961401
+                    ],
+                    [
+                        110.9378356437,
+                        -7.716190484703
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9378356437,
+                        -7.716190484703
+                    ],
+                    [
+                        110.93799234787,
+                        -7.7161662461752
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93799234787,
+                        -7.7161662461752
+                    ],
+                    [
+                        110.93816739371,
+                        -7.7162246796252
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93816739371,
+                        -7.7162246796252
+                    ],
+                    [
+                        110.93867831745,
+                        -7.7167497461038
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93867831745,
+                        -7.7167497461038
+                    ],
+                    [
+                        110.93884796196,
+                        -7.71691153414
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93884796196,
+                        -7.71691153414
+                    ],
+                    [
+                        110.93925251209,
+                        -7.7170846356474
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.93925251209,
+                        -7.7170846356474
+                    ],
+                    [
+                        110.94088939243,
+                        -7.7174012275845
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94088939243,
+                        -7.7174012275845
+                    ],
+                    [
+                        110.9414181893,
+                        -7.7175035074808
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9414181893,
+                        -7.7175035074808
+                    ],
+                    [
+                        110.9424471711,
+                        -7.7175930457824
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9424471711,
+                        -7.7175930457824
+                    ],
+                    [
+                        110.94300259869,
+                        -7.7175829347046
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94300259869,
+                        -7.7175829347046
+                    ],
+                    [
+                        110.94397531621,
+                        -7.7175695402021
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94397531621,
+                        -7.7175695402021
+                    ],
+                    [
+                        110.94455110895,
+                        -7.7175847486372
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94455110895,
+                        -7.7175847486372
+                    ],
+                    [
+                        110.9445570031,
+                        -7.7175853008209
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9445570031,
+                        -7.7175853008209
+                    ],
+                    [
+                        110.94496782151,
+                        -7.7176237171608
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94496782151,
+                        -7.7176237171608
+                    ],
+                    [
+                        110.94529307032,
+                        -7.7175903253332
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94529307032,
+                        -7.7175903253332
+                    ],
+                    [
+                        110.94553771739,
+                        -7.7175122021264
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94553771739,
+                        -7.7175122021264
+                    ],
+                    [
+                        110.94558248115,
+                        -7.717489919624
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94558248115,
+                        -7.717489919624
+                    ],
+                    [
+                        110.94572967409,
+                        -7.7174569306928
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94572967409,
+                        -7.7174569306928
+                    ],
+                    [
+                        110.94633798091,
+                        -7.7173634749444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94633798091,
+                        -7.7173634749444
+                    ],
+                    [
+                        110.9467778798,
+                        -7.7174149638294
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9467778798,
+                        -7.7174149638294
+                    ],
+                    [
+                        110.94726181218,
+                        -7.717554697791
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94726181218,
+                        -7.717554697791
+                    ],
+                    [
+                        110.94768218768,
+                        -7.7176728678086
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94768218768,
+                        -7.7176728678086
+                    ],
+                    [
+                        110.94779844035,
+                        -7.7177055455744
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94779844035,
+                        -7.7177055455744
+                    ],
+                    [
+                        110.94811920244,
+                        -7.7177337438171
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94811920244,
+                        -7.7177337438171
+                    ],
+                    [
+                        110.94928956037,
+                        -7.7177546170819
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94928956037,
+                        -7.7177546170819
+                    ],
+                    [
+                        110.94983797055,
+                        -7.7178161199179
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94983797055,
+                        -7.7178161199179
+                    ],
+                    [
+                        110.95027695032,
+                        -7.7178978808824
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95027695032,
+                        -7.7178978808824
+                    ],
+                    [
+                        110.95074704394,
+                        -7.7180590744667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95074704394,
+                        -7.7180590744667
+                    ],
+                    [
+                        110.95132987657,
+                        -7.7183719773848
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95132987657,
+                        -7.7183719773848
+                    ],
+                    [
+                        110.95170821506,
+                        -7.7184772843991
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95170821506,
+                        -7.7184772843991
+                    ],
+                    [
+                        110.95220908708,
+                        -7.7185618908185
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95220908708,
+                        -7.7185618908185
+                    ],
+                    [
+                        110.95232497822,
+                        -7.7185814690595
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95232497822,
+                        -7.7185814690595
+                    ],
+                    [
+                        110.95294677757,
+                        -7.7185889559155
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "41",
+                "NAMA_SUNGAI": "Kali Serut",
+                "FOTO": "sungai-41_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95294677757,
+                        -7.7185889559155
+                    ],
+                    [
+                        110.95346655604,
+                        -7.718521006739
+                    ]
+                ]
+            }
+        }
+    ]
+}

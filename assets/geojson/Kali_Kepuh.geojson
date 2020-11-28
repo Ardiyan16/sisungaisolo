@@ -1,0 +1,4415 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.938849997,
+                        -7.89461643866
+                    ],
+                    [
+                        110.938895378,
+                        -7.89466276778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.938895378,
+                        -7.89466276778
+                    ],
+                    [
+                        110.939079837,
+                        -7.89476057756
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.939079837,
+                        -7.89476057756
+                    ],
+                    [
+                        110.939420903,
+                        -7.89484134093
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.939420903,
+                        -7.89484134093
+                    ],
+                    [
+                        110.939768014,
+                        -7.89483403698
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.939768014,
+                        -7.89483403698
+                    ],
+                    [
+                        110.940352015,
+                        -7.89477530619
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940352015,
+                        -7.89477530619
+                    ],
+                    [
+                        110.94049419,
+                        -7.89467522788
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94049419,
+                        -7.89467522788
+                    ],
+                    [
+                        110.941101464,
+                        -7.89421704587
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.941101464,
+                        -7.89421704587
+                    ],
+                    [
+                        110.94116763,
+                        -7.89413017223
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94116763,
+                        -7.89413017223
+                    ],
+                    [
+                        110.941156233,
+                        -7.89402508795
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.941156233,
+                        -7.89402508795
+                    ],
+                    [
+                        110.94105579,
+                        -7.89386553664
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94105579,
+                        -7.89386553664
+                    ],
+                    [
+                        110.94094848,
+                        -7.89364402201
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94094848,
+                        -7.89364402201
+                    ],
+                    [
+                        110.940924266,
+                        -7.89339083237
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940924266,
+                        -7.89339083237
+                    ],
+                    [
+                        110.940957352,
+                        -7.89320304143
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.940957352,
+                        -7.89320304143
+                    ],
+                    [
+                        110.941052249,
+                        -7.89298937974
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.941052249,
+                        -7.89298937974
+                    ],
+                    [
+                        110.941532448,
+                        -7.89252062291
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.941532448,
+                        -7.89252062291
+                    ],
+                    [
+                        110.942130318,
+                        -7.89193701177
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.942130318,
+                        -7.89193701177
+                    ],
+                    [
+                        110.942311086,
+                        -7.89195792301
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.942311086,
+                        -7.89195792301
+                    ],
+                    [
+                        110.942618422,
+                        -7.89195484453
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.942618422,
+                        -7.89195484453
+                    ],
+                    [
+                        110.94305969,
+                        -7.89181162255
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94305969,
+                        -7.89181162255
+                    ],
+                    [
+                        110.943165617,
+                        -7.89186677891
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943165617,
+                        -7.89186677891
+                    ],
+                    [
+                        110.943591432,
+                        -7.89215051547
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943591432,
+                        -7.89215051547
+                    ],
+                    [
+                        110.94362047,
+                        -7.8920962639
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94362047,
+                        -7.8920962639
+                    ],
+                    [
+                        110.943666991,
+                        -7.89197309627
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943666991,
+                        -7.89197309627
+                    ],
+                    [
+                        110.943856134,
+                        -7.89184271132
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.943856134,
+                        -7.89184271132
+                    ],
+                    [
+                        110.944006328,
+                        -7.89180744457
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944006328,
+                        -7.89180744457
+                    ],
+                    [
+                        110.944482593,
+                        -7.89175541442
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944482593,
+                        -7.89175541442
+                    ],
+                    [
+                        110.944508976,
+                        -7.8916751473
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944508976,
+                        -7.8916751473
+                    ],
+                    [
+                        110.944578779,
+                        -7.89151807071
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944578779,
+                        -7.89151807071
+                    ],
+                    [
+                        110.94481755,
+                        -7.89129884603
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94481755,
+                        -7.89129884603
+                    ],
+                    [
+                        110.944963638,
+                        -7.89108519016
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.944963638,
+                        -7.89108519016
+                    ],
+                    [
+                        110.945055431,
+                        -7.89086748374
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945055431,
+                        -7.89086748374
+                    ],
+                    [
+                        110.94524862,
+                        -7.89053265008
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.94524862,
+                        -7.89053265008
+                    ],
+                    [
+                        110.945181116,
+                        -7.89044990116
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945181116,
+                        -7.89044990116
+                    ],
+                    [
+                        110.945037638,
+                        -7.89027205494
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945037638,
+                        -7.89027205494
+                    ],
+                    [
+                        110.945038636,
+                        -7.89013126035
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945038636,
+                        -7.89013126035
+                    ],
+                    [
+                        110.945108011,
+                        -7.89005999918
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945108011,
+                        -7.89005999918
+                    ],
+                    [
+                        110.945191194,
+                        -7.89004556427
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945191194,
+                        -7.89004556427
+                    ],
+                    [
+                        110.945488221,
+                        -7.8900559693
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945488221,
+                        -7.8900559693
+                    ],
+                    [
+                        110.945696412,
+                        -7.89015575122
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945696412,
+                        -7.89015575122
+                    ],
+                    [
+                        110.945903953,
+                        -7.89015916114
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.945903953,
+                        -7.89015916114
+                    ],
+                    [
+                        110.946112827,
+                        -7.89009984896
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946112827,
+                        -7.89009984896
+                    ],
+                    [
+                        110.946358522,
+                        -7.89005243636
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946358522,
+                        -7.89005243636
+                    ],
+                    [
+                        110.946515715,
+                        -7.89011684304
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946515715,
+                        -7.89011684304
+                    ],
+                    [
+                        110.946620717,
+                        -7.89023763326
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946620717,
+                        -7.89023763326
+                    ],
+                    [
+                        110.946779005,
+                        -7.89039501064
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946779005,
+                        -7.89039501064
+                    ],
+                    [
+                        110.946947836,
+                        -7.8904689527
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.946947836,
+                        -7.8904689527
+                    ],
+                    [
+                        110.947193929,
+                        -7.89057673498
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947193929,
+                        -7.89057673498
+                    ],
+                    [
+                        110.947643647,
+                        -7.89060234528
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.947643647,
+                        -7.89060234528
+                    ],
+                    [
+                        110.948190685,
+                        -7.89051951044
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948190685,
+                        -7.89051951044
+                    ],
+                    [
+                        110.948354157,
+                        -7.89057238407
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948354157,
+                        -7.89057238407
+                    ],
+                    [
+                        110.948565165,
+                        -7.89071172131
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948565165,
+                        -7.89071172131
+                    ],
+                    [
+                        110.948775004,
+                        -7.89083980557
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.948775004,
+                        -7.89083980557
+                    ],
+                    [
+                        110.949008849,
+                        -7.8908927961
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949008849,
+                        -7.8908927961
+                    ],
+                    [
+                        110.949231517,
+                        -7.89087035391
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949231517,
+                        -7.89087035391
+                    ],
+                    [
+                        110.949331268,
+                        -7.89076692053
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949331268,
+                        -7.89076692053
+                    ],
+                    [
+                        110.949425439,
+                        -7.89058831754
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949425439,
+                        -7.89058831754
+                    ],
+                    [
+                        110.949501738,
+                        -7.89048874376
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949501738,
+                        -7.89048874376
+                    ],
+                    [
+                        110.949699691,
+                        -7.89034013033
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949699691,
+                        -7.89034013033
+                    ],
+                    [
+                        110.949839979,
+                        -7.89035561513
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.949839979,
+                        -7.89035561513
+                    ],
+                    [
+                        110.95030041,
+                        -7.89038736583
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95030041,
+                        -7.89038736583
+                    ],
+                    [
+                        110.951096284,
+                        -7.89023431759
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.951096284,
+                        -7.89023431759
+                    ],
+                    [
+                        110.95126454,
+                        -7.89019131634
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95126454,
+                        -7.89019131634
+                    ],
+                    [
+                        110.95147883,
+                        -7.8900483665
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95147883,
+                        -7.8900483665
+                    ],
+                    [
+                        110.951644275,
+                        -7.88998300406
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.951644275,
+                        -7.88998300406
+                    ],
+                    [
+                        110.951756851,
+                        -7.88990044883
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.951756851,
+                        -7.88990044883
+                    ],
+                    [
+                        110.951901283,
+                        -7.8894683391
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.951901283,
+                        -7.8894683391
+                    ],
+                    [
+                        110.952047117,
+                        -7.88937874108
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952047117,
+                        -7.88937874108
+                    ],
+                    [
+                        110.952418183,
+                        -7.88921247103
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952418183,
+                        -7.88921247103
+                    ],
+                    [
+                        110.952589864,
+                        -7.88912001735
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952589864,
+                        -7.88912001735
+                    ],
+                    [
+                        110.952737489,
+                        -7.88907093453
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952737489,
+                        -7.88907093453
+                    ],
+                    [
+                        110.953159412,
+                        -7.88906741798
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953159412,
+                        -7.88906741798
+                    ],
+                    [
+                        110.953187421,
+                        -7.88887849472
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953187421,
+                        -7.88887849472
+                    ],
+                    [
+                        110.953155542,
+                        -7.8887925851
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953155542,
+                        -7.8887925851
+                    ],
+                    [
+                        110.953142636,
+                        -7.88868103332
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953142636,
+                        -7.88868103332
+                    ],
+                    [
+                        110.953098353,
+                        -7.88862604016
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953098353,
+                        -7.88862604016
+                    ],
+                    [
+                        110.952862526,
+                        -7.88845618255
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952862526,
+                        -7.88845618255
+                    ],
+                    [
+                        110.952833536,
+                        -7.88834071221
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952833536,
+                        -7.88834071221
+                    ],
+                    [
+                        110.952874279,
+                        -7.88825542584
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.952874279,
+                        -7.88825542584
+                    ],
+                    [
+                        110.953014817,
+                        -7.88814689443
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953014817,
+                        -7.88814689443
+                    ],
+                    [
+                        110.953272102,
+                        -7.88804200332
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953272102,
+                        -7.88804200332
+                    ],
+                    [
+                        110.953728203,
+                        -7.88783159904
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953728203,
+                        -7.88783159904
+                    ],
+                    [
+                        110.953977574,
+                        -7.88767519192
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.953977574,
+                        -7.88767519192
+                    ],
+                    [
+                        110.954093758,
+                        -7.88759787384
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954093758,
+                        -7.88759787384
+                    ],
+                    [
+                        110.954009349,
+                        -7.88721643875
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954009349,
+                        -7.88721643875
+                    ],
+                    [
+                        110.95462957,
+                        -7.88650409301
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95462957,
+                        -7.88650409301
+                    ],
+                    [
+                        110.954765355,
+                        -7.88646984297
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954765355,
+                        -7.88646984297
+                    ],
+                    [
+                        110.954874721,
+                        -7.88643523725
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954874721,
+                        -7.88643523725
+                    ],
+                    [
+                        110.954880827,
+                        -7.8864333112
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954880827,
+                        -7.8864333112
+                    ],
+                    [
+                        110.954936168,
+                        -7.88641579583
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.954936168,
+                        -7.88641579583
+                    ],
+                    [
+                        110.955253308,
+                        -7.88605960503
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955253308,
+                        -7.88605960503
+                    ],
+                    [
+                        110.955486866,
+                        -7.88580312381
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955486866,
+                        -7.88580312381
+                    ],
+                    [
+                        110.95546475,
+                        -7.88570168409
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95546475,
+                        -7.88570168409
+                    ],
+                    [
+                        110.955363834,
+                        -7.88518981896
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955363834,
+                        -7.88518981896
+                    ],
+                    [
+                        110.955444059,
+                        -7.88508986456
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955444059,
+                        -7.88508986456
+                    ],
+                    [
+                        110.955857948,
+                        -7.88475337583
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.955857948,
+                        -7.88475337583
+                    ],
+                    [
+                        110.956200161,
+                        -7.88465865908
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956200161,
+                        -7.88465865908
+                    ],
+                    [
+                        110.956433469,
+                        -7.88469586083
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956433469,
+                        -7.88469586083
+                    ],
+                    [
+                        110.956673162,
+                        -7.88475233024
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956673162,
+                        -7.88475233024
+                    ],
+                    [
+                        110.956912187,
+                        -7.88469537665
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956912187,
+                        -7.88469537665
+                    ],
+                    [
+                        110.956998113,
+                        -7.88455111718
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.956998113,
+                        -7.88455111718
+                    ],
+                    [
+                        110.957018079,
+                        -7.88430513314
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957018079,
+                        -7.88430513314
+                    ],
+                    [
+                        110.957063485,
+                        -7.8838528577
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957063485,
+                        -7.8838528577
+                    ],
+                    [
+                        110.957188649,
+                        -7.88377515974
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957188649,
+                        -7.88377515974
+                    ],
+                    [
+                        110.957341312,
+                        -7.88377425266
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957341312,
+                        -7.88377425266
+                    ],
+                    [
+                        110.957920075,
+                        -7.88384336532
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957920075,
+                        -7.88384336532
+                    ],
+                    [
+                        110.95822527,
+                        -7.88377766148
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95822527,
+                        -7.88377766148
+                    ],
+                    [
+                        110.958297783,
+                        -7.88368361253
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958297783,
+                        -7.88368361253
+                    ],
+                    [
+                        110.958287798,
+                        -7.88355386142
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958287798,
+                        -7.88355386142
+                    ],
+                    [
+                        110.958169302,
+                        -7.88345407661
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958169302,
+                        -7.88345407661
+                    ],
+                    [
+                        110.957982922,
+                        -7.88325037813
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957982922,
+                        -7.88325037813
+                    ],
+                    [
+                        110.95781761,
+                        -7.88293083466
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95781761,
+                        -7.88293083466
+                    ],
+                    [
+                        110.957821312,
+                        -7.88274120302
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957821312,
+                        -7.88274120302
+                    ],
+                    [
+                        110.957914719,
+                        -7.88261915105
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.957914719,
+                        -7.88261915105
+                    ],
+                    [
+                        110.95806139,
+                        -7.88256846515
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95806139,
+                        -7.88256846515
+                    ],
+                    [
+                        110.958283507,
+                        -7.88256487813
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958283507,
+                        -7.88256487813
+                    ],
+                    [
+                        110.958615096,
+                        -7.88263536721
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958615096,
+                        -7.88263536721
+                    ],
+                    [
+                        110.958646217,
+                        -7.88277462734
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958646217,
+                        -7.88277462734
+                    ],
+                    [
+                        110.958706079,
+                        -7.88298685213
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.958706079,
+                        -7.88298685213
+                    ],
+                    [
+                        110.95879881,
+                        -7.88310012124
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.95879881,
+                        -7.88310012124
+                    ],
+                    [
+                        110.959062523,
+                        -7.88317734227
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959062523,
+                        -7.88317734227
+                    ],
+                    [
+                        110.959345806,
+                        -7.8830471584
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959345806,
+                        -7.8830471584
+                    ],
+                    [
+                        110.959828369,
+                        -7.88275881304
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959828369,
+                        -7.88275881304
+                    ],
+                    [
+                        110.959850696,
+                        -7.88274440554
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.959850696,
+                        -7.88274440554
+                    ],
+                    [
+                        110.960135588,
+                        -7.88257575938
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.960135588,
+                        -7.88257575938
+                    ],
+                    [
+                        110.960332108,
+                        -7.88253225059
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.960332108,
+                        -7.88253225059
+                    ],
+                    [
+                        110.960648614,
+                        -7.88236898921
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.960648614,
+                        -7.88236898921
+                    ],
+                    [
+                        110.960770907,
+                        -7.88213486429
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.960770907,
+                        -7.88213486429
+                    ],
+                    [
+                        110.96091791,
+                        -7.88192518285
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96091791,
+                        -7.88192518285
+                    ],
+                    [
+                        110.961202872,
+                        -7.88147935154
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.961202872,
+                        -7.88147935154
+                    ],
+                    [
+                        110.961306883,
+                        -7.88126397629
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.961306883,
+                        -7.88126397629
+                    ],
+                    [
+                        110.961398055,
+                        -7.8811639946
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.961398055,
+                        -7.8811639946
+                    ],
+                    [
+                        110.961560994,
+                        -7.88108240014
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.961560994,
+                        -7.88108240014
+                    ],
+                    [
+                        110.961746244,
+                        -7.88105105598
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.961746244,
+                        -7.88105105598
+                    ],
+                    [
+                        110.961867624,
+                        -7.88106930298
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.961867624,
+                        -7.88106930298
+                    ],
+                    [
+                        110.96216395,
+                        -7.88113758797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96216395,
+                        -7.88113758797
+                    ],
+                    [
+                        110.962415497,
+                        -7.88121188405
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.962415497,
+                        -7.88121188405
+                    ],
+                    [
+                        110.962575448,
+                        -7.88136520326
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.962575448,
+                        -7.88136520326
+                    ],
+                    [
+                        110.962725421,
+                        -7.88159881934
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.962725421,
+                        -7.88159881934
+                    ],
+                    [
+                        110.962788269,
+                        -7.88161896949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.962788269,
+                        -7.88161896949
+                    ],
+                    [
+                        110.963214932,
+                        -7.88158499569
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.963214932,
+                        -7.88158499569
+                    ],
+                    [
+                        110.963771923,
+                        -7.88141526728
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.963771923,
+                        -7.88141526728
+                    ],
+                    [
+                        110.963888457,
+                        -7.88145837059
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.963888457,
+                        -7.88145837059
+                    ],
+                    [
+                        110.964337551,
+                        -7.88188718876
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.964337551,
+                        -7.88188718876
+                    ],
+                    [
+                        110.9645032,
+                        -7.88203024095
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9645032,
+                        -7.88203024095
+                    ],
+                    [
+                        110.964667007,
+                        -7.8821872322
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.964667007,
+                        -7.8821872322
+                    ],
+                    [
+                        110.964832551,
+                        -7.88239875947
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.964832551,
+                        -7.88239875947
+                    ],
+                    [
+                        110.965077883,
+                        -7.88249931283
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965077883,
+                        -7.88249931283
+                    ],
+                    [
+                        110.965197216,
+                        -7.88258741789
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965197216,
+                        -7.88258741789
+                    ],
+                    [
+                        110.965235918,
+                        -7.88268439902
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965235918,
+                        -7.88268439902
+                    ],
+                    [
+                        110.965387824,
+                        -7.88315623026
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965387824,
+                        -7.88315623026
+                    ],
+                    [
+                        110.965479363,
+                        -7.88344102054
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965479363,
+                        -7.88344102054
+                    ],
+                    [
+                        110.965503803,
+                        -7.88376882616
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965503803,
+                        -7.88376882616
+                    ],
+                    [
+                        110.965405515,
+                        -7.88380857348
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965405515,
+                        -7.88380857348
+                    ],
+                    [
+                        110.965061295,
+                        -7.88395507463
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965061295,
+                        -7.88395507463
+                    ],
+                    [
+                        110.964923117,
+                        -7.88410853983
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.964923117,
+                        -7.88410853983
+                    ],
+                    [
+                        110.965010753,
+                        -7.88441545541
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965010753,
+                        -7.88441545541
+                    ],
+                    [
+                        110.965125034,
+                        -7.88472658844
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965125034,
+                        -7.88472658844
+                    ],
+                    [
+                        110.965151239,
+                        -7.8847654053
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965151239,
+                        -7.8847654053
+                    ],
+                    [
+                        110.96528009,
+                        -7.88485018234
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96528009,
+                        -7.88485018234
+                    ],
+                    [
+                        110.965525681,
+                        -7.88490823921
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965525681,
+                        -7.88490823921
+                    ],
+                    [
+                        110.96564752,
+                        -7.88487654438
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96564752,
+                        -7.88487654438
+                    ],
+                    [
+                        110.96577332,
+                        -7.88477702592
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96577332,
+                        -7.88477702592
+                    ],
+                    [
+                        110.965940033,
+                        -7.88468471104
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.965940033,
+                        -7.88468471104
+                    ],
+                    [
+                        110.966098329,
+                        -7.88469429413
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.966098329,
+                        -7.88469429413
+                    ],
+                    [
+                        110.966836967,
+                        -7.88492298991
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.966836967,
+                        -7.88492298991
+                    ],
+                    [
+                        110.96742076,
+                        -7.88545388595
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96742076,
+                        -7.88545388595
+                    ],
+                    [
+                        110.967499554,
+                        -7.88574769324
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.967499554,
+                        -7.88574769324
+                    ],
+                    [
+                        110.967599132,
+                        -7.88604453239
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.967599132,
+                        -7.88604453239
+                    ],
+                    [
+                        110.967871681,
+                        -7.88627922344
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.967871681,
+                        -7.88627922344
+                    ],
+                    [
+                        110.968214579,
+                        -7.88634633179
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.968214579,
+                        -7.88634633179
+                    ],
+                    [
+                        110.96819073,
+                        -7.88644703467
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96819073,
+                        -7.88644703467
+                    ],
+                    [
+                        110.968175908,
+                        -7.88678358421
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.968175908,
+                        -7.88678358421
+                    ],
+                    [
+                        110.968155461,
+                        -7.88700732561
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.968155461,
+                        -7.88700732561
+                    ],
+                    [
+                        110.968051027,
+                        -7.8876777686
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.968051027,
+                        -7.8876777686
+                    ],
+                    [
+                        110.96810511,
+                        -7.88796937578
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96810511,
+                        -7.88796937578
+                    ],
+                    [
+                        110.968251551,
+                        -7.88855914202
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.968251551,
+                        -7.88855914202
+                    ],
+                    [
+                        110.968222458,
+                        -7.88878509892
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.968222458,
+                        -7.88878509892
+                    ],
+                    [
+                        110.968098467,
+                        -7.88917777712
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.968098467,
+                        -7.88917777712
+                    ],
+                    [
+                        110.967978137,
+                        -7.88939911379
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.967978137,
+                        -7.88939911379
+                    ],
+                    [
+                        110.967957617,
+                        -7.88950475579
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.967957617,
+                        -7.88950475579
+                    ],
+                    [
+                        110.967975226,
+                        -7.88985756269
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.967975226,
+                        -7.88985756269
+                    ],
+                    [
+                        110.968085188,
+                        -7.89045071825
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.968085188,
+                        -7.89045071825
+                    ],
+                    [
+                        110.968287034,
+                        -7.89091115464
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.968287034,
+                        -7.89091115464
+                    ],
+                    [
+                        110.9684344,
+                        -7.89115802925
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9684344,
+                        -7.89115802925
+                    ],
+                    [
+                        110.968434351,
+                        -7.89143868708
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.968434351,
+                        -7.89143868708
+                    ],
+                    [
+                        110.968459499,
+                        -7.89180159844
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.968459499,
+                        -7.89180159844
+                    ],
+                    [
+                        110.96854999,
+                        -7.89196628943
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.96854999,
+                        -7.89196628943
+                    ],
+                    [
+                        110.968829625,
+                        -7.89237274723
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.968829625,
+                        -7.89237274723
+                    ],
+                    [
+                        110.969149624,
+                        -7.89337666965
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.969149624,
+                        -7.89337666965
+                    ],
+                    [
+                        110.969336817,
+                        -7.89400664606
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.969336817,
+                        -7.89400664606
+                    ],
+                    [
+                        110.969421665,
+                        -7.89431249301
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.969421665,
+                        -7.89431249301
+                    ],
+                    [
+                        110.969513393,
+                        -7.89468128876
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.969513393,
+                        -7.89468128876
+                    ],
+                    [
+                        110.969611315,
+                        -7.8949702123
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.969611315,
+                        -7.8949702123
+                    ],
+                    [
+                        110.969647409,
+                        -7.89502759115
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.969647409,
+                        -7.89502759115
+                    ],
+                    [
+                        110.969814133,
+                        -7.89521558884
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.969814133,
+                        -7.89521558884
+                    ],
+                    [
+                        110.970106243,
+                        -7.89553425911
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.970106243,
+                        -7.89553425911
+                    ],
+                    [
+                        110.970524673,
+                        -7.89549944516
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.970524673,
+                        -7.89549944516
+                    ],
+                    [
+                        110.970622306,
+                        -7.89551620447
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.970622306,
+                        -7.89551620447
+                    ],
+                    [
+                        110.970825055,
+                        -7.8955990673
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.970825055,
+                        -7.8955990673
+                    ],
+                    [
+                        110.971050572,
+                        -7.89584776455
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.971050572,
+                        -7.89584776455
+                    ],
+                    [
+                        110.97111999,
+                        -7.89600789453
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97111999,
+                        -7.89600789453
+                    ],
+                    [
+                        110.971164133,
+                        -7.896183545
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.971164133,
+                        -7.896183545
+                    ],
+                    [
+                        110.971208801,
+                        -7.89636128503
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.971208801,
+                        -7.89636128503
+                    ],
+                    [
+                        110.971414811,
+                        -7.89730458314
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.971414811,
+                        -7.89730458314
+                    ],
+                    [
+                        110.97147484,
+                        -7.89746675672
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.97147484,
+                        -7.89746675672
+                    ],
+                    [
+                        110.971433466,
+                        -7.89752583973
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.971433466,
+                        -7.89752583973
+                    ],
+                    [
+                        110.971396253,
+                        -7.89764136756
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.971396253,
+                        -7.89764136756
+                    ],
+                    [
+                        110.971340652,
+                        -7.89787445975
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.971340652,
+                        -7.89787445975
+                    ],
+                    [
+                        110.971345967,
+                        -7.89814582804
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "116",
+                "NAMA_SUNGAI": "Kali Kepuh",
+                "FOTO": "sungai-116_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.971345967,
+                        -7.89814582804
+                    ],
+                    [
+                        110.971386454,
+                        -7.89818559525
+                    ]
+                ]
+            }
+        }
+    ]
+}

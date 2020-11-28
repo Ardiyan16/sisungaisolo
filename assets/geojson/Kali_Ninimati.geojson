@@ -1,0 +1,3271 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39298612841",
+                "LONGITUDE": "111.337477311"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.337477311,
+                        -7.39298612841
+                    ],
+                    [
+                        111.337313112,
+                        -7.39299919196
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39299919196",
+                "LONGITUDE": "111.337313112"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.337313112,
+                        -7.39299919196
+                    ],
+                    [
+                        111.337026812,
+                        -7.39310106356
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39310106356",
+                "LONGITUDE": "111.337026812"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.337026812,
+                        -7.39310106356
+                    ],
+                    [
+                        111.336888763,
+                        -7.39315132667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39315132667",
+                "LONGITUDE": "111.336888763"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.336888763,
+                        -7.39315132667
+                    ],
+                    [
+                        111.336600671,
+                        -7.39302966279
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39302966279",
+                "LONGITUDE": "111.336600671"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.336600671,
+                        -7.39302966279
+                    ],
+                    [
+                        111.335786917,
+                        -7.39266853103
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39266853103",
+                "LONGITUDE": "111.335786917"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.335786917,
+                        -7.39266853103
+                    ],
+                    [
+                        111.335077558,
+                        -7.39244649651
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39244649651",
+                "LONGITUDE": "111.335077558"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.335077558,
+                        -7.39244649651
+                    ],
+                    [
+                        111.334334228,
+                        -7.39215259986
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39215259986",
+                "LONGITUDE": "111.334334228"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.334334228,
+                        -7.39215259986
+                    ],
+                    [
+                        111.333916322,
+                        -7.39211282195
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39211282195",
+                "LONGITUDE": "111.333916322"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.333916322,
+                        -7.39211282195
+                    ],
+                    [
+                        111.333622823,
+                        -7.39208784058
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39208784058",
+                "LONGITUDE": "111.333622823"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.333622823,
+                        -7.39208784058
+                    ],
+                    [
+                        111.33322385,
+                        -7.39207738326
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39207738326",
+                "LONGITUDE": "111.33322385"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.33322385,
+                        -7.39207738326
+                    ],
+                    [
+                        111.332888592,
+                        -7.39198730357
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39198730357",
+                "LONGITUDE": "111.332888592"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.332888592,
+                        -7.39198730357
+                    ],
+                    [
+                        111.332651961,
+                        -7.39193771136
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39193771136",
+                "LONGITUDE": "111.332651961"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.332651961,
+                        -7.39193771136
+                    ],
+                    [
+                        111.33238468,
+                        -7.39194247866
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39194247866",
+                "LONGITUDE": "111.33238468"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.33238468,
+                        -7.39194247866
+                    ],
+                    [
+                        111.332151353,
+                        -7.39203318069
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39203318069",
+                "LONGITUDE": "111.332151353"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.332151353,
+                        -7.39203318069
+                    ],
+                    [
+                        111.331990933,
+                        -7.39210904929
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39210904929",
+                "LONGITUDE": "111.331990933"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.331990933,
+                        -7.39210904929
+                    ],
+                    [
+                        111.331850979,
+                        -7.39209799033
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39209799033",
+                "LONGITUDE": "111.331850979"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.331850979,
+                        -7.39209799033
+                    ],
+                    [
+                        111.33165663,
+                        -7.39204769664
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39204769664",
+                "LONGITUDE": "111.33165663"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.33165663,
+                        -7.39204769664
+                    ],
+                    [
+                        111.331469526,
+                        -7.39206764541
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39206764541",
+                "LONGITUDE": "111.331469526"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.331469526,
+                        -7.39206764541
+                    ],
+                    [
+                        111.330939681,
+                        -7.39226618424
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39226618424",
+                "LONGITUDE": "111.330939681"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.330939681,
+                        -7.39226618424
+                    ],
+                    [
+                        111.330436586,
+                        -7.3924421339
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.3924421339",
+                "LONGITUDE": "111.330436586"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.330436586,
+                        -7.3924421339
+                    ],
+                    [
+                        111.329914002,
+                        -7.39269544594
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39269544594",
+                "LONGITUDE": "111.329914002"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.329914002,
+                        -7.39269544594
+                    ],
+                    [
+                        111.329323252,
+                        -7.39313718483
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39313718483",
+                "LONGITUDE": "111.329323252"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.329323252,
+                        -7.39313718483
+                    ],
+                    [
+                        111.328805477,
+                        -7.39344944294
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39344944294",
+                "LONGITUDE": "111.328805477"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.328805477,
+                        -7.39344944294
+                    ],
+                    [
+                        111.328454352,
+                        -7.39370217492
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39370217492",
+                "LONGITUDE": "111.328454352"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.328454352,
+                        -7.39370217492
+                    ],
+                    [
+                        111.328067416,
+                        -7.39398067697
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39398067697",
+                "LONGITUDE": "111.328067416"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.328067416,
+                        -7.39398067697
+                    ],
+                    [
+                        111.3278537,
+                        -7.39417418589
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39417418589",
+                "LONGITUDE": "111.3278537"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.3278537,
+                        -7.39417418589
+                    ],
+                    [
+                        111.327761261,
+                        -7.39432984774
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39432984774",
+                "LONGITUDE": "111.327761261"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.327761261,
+                        -7.39432984774
+                    ],
+                    [
+                        111.327730969,
+                        -7.39462623371
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39462623371",
+                "LONGITUDE": "111.327730969"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.327730969,
+                        -7.39462623371
+                    ],
+                    [
+                        111.327724455,
+                        -7.39477467761
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39477467761",
+                "LONGITUDE": "111.327724455"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.327724455,
+                        -7.39477467761
+                    ],
+                    [
+                        111.327654694,
+                        -7.3948781572
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.3948781572",
+                "LONGITUDE": "111.327654694"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.327654694,
+                        -7.3948781572
+                    ],
+                    [
+                        111.327024788,
+                        -7.39494243624
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39494243624",
+                "LONGITUDE": "111.327024788"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.327024788,
+                        -7.39494243624
+                    ],
+                    [
+                        111.32673073,
+                        -7.39501019566
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39501019566",
+                "LONGITUDE": "111.32673073"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.32673073,
+                        -7.39501019566
+                    ],
+                    [
+                        111.326453699,
+                        -7.39511658636
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39511658636",
+                "LONGITUDE": "111.326453699"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.326453699,
+                        -7.39511658636
+                    ],
+                    [
+                        111.326294728,
+                        -7.39513359974
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39513359974",
+                "LONGITUDE": "111.326294728"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.326294728,
+                        -7.39513359974
+                    ],
+                    [
+                        111.326051376,
+                        -7.39502655973
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39502655973",
+                "LONGITUDE": "111.326051376"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.326051376,
+                        -7.39502655973
+                    ],
+                    [
+                        111.325885191,
+                        -7.3949442205
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.3949442205",
+                "LONGITUDE": "111.325885191"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.325885191,
+                        -7.3949442205
+                    ],
+                    [
+                        111.325355443,
+                        -7.39500003063
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39500003063",
+                "LONGITUDE": "111.325355443"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.325355443,
+                        -7.39500003063
+                    ],
+                    [
+                        111.324830586,
+                        -7.39507670413
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39507670413",
+                "LONGITUDE": "111.324830586"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.324830586,
+                        -7.39507670413
+                    ],
+                    [
+                        111.324381056,
+                        -7.3950273889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.3950273889",
+                "LONGITUDE": "111.324381056"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.324381056,
+                        -7.3950273889
+                    ],
+                    [
+                        111.324268368,
+                        -7.39501590996
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39501590996",
+                "LONGITUDE": "111.324268368"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.324268368,
+                        -7.39501590996
+                    ],
+                    [
+                        111.323951661,
+                        -7.39529094782
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39529094782",
+                "LONGITUDE": "111.323951661"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.323951661,
+                        -7.39529094782
+                    ],
+                    [
+                        111.323815851,
+                        -7.39540670406
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39540670406",
+                "LONGITUDE": "111.323815851"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.323815851,
+                        -7.39540670406
+                    ],
+                    [
+                        111.323648183,
+                        -7.39541594369
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39541594369",
+                "LONGITUDE": "111.323648183"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.323648183,
+                        -7.39541594369
+                    ],
+                    [
+                        111.322978874,
+                        -7.3956019109
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.3956019109",
+                "LONGITUDE": "111.322978874"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.322978874,
+                        -7.3956019109
+                    ],
+                    [
+                        111.322893695,
+                        -7.3956385259
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.3956385259",
+                "LONGITUDE": "111.322893695"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.322893695,
+                        -7.3956385259
+                    ],
+                    [
+                        111.322757689,
+                        -7.39569698723
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39569698723",
+                "LONGITUDE": "111.322757689"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.322757689,
+                        -7.39569698723
+                    ],
+                    [
+                        111.322508301,
+                        -7.39596411465
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39596411465",
+                "LONGITUDE": "111.322508301"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.322508301,
+                        -7.39596411465
+                    ],
+                    [
+                        111.322365982,
+                        -7.39613865418
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39613865418",
+                "LONGITUDE": "111.322365982"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.322365982,
+                        -7.39613865418
+                    ],
+                    [
+                        111.32216908,
+                        -7.39625766506
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39625766506",
+                "LONGITUDE": "111.32216908"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.32216908,
+                        -7.39625766506
+                    ],
+                    [
+                        111.321979481,
+                        -7.39635091846
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39635091846",
+                "LONGITUDE": "111.321979481"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.321979481,
+                        -7.39635091846
+                    ],
+                    [
+                        111.321819001,
+                        -7.39651394666
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39651394666",
+                "LONGITUDE": "111.321819001"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.321819001,
+                        -7.39651394666
+                    ],
+                    [
+                        111.32167989,
+                        -7.39688982281
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39688982281",
+                "LONGITUDE": "111.32167989"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.32167989,
+                        -7.39688982281
+                    ],
+                    [
+                        111.321624064,
+                        -7.39708091615
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39708091615",
+                "LONGITUDE": "111.321624064"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.321624064,
+                        -7.39708091615
+                    ],
+                    [
+                        111.32136955,
+                        -7.39737700175
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39737700175",
+                "LONGITUDE": "111.32136955"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.32136955,
+                        -7.39737700175
+                    ],
+                    [
+                        111.321004441,
+                        -7.3977120181
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.3977120181",
+                "LONGITUDE": "111.321004441"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.321004441,
+                        -7.3977120181
+                    ],
+                    [
+                        111.32073987,
+                        -7.39799974269
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39799974269",
+                "LONGITUDE": "111.32073987"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.32073987,
+                        -7.39799974269
+                    ],
+                    [
+                        111.320592008,
+                        -7.39818155863
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39818155863",
+                "LONGITUDE": "111.320592008"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.320592008,
+                        -7.39818155863
+                    ],
+                    [
+                        111.320032958,
+                        -7.39843619807
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39843619807",
+                "LONGITUDE": "111.320032958"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.320032958,
+                        -7.39843619807
+                    ],
+                    [
+                        111.319736427,
+                        -7.39856041783
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39856041783",
+                "LONGITUDE": "111.319736427"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.319736427,
+                        -7.39856041783
+                    ],
+                    [
+                        111.31892415,
+                        -7.39942957481
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39942957481",
+                "LONGITUDE": "111.31892415"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.31892415,
+                        -7.39942957481
+                    ],
+                    [
+                        111.318752232,
+                        -7.39965818158
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39965818158",
+                "LONGITUDE": "111.318752232"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.318752232,
+                        -7.39965818158
+                    ],
+                    [
+                        111.318609013,
+                        -7.39999766936
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.39999766936",
+                "LONGITUDE": "111.318609013"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.318609013,
+                        -7.39999766936
+                    ],
+                    [
+                        111.3184118,
+                        -7.40048264856
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40048264856",
+                "LONGITUDE": "111.3184118"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.3184118,
+                        -7.40048264856
+                    ],
+                    [
+                        111.318263499,
+                        -7.40073723673
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40073723673",
+                "LONGITUDE": "111.318263499"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.318263499,
+                        -7.40073723673
+                    ],
+                    [
+                        111.318123746,
+                        -7.40091905447
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40091905447",
+                "LONGITUDE": "111.318123746"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.318123746,
+                        -7.40091905447
+                    ],
+                    [
+                        111.318088686,
+                        -7.40099511823
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40099511823",
+                "LONGITUDE": "111.318088686"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.318088686,
+                        -7.40099511823
+                    ],
+                    [
+                        111.317187474,
+                        -7.40233997431
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40233997431",
+                "LONGITUDE": "111.317187474"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.317187474,
+                        -7.40233997431
+                    ],
+                    [
+                        111.317433526,
+                        -7.40284974872
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40284974872",
+                "LONGITUDE": "111.317433526"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.317433526,
+                        -7.40284974872
+                    ],
+                    [
+                        111.317471875,
+                        -7.40295114998
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40295114998",
+                "LONGITUDE": "111.317471875"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.317471875,
+                        -7.40295114998
+                    ],
+                    [
+                        111.317938377,
+                        -7.4041655513
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.4041655513",
+                "LONGITUDE": "111.317938377"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.317938377,
+                        -7.4041655513
+                    ],
+                    [
+                        111.317945308,
+                        -7.40428860823
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40428860823",
+                "LONGITUDE": "111.317945308"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.317945308,
+                        -7.40428860823
+                    ],
+                    [
+                        111.317738482,
+                        -7.40440091737
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40440091737",
+                "LONGITUDE": "111.317738482"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.317738482,
+                        -7.40440091737
+                    ],
+                    [
+                        111.316846498,
+                        -7.40505058042
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40505058042",
+                "LONGITUDE": "111.316846498"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.316846498,
+                        -7.40505058042
+                    ],
+                    [
+                        111.316780766,
+                        -7.40519091603
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40519091603",
+                "LONGITUDE": "111.316780766"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.316780766,
+                        -7.40519091603
+                    ],
+                    [
+                        111.316625324,
+                        -7.40552531814
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40552531814",
+                "LONGITUDE": "111.316625324"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.316625324,
+                        -7.40552531814
+                    ],
+                    [
+                        111.315974159,
+                        -7.40653068284
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40653068284",
+                "LONGITUDE": "111.315974159"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.315974159,
+                        -7.40653068284
+                    ],
+                    [
+                        111.315527472,
+                        -7.40687717724
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40687717724",
+                "LONGITUDE": "111.315527472"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.315527472,
+                        -7.40687717724
+                    ],
+                    [
+                        111.314497049,
+                        -7.40749553579
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40749553579",
+                "LONGITUDE": "111.314497049"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.314497049,
+                        -7.40749553579
+                    ],
+                    [
+                        111.314446008,
+                        -7.40751430554
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40751430554",
+                "LONGITUDE": "111.314446008"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.314446008,
+                        -7.40751430554
+                    ],
+                    [
+                        111.313853026,
+                        -7.40775843191
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40775843191",
+                "LONGITUDE": "111.313853026"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.313853026,
+                        -7.40775843191
+                    ],
+                    [
+                        111.313623237,
+                        -7.40773077865
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40773077865",
+                "LONGITUDE": "111.313623237"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.313623237,
+                        -7.40773077865
+                    ],
+                    [
+                        111.312948849,
+                        -7.40772496633
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40772496633",
+                "LONGITUDE": "111.312948849"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.312948849,
+                        -7.40772496633
+                    ],
+                    [
+                        111.312693652,
+                        -7.40781566566
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40781566566",
+                "LONGITUDE": "111.312693652"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.312693652,
+                        -7.40781566566
+                    ],
+                    [
+                        111.312292797,
+                        -7.40797131582
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40797131582",
+                "LONGITUDE": "111.312292797"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.312292797,
+                        -7.40797131582
+                    ],
+                    [
+                        111.311817464,
+                        -7.40806297383
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40806297383",
+                "LONGITUDE": "111.311817464"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.311817464,
+                        -7.40806297383
+                    ],
+                    [
+                        111.31169579,
+                        -7.40808643354
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40808643354",
+                "LONGITUDE": "111.31169579"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.31169579,
+                        -7.40808643354
+                    ],
+                    [
+                        111.311278835,
+                        -7.40815595114
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40815595114",
+                "LONGITUDE": "111.311278835"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.311278835,
+                        -7.40815595114
+                    ],
+                    [
+                        111.310986059,
+                        -7.40827214894
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40827214894",
+                "LONGITUDE": "111.310986059"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.310986059,
+                        -7.40827214894
+                    ],
+                    [
+                        111.310790603,
+                        -7.40840984324
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40840984324",
+                "LONGITUDE": "111.310790603"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.310790603,
+                        -7.40840984324
+                    ],
+                    [
+                        111.310687301,
+                        -7.40856995134
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40856995134",
+                "LONGITUDE": "111.310687301"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.310687301,
+                        -7.40856995134
+                    ],
+                    [
+                        111.310559607,
+                        -7.40889949262
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40889949262",
+                "LONGITUDE": "111.310559607"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.310559607,
+                        -7.40889949262
+                    ],
+                    [
+                        111.310460033,
+                        -7.40906654528
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40906654528",
+                "LONGITUDE": "111.310460033"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.310460033,
+                        -7.40906654528
+                    ],
+                    [
+                        111.310344605,
+                        -7.40911563568
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40911563568",
+                "LONGITUDE": "111.310344605"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.310344605,
+                        -7.40911563568
+                    ],
+                    [
+                        111.310219927,
+                        -7.40906893748
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40906893748",
+                "LONGITUDE": "111.310219927"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.310219927,
+                        -7.40906893748
+                    ],
+                    [
+                        111.309050993,
+                        -7.40840315678
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40840315678",
+                "LONGITUDE": "111.309050993"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.309050993,
+                        -7.40840315678
+                    ],
+                    [
+                        111.30887798,
+                        -7.40833036026
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40833036026",
+                "LONGITUDE": "111.30887798"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.30887798,
+                        -7.40833036026
+                    ],
+                    [
+                        111.308787165,
+                        -7.4083073565
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.4083073565",
+                "LONGITUDE": "111.308787165"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.308787165,
+                        -7.4083073565
+                    ],
+                    [
+                        111.30862431,
+                        -7.4082862665
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.4082862665",
+                "LONGITUDE": "111.30862431"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.30862431,
+                        -7.4082862665
+                    ],
+                    [
+                        111.308470627,
+                        -7.4082663636
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.4082663636",
+                "LONGITUDE": "111.308470627"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.308470627,
+                        -7.4082663636
+                    ],
+                    [
+                        111.308360364,
+                        -7.4083449023
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.4083449023",
+                "LONGITUDE": "111.308360364"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.308360364,
+                        -7.4083449023
+                    ],
+                    [
+                        111.308246901,
+                        -7.40850002366
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40850002366",
+                "LONGITUDE": "111.308246901"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.308246901,
+                        -7.40850002366
+                    ],
+                    [
+                        111.308105167,
+                        -7.40884047461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40884047461",
+                "LONGITUDE": "111.308105167"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.308105167,
+                        -7.40884047461
+                    ],
+                    [
+                        111.307777542,
+                        -7.40956446393
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40956446393",
+                "LONGITUDE": "111.307777542"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.307777542,
+                        -7.40956446393
+                    ],
+                    [
+                        111.307643288,
+                        -7.40986115567
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.40986115567",
+                "LONGITUDE": "111.307643288"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.307643288,
+                        -7.40986115567
+                    ],
+                    [
+                        111.307335019,
+                        -7.41028362029
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41028362029",
+                "LONGITUDE": "111.307335019"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.307335019,
+                        -7.41028362029
+                    ],
+                    [
+                        111.307228227,
+                        -7.41043094903
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41043094903",
+                "LONGITUDE": "111.307228227"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.307228227,
+                        -7.41043094903
+                    ],
+                    [
+                        111.30685836,
+                        -7.41094119918
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41094119918",
+                "LONGITUDE": "111.30685836"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.30685836,
+                        -7.41094119918
+                    ],
+                    [
+                        111.306712659,
+                        -7.41115596268
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41115596268",
+                "LONGITUDE": "111.306712659"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.306712659,
+                        -7.41115596268
+                    ],
+                    [
+                        111.306487861,
+                        -7.41148157212
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41148157212",
+                "LONGITUDE": "111.306487861"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.306487861,
+                        -7.41148157212
+                    ],
+                    [
+                        111.306391447,
+                        -7.41153428858
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41153428858",
+                "LONGITUDE": "111.306391447"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.306391447,
+                        -7.41153428858
+                    ],
+                    [
+                        111.30636832,
+                        -7.41156559847
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41156559847",
+                "LONGITUDE": "111.30636832"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.30636832,
+                        -7.41156559847
+                    ],
+                    [
+                        111.30618079,
+                        -7.41179413059
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41179413059",
+                "LONGITUDE": "111.30618079"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.30618079,
+                        -7.41179413059
+                    ],
+                    [
+                        111.305613897,
+                        -7.41248724709
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41248724709",
+                "LONGITUDE": "111.305613897"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.305613897,
+                        -7.41248724709
+                    ],
+                    [
+                        111.305365084,
+                        -7.41285263714
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41285263714",
+                "LONGITUDE": "111.305365084"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.305365084,
+                        -7.41285263714
+                    ],
+                    [
+                        111.304830062,
+                        -7.41347025375
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41347025375",
+                "LONGITUDE": "111.304830062"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.304830062,
+                        -7.41347025375
+                    ],
+                    [
+                        111.304235098,
+                        -7.41441252472
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41441252472",
+                "LONGITUDE": "111.304235098"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.304235098,
+                        -7.41441252472
+                    ],
+                    [
+                        111.304071491,
+                        -7.4145521022
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.4145521022",
+                "LONGITUDE": "111.304071491"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.304071491,
+                        -7.4145521022
+                    ],
+                    [
+                        111.303832726,
+                        -7.41465459074
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41465459074",
+                "LONGITUDE": "111.303832726"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.303832726,
+                        -7.41465459074
+                    ],
+                    [
+                        111.303478763,
+                        -7.41471305926
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41471305926",
+                "LONGITUDE": "111.303478763"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.303478763,
+                        -7.41471305926
+                    ],
+                    [
+                        111.303259599,
+                        -7.41478975344
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41478975344",
+                "LONGITUDE": "111.303259599"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.303259599,
+                        -7.41478975344
+                    ],
+                    [
+                        111.30302195,
+                        -7.41497417562
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41497417562",
+                "LONGITUDE": "111.30302195"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.30302195,
+                        -7.41497417562
+                    ],
+                    [
+                        111.302921955,
+                        -7.41511150299
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41511150299",
+                "LONGITUDE": "111.302921955"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.302921955,
+                        -7.41511150299
+                    ],
+                    [
+                        111.302826044,
+                        -7.4152576743
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.4152576743",
+                "LONGITUDE": "111.302826044"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.302826044,
+                        -7.4152576743
+                    ],
+                    [
+                        111.302783777,
+                        -7.41536170968
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41536170968",
+                "LONGITUDE": "111.302783777"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.302783777,
+                        -7.41536170968
+                    ],
+                    [
+                        111.302711569,
+                        -7.41559475729
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41559475729",
+                "LONGITUDE": "111.302711569"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.302711569,
+                        -7.41559475729
+                    ],
+                    [
+                        111.302653794,
+                        -7.41580012468
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41580012468",
+                "LONGITUDE": "111.302653794"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.302653794,
+                        -7.41580012468
+                    ],
+                    [
+                        111.302617254,
+                        -7.41592998228
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41592998228",
+                "LONGITUDE": "111.302617254"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.302617254,
+                        -7.41592998228
+                    ],
+                    [
+                        111.302568944,
+                        -7.41607298168
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41607298168",
+                "LONGITUDE": "111.302568944"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.302568944,
+                        -7.41607298168
+                    ],
+                    [
+                        111.302446948,
+                        -7.4160939152
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.4160939152",
+                "LONGITUDE": "111.302446948"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.302446948,
+                        -7.4160939152
+                    ],
+                    [
+                        111.3021605,
+                        -7.4161587869
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.4161587869",
+                "LONGITUDE": "111.3021605"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.3021605,
+                        -7.4161587869
+                    ],
+                    [
+                        111.302132725,
+                        -7.4162663674
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.4162663674",
+                "LONGITUDE": "111.302132725"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.302132725,
+                        -7.4162663674
+                    ],
+                    [
+                        111.302131397,
+                        -7.41657651749
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41657651749",
+                "LONGITUDE": "111.302131397"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.302131397,
+                        -7.41657651749
+                    ],
+                    [
+                        111.302129989,
+                        -7.41690516664
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41690516664",
+                "LONGITUDE": "111.302129989"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.302129989,
+                        -7.41690516664
+                    ],
+                    [
+                        111.302094229,
+                        -7.41704895654
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41704895654",
+                "LONGITUDE": "111.302094229"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.302094229,
+                        -7.41704895654
+                    ],
+                    [
+                        111.301989364,
+                        -7.41715510353
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41715510353",
+                "LONGITUDE": "111.301989364"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.301989364,
+                        -7.41715510353
+                    ],
+                    [
+                        111.301799645,
+                        -7.41723667024
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41723667024",
+                "LONGITUDE": "111.301799645"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.301799645,
+                        -7.41723667024
+                    ],
+                    [
+                        111.301461595,
+                        -7.41741973084
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41741973084",
+                "LONGITUDE": "111.301461595"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.301461595,
+                        -7.41741973084
+                    ],
+                    [
+                        111.301276861,
+                        -7.41756988794
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41756988794",
+                "LONGITUDE": "111.301276861"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.301276861,
+                        -7.41756988794
+                    ],
+                    [
+                        111.301269094,
+                        -7.41766260265
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41766260265",
+                "LONGITUDE": "111.301269094"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.301269094,
+                        -7.41766260265
+                    ],
+                    [
+                        111.301373331,
+                        -7.41829789993
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41829789993",
+                "LONGITUDE": "111.301373331"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.301373331,
+                        -7.41829789993
+                    ],
+                    [
+                        111.301476333,
+                        -7.41852976134
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "156",
+                "NAMA_SUNGAI": "Kali Ninimati",
+                "FOTO": "sungai-156_file1-.png",
+                "LATITUDE": "-7.41852976134",
+                "LONGITUDE": "111.301476333"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        111.301476333,
+                        -7.41852976134
+                    ],
+                    [
+                        111.3011566,
+                        -7.418800373
+                    ]
+                ]
+            }
+        }
+    ]
+}

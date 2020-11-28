@@ -1,0 +1,1328 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.800436058,
+                        -7.63268449369
+                    ],
+                    [
+                        110.798882699,
+                        -7.63231140725
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.798882699,
+                        -7.63231140725
+                    ],
+                    [
+                        110.798263124,
+                        -7.6317003395
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.798263124,
+                        -7.6317003395
+                    ],
+                    [
+                        110.797361619,
+                        -7.63072343744
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.797361619,
+                        -7.63072343744
+                    ],
+                    [
+                        110.796651997,
+                        -7.62980406411
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.796651997,
+                        -7.62980406411
+                    ],
+                    [
+                        110.795712138,
+                        -7.62878884733
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.795712138,
+                        -7.62878884733
+                    ],
+                    [
+                        110.794618913,
+                        -7.62744806158
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.794618913,
+                        -7.62744806158
+                    ],
+                    [
+                        110.793966828,
+                        -7.62662444446
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.793966828,
+                        -7.62662444446
+                    ],
+                    [
+                        110.793929125,
+                        -7.62520757247
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.793929125,
+                        -7.62520757247
+                    ],
+                    [
+                        110.792912611,
+                        -7.62400084686
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.792912611,
+                        -7.62400084686
+                    ],
+                    [
+                        110.79201106,
+                        -7.62317710744
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.79201106,
+                        -7.62317710744
+                    ],
+                    [
+                        110.790975219,
+                        -7.6222767143
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.790975219,
+                        -7.6222767143
+                    ],
+                    [
+                        110.790073638,
+                        -7.62152955754
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.790073638,
+                        -7.62152955754
+                    ],
+                    [
+                        110.789076156,
+                        -7.62068661939
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.789076156,
+                        -7.62068661939
+                    ],
+                    [
+                        110.787695044,
+                        -7.61949885059
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.787695044,
+                        -7.61949885059
+                    ],
+                    [
+                        110.786601621,
+                        -7.61865585938
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.786601621,
+                        -7.61865585938
+                    ],
+                    [
+                        110.785431519,
+                        -7.61765965427
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.785431519,
+                        -7.61765965427
+                    ],
+                    [
+                        110.784203861,
+                        -7.61664427022
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.784203861,
+                        -7.61664427022
+                    ],
+                    [
+                        110.782861212,
+                        -7.61534162562
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.782861212,
+                        -7.61534162562
+                    ],
+                    [
+                        110.782132264,
+                        -7.61480515304
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.782132264,
+                        -7.61480515304
+                    ],
+                    [
+                        110.781729478,
+                        -7.6144028701
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.781729478,
+                        -7.6144028701
+                    ],
+                    [
+                        110.780712907,
+                        -7.6134258763
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.780712907,
+                        -7.6134258763
+                    ],
+                    [
+                        110.779562228,
+                        -7.6120275852
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.779562228,
+                        -7.6120275852
+                    ],
+                    [
+                        110.77890996,
+                        -7.6116634668
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77890996,
+                        -7.6116634668
+                    ],
+                    [
+                        110.777797414,
+                        -7.61076300441
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.777797414,
+                        -7.61076300441
+                    ],
+                    [
+                        110.776704033,
+                        -7.60991998892
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.776704033,
+                        -7.60991998892
+                    ],
+                    [
+                        110.775668255,
+                        -7.6090195607
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.775668255,
+                        -7.6090195607
+                    ],
+                    [
+                        110.774536552,
+                        -7.6080807872
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.774536552,
+                        -7.6080807872
+                    ],
+                    [
+                        110.773232199,
+                        -7.60704618733
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.773232199,
+                        -7.60704618733
+                    ],
+                    [
+                        110.772311401,
+                        -7.60647130471
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.772311401,
+                        -7.60647130471
+                    ],
+                    [
+                        110.77081501,
+                        -7.60572379632
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.77081501,
+                        -7.60572379632
+                    ],
+                    [
+                        110.769280113,
+                        -7.60522516991
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.769280113,
+                        -7.60522516991
+                    ],
+                    [
+                        110.767572545,
+                        -7.60466900487
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.767572545,
+                        -7.60466900487
+                    ],
+                    [
+                        110.765653907,
+                        -7.60409357276
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.765653907,
+                        -7.60409357276
+                    ],
+                    [
+                        110.7645412,
+                        -7.60357601112
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.7645412,
+                        -7.60357601112
+                    ],
+                    [
+                        110.76396558,
+                        -7.60346081876
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76396558,
+                        -7.60346081876
+                    ],
+                    [
+                        110.763293929,
+                        -7.60349874587
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.763293929,
+                        -7.60349874587
+                    ],
+                    [
+                        110.762085174,
+                        -7.60317259144
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.762085174,
+                        -7.60317259144
+                    ],
+                    [
+                        110.76062715,
+                        -7.60250165673
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.76062715,
+                        -7.60250165673
+                    ],
+                    [
+                        110.759495189,
+                        -7.60211809767
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.759495189,
+                        -7.60211809767
+                    ],
+                    [
+                        110.758689182,
+                        -7.60221338444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.758689182,
+                        -7.60221338444
+                    ],
+                    [
+                        110.758115109,
+                        -7.60219750781
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.758115109,
+                        -7.60219750781
+                    ],
+                    [
+                        110.757131802,
+                        -7.60193369259
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.757131802,
+                        -7.60193369259
+                    ],
+                    [
+                        110.755812642,
+                        -7.60174148588
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.755812642,
+                        -7.60174148588
+                    ],
+                    [
+                        110.755333206,
+                        -7.60121468281
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.755333206,
+                        -7.60121468281
+                    ],
+                    [
+                        110.754661947,
+                        -7.60056810443
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.754661947,
+                        -7.60056810443
+                    ],
+                    [
+                        110.753774647,
+                        -7.60020860225
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.753774647,
+                        -7.60020860225
+                    ],
+                    [
+                        110.753223392,
+                        -7.59944242393
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.753223392,
+                        -7.59944242393
+                    ],
+                    [
+                        110.752503919,
+                        -7.59922661452
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.752503919,
+                        -7.59922661452
+                    ],
+                    [
+                        110.751520747,
+                        -7.59874738648
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.751520747,
+                        -7.59874738648
+                    ],
+                    [
+                        110.750249905,
+                        -7.59798079178
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.750249905,
+                        -7.59798079178
+                    ],
+                    [
+                        110.749098846,
+                        -7.59747752847
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.749098846,
+                        -7.59747752847
+                    ],
+                    [
+                        110.748379546,
+                        -7.59697451336
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.748379546,
+                        -7.59697451336
+                    ],
+                    [
+                        110.747348438,
+                        -7.59644738204
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.747348438,
+                        -7.59644738204
+                    ],
+                    [
+                        110.746748961,
+                        -7.59613590005
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.746748961,
+                        -7.59613590005
+                    ],
+                    [
+                        110.745933678,
+                        -7.59570462387
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.745933678,
+                        -7.59570462387
+                    ],
+                    [
+                        110.745669744,
+                        -7.59584806933
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.745669744,
+                        -7.59584806933
+                    ],
+                    [
+                        110.744997929,
+                        -7.59618274214
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.744997929,
+                        -7.59618274214
+                    ],
+                    [
+                        110.743726298,
+                        -7.59678032635
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.743726298,
+                        -7.59678032635
+                    ],
+                    [
+                        110.74334243,
+                        -7.59692369897
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.74334243,
+                        -7.59692369897
+                    ],
+                    [
+                        110.743078467,
+                        -7.59711500995
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.743078467,
+                        -7.59711500995
+                    ],
+                    [
+                        110.741926676,
+                        -7.59785625906
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.741926676,
+                        -7.59785625906
+                    ],
+                    [
+                        110.741111051,
+                        -7.59799937357
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "66",
+                "NAMA_SUNGAI": "Kali Baki",
+                "FOTO": "sungai-66_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.741111051,
+                        -7.59799937357
+                    ],
+                    [
+                        110.740320873,
+                        -7.59818872493
+                    ]
+                ]
+            }
+        }
+    ]
+}

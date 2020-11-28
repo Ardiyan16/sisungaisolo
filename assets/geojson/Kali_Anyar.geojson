@@ -1,0 +1,3323 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86871104,
+                        -7.5473536946
+                    ],
+                    [
+                        110.86837179,
+                        -7.5466677604
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86837179,
+                        -7.5466677604
+                    ],
+                    [
+                        110.8682642,
+                        -7.546504905
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8682642,
+                        -7.546504905
+                    ],
+                    [
+                        110.86800959,
+                        -7.5463239137
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86800959,
+                        -7.5463239137
+                    ],
+                    [
+                        110.86757511,
+                        -7.5461338222
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86757511,
+                        -7.5461338222
+                    ],
+                    [
+                        110.86708114,
+                        -7.5459346664
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86708114,
+                        -7.5459346664
+                    ],
+                    [
+                        110.86669485,
+                        -7.5458214152
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86669485,
+                        -7.5458214152
+                    ],
+                    [
+                        110.86625292,
+                        -7.5457173164
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86625292,
+                        -7.5457173164
+                    ],
+                    [
+                        110.86592914,
+                        -7.5457353087
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86592914,
+                        -7.5457353087
+                    ],
+                    [
+                        110.86575774,
+                        -7.5457895305
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86575774,
+                        -7.5457895305
+                    ],
+                    [
+                        110.86568066,
+                        -7.545879964
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86568066,
+                        -7.545879964
+                    ],
+                    [
+                        110.86566263,
+                        -7.5463299778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86566263,
+                        -7.5463299778
+                    ],
+                    [
+                        110.8656484,
+                        -7.5466850234
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8656484,
+                        -7.5466850234
+                    ],
+                    [
+                        110.86563703,
+                        -7.5468387972
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86563703,
+                        -7.5468387972
+                    ],
+                    [
+                        110.86558889,
+                        -7.5469344445
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86558889,
+                        -7.5469344445
+                    ],
+                    [
+                        110.86550857,
+                        -7.5470382545
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86550857,
+                        -7.5470382545
+                    ],
+                    [
+                        110.86540805,
+                        -7.5471281899
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86540805,
+                        -7.5471281899
+                    ],
+                    [
+                        110.86522106,
+                        -7.5472276352
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86522106,
+                        -7.5472276352
+                    ],
+                    [
+                        110.86500777,
+                        -7.5471732951
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86500777,
+                        -7.5471732951
+                    ],
+                    [
+                        110.86489036,
+                        -7.547059324
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86489036,
+                        -7.547059324
+                    ],
+                    [
+                        110.8647522,
+                        -7.5469252089
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8647522,
+                        -7.5469252089
+                    ],
+                    [
+                        110.86461818,
+                        -7.5467951109
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86461818,
+                        -7.5467951109
+                    ],
+                    [
+                        110.86444393,
+                        -7.5466756059
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86444393,
+                        -7.5466756059
+                    ],
+                    [
+                        110.86436433,
+                        -7.5466846269
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86436433,
+                        -7.5466846269
+                    ],
+                    [
+                        110.86426711,
+                        -7.5468256494
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86426711,
+                        -7.5468256494
+                    ],
+                    [
+                        110.86415032,
+                        -7.5471608098
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86415032,
+                        -7.5471608098
+                    ],
+                    [
+                        110.86405701,
+                        -7.5474974829
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86405701,
+                        -7.5474974829
+                    ],
+                    [
+                        110.8639915,
+                        -7.5477338148
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8639915,
+                        -7.5477338148
+                    ],
+                    [
+                        110.86390446,
+                        -7.5479689765
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86390446,
+                        -7.5479689765
+                    ],
+                    [
+                        110.86376334,
+                        -7.5481227098
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86376334,
+                        -7.5481227098
+                    ],
+                    [
+                        110.86360524,
+                        -7.5482312091
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86360524,
+                        -7.5482312091
+                    ],
+                    [
+                        110.86343348,
+                        -7.548251621
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86343348,
+                        -7.548251621
+                    ],
+                    [
+                        110.86328929,
+                        -7.5482277297
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86328929,
+                        -7.5482277297
+                    ],
+                    [
+                        110.862895,
+                        -7.5480790142
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.862895,
+                        -7.5480790142
+                    ],
+                    [
+                        110.86262747,
+                        -7.5479584708
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86262747,
+                        -7.5479584708
+                    ],
+                    [
+                        110.86241981,
+                        -7.5478649013
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86241981,
+                        -7.5478649013
+                    ],
+                    [
+                        110.8621927,
+                        -7.5477625726
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8621927,
+                        -7.5477625726
+                    ],
+                    [
+                        110.86201795,
+                        -7.5476970134
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86201795,
+                        -7.5476970134
+                    ],
+                    [
+                        110.86186298,
+                        -7.5477421931
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86186298,
+                        -7.5477421931
+                    ],
+                    [
+                        110.8617469,
+                        -7.547882344
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8617469,
+                        -7.547882344
+                    ],
+                    [
+                        110.86162581,
+                        -7.5480285395
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86162581,
+                        -7.5480285395
+                    ],
+                    [
+                        110.86141071,
+                        -7.5482757474
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86141071,
+                        -7.5482757474
+                    ],
+                    [
+                        110.86128114,
+                        -7.5483660058
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86128114,
+                        -7.5483660058
+                    ],
+                    [
+                        110.86113814,
+                        -7.548465621
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86113814,
+                        -7.548465621
+                    ],
+                    [
+                        110.8609621,
+                        -7.5484776152
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8609621,
+                        -7.5484776152
+                    ],
+                    [
+                        110.86070691,
+                        -7.5484950017
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86070691,
+                        -7.5484950017
+                    ],
+                    [
+                        110.86047709,
+                        -7.5485015934
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86047709,
+                        -7.5485015934
+                    ],
+                    [
+                        110.86035289,
+                        -7.5485015537
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86035289,
+                        -7.5485015537
+                    ],
+                    [
+                        110.86023985,
+                        -7.5485557919
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86023985,
+                        -7.5485557919
+                    ],
+                    [
+                        110.86010122,
+                        -7.5487049573
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86010122,
+                        -7.5487049573
+                    ],
+                    [
+                        110.85994571,
+                        -7.5488722979
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85994571,
+                        -7.5488722979
+                    ],
+                    [
+                        110.85977097,
+                        -7.5489772442
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85977097,
+                        -7.5489772442
+                    ],
+                    [
+                        110.85950784,
+                        -7.5491352737
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85950784,
+                        -7.5491352737
+                    ],
+                    [
+                        110.85926203,
+                        -7.5493111697
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85926203,
+                        -7.5493111697
+                    ],
+                    [
+                        110.85908463,
+                        -7.5494852003
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85908463,
+                        -7.5494852003
+                    ],
+                    [
+                        110.85885084,
+                        -7.5497289172
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85885084,
+                        -7.5497289172
+                    ],
+                    [
+                        110.85867948,
+                        -7.5499075522
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85867948,
+                        -7.5499075522
+                    ],
+                    [
+                        110.85857118,
+                        -7.5500116159
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85857118,
+                        -7.5500116159
+                    ],
+                    [
+                        110.85838848,
+                        -7.5500370336
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85838848,
+                        -7.5500370336
+                    ],
+                    [
+                        110.85809158,
+                        -7.550056689
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85809158,
+                        -7.550056689
+                    ],
+                    [
+                        110.85783395,
+                        -7.550018875
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85783395,
+                        -7.550018875
+                    ],
+                    [
+                        110.85751188,
+                        -7.5499716034
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85751188,
+                        -7.5499716034
+                    ],
+                    [
+                        110.85711224,
+                        -7.5499129463
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85711224,
+                        -7.5499129463
+                    ],
+                    [
+                        110.856786,
+                        -7.5498838242
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.856786,
+                        -7.5498838242
+                    ],
+                    [
+                        110.85642877,
+                        -7.5498659796
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85642877,
+                        -7.5498659796
+                    ],
+                    [
+                        110.85620707,
+                        -7.5498625611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85620707,
+                        -7.5498625611
+                    ],
+                    [
+                        110.85596367,
+                        -7.5498931699
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85596367,
+                        -7.5498931699
+                    ],
+                    [
+                        110.85568563,
+                        -7.5498437123
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85568563,
+                        -7.5498437123
+                    ],
+                    [
+                        110.85535576,
+                        -7.5497850367
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85535576,
+                        -7.5497850367
+                    ],
+                    [
+                        110.85519944,
+                        -7.5497572315
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85519944,
+                        -7.5497572315
+                    ],
+                    [
+                        110.85489902,
+                        -7.5496484548
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85489902,
+                        -7.5496484548
+                    ],
+                    [
+                        110.85442137,
+                        -7.5495127387
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85442137,
+                        -7.5495127387
+                    ],
+                    [
+                        110.8539356,
+                        -7.5493678451
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8539356,
+                        -7.5493678451
+                    ],
+                    [
+                        110.85369343,
+                        -7.5492863526
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85369343,
+                        -7.5492863526
+                    ],
+                    [
+                        110.85357077,
+                        -7.549304403
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85357077,
+                        -7.549304403
+                    ],
+                    [
+                        110.85350441,
+                        -7.5493649346
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85350441,
+                        -7.5493649346
+                    ],
+                    [
+                        110.85336393,
+                        -7.5494930902
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85336393,
+                        -7.5494930902
+                    ],
+                    [
+                        110.8530967,
+                        -7.5497368785
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8530967,
+                        -7.5497368785
+                    ],
+                    [
+                        110.85302216,
+                        -7.5498140225
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85302216,
+                        -7.5498140225
+                    ],
+                    [
+                        110.85294811,
+                        -7.5499211603
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85294811,
+                        -7.5499211603
+                    ],
+                    [
+                        110.8528116,
+                        -7.5501363539
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8528116,
+                        -7.5501363539
+                    ],
+                    [
+                        110.85275809,
+                        -7.5503725438
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85275809,
+                        -7.5503725438
+                    ],
+                    [
+                        110.85268332,
+                        -7.550702618
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85268332,
+                        -7.550702618
+                    ],
+                    [
+                        110.85260875,
+                        -7.5510318114
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85260875,
+                        -7.5510318114
+                    ],
+                    [
+                        110.85254475,
+                        -7.5512414012
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85254475,
+                        -7.5512414012
+                    ],
+                    [
+                        110.85243786,
+                        -7.5514450495
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85243786,
+                        -7.5514450495
+                    ],
+                    [
+                        110.85231967,
+                        -7.5516352654
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85231967,
+                        -7.5516352654
+                    ],
+                    [
+                        110.85221133,
+                        -7.5518096087
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85221133,
+                        -7.5518096087
+                    ],
+                    [
+                        110.85209772,
+                        -7.5519230459
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85209772,
+                        -7.5519230459
+                    ],
+                    [
+                        110.85185883,
+                        -7.5521632061
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85185883,
+                        -7.5521632061
+                    ],
+                    [
+                        110.85173741,
+                        -7.5522861551
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85173741,
+                        -7.5522861551
+                    ],
+                    [
+                        110.8516154,
+                        -7.5524064239
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8516154,
+                        -7.5524064239
+                    ],
+                    [
+                        110.85154404,
+                        -7.5524341115
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85154404,
+                        -7.5524341115
+                    ],
+                    [
+                        110.85143943,
+                        -7.5524747053
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85143943,
+                        -7.5524747053
+                    ],
+                    [
+                        110.85123744,
+                        -7.5525555393
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85123744,
+                        -7.5525555393
+                    ],
+                    [
+                        110.85074959,
+                        -7.5527679575
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85074959,
+                        -7.5527679575
+                    ],
+                    [
+                        110.85020979,
+                        -7.5529960134
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.85020979,
+                        -7.5529960134
+                    ],
+                    [
+                        110.84935595,
+                        -7.5533554505
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84935595,
+                        -7.5533554505
+                    ],
+                    [
+                        110.84921513,
+                        -7.5534863864
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84921513,
+                        -7.5534863864
+                    ],
+                    [
+                        110.84890198,
+                        -7.5537775536
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84890198,
+                        -7.5537775536
+                    ],
+                    [
+                        110.84840436,
+                        -7.5542030691
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84840436,
+                        -7.5542030691
+                    ],
+                    [
+                        110.84796549,
+                        -7.5545580486
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84796549,
+                        -7.5545580486
+                    ],
+                    [
+                        110.84716561,
+                        -7.5545881832
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84716561,
+                        -7.5545881832
+                    ],
+                    [
+                        110.84686224,
+                        -7.5545996123
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84686224,
+                        -7.5545996123
+                    ],
+                    [
+                        110.84661773,
+                        -7.5546290346
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84661773,
+                        -7.5546290346
+                    ],
+                    [
+                        110.8464485,
+                        -7.5546570207
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8464485,
+                        -7.5546570207
+                    ],
+                    [
+                        110.84592636,
+                        -7.5548196772
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84592636,
+                        -7.5548196772
+                    ],
+                    [
+                        110.84574061,
+                        -7.5548512777
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84574061,
+                        -7.5548512777
+                    ],
+                    [
+                        110.84562477,
+                        -7.5548579805
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84562477,
+                        -7.5548579805
+                    ],
+                    [
+                        110.84550795,
+                        -7.5548647403
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84550795,
+                        -7.5548647403
+                    ],
+                    [
+                        110.84527808,
+                        -7.5548344512
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84527808,
+                        -7.5548344512
+                    ],
+                    [
+                        110.84454189,
+                        -7.5547374432
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84454189,
+                        -7.5547374432
+                    ],
+                    [
+                        110.84377204,
+                        -7.5546570305
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84377204,
+                        -7.5546570305
+                    ],
+                    [
+                        110.84355143,
+                        -7.554637901
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84355143,
+                        -7.554637901
+                    ],
+                    [
+                        110.84328173,
+                        -7.5546920786
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84328173,
+                        -7.5546920786
+                    ],
+                    [
+                        110.84321118,
+                        -7.5547282361
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84321118,
+                        -7.5547282361
+                    ],
+                    [
+                        110.84284802,
+                        -7.5547677581
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84284802,
+                        -7.5547677581
+                    ],
+                    [
+                        110.84240637,
+                        -7.5547822207
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84240637,
+                        -7.5547822207
+                    ],
+                    [
+                        110.8420949,
+                        -7.55474921
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8420949,
+                        -7.55474921
+                    ],
+                    [
+                        110.8416855,
+                        -7.5547058191
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8416855,
+                        -7.5547058191
+                    ],
+                    [
+                        110.84130322,
+                        -7.5546048624
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84130322,
+                        -7.5546048624
+                    ],
+                    [
+                        110.84081755,
+                        -7.5544748698
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84081755,
+                        -7.5544748698
+                    ],
+                    [
+                        110.84073374,
+                        -7.5544559684
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84073374,
+                        -7.5544559684
+                    ],
+                    [
+                        110.84049718,
+                        -7.5545011106
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.84049718,
+                        -7.5545011106
+                    ],
+                    [
+                        110.83974985,
+                        -7.554345306
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83974985,
+                        -7.554345306
+                    ],
+                    [
+                        110.83949193,
+                        -7.5542914688
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83949193,
+                        -7.5542914688
+                    ],
+                    [
+                        110.83928119,
+                        -7.554283548
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83928119,
+                        -7.554283548
+                    ],
+                    [
+                        110.83875319,
+                        -7.5542678391
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83875319,
+                        -7.5542678391
+                    ],
+                    [
+                        110.83829168,
+                        -7.554237974
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83829168,
+                        -7.554237974
+                    ],
+                    [
+                        110.83794672,
+                        -7.5542083601
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83794672,
+                        -7.5542083601
+                    ],
+                    [
+                        110.8370975,
+                        -7.5541569364
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8370975,
+                        -7.5541569364
+                    ],
+                    [
+                        110.83603705,
+                        -7.554031684
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83603705,
+                        -7.554031684
+                    ],
+                    [
+                        110.83518809,
+                        -7.553927437
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83518809,
+                        -7.553927437
+                    ],
+                    [
+                        110.83425481,
+                        -7.553808062
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83425481,
+                        -7.553808062
+                    ],
+                    [
+                        110.83330206,
+                        -7.5536905073
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83330206,
+                        -7.5536905073
+                    ],
+                    [
+                        110.83275131,
+                        -7.5536217444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83275131,
+                        -7.5536217444
+                    ],
+                    [
+                        110.83168838,
+                        -7.55348647
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83168838,
+                        -7.55348647
+                    ],
+                    [
+                        110.83105629,
+                        -7.5534315695
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83105629,
+                        -7.5534315695
+                    ],
+                    [
+                        110.83083319,
+                        -7.5534121914
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83083319,
+                        -7.5534121914
+                    ],
+                    [
+                        110.83057445,
+                        -7.5533807603
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83057445,
+                        -7.5533807603
+                    ],
+                    [
+                        110.83037183,
+                        -7.553351203
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83037183,
+                        -7.553351203
+                    ],
+                    [
+                        110.83010449,
+                        -7.553312204
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.83010449,
+                        -7.553312204
+                    ],
+                    [
+                        110.82963104,
+                        -7.5531999783
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82963104,
+                        -7.5531999783
+                    ],
+                    [
+                        110.82955867,
+                        -7.5531763057
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82955867,
+                        -7.5531763057
+                    ],
+                    [
+                        110.82882472,
+                        -7.5531217445
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82882472,
+                        -7.5531217445
+                    ],
+                    [
+                        110.82852185,
+                        -7.553089645
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82852185,
+                        -7.553089645
+                    ],
+                    [
+                        110.82814701,
+                        -7.5530406028
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82814701,
+                        -7.5530406028
+                    ],
+                    [
+                        110.82769581,
+                        -7.5529389293
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82769581,
+                        -7.5529389293
+                    ],
+                    [
+                        110.82692946,
+                        -7.5527682152
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82692946,
+                        -7.5527682152
+                    ],
+                    [
+                        110.82585303,
+                        -7.5527422408
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82585303,
+                        -7.5527422408
+                    ],
+                    [
+                        110.82490488,
+                        -7.5526865785
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82490488,
+                        -7.5526865785
+                    ],
+                    [
+                        110.82425892,
+                        -7.5526230068
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82425892,
+                        -7.5526230068
+                    ],
+                    [
+                        110.82394314,
+                        -7.5525919292
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82394314,
+                        -7.5525919292
+                    ],
+                    [
+                        110.82345482,
+                        -7.5524787265
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82345482,
+                        -7.5524787265
+                    ],
+                    [
+                        110.8222053,
+                        -7.5519793419
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8222053,
+                        -7.5519793419
+                    ],
+                    [
+                        110.82128016,
+                        -7.5516431179
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.82128016,
+                        -7.5516431179
+                    ],
+                    [
+                        110.81996457,
+                        -7.5512048318
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81996457,
+                        -7.5512048318
+                    ],
+                    [
+                        110.81903904,
+                        -7.5508382836
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "5",
+                "NAMA_SUNGAI": "Kali Anyar",
+                "FOTO": "sungai-5_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.81903904,
+                        -7.5508382836
+                    ],
+                    [
+                        110.81903904,
+                        -7.5508382836
+                    ]
+                ]
+            }
+        }
+    ]
+}

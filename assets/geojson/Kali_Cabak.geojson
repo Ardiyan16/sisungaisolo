@@ -1,0 +1,5444 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9296253964,
+                        -7.6082553006416
+                    ],
+                    [
+                        110.92907625237,
+                        -7.6084541992019
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92907625237,
+                        -7.6084541992019
+                    ],
+                    [
+                        110.92855088731,
+                        -7.608710748802
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92855088731,
+                        -7.608710748802
+                    ],
+                    [
+                        110.92843567067,
+                        -7.6086887846596
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92843567067,
+                        -7.6086887846596
+                    ],
+                    [
+                        110.92770079416,
+                        -7.6084851889403
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92770079416,
+                        -7.6084851889403
+                    ],
+                    [
+                        110.9271508902,
+                        -7.6083487321083
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9271508902,
+                        -7.6083487321083
+                    ],
+                    [
+                        110.9270541897,
+                        -7.6083589556013
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9270541897,
+                        -7.6083589556013
+                    ],
+                    [
+                        110.92689183239,
+                        -7.6083761245584
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92689183239,
+                        -7.6083761245584
+                    ],
+                    [
+                        110.92661250296,
+                        -7.6084050053867
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92661250296,
+                        -7.6084050053867
+                    ],
+                    [
+                        110.92644336927,
+                        -7.6083435744963
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92644336927,
+                        -7.6083435744963
+                    ],
+                    [
+                        110.92567422139,
+                        -7.6079428267
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92567422139,
+                        -7.6079428267
+                    ],
+                    [
+                        110.92536470082,
+                        -7.6079301003938
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92536470082,
+                        -7.6079301003938
+                    ],
+                    [
+                        110.92495339948,
+                        -7.6080012106873
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92495339948,
+                        -7.6080012106873
+                    ],
+                    [
+                        110.92484381169,
+                        -7.6080907894583
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92484381169,
+                        -7.6080907894583
+                    ],
+                    [
+                        110.92481960644,
+                        -7.608241269419
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92481960644,
+                        -7.608241269419
+                    ],
+                    [
+                        110.92487661806,
+                        -7.6083754006042
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92487661806,
+                        -7.6083754006042
+                    ],
+                    [
+                        110.92501984769,
+                        -7.6085573253602
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92501984769,
+                        -7.6085573253602
+                    ],
+                    [
+                        110.92541803691,
+                        -7.6090261518354
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92541803691,
+                        -7.6090261518354
+                    ],
+                    [
+                        110.92554457872,
+                        -7.6093018147269
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92554457872,
+                        -7.6093018147269
+                    ],
+                    [
+                        110.92563847783,
+                        -7.6098680656586
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92563847783,
+                        -7.6098680656586
+                    ],
+                    [
+                        110.92553961446,
+                        -7.6100180626834
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92553961446,
+                        -7.6100180626834
+                    ],
+                    [
+                        110.92542692311,
+                        -7.6100701918858
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92542692311,
+                        -7.6100701918858
+                    ],
+                    [
+                        110.92524252342,
+                        -7.6100967272821
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92524252342,
+                        -7.6100967272821
+                    ],
+                    [
+                        110.92520503518,
+                        -7.6100986023686
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92520503518,
+                        -7.6100986023686
+                    ],
+                    [
+                        110.92452464859,
+                        -7.6101326677883
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92452464859,
+                        -7.6101326677883
+                    ],
+                    [
+                        110.92418749096,
+                        -7.6101803885141
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92418749096,
+                        -7.6101803885141
+                    ],
+                    [
+                        110.92412278204,
+                        -7.6102603598277
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92412278204,
+                        -7.6102603598277
+                    ],
+                    [
+                        110.9241179284,
+                        -7.6104315394839
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9241179284,
+                        -7.6104315394839
+                    ],
+                    [
+                        110.92407914694,
+                        -7.6109786627351
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92407914694,
+                        -7.6109786627351
+                    ],
+                    [
+                        110.92389874563,
+                        -7.611367533185
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92389874563,
+                        -7.611367533185
+                    ],
+                    [
+                        110.92372774224,
+                        -7.6115124517382
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92372774224,
+                        -7.6115124517382
+                    ],
+                    [
+                        110.9235369052,
+                        -7.611590898701
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9235369052,
+                        -7.611590898701
+                    ],
+                    [
+                        110.92349000556,
+                        -7.6115937036864
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92349000556,
+                        -7.6115937036864
+                    ],
+                    [
+                        110.92316659676,
+                        -7.611613040909
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92316659676,
+                        -7.611613040909
+                    ],
+                    [
+                        110.9229074787,
+                        -7.6115635143447
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9229074787,
+                        -7.6115635143447
+                    ],
+                    [
+                        110.9224569903,
+                        -7.6114777352093
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9224569903,
+                        -7.6114777352093
+                    ],
+                    [
+                        110.92212467731,
+                        -7.6114003530438
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92212467731,
+                        -7.6114003530438
+                    ],
+                    [
+                        110.92193774603,
+                        -7.6112872300216
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92193774603,
+                        -7.6112872300216
+                    ],
+                    [
+                        110.92184422913,
+                        -7.6111373436134
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92184422913,
+                        -7.6111373436134
+                    ],
+                    [
+                        110.92183260449,
+                        -7.6110002086926
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92183260449,
+                        -7.6110002086926
+                    ],
+                    [
+                        110.9218779564,
+                        -7.6108319482358
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9218779564,
+                        -7.6108319482358
+                    ],
+                    [
+                        110.92203097605,
+                        -7.6105175920132
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92203097605,
+                        -7.6105175920132
+                    ],
+                    [
+                        110.92216060433,
+                        -7.6102550457337
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92216060433,
+                        -7.6102550457337
+                    ],
+                    [
+                        110.92219973833,
+                        -7.6100305560653
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92219973833,
+                        -7.6100305560653
+                    ],
+                    [
+                        110.92212808844,
+                        -7.6098332924724
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92212808844,
+                        -7.6098332924724
+                    ],
+                    [
+                        110.92200412589,
+                        -7.6096958472855
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92200412589,
+                        -7.6096958472855
+                    ],
+                    [
+                        110.92185277179,
+                        -7.6096226136926
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92185277179,
+                        -7.6096226136926
+                    ],
+                    [
+                        110.92171977375,
+                        -7.6096189165797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92171977375,
+                        -7.6096189165797
+                    ],
+                    [
+                        110.92141824006,
+                        -7.6096998573625
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92141824006,
+                        -7.6096998573625
+                    ],
+                    [
+                        110.92101787268,
+                        -7.6098536980896
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92101787268,
+                        -7.6098536980896
+                    ],
+                    [
+                        110.92078210461,
+                        -7.6099359168091
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.92078210461,
+                        -7.6099359168091
+                    ],
+                    [
+                        110.91996894661,
+                        -7.61015484507
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91996894661,
+                        -7.61015484507
+                    ],
+                    [
+                        110.91959121516,
+                        -7.6101712208251
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91959121516,
+                        -7.6101712208251
+                    ],
+                    [
+                        110.91934396635,
+                        -7.6101191707631
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91934396635,
+                        -7.6101191707631
+                    ],
+                    [
+                        110.91889683962,
+                        -7.6099102492586
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91889683962,
+                        -7.6099102492586
+                    ],
+                    [
+                        110.91842946555,
+                        -7.6097225625462
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91842946555,
+                        -7.6097225625462
+                    ],
+                    [
+                        110.91820250184,
+                        -7.6096958077153
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91820250184,
+                        -7.6096958077153
+                    ],
+                    [
+                        110.9181250909,
+                        -7.6097705018072
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9181250909,
+                        -7.6097705018072
+                    ],
+                    [
+                        110.91805283757,
+                        -7.6099451969133
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91805283757,
+                        -7.6099451969133
+                    ],
+                    [
+                        110.91796704404,
+                        -7.6100498393286
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91796704404,
+                        -7.6100498393286
+                    ],
+                    [
+                        110.91778468492,
+                        -7.6101641332681
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91778468492,
+                        -7.6101641332681
+                    ],
+                    [
+                        110.91757510151,
+                        -7.6102314843955
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91757510151,
+                        -7.6102314843955
+                    ],
+                    [
+                        110.91731059741,
+                        -7.6102413661461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91731059741,
+                        -7.6102413661461
+                    ],
+                    [
+                        110.91704900531,
+                        -7.6101892765138
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91704900531,
+                        -7.6101892765138
+                    ],
+                    [
+                        110.91691227058,
+                        -7.6100974719208
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91691227058,
+                        -7.6100974719208
+                    ],
+                    [
+                        110.91655485842,
+                        -7.6096344532673
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91655485842,
+                        -7.6096344532673
+                    ],
+                    [
+                        110.91644888501,
+                        -7.6094971735557
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91644888501,
+                        -7.6094971735557
+                    ],
+                    [
+                        110.91619316368,
+                        -7.609237882822
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91619316368,
+                        -7.609237882822
+                    ],
+                    [
+                        110.91587293759,
+                        -7.6089329173202
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91587293759,
+                        -7.6089329173202
+                    ],
+                    [
+                        110.91516107203,
+                        -7.608429546986
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91516107203,
+                        -7.608429546986
+                    ],
+                    [
+                        110.91505578929,
+                        -7.6084682511088
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91505578929,
+                        -7.6084682511088
+                    ],
+                    [
+                        110.91489466316,
+                        -7.6085367677576
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91489466316,
+                        -7.6085367677576
+                    ],
+                    [
+                        110.91450122775,
+                        -7.6087040911208
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91450122775,
+                        -7.6087040911208
+                    ],
+                    [
+                        110.91386735589,
+                        -7.6086697001465
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91386735589,
+                        -7.6086697001465
+                    ],
+                    [
+                        110.91353855206,
+                        -7.6086547543134
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91353855206,
+                        -7.6086547543134
+                    ],
+                    [
+                        110.91240036469,
+                        -7.608620053073
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91240036469,
+                        -7.608620053073
+                    ],
+                    [
+                        110.91212399942,
+                        -7.6086430541336
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91212399942,
+                        -7.6086430541336
+                    ],
+                    [
+                        110.91186846875,
+                        -7.6087540025951
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91186846875,
+                        -7.6087540025951
+                    ],
+                    [
+                        110.91171815787,
+                        -7.6088716204289
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91171815787,
+                        -7.6088716204289
+                    ],
+                    [
+                        110.91171649772,
+                        -7.608964863038
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91171649772,
+                        -7.608964863038
+                    ],
+                    [
+                        110.9118083203,
+                        -7.6094886920495
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9118083203,
+                        -7.6094886920495
+                    ],
+                    [
+                        110.91186822234,
+                        -7.6097875925233
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91186822234,
+                        -7.6097875925233
+                    ],
+                    [
+                        110.91181872006,
+                        -7.6099711468509
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91181872006,
+                        -7.6099711468509
+                    ],
+                    [
+                        110.91166813847,
+                        -7.6102539305744
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91166813847,
+                        -7.6102539305744
+                    ],
+                    [
+                        110.91147897148,
+                        -7.6104470536885
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91147897148,
+                        -7.6104470536885
+                    ],
+                    [
+                        110.91131140979,
+                        -7.6105029312652
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91131140979,
+                        -7.6105029312652
+                    ],
+                    [
+                        110.91109090232,
+                        -7.6105147357664
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91109090232,
+                        -7.6105147357664
+                    ],
+                    [
+                        110.91080063534,
+                        -7.6104657757749
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.91080063534,
+                        -7.6104657757749
+                    ],
+                    [
+                        110.910380321,
+                        -7.6103890357253
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.910380321,
+                        -7.6103890357253
+                    ],
+                    [
+                        110.9101959213,
+                        -7.6104142886884
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9101959213,
+                        -7.6104142886884
+                    ],
+                    [
+                        110.90988747902,
+                        -7.6105275861791
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90988747902,
+                        -7.6105275861791
+                    ],
+                    [
+                        110.90944115449,
+                        -7.6107080810131
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90944115449,
+                        -7.6107080810131
+                    ],
+                    [
+                        110.90895768435,
+                        -7.6108120417423
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90895768435,
+                        -7.6108120417423
+                    ],
+                    [
+                        110.90880112587,
+                        -7.6108389197803
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90880112587,
+                        -7.6108389197803
+                    ],
+                    [
+                        110.90798033442,
+                        -7.6109798147666
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90798033442,
+                        -7.6109798147666
+                    ],
+                    [
+                        110.90761755601,
+                        -7.6111487020509
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90761755601,
+                        -7.6111487020509
+                    ],
+                    [
+                        110.90731758084,
+                        -7.6113409231451
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90731758084,
+                        -7.6113409231451
+                    ],
+                    [
+                        110.90651251944,
+                        -7.6118124925524
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90651251944,
+                        -7.6118124925524
+                    ],
+                    [
+                        110.90628859274,
+                        -7.6118684555647
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90628859274,
+                        -7.6118684555647
+                    ],
+                    [
+                        110.90607448395,
+                        -7.6118442934793
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90607448395,
+                        -7.6118442934793
+                    ],
+                    [
+                        110.90586378269,
+                        -7.6117440658359
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90586378269,
+                        -7.6117440658359
+                    ],
+                    [
+                        110.9057365556,
+                        -7.6115911298267
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9057365556,
+                        -7.6115911298267
+                    ],
+                    [
+                        110.90559449329,
+                        -7.6114493615987
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90559449329,
+                        -7.6114493615987
+                    ],
+                    [
+                        110.90541000817,
+                        -7.611362383667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90541000817,
+                        -7.611362383667
+                    ],
+                    [
+                        110.90517809729,
+                        -7.6113260501571
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90517809729,
+                        -7.6113260501571
+                    ],
+                    [
+                        110.90487100849,
+                        -7.6112547483079
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90487100849,
+                        -7.6112547483079
+                    ],
+                    [
+                        110.90453367279,
+                        -7.6110681785535
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90453367279,
+                        -7.6110681785535
+                    ],
+                    [
+                        110.90436102724,
+                        -7.6109469553377
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90436102724,
+                        -7.6109469553377
+                    ],
+                    [
+                        110.90408944817,
+                        -7.6107656187382
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90408944817,
+                        -7.6107656187382
+                    ],
+                    [
+                        110.90386553946,
+                        -7.6106618513633
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90386553946,
+                        -7.6106618513633
+                    ],
+                    [
+                        110.90368305533,
+                        -7.6105889748013
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90368305533,
+                        -7.6105889748013
+                    ],
+                    [
+                        110.90328161865,
+                        -7.6102246873194
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90328161865,
+                        -7.6102246873194
+                    ],
+                    [
+                        110.90306243049,
+                        -7.61009704834
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90306243049,
+                        -7.61009704834
+                    ],
+                    [
+                        110.90286504638,
+                        -7.6098840861816
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90286504638,
+                        -7.6098840861816
+                    ],
+                    [
+                        110.90265680657,
+                        -7.6097723526119
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90265680657,
+                        -7.6097723526119
+                    ],
+                    [
+                        110.9024520795,
+                        -7.609719624461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.9024520795,
+                        -7.609719624461
+                    ],
+                    [
+                        110.90230872757,
+                        -7.6097585066497
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90230872757,
+                        -7.6097585066497
+                    ],
+                    [
+                        110.90217106204,
+                        -7.6098681187187
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90217106204,
+                        -7.6098681187187
+                    ],
+                    [
+                        110.90201700638,
+                        -7.6100094228965
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90201700638,
+                        -7.6100094228965
+                    ],
+                    [
+                        110.90182375916,
+                        -7.610107335685
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90182375916,
+                        -7.610107335685
+                    ],
+                    [
+                        110.90160820785,
+                        -7.6101331480263
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90160820785,
+                        -7.6101331480263
+                    ],
+                    [
+                        110.90135312235,
+                        -7.6101871568118
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90135312235,
+                        -7.6101871568118
+                    ],
+                    [
+                        110.90130146799,
+                        -7.6102090175321
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90130146799,
+                        -7.6102090175321
+                    ],
+                    [
+                        110.90093843596,
+                        -7.6103626388247
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90093843596,
+                        -7.6103626388247
+                    ],
+                    [
+                        110.90042286722,
+                        -7.6105190030495
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.90042286722,
+                        -7.6105190030495
+                    ],
+                    [
+                        110.89996811244,
+                        -7.6106790706825
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89996811244,
+                        -7.6106790706825
+                    ],
+                    [
+                        110.89944429062,
+                        -7.6110423419305
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89944429062,
+                        -7.6110423419305
+                    ],
+                    [
+                        110.89930758198,
+                        -7.6112427270701
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89930758198,
+                        -7.6112427270701
+                    ],
+                    [
+                        110.89911306402,
+                        -7.6114949491326
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89911306402,
+                        -7.6114949491326
+                    ],
+                    [
+                        110.89889804421,
+                        -7.611570982315
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89889804421,
+                        -7.611570982315
+                    ],
+                    [
+                        110.89820000123,
+                        -7.6116845594948
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89820000123,
+                        -7.6116845594948
+                    ],
+                    [
+                        110.89785977781,
+                        -7.6116076000107
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89785977781,
+                        -7.6116076000107
+                    ],
+                    [
+                        110.89770634717,
+                        -7.6115515524621
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89770634717,
+                        -7.6115515524621
+                    ],
+                    [
+                        110.8976594799,
+                        -7.611534436565
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8976594799,
+                        -7.611534436565
+                    ],
+                    [
+                        110.89732125567,
+                        -7.6114768709608
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89732125567,
+                        -7.6114768709608
+                    ],
+                    [
+                        110.89716596524,
+                        -7.6114287383455
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89716596524,
+                        -7.6114287383455
+                    ],
+                    [
+                        110.89699827045,
+                        -7.6113136188284
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89699827045,
+                        -7.6113136188284
+                    ],
+                    [
+                        110.89660646372,
+                        -7.6110028688872
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89660646372,
+                        -7.6110028688872
+                    ],
+                    [
+                        110.8964150745,
+                        -7.6109442070095
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8964150745,
+                        -7.6109442070095
+                    ],
+                    [
+                        110.89616986535,
+                        -7.6109769387347
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89616986535,
+                        -7.6109769387347
+                    ],
+                    [
+                        110.89582086364,
+                        -7.6110278547516
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89582086364,
+                        -7.6110278547516
+                    ],
+                    [
+                        110.89524341525,
+                        -7.6111120942477
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89524341525,
+                        -7.6111120942477
+                    ],
+                    [
+                        110.89507822148,
+                        -7.6110432439505
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89507822148,
+                        -7.6110432439505
+                    ],
+                    [
+                        110.89469745392,
+                        -7.6107514274364
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89469745392,
+                        -7.6107514274364
+                    ],
+                    [
+                        110.89451648785,
+                        -7.6107435673617
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89451648785,
+                        -7.6107435673617
+                    ],
+                    [
+                        110.89428368484,
+                        -7.6108368261586
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89428368484,
+                        -7.6108368261586
+                    ],
+                    [
+                        110.89401132606,
+                        -7.6109297135354
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89401132606,
+                        -7.6109297135354
+                    ],
+                    [
+                        110.89378637504,
+                        -7.6109448194478
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89378637504,
+                        -7.6109448194478
+                    ],
+                    [
+                        110.89350897196,
+                        -7.6109039281737
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89350897196,
+                        -7.6109039281737
+                    ],
+                    [
+                        110.89340631255,
+                        -7.6108124419406
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89340631255,
+                        -7.6108124419406
+                    ],
+                    [
+                        110.89305704015,
+                        -7.6104540099445
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89305704015,
+                        -7.6104540099445
+                    ],
+                    [
+                        110.8924226278,
+                        -7.6103676840214
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8924226278,
+                        -7.6103676840214
+                    ],
+                    [
+                        110.89210107161,
+                        -7.6104066633368
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89210107161,
+                        -7.6104066633368
+                    ],
+                    [
+                        110.89161778134,
+                        -7.6104652487722
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89161778134,
+                        -7.6104652487722
+                    ],
+                    [
+                        110.8912592729,
+                        -7.6103946124214
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8912592729,
+                        -7.6103946124214
+                    ],
+                    [
+                        110.89104164955,
+                        -7.6102918612803
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89104164955,
+                        -7.6102918612803
+                    ],
+                    [
+                        110.89097105907,
+                        -7.6102302064588
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89097105907,
+                        -7.6102302064588
+                    ],
+                    [
+                        110.89087596745,
+                        -7.6101471423767
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89087596745,
+                        -7.6101471423767
+                    ],
+                    [
+                        110.89085341246,
+                        -7.6099981813709
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89085341246,
+                        -7.6099981813709
+                    ],
+                    [
+                        110.89078865407,
+                        -7.6093179467658
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89078865407,
+                        -7.6093179467658
+                    ],
+                    [
+                        110.89056296201,
+                        -7.6088612980104
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89056296201,
+                        -7.6088612980104
+                    ],
+                    [
+                        110.89038494931,
+                        -7.6086853600413
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89038494931,
+                        -7.6086853600413
+                    ],
+                    [
+                        110.89016237339,
+                        -7.6085631322827
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.89016237339,
+                        -7.6085631322827
+                    ],
+                    [
+                        110.88996948141,
+                        -7.6085420063085
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88996948141,
+                        -7.6085420063085
+                    ],
+                    [
+                        110.88928784925,
+                        -7.6084814891294
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88928784925,
+                        -7.6084814891294
+                    ],
+                    [
+                        110.88924515844,
+                        -7.6084776975876
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88924515844,
+                        -7.6084776975876
+                    ],
+                    [
+                        110.88881394341,
+                        -7.608368541475
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88881394341,
+                        -7.608368541475
+                    ],
+                    [
+                        110.8882244495,
+                        -7.6081701977964
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8882244495,
+                        -7.6081701977964
+                    ],
+                    [
+                        110.88732473625,
+                        -7.6076574448352
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88732473625,
+                        -7.6076574448352
+                    ],
+                    [
+                        110.88649618635,
+                        -7.607100628691
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88649618635,
+                        -7.607100628691
+                    ],
+                    [
+                        110.88626578634,
+                        -7.6070882567176
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88626578634,
+                        -7.6070882567176
+                    ],
+                    [
+                        110.88531746293,
+                        -7.6071679987041
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88531746293,
+                        -7.6071679987041
+                    ],
+                    [
+                        110.88511631966,
+                        -7.6071849149518
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88511631966,
+                        -7.6071849149518
+                    ],
+                    [
+                        110.88481526621,
+                        -7.6072500006869
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88481526621,
+                        -7.6072500006869
+                    ],
+                    [
+                        110.88418842256,
+                        -7.6073604985881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88418842256,
+                        -7.6073604985881
+                    ],
+                    [
+                        110.88341817751,
+                        -7.6074540694497
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88341817751,
+                        -7.6074540694497
+                    ],
+                    [
+                        110.88311161301,
+                        -7.6074135343071
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88311161301,
+                        -7.6074135343071
+                    ],
+                    [
+                        110.88264380457,
+                        -7.6072916168146
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88264380457,
+                        -7.6072916168146
+                    ],
+                    [
+                        110.88195498054,
+                        -7.6071541608358
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88195498054,
+                        -7.6071541608358
+                    ],
+                    [
+                        110.88173500637,
+                        -7.607208827925
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88173500637,
+                        -7.607208827925
+                    ],
+                    [
+                        110.88149306086,
+                        -7.6073124882807
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88149306086,
+                        -7.6073124882807
+                    ],
+                    [
+                        110.88129955193,
+                        -7.6073954030754
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88129955193,
+                        -7.6073954030754
+                    ],
+                    [
+                        110.88063816982,
+                        -7.6076238155866
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88063816982,
+                        -7.6076238155866
+                    ],
+                    [
+                        110.88029111964,
+                        -7.6076699885791
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.88029111964,
+                        -7.6076699885791
+                    ],
+                    [
+                        110.87974433363,
+                        -7.6077254137967
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87974433363,
+                        -7.6077254137967
+                    ],
+                    [
+                        110.87914692389,
+                        -7.6078414038577
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87914692389,
+                        -7.6078414038577
+                    ],
+                    [
+                        110.87866959972,
+                        -7.6079340798938
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87866959972,
+                        -7.6079340798938
+                    ],
+                    [
+                        110.87822517725,
+                        -7.6080216531767
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87822517725,
+                        -7.6080216531767
+                    ],
+                    [
+                        110.87798042226,
+                        -7.6079918334563
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87798042226,
+                        -7.6079918334563
+                    ],
+                    [
+                        110.87774595191,
+                        -7.6079773121032
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87774595191,
+                        -7.6079773121032
+                    ],
+                    [
+                        110.87763134141,
+                        -7.6079702146536
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87763134141,
+                        -7.6079702146536
+                    ],
+                    [
+                        110.87701182184,
+                        -7.6079482397195
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87701182184,
+                        -7.6079482397195
+                    ],
+                    [
+                        110.87691416716,
+                        -7.6078685373031
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87691416716,
+                        -7.6078685373031
+                    ],
+                    [
+                        110.87684508573,
+                        -7.6077062834182
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87684508573,
+                        -7.6077062834182
+                    ],
+                    [
+                        110.87674247219,
+                        -7.6072446155465
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87674247219,
+                        -7.6072446155465
+                    ],
+                    [
+                        110.87659738636,
+                        -7.6070641575848
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87659738636,
+                        -7.6070641575848
+                    ],
+                    [
+                        110.87639061064,
+                        -7.6069023893338
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87639061064,
+                        -7.6069023893338
+                    ],
+                    [
+                        110.87590994549,
+                        -7.6064764434331
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87590994549,
+                        -7.6064764434331
+                    ],
+                    [
+                        110.87575702926,
+                        -7.6063199542025
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87575702926,
+                        -7.6063199542025
+                    ],
+                    [
+                        110.87536624685,
+                        -7.6059200580642
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87536624685,
+                        -7.6059200580642
+                    ],
+                    [
+                        110.87516393896,
+                        -7.6056429571567
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87516393896,
+                        -7.6056429571567
+                    ],
+                    [
+                        110.87500004292,
+                        -7.6052415348689
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87500004292,
+                        -7.6052415348689
+                    ],
+                    [
+                        110.87499991791,
+                        -7.6052407020967
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87499991791,
+                        -7.6052407020967
+                    ],
+                    [
+                        110.87495943403,
+                        -7.6051411876157
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87495943403,
+                        -7.6051411876157
+                    ],
+                    [
+                        110.87488812049,
+                        -7.6048607502234
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87488812049,
+                        -7.6048607502234
+                    ],
+                    [
+                        110.87485087777,
+                        -7.6043270430586
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87485087777,
+                        -7.6043270430586
+                    ],
+                    [
+                        110.87481193622,
+                        -7.6037933358937
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87481193622,
+                        -7.6037933358937
+                    ],
+                    [
+                        110.87467899034,
+                        -7.6030696415507
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87467899034,
+                        -7.6030696415507
+                    ],
+                    [
+                        110.8746713488,
+                        -7.60304250181
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8746713488,
+                        -7.60304250181
+                    ],
+                    [
+                        110.87450603543,
+                        -7.6025630318584
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87450603543,
+                        -7.6025630318584
+                    ],
+                    [
+                        110.87435169468,
+                        -7.6023458905503
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87435169468,
+                        -7.6023458905503
+                    ],
+                    [
+                        110.87387676,
+                        -7.6017487362151
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87387676,
+                        -7.6017487362151
+                    ],
+                    [
+                        110.87366205136,
+                        -7.6016129880489
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87366205136,
+                        -7.6016129880489
+                    ],
+                    [
+                        110.87342072549,
+                        -7.6014320039837
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87342072549,
+                        -7.6014320039837
+                    ],
+                    [
+                        110.87331623326,
+                        -7.6012691511503
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87331623326,
+                        -7.6012691511503
+                    ],
+                    [
+                        110.87321716214,
+                        -7.6009706140026
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87321716214,
+                        -7.6009706140026
+                    ],
+                    [
+                        110.87311721059,
+                        -7.6007806250258
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87311721059,
+                        -7.6007806250258
+                    ],
+                    [
+                        110.87307783647,
+                        -7.600762521673
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87307783647,
+                        -7.600762521673
+                    ],
+                    [
+                        110.8730291121,
+                        -7.6007444165215
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8730291121,
+                        -7.6007444165215
+                    ],
+                    [
+                        110.87288236163,
+                        -7.600735327973
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87288236163,
+                        -7.600735327973
+                    ],
+                    [
+                        110.87278150626,
+                        -7.6007262520149
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87278150626,
+                        -7.6007262520149
+                    ],
+                    [
+                        110.87196218521,
+                        -7.6007079202343
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87196218521,
+                        -7.6007079202343
+                    ],
+                    [
+                        110.87177523684,
+                        -7.6005902709242
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87177523684,
+                        -7.6005902709242
+                    ],
+                    [
+                        110.87146255425,
+                        -7.6002916699246
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87146255425,
+                        -7.6002916699246
+                    ],
+                    [
+                        110.87143227228,
+                        -7.6001831127604
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87143227228,
+                        -7.6001831127604
+                    ],
+                    [
+                        110.87147878072,
+                        -7.6000293493749
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87147878072,
+                        -7.6000293493749
+                    ],
+                    [
+                        110.87161682935,
+                        -7.5997670647981
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87161682935,
+                        -7.5997670647981
+                    ],
+                    [
+                        110.87173334102,
+                        -7.5995228655877
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87173334102,
+                        -7.5995228655877
+                    ],
+                    [
+                        110.87168323349,
+                        -7.5993962104667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87168323349,
+                        -7.5993962104667
+                    ],
+                    [
+                        110.87152888195,
+                        -7.5992242969637
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87152888195,
+                        -7.5992242969637
+                    ],
+                    [
+                        110.87129690183,
+                        -7.5990614054595
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87129690183,
+                        -7.5990614054595
+                    ],
+                    [
+                        110.87075929161,
+                        -7.5987084629252
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87075929161,
+                        -7.5987084629252
+                    ],
+                    [
+                        110.87079447039,
+                        -7.5985456514606
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87079447039,
+                        -7.5985456514606
+                    ],
+                    [
+                        110.87088801517,
+                        -7.5983647645222
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87088801517,
+                        -7.5983647645222
+                    ],
+                    [
+                        110.87093793114,
+                        -7.5981838658926
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87093793114,
+                        -7.5981838658926
+                    ],
+                    [
+                        110.87093369533,
+                        -7.598138636289
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87093369533,
+                        -7.598138636289
+                    ],
+                    [
+                        110.87091533927,
+                        -7.5979396253134
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87091533927,
+                        -7.5979396253134
+                    ],
+                    [
+                        110.87079333994,
+                        -7.5975868059863
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87079333994,
+                        -7.5975868059863
+                    ],
+                    [
+                        110.87066136803,
+                        -7.5974239441596
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87066136803,
+                        -7.5974239441596
+                    ],
+                    [
+                        110.87062652469,
+                        -7.5974148879866
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87062652469,
+                        -7.5974148879866
+                    ],
+                    [
+                        110.87001774932,
+                        -7.5972518840671
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87001774932,
+                        -7.5972518840671
+                    ],
+                    [
+                        110.8699571494,
+                        -7.597161408672
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8699571494,
+                        -7.597161408672
+                    ],
+                    [
+                        110.86995236321,
+                        -7.5970619049829
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86995236321,
+                        -7.5970619049829
+                    ],
+                    [
+                        110.87003980879,
+                        -7.5964377772816
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.87003980879,
+                        -7.5964377772816
+                    ],
+                    [
+                        110.86995685173,
+                        -7.5962658835636
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86995685173,
+                        -7.5962658835636
+                    ],
+                    [
+                        110.86981921498,
+                        -7.5961030199384
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86981921498,
+                        -7.5961030199384
+                    ],
+                    [
+                        110.8696115903,
+                        -7.5959763180526
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8696115903,
+                        -7.5959763180526
+                    ],
+                    [
+                        110.86953114235,
+                        -7.595940111347
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86953114235,
+                        -7.595940111347
+                    ],
+                    [
+                        110.86942860525,
+                        -7.5958767604041
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86942860525,
+                        -7.5958767604041
+                    ],
+                    [
+                        110.86798827174,
+                        -7.5949898463043
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86798827174,
+                        -7.5949898463043
+                    ],
+                    [
+                        110.86782939931,
+                        -7.5947907921613
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86782939931,
+                        -7.5947907921613
+                    ],
+                    [
+                        110.8675122372,
+                        -7.594338410689
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.8675122372,
+                        -7.594338410689
+                    ],
+                    [
+                        110.86747882379,
+                        -7.5942841258117
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86747882379,
+                        -7.5942841258117
+                    ],
+                    [
+                        110.86742954274,
+                        -7.5942388827182
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86742954274,
+                        -7.5942388827182
+                    ],
+                    [
+                        110.86730831143,
+                        -7.5941664800989
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86730831143,
+                        -7.5941664800989
+                    ],
+                    [
+                        110.86604928754,
+                        -7.5933248432669
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86604928754,
+                        -7.5933248432669
+                    ],
+                    [
+                        110.86568610443,
+                        -7.5932885484277
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86568610443,
+                        -7.5932885484277
+                    ],
+                    [
+                        110.86549230862,
+                        -7.5933427622586
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86549230862,
+                        -7.5933427622586
+                    ],
+                    [
+                        110.86488114195,
+                        -7.5936048984473
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID_SUNGAI": "24",
+                "NAMA_SUNGAI": "Kali Cabak",
+                "FOTO": "sungai-24_file1-.png"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.86488114195,
+                        -7.5936048984473
+                    ],
+                    [
+                        110.86426797699,
+                        -7.5939122615416
+                    ]
+                ]
+            }
+        }
+    ]
+}

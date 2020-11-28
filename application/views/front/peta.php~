@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Leaflet Quick Start Guide Example</title>
+	<meta charset="utf-8" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="<?=base_url()?>assets/js/leaflet.js"></script>
+	<script src="<?=base_url()?>assets/pancontrol/L.Control.Pan.js" ></script>  
+	<link rel="stylesheet" href="<?=base_url()?>assets/css/leaflet.css" />
+	<link rel="stylesheet" href="<?=base_url()?>assets/pancontrol/L.Control.Pan.css" />
+</head>
+<body>
+	<div id="map" style="width: 100%; height: 700px"></div>
+
+	
+	<script>
+		var map = L.map('map', {center: [-6.7512, 110.7123], zoom: 13});
+
+
+
+		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+		}).addTo(map);
+
+		var LeafIcon = L.Icon.extend({
+			options: {
+				shadowUrl: '<?=base_url()?>assets/img/leaflet/marker-shadow.png',
+				iconSize:     [50, 95],
+				shadowSize:   [50, 64],
+				iconAnchor:   [22, 94],
+				shadowAnchor: [4, 62],
+				popupAnchor:  [-3, -76]
+			}
+		});
+
+		var swd1 = new LeafIcon({iconUrl: '<?=base_url()?>assets/img/leaflet/marker-icon-2x.png'}),
+			swd2 = new LeafIcon({iconUrl: '<?=base_url()?>assets/img/leaflet/marker-green.png'}),
+			orangeIcon = new LeafIcon({iconUrl: '<?=base_url()?>assets/img/leaflet/leaf-orange.png'});
+
+
+		<?php foreach($bangunan as $key){ ?>
+			<?php if ($key->id_lokasi==1) { ?>
+				L.marker([<?=$key->koordinat_x_bangunan?>, <?=$key->koordinat_y_bangunan?>], {icon: swd1}).bindPopup('<a href="#"><center><img width=100px; src=<?=base_url()?>images/<?php echo $key->foto1 ?>><center></a>').addTo(map);
+			<?php }else{ ?>
+				L.marker([<?=$key->koordinat_x_bangunan?>, <?=$key->koordinat_y_bangunan?>], {icon: swd2}).bindPopup('<a href="#"><center><img width=100px; src=<?=base_url()?>images/<?php echo $key->foto1 ?>><center></a>').addTo(map);
+
+			<?php } ?>
+		<?php } ?>	
+		
+
+	</script>
+</body>
+</html>
