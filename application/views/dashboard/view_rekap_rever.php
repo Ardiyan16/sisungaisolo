@@ -148,6 +148,7 @@
                 <th>Kinerja</th>
                 <th>Usulan Tindakan</th>
                 <th>Pekerjaan Perbaikan</th>
+                <th>Petugas</th>
               </tr>
 
             </thead>

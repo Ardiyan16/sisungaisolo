@@ -8,7 +8,7 @@ class Mdl_revertmen_id extends CI_Model {
 
 	private function _get_datatables_query() {
 
-		$this->db->from($this->table);
+		$this->db->from('detail_revertmen', 'petugas');
 		$i = 0;
 		foreach ($this->column_search as $item) {
 			if($_POST['search']['value']) // if datatable send POST for search
@@ -55,6 +55,7 @@ class Mdl_revertmen_id extends CI_Model {
 
 	public function get_datatables($kode) {
 		$this->_get_datatables_query();
+		$this->db->join('petugas', 'petugas.id_petugas=detail_revertmen.id_petugas', 'left outer');
 		$this->db->where('fn_id_rivertmen', $kode);
 		$this->db->order_by('bulan,tahun','desc');
 		if ($_REQUEST['length'] != -1) {

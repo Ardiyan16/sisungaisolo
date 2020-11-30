@@ -404,8 +404,14 @@ class Mdl_rekap extends CI_Model
 
 	function getDetRevertmen($id)
 	{
-		$this->db->select('*')->where('fn_id_rivertmen', $id)->limit(1)->order_by('bulan,tahun', 'desc');
-		return $this->db->get('detail_revertmen')->result();
+		$this->db->select('*');
+		$this->db->from('detail_revertment');
+		$this->db->join('petugas', 'petugas.id_petugas=detail_revertmen.id_petugas');
+		$this->db->where('fn_id_rivertmen', $id);
+		$this->db->limit(1);
+		$this->db->order_by('bulan', 'desc');
+		$this->db->order_by('tahun', 'desc');
+		return $this->db->get()->result();
 	}
 
 	public function getAllDataPintu()
