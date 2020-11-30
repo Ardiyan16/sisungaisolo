@@ -405,7 +405,7 @@ class Mdl_rekap extends CI_Model
 	function getDetRevertmen($id)
 	{
 		$this->db->select('*');
-		$this->db->from('detail_revertment');
+		$this->db->from('detail_revertmen');
 		$this->db->join('petugas', 'petugas.id_petugas=detail_revertmen.id_petugas');
 		$this->db->where('fn_id_rivertmen', $id);
 		$this->db->limit(1);
@@ -546,6 +546,7 @@ class Mdl_rekap extends CI_Model
 	public function getDetTebing($id)
 	{
 		$this->db->select('*');
+		$this->db->from('detail_tebing');
 		$this->db->join('petugas', 'petugas.id_petugas=detail_tebing.id_petugas', 'left outer');
 		$this->db->where('id_tebing', $id);
 		$this->db->limit(1);
