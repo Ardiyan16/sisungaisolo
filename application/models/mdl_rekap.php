@@ -449,8 +449,14 @@ class Mdl_rekap extends CI_Model
 
 	function getDetPintu($id)
 	{
-		$this->db->select('*')->where('fv_idpintu', $id)->limit(1)->order_by('bulan,tahun', 'desc');
-		return $this->db->get('detail_pintu')->result();
+		$this->db->select('*');
+		$this->db->from('detail_pintu');
+		$this->db->join('petugas', 'petugas.id_petugas=detail_pintu.id_petugas');
+		$this->db->where('fv_idpintu', $id);
+		$this->db->limit(1);
+		$this->db->order_by('bulan', 'desc');
+		$this->db->order_by('tahun', 'desc');
+		return $this->db->get()->result();
 	}
 
 	public function getAllDataCekdam()
