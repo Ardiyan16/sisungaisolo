@@ -135,6 +135,7 @@
                 <th>Nilai Kinerja</th>
                 <th>Kinerja</th>
                 <th>Tindakan</th>
+                <th>Petugas</th>
               </tr>
 
             </thead>

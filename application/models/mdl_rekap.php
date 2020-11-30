@@ -545,8 +545,12 @@ class Mdl_rekap extends CI_Model
 
 	public function getDetTebing($id)
 	{
-		$this->db->select('*')->where('id_tebing', $id)->limit(1)->order_by('bulan,tahun', 'desc');
-		return $this->db->get('detail_tebing')->result();
+		$this->db->select('*');
+		$this->db->join('petugas', 'petugas.id_petugas=detail_tebing.id_petugas', 'left outer');
+		$this->db->where('id_tebing', $id);
+		$this->db->limit(1);
+		$this->db->order_by('bulan,tahun', 'desc');
+		return $this->db->get()->result();
 	}
 
 	public function getAssetData($tanggul = false, $kec = false, $tanah = false, $bangunan = false)

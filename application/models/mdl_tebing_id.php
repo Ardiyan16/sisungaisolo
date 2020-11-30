@@ -8,7 +8,7 @@ class Mdl_tebing_id extends CI_Model {
 
 	private function _get_datatables_query() {
 
-		$this->db->from($this->table);
+		$this->db->from('detail_tebing', 'petugas');
 		$i = 0;
 		foreach ($this->column_search as $item) {
 			if($_POST['search']['value']) // if datatable send POST for search
@@ -55,7 +55,10 @@ class Mdl_tebing_id extends CI_Model {
 
 	public function get_datatables($kode) {
 		$this->_get_datatables_query();
+		$this->db->join('petugas', 'petugas.id_petugas=detail_tebing.id_petugas', 'left outer');
 		$this->db->where('id_tebing', $kode);
+		$this->db->limit(1);
+		$this->db->order_by('bulan,tahun', 'desc');
 		if ($_REQUEST['length'] != -1) {
 			$this->db->limit($_REQUEST['length'], $_REQUEST['start']);
 		}
