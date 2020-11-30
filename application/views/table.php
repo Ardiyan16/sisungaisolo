@@ -55,7 +55,6 @@
 				<th>Tinggi</th>
 				<th>Volume</th>
 				<th>Keterangan</th>
-
 			</tr>
 
 			<?php
@@ -88,12 +87,14 @@
 					<td>-</td>
 					<td>-</td>
 					<td>-</td>
+					<td></td>
 				</tr>
 			<?php } ?>
 			<tr>
 				<th>Nilai Kinerja</th>
 				<th>Kinerja</th>
 				<th>Tindakan</th>
+				<th>Petugas</th>
 			</tr>
 			<?php
 			if ($d->kor != null) {
@@ -102,7 +103,7 @@
 						<td><?= $r->tn_kinerja ? $r->tn_kinerja : '-' ?></td>
 						<td><?= $r->tkinerja ? $r->tkinerja : '-' ?></td>
 						<td><?= $r->ttindakan ? $r->ttindakan : '-' ?></td>
-
+						<td><?= $r->nama_petugas ? $r->nama_petugas : '-' ?></td>
 					</tr>
 				<?php }
 			} else { ?>

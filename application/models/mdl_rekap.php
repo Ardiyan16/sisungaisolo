@@ -336,8 +336,14 @@ class Mdl_rekap extends CI_Model
 
 	function getDetTanggul($id)
 	{
-		$this->db->select('*')->where('fn_idtanggul', $id)->limit(1)->order_by('bulan', 'desc')->order_by('tahun', 'desc');
-		return $this->db->get('detail_tanggul')->result();
+		$this->db->select('*');
+		$this->db->from('detail_tanggul');
+		$this->db->join('petugas', 'petugas.id_petugas=detail_tanggul.id_petugas');
+		$this->db->where('fn_idtanggul', $id);
+		$this->db->limit(1);
+		$this->db->order_by('bulan', 'desc');
+		$this->db->order_by('tahun', 'desc');
+		return $this->db->get()->result();
 	}
 
 	public function getAssetTanggul()

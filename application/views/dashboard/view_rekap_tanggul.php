@@ -135,7 +135,7 @@
                   <th>No.</th>
                   <th>Tahun Inspeksi</th>
                   <th>Bulan Inspeksi</th>
-                  <th>Jenis Bangunan </th>
+                  <th>Jenis Konstruksi </th>
                   <th>Bagian Bangunan</th>
                   <th>Kerusakan</th>
                   <th>Usulan Perbaikan</th>
@@ -147,6 +147,7 @@
                   <th>Nilai Kinerja</th>
                   <th>Kinerja</th>
                   <th>Tindakan</th>
+                  <th>Petugas</th>
               </tr>
 
           </thead>
