@@ -728,6 +728,7 @@ class Rekap_data extends CI_Controller {
             $row[] = $orde->tn_kinerja;
             $row[] = $orde->tkinerja;
             $row[] = $orde->tpekerjaan_perbaikan;
+            $row[] = $orde->nama_petugas;
             $data[] = $row;
         }
 

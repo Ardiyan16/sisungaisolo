@@ -499,6 +499,7 @@ class Mdl_rekap extends CI_Model
 	{
 		$this->db->select('*');
 		$this->db->from('detail_cekdam');
+		$this->db->join('petugas', 'petugas.id_petugas=detail_cekdam.id_petugas', 'left outer');
 		$this->db->where('id_cekdam', $id);
 		$this->db->limit(1);
 		$this->db->order_by('bulan', 'desc');

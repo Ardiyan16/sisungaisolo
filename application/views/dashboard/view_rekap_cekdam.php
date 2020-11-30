@@ -138,6 +138,7 @@
                 <th>Nilai Kinerja</th>
                 <th>Kinerja</th>
                 <th>Pekerjaan Perbaikan</th>
+                <th>petugas</th>
               </tr>
 
             </thead>
